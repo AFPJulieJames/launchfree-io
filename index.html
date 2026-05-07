@@ -395,34 +395,23 @@
 <!-- SUBMIT -->
 <section class="section sub-section" id="submit">
   <div class="si">
-    <div class="sub-inner">
+    <div class="sub-inner" style="max-width:780px;">
       <div class="fade-up" style="text-align:center;">
         <div class="s-label">Get on the runway</div>
         <h2 class="s-title">List your product free</h2>
         <p class="s-sub" style="margin:0 auto;">No credit card. No approval fee. No catch. We review every submission and aim to go live within 24 hours.</p>
       </div>
-      <div class="sub-form fade-up">
-        <form id="sub-form" onsubmit="handleSubmit(event)">
-          <div class="form-row">
-            <div class="fg"><label for="p-name">Product name *</label><input type="text" id="p-name" placeholder="Your product name" required /></div>
-            <div class="fg"><label for="p-url">Website URL *</label><input type="url" id="p-url" placeholder="https://yourproduct.com" required /></div>
-          </div>
-          <div class="fg"><label for="p-tag">Tagline *</label><input type="text" id="p-tag" placeholder="One sentence — what does it do and for whom?" maxlength="120" required /></div>
-          <div class="fg"><label for="p-desc">Description *</label><textarea id="p-desc" placeholder="Tell founders what problem you solve. Be honest about where you are — early stage is totally fine." required></textarea></div>
-          <div class="form-row">
-            <div class="fg"><label for="p-cat">Category *</label><select id="p-cat" required><option value="" disabled selected>Choose a category</option><option>AI</option><option>SaaS</option><option value="affiliate">Affiliate / Creator</option><option value="live-commerce">Live Commerce</option><option>Travel</option><option>Tools</option><option>Productivity</option><option>Marketing</option><option value="dev">Dev Tools</option><option>Newsletter</option><option>Other</option></select></div>
-            <div class="fg"><label for="p-stage">Stage *</label><select id="p-stage" required><option value="" disabled selected>Where are you?</option><option>Idea / Coming soon</option><option>Waitlist / Early access</option><option>Beta</option><option>Live</option><option>Live &amp; growing</option></select></div>
-          </div>
-          <div class="form-row">
-            <div class="fg"><label for="p-email">Your email *</label><input type="email" id="p-email" placeholder="you@example.com" required /></div>
-            <div class="fg"><label for="p-tw">Twitter / X (optional)</label><input type="text" id="p-tw" placeholder="@yourhandle" /></div>
-          </div>
-          <div class="fg"><div class="cb-group"><input type="checkbox" id="agree" required /><label for="agree">I confirm this is my product and it complies with <a href="#standards">The Runway Standard</a>. Listings that violate these standards will be removed.</label></div></div>
-          <div class="fg"><div class="cb-group"><input type="checkbox" id="nl-opt" checked /><label for="nl-opt">Add me to The Runway Digest — weekly new launches for bootstrap founders. Unsubscribe anytime.</label></div></div>
-          <button type="submit" class="sub-btn">Get on the runway — it's free ↑</button>
-          <p class="form-note">We review every submission. You'll hear from us within 24 hours.<br><a href="mailto:hello@launchfree.io">hello@launchfree.io</a></p>
-        </form>
+      <div class="fade-up" style="margin-top:36px;background:var(--card-bg);border:1px solid var(--card-border);border-radius:var(--r-lg);overflow:hidden;">
+        <iframe
+          src="https://airtable.com/embed/appuyAibeokhZsDJ9/pagP6K60mlKccAeVL/form"
+          frameborder="0"
+          width="100%"
+          height="900"
+          style="background:transparent;border:none;display:block;"
+          title="Submit Your Product — The Runway">
+        </iframe>
       </div>
+      <p class="form-note" style="margin-top:14px;">We review every submission within 24 hours. Questions? <a href="mailto:hello@launchfree.io" style="color:var(--runway);">hello@launchfree.io</a></p>
     </div>
   </div>
 </section>
@@ -550,27 +539,6 @@
 
   function handleSubmit(e){
     e.preventDefault();
-    /*
-    AIRTABLE INTEGRATION — uncomment and fill in when ready:
-    fetch('https://api.airtable.com/v0/YOUR_BASE_ID/Submissions',{
-      method:'POST',
-      headers:{'Authorization':'Bearer YOUR_API_KEY','Content-Type':'application/json'},
-      body:JSON.stringify({fields:{
-        "Product Name":document.getElementById('p-name').value,
-        "URL":document.getElementById('p-url').value,
-        "Tagline":document.getElementById('p-tag').value,
-        "Description":document.getElementById('p-desc').value,
-        "Category":document.getElementById('p-cat').value,
-        "Stage":document.getElementById('p-stage').value,
-        "Email":document.getElementById('p-email').value,
-        "Twitter":document.getElementById('p-tw').value,
-        "Newsletter":document.getElementById('nl-opt').checked
-      }})
-    });
-    */
-    toast("You're on the runway! We'll review within 24 hours. 🚀");
-    e.target.reset();
-    document.getElementById('nl-opt').checked=true;
   }
 
   function handleNL(e){
