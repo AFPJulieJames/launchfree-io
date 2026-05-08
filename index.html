@@ -17,8 +17,8 @@
   <meta name="msvalidate.01" content="2C765BB4C0D8C7BBFF0206F8BD041B75" />
 
   <!-- Primary SEO -->
-  <title>LaunchFree.io - The Runway. Free Product Launch Directory for Bootstrap Founders.</title>
-  <meta name="description" content="The free product launch directory for bootstrap founders, indie makers, and side hustlers. Submit your product at no cost - always. Every launch needs a runway. Yours is free." />
+  <title>LaunchFree.io — The Runway. Free Product Launch Directory for Bootstrap Founders.</title>
+  <meta name="description" content="The free product launch directory for bootstrap founders, indie makers, and side hustlers. Submit your product at no cost — always. Every launch needs a runway. Yours is free." />
   <meta name="keywords" content="free product launch, launch directory, bootstrap founders, indie makers, side hustlers, free startup listing, product hunt alternative, free directory submission, launch your product free" />
   <meta name="author" content="Julie James — Automated Income Tools LLC" />
   <meta name="robots" content="index, follow" />
@@ -39,7 +39,7 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:site" content="@JulieBuilds" />
   <meta name="twitter:creator" content="@JulieBuilds" />
-  <meta name="twitter:title" content="LaunchFree.io - The Runway. Free Product Launch Directory." />
+  <meta name="twitter:title" content="LaunchFree.io — The Runway. Free Product Launch Directory." />
   <meta name="twitter:description" content="Every launch needs a runway. Yours is free. Free to list. Free forever. No paywalls. No BS." />
   <meta name="twitter:image" content="https://launchfree.io/og-image.png" />
 
@@ -468,7 +468,7 @@
           width="100%"
           height="900"
           style="background:transparent;border:none;display:block;"
-          title="Submit Your Product - The Runway">
+          title="Submit Your Product — The Runway">
         </iframe>
       </div>
       <p class="form-note" style="margin-top:14px;">We review every submission within 24 hours. Questions? <a href="mailto:hello@launchfree.io" style="color:var(--runway);">hello@launchfree.io</a></p>
@@ -603,16 +603,39 @@
 
   function handleNL(e){
     e.preventDefault();
-    /*
-    BEEHIIV INTEGRATION — uncomment and fill in when ready:
-    fetch('https://api.beehiiv.com/v2/publications/YOUR_PUB_ID/subscriptions',{
-      method:'POST',
-      headers:{'Authorization':'Bearer YOUR_API_KEY','Content-Type':'application/json'},
-      body:JSON.stringify({email:e.target.querySelector('input').value,reactivate_existing:true,send_welcome_email:true})
+    const btn = e.target.querySelector('button');
+    const input = e.target.querySelector('input[type=email]');
+    const email = input.value.trim();
+    if(!email) return;
+    btn.textContent = 'Subscribing…';
+    btn.disabled = true;
+    fetch('https://api.beehiiv.com/v2/publications/pub_5dbf8e17-e0e6-4e61-968e-67c373a38ffb/subscriptions', {
+      method: 'POST',
+      headers: {
+        'Authorization': 'Bearer cmWz7SssWP6cQDHeDh0AioTugrKoWdi4AZ2jEUarfPis2Xb2jAggDJv2k0UQgWWf',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        email: email,
+        reactivate_existing: true,
+        send_welcome_email: true,
+        utm_source: 'launchfree.io',
+        utm_medium: 'website',
+        utm_campaign: 'newsletter_signup'
+      })
+    })
+    .then(res => {
+      if(!res.ok) throw new Error('Subscription failed');
+      toast('Welcome to The Runway Radar! See you Friday. ✉️');
+      e.target.reset();
+    })
+    .catch(() => {
+      toast('Something went wrong. Try again or email hello@launchfree.io');
+    })
+    .finally(() => {
+      btn.textContent = 'Join free';
+      btn.disabled = false;
     });
-    */
-    toast('Welcome to The Runway Radar! See you Friday. ✉️');
-    e.target.reset();
   }
 
   function toast(msg){
