@@ -229,26 +229,15 @@
     .std-note { margin-top:26px; padding-top:22px; border-top:1px solid var(--card-border); font-size:0.8rem; color:var(--muted); line-height:1.7; }
     .std-note a { color:var(--runway); text-decoration:underline; text-underline-offset:3px; }
 
-    /* SUBMIT */
+    /* SUBMIT CTA (replaces old form section) */
     .sub-section { background:var(--ink-mid); }
-    .sub-inner { max-width:660px; margin:0 auto; }
-    .sub-form { background:var(--card-bg); border:1px solid var(--card-border); border-radius:var(--r-lg); padding:34px; margin-top:38px; }
-    .fg { margin-bottom:16px; }
-    .fg label { display:block; font-size:0.72rem; font-weight:700; color:var(--white-dim); margin-bottom:6px; letter-spacing:0.05em; text-transform:uppercase; }
-    .fg input,.fg textarea,.fg select { width:100%; background:var(--ink-light); border:1px solid var(--card-border); border-radius:var(--r-sm); padding:10px 13px; color:var(--white); font-family:var(--sans); font-size:0.9rem; transition:border-color 0.2s; outline:none; -webkit-appearance:none; }
-    .fg input:focus,.fg textarea:focus,.fg select:focus { border-color:rgba(232,255,71,0.35); }
-    .fg input::placeholder,.fg textarea::placeholder { color:var(--muted); }
-    .fg textarea { min-height:90px; resize:vertical; }
-    .fg select option { background:var(--ink); }
-    .form-row { display:grid; grid-template-columns:1fr 1fr; gap:12px; }
-    .cb-group { display:flex; align-items:flex-start; gap:9px; margin-top:2px; }
-    .cb-group input[type=checkbox] { width:15px; height:15px; flex-shrink:0; margin-top:3px; accent-color:var(--runway); }
-    .cb-group label { font-size:0.8rem; color:var(--muted); text-transform:none; letter-spacing:0; font-weight:400; line-height:1.5; cursor:pointer; }
-    .cb-group label a { color:var(--runway); text-decoration:underline; text-underline-offset:2px; }
-    .sub-btn { width:100%; background:var(--runway); color:var(--ink); font-weight:700; font-size:0.95rem; padding:13px; border-radius:99px; border:none; margin-top:10px; transition:background 0.2s,transform 0.15s; }
-    .sub-btn:hover { background:var(--runway-dim); transform:translateY(-1px); }
-    .form-note { text-align:center; font-size:0.76rem; color:var(--muted); margin-top:11px; line-height:1.6; }
-    .form-note a { color:var(--runway); }
+    .sub-cta-box { background:var(--card-bg); border:1px solid var(--card-border); border-radius:var(--r-lg); padding:56px 44px; max-width:660px; margin:38px auto 0; text-align:center; position:relative; overflow:hidden; }
+    .sub-cta-box::before { content:''; position:absolute; top:-60px; left:50%; transform:translateX(-50%); width:400px; height:300px; background:radial-gradient(circle,rgba(232,255,71,0.06) 0%,transparent 70%); pointer-events:none; }
+    .sub-cta-box h3 { font-family:var(--serif); font-size:clamp(1.5rem,2.5vw,2rem); font-weight:700; line-height:1.2; letter-spacing:-0.02em; margin-bottom:14px; }
+    .sub-cta-box p { color:var(--muted); font-size:0.92rem; line-height:1.7; margin-bottom:32px; max-width:440px; margin-left:auto; margin-right:auto; }
+    .sub-cta-perks { display:flex; justify-content:center; gap:20px; flex-wrap:wrap; margin-bottom:32px; }
+    .sub-perk { display:flex; align-items:center; gap:6px; font-size:0.78rem; color:var(--white-dim); font-weight:500; }
+    .sub-perk span { color:var(--runway); font-size:0.9rem; }
 
     /* NEWSLETTER */
     .nl-section { background:var(--ink); }
@@ -287,8 +276,7 @@
       .origin-grid{grid-template-columns:1fr;gap:32px;padding:60px 5%}
       .std-cols{grid-template-columns:1fr}
       .std-box{padding:24px 18px}
-      .sub-form{padding:22px 16px}
-      .form-row{grid-template-columns:1fr}
+      .sub-cta-box{padding:32px 20px}
       .nl-box{padding:30px 18px}
       .footer-in{grid-template-columns:1fr;gap:14px}
       .f-copy{text-align:left}
@@ -315,8 +303,7 @@
       <li><a href="#listings">Browse</a></li>
       <li><a href="#what-you-get">What you get</a></li>
       <li><a href="#standards">Standards</a></li>
-      <li><a href="#submit">Submit</a></li>
-      <li><a href="#submit" class="nav-cta">List free ↑</a></li>
+      <li><a href="submit.html" class="nav-cta">List free ↑</a></li>
     </ul>
   </div>
 </nav>
@@ -330,7 +317,7 @@
   <p class="hero-tagline">Yours is free.</p>
   <p class="hero-sub">The free product launch directory for bootstrap founders, indie makers, and side hustlers. List your product. Get discovered. Zero fees, always.</p>
   <div class="hero-actions">
-    <a href="#submit" class="btn-primary">↑ List your product free</a>
+    <a href="submit.html" class="btn-primary">↑ List your product free</a>
     <a href="#listings" class="btn-ghost">Browse the runway</a>
   </div>
   <div class="stats-bar fade-up">
@@ -452,26 +439,25 @@
   </div>
 </section>
 
-<!-- SUBMIT -->
+<!-- SUBMIT CTA (links to submit.html) -->
 <section class="section sub-section" id="submit">
   <div class="si">
-    <div class="sub-inner" style="max-width:780px;">
-      <div class="fade-up" style="text-align:center;">
-        <div class="s-label">Get on the runway</div>
-        <h2 class="s-title">List your product free</h2>
-        <p class="s-sub" style="margin:0 auto;">No credit card. No approval fee. No catch. We review every submission and aim to go live within 24 hours.</p>
+    <div class="fade-up" style="text-align:center;max-width:580px;margin:0 auto;">
+      <div class="s-label">Get on the runway</div>
+      <h2 class="s-title">List your product free</h2>
+      <p class="s-sub" style="margin:0 auto;">No credit card. No approval fee. No catch. We review every submission and aim to go live within 24 hours.</p>
+    </div>
+    <div class="sub-cta-box fade-up">
+      <h3>Ready for takeoff?</h3>
+      <p>Our multi-step submission form takes about 3 minutes. Tell us about your product, your story, and how to reach you — we'll handle the rest.</p>
+      <div class="sub-cta-perks">
+        <div class="sub-perk"><span>✓</span> Free forever</div>
+        <div class="sub-perk"><span>✓</span> 24h review</div>
+        <div class="sub-perk"><span>✓</span> Newsletter feature</div>
+        <div class="sub-perk"><span>✓</span> No credit card</div>
       </div>
-      <div class="fade-up" style="margin-top:36px;background:var(--card-bg);border:1px solid var(--card-border);border-radius:var(--r-lg);overflow:hidden;">
-        <iframe
-          src="https://airtable.com/embed/appuyAibeokhZsDJ9/pagP6K60mlKccAeVL/form"
-          frameborder="0"
-          width="100%"
-          height="900"
-          style="background:transparent;border:none;display:block;"
-          title="Submit Your Product — The Runway">
-        </iframe>
-      </div>
-      <p class="form-note" style="margin-top:14px;">We review every submission within 24 hours. Questions? <a href="mailto:hello@launchfree.io" style="color:var(--runway);">hello@launchfree.io</a></p>
+      <a href="submit.html" class="btn-primary" style="display:inline-flex;">↑ Submit your product</a>
+      <p style="font-size:0.76rem;color:var(--muted);margin-top:14px;">Questions? <a href="mailto:hello@launchfree.io" style="color:var(--runway);">hello@launchfree.io</a></p>
     </div>
   </div>
 </section>
@@ -501,7 +487,7 @@
       <li><a href="#listings">Browse</a></li>
       <li><a href="#what-you-get">What you get</a></li>
       <li><a href="#standards">Standards</a></li>
-      <li><a href="#submit">Submit</a></li>
+      <li><a href="submit.html">Submit</a></li>
       <li><a href="#newsletter">Newsletter</a></li>
       <li><a href="mailto:hello@launchfree.io">Contact</a></li>
     </ul>
@@ -541,7 +527,7 @@
     document.getElementById('stat-count').textContent=LISTINGS.length;
     document.getElementById('s-count').textContent=cs?`${items.length} result${items.length!==1?'s':''} for "${cs}"`:'';
     if(!items.length){
-      document.getElementById('grid').innerHTML=`<div class="no-res">No products found. <a href="#submit" style="color:var(--runway);">Be the first to list in this category ↑</a></div>`;
+      document.getElementById('grid').innerHTML=`<div class="no-res">No products found. <a href="submit.html" style="color:var(--runway);">Be the first to list in this category ↑</a></div>`;
       return;
     }
     document.getElementById('grid').innerHTML=items.map(l=>`
@@ -596,10 +582,6 @@
     });
   }
   hookSearch('main-s');hookSearch('nav-s');
-
-  function handleSubmit(e){
-    e.preventDefault();
-  }
 
   function handleNL(e){
     e.preventDefault();
