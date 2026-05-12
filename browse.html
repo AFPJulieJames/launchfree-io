@@ -1,188 +1,224 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7CKQDBEDBB"></script>
-  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-7CKQDBEDBB');</script>
-  <title>Browse The Runway — LaunchFree.io | If you're building it, it belongs here.</title>
-  <meta name="description" content="Browse launches on The Runway at LaunchFree.io. Businesses, tools, services, communities. Every stage, every niche. Free to list, free to discover." />
-  <link rel="canonical" href="https://launchfree.io/browse.html" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Cabinet+Grotesk:wght@300;400;500;700&display=swap" rel="stylesheet" />
-  <style>
-    :root{--ink:#0A0F1A;--ink-mid:#111827;--ink-light:#1A2535;--ink-lighter:#243044;--runway:#E8FF47;--runway-dim:#D4EA30;--white:#F8F5EE;--white-dim:#C4C0B6;--muted:#6B7585;--card-bg:#0E1520;--card-border:rgba(255,255,255,0.06);--serif:'Playfair Display',Georgia,serif;--sans:'Cabinet Grotesk',system-ui,sans-serif;--r:12px;--r-sm:8px;--r-lg:20px;}
-    *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}html{scroll-behavior:smooth;}body{background:var(--ink);color:var(--white);font-family:var(--sans);font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased;overflow-x:hidden;}a{color:inherit;text-decoration:none;}
-    body::after{content:'';position:fixed;inset:0;opacity:0.03;background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");pointer-events:none;z-index:9999;}
-    nav{position:sticky;top:0;z-index:100;background:rgba(10,15,26,0.92);backdrop-filter:blur(16px);border-bottom:1px solid var(--card-border);padding:0 5%;}
-    .nav-inner{max-width:1200px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;height:60px;gap:20px;}
-    .logo{font-family:var(--serif);font-size:1.25rem;font-weight:700;color:var(--white);white-space:nowrap;flex-shrink:0;display:flex;align-items:baseline;gap:8px;}.logo-main span{color:var(--runway);}.logo-tag{font-size:0.7rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:var(--muted);}
-    .nav-links{display:flex;align-items:center;gap:22px;list-style:none;flex-shrink:0;}.nav-links a{font-size:0.85rem;font-weight:500;color:var(--white-dim);transition:color 0.2s;}.nav-links a:hover{color:var(--white);}.nav-links a.active{color:var(--runway);}
-    .nav-cta{background:var(--runway)!important;color:var(--ink)!important;padding:7px 18px!important;border-radius:99px;font-weight:700!important;font-size:0.82rem!important;transition:background 0.2s,transform 0.15s!important;}.nav-cta:hover{background:var(--runway-dim)!important;transform:translateY(-1px);}
-    .page-header{padding:56px 5% 0;max-width:1200px;margin:0 auto;}
-    .eyebrow{display:inline-flex;align-items:center;gap:8px;background:rgba(232,255,71,0.08);border:1px solid rgba(232,255,71,0.2);color:var(--runway);font-size:0.7rem;font-weight:700;padding:4px 12px;border-radius:99px;margin-bottom:16px;letter-spacing:0.08em;text-transform:uppercase;}
-    .page-header h1{font-family:var(--serif);font-size:clamp(2rem,4vw,3.2rem);font-weight:900;line-height:1.1;letter-spacing:-0.03em;color:var(--white);margin-bottom:10px;}.page-header h1 em{font-style:italic;color:var(--runway);}
-    .page-header p{color:var(--muted);font-size:0.975rem;max-width:520px;line-height:1.7;margin-bottom:36px;}
-    .controls{max-width:1200px;margin:0 auto;padding:0 5% 28px;display:flex;flex-direction:column;gap:16px;}
-    .search-bar{position:relative;}.search-bar input{width:100%;background:var(--card-bg);border:1px solid var(--card-border);border-radius:var(--r);padding:13px 20px 13px 48px;color:var(--white);font-family:var(--sans);font-size:0.95rem;outline:none;transition:border-color 0.2s;}.search-bar input:focus{border-color:rgba(232,255,71,0.3);}.search-bar input::placeholder{color:var(--muted);}.search-bar svg{position:absolute;left:16px;top:50%;transform:translateY(-50%);width:18px;height:18px;stroke:var(--muted);fill:none;}
-    .controls-row{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;}
-    .filters{display:flex;gap:6px;flex-wrap:wrap;}.fb{background:var(--card-bg);border:1px solid var(--card-border);color:var(--muted);font-size:0.75rem;font-weight:700;padding:6px 14px;border-radius:99px;letter-spacing:0.04em;text-transform:uppercase;cursor:pointer;transition:all 0.2s;font-family:var(--sans);}.fb:hover{color:var(--white);border-color:rgba(255,255,255,0.14);}.fb.active{background:var(--runway);color:var(--ink);border-color:var(--runway);}
-    .sort-wrap{display:flex;align-items:center;gap:8px;}.sort-label{font-size:0.75rem;color:var(--muted);white-space:nowrap;}
-    .sort-select{background:var(--card-bg);border:1px solid var(--card-border);color:var(--white);font-family:var(--sans);font-size:0.8rem;padding:6px 28px 6px 12px;border-radius:99px;outline:none;cursor:pointer;-webkit-appearance:none;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='%236B7585' viewBox='0 0 16 16'%3E%3Cpath d='M7.247 11.14L2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 10px center;}
-    #s-count{font-size:0.8rem;color:var(--muted);}
-    .grid-wrap{max-width:1200px;margin:0 auto;padding:0 5% 100px;}
-    .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:14px;}
-    .no-res{grid-column:1/-1;text-align:center;padding:80px 20px;color:var(--muted);}.no-res h3{font-family:var(--serif);font-size:1.4rem;color:var(--white);margin-bottom:8px;}
-    .loading-grid{grid-column:1/-1;text-align:center;padding:56px 20px;color:var(--muted);}.loading-spinner{width:32px;height:32px;border:3px solid var(--card-border);border-top-color:var(--runway);border-radius:50%;animation:spin 0.8s linear infinite;margin:0 auto 16px;}@keyframes spin{to{transform:rotate(360deg)}}
-    .card{background:var(--card-bg);border:1px solid var(--card-border);border-radius:var(--r);padding:22px;display:flex;flex-direction:column;gap:12px;transition:border-color 0.2s,background 0.2s,transform 0.2s;position:relative;overflow:hidden;cursor:pointer;}
-    .card::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:var(--runway);transform:scaleX(0);transform-origin:left;transition:transform 0.3s ease;}.card:hover{border-color:rgba(232,255,71,0.15);background:rgba(232,255,71,0.03);transform:translateY(-2px);}.card:hover::before{transform:scaleX(1);}
-    .card-top{display:flex;align-items:flex-start;gap:13px;}.card-logo{width:50px;height:50px;border-radius:var(--r-sm);background:var(--ink-lighter);display:flex;align-items:center;justify-content:center;font-size:1.5rem;flex-shrink:0;border:1px solid var(--card-border);overflow:hidden;}.card-logo img{width:100%;height:100%;object-fit:cover;}
-    .card-info{flex:1;min-width:0;}.card-name{font-weight:700;font-size:0.975rem;color:var(--white);margin-bottom:3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}.card-tagline{font-size:0.8rem;color:var(--muted);line-height:1.4;}
-    .card-desc{font-size:0.875rem;color:var(--white-dim);line-height:1.65;flex:1;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;}
-    .card-footer{display:flex;align-items:center;justify-content:space-between;gap:8px;flex-wrap:wrap;}.card-meta{display:flex;align-items:center;gap:7px;flex-wrap:wrap;}
-    .tag{font-size:0.65rem;font-weight:700;padding:3px 9px;border-radius:99px;background:rgba(232,255,71,0.07);color:var(--runway);letter-spacing:0.05em;text-transform:uppercase;border:1px solid rgba(232,255,71,0.12);}
-    .tag-stage{background:rgba(255,255,255,0.04);color:var(--muted);border-color:rgba(255,255,255,0.08);}
-    .card-link{font-size:0.75rem;color:var(--muted);display:inline-flex;align-items:center;gap:3px;transition:color 0.2s;}.card-link:hover{color:var(--runway);}
-    .upvote{display:flex;align-items:center;gap:5px;background:var(--ink-lighter);border:1px solid var(--card-border);color:var(--muted);font-size:0.78rem;font-weight:700;padding:5px 12px;border-radius:99px;cursor:pointer;transition:all 0.2s;flex-shrink:0;font-family:var(--sans);}.upvote:hover,.upvote.voted{background:rgba(232,255,71,0.1);border-color:rgba(232,255,71,0.3);color:var(--runway);}
-    .feat-badge{position:absolute;top:13px;right:13px;font-size:0.62rem;font-weight:700;letter-spacing:0.07em;text-transform:uppercase;background:rgba(232,255,71,0.1);color:var(--runway);border:1px solid rgba(232,255,71,0.2);padding:3px 9px;border-radius:99px;}
-    .cta-strip{background:var(--ink-mid);border-top:1px solid var(--card-border);padding:56px 5%;text-align:center;}.cta-strip h2{font-family:var(--serif);font-size:clamp(1.6rem,3vw,2.2rem);font-weight:700;margin-bottom:10px;}.cta-strip p{color:var(--muted);font-size:0.92rem;margin-bottom:28px;line-height:1.65;}
-    .btn-primary{background:var(--runway);color:var(--ink);font-weight:700;font-size:0.95rem;padding:13px 28px;border-radius:99px;border:none;cursor:pointer;transition:background 0.2s,transform 0.15s;display:inline-flex;align-items:center;gap:7px;font-family:var(--sans);text-decoration:none;}.btn-primary:hover{background:var(--runway-dim);transform:translateY(-2px);}
-    footer{padding:34px 5%;border-top:1px solid var(--card-border);background:var(--ink-mid);}
-    .footer-in{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:1fr auto auto;align-items:center;gap:24px;}
-    .f-logo{font-family:var(--serif);font-size:1.1rem;font-weight:700;margin-bottom:3px;}.f-logo span{color:var(--runway);}.f-tag{font-size:0.75rem;font-style:italic;color:var(--muted);}
-    .f-links{display:flex;gap:18px;list-style:none;flex-wrap:wrap;}.f-links a{font-size:0.78rem;color:var(--muted);transition:color 0.2s;}.f-links a:hover{color:var(--white);}
-    .f-copy{font-size:0.73rem;color:var(--muted);text-align:right;}
-    .toast{position:fixed;bottom:22px;right:22px;background:var(--runway);color:var(--ink);font-weight:700;font-size:0.86rem;padding:11px 18px;border-radius:var(--r-sm);z-index:9998;transform:translateY(60px);opacity:0;transition:transform 0.3s ease,opacity 0.3s ease;max-width:280px;}.toast.show{transform:translateY(0);opacity:1;}
-    @media(max-width:768px){.nav-links li:not(:last-child){display:none}.footer-in{grid-template-columns:1fr;gap:14px}.f-copy{text-align:left}.controls-row{flex-direction:column;align-items:flex-start}}
-    @media(max-width:480px){.grid{grid-template-columns:1fr}}
-  </style>
+<meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7CKQDBEDBB"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-7CKQDBEDBB');</script>
+<title>Browse The Runway — LaunchFree.io | If you're building it, it belongs here.</title>
+<meta name="description" content="Browse launches on The Runway at LaunchFree.io. Businesses, tools, services, communities. Every stage, every niche. Free to list, free to discover." />
+<link rel="canonical" href="https://launchfree.io/browse.html" />
+<link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=Cabinet+Grotesk:wght@300;400;500;700&display=swap" rel="stylesheet" />
+<style>
+:root{--ink:#0A0F1A;--ink-mid:#111827;--ink-light:#1A2535;--ink-lighter:#243044;--runway:#E8FF47;--runway-dim:#D4EA30;--white:#F8F5EE;--white-dim:#C4C0B6;--muted:#6B7585;--card-bg:#0E1520;--card-border:rgba(255,255,255,0.06);--serif:'Playfair Display',Georgia,serif;--sans:'Cabinet Grotesk',system-ui,sans-serif;--r:12px;--r-sm:8px;--r-lg:20px;}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}html{scroll-behavior:smooth;}body{background:var(--ink);color:var(--white);font-family:var(--sans);font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased;overflow-x:hidden;}a{color:inherit;text-decoration:none;}
+body::after{content:'';position:fixed;inset:0;opacity:0.03;background-image:url("data:image/svg+xml,%3Csvg viewBox='0 0 512 512' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");pointer-events:none;z-index:9999;}
+nav{position:sticky;top:0;z-index:100;background:rgba(10,15,26,0.92);backdrop-filter:blur(16px);border-bottom:1px solid var(--card-border);padding:0 5%;}
+.nav-inner{max-width:1200px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;height:60px;gap:20px;}
+.logo{font-family:var(--serif);font-size:1.25rem;font-weight:700;color:var(--white);white-space:nowrap;flex-shrink:0;display:flex;align-items:baseline;gap:8px;}.logo-main span{color:var(--runway);}.logo-tag{font-size:0.7rem;font-weight:700;letter-spacing:0.1em;text-transform:uppercase;color:var(--muted);}
+.nav-links{display:flex;align-items:center;gap:22px;list-style:none;flex-shrink:0;}.nav-links a{font-size:0.85rem;font-weight:500;color:var(--white-dim);transition:color 0.2s;}.nav-links a:hover{color:var(--white);}.nav-links a.active{color:var(--runway);}
+.nav-cta{background:var(--runway)!important;color:var(--ink)!important;padding:7px 18px!important;border-radius:99px;font-weight:700!important;font-size:0.82rem!important;transition:background 0.2s,transform 0.15s!important;}.nav-cta:hover{background:var(--runway-dim)!important;transform:translateY(-1px);}
+.page-header{padding:56px 5% 0;max-width:1200px;margin:0 auto;}
+.eyebrow{display:inline-flex;align-items:center;gap:8px;background:rgba(232,255,71,0.08);border:1px solid rgba(232,255,71,0.2);color:var(--runway);font-size:0.7rem;font-weight:700;padding:4px 12px;border-radius:99px;margin-bottom:16px;letter-spacing:0.08em;text-transform:uppercase;}
+.page-header h1{font-family:var(--serif);font-size:clamp(2rem,4vw,3.2rem);font-weight:900;line-height:1.1;letter-spacing:-0.03em;color:var(--white);margin-bottom:10px;}.page-header h1 em{font-style:italic;color:var(--runway);}
+.page-header p{color:var(--muted);font-size:0.975rem;max-width:520px;line-height:1.7;margin-bottom:36px;}
+.controls{max-width:1200px;margin:0 auto;padding:0 5% 28px;display:flex;flex-direction:column;gap:16px;}
+.search-bar{position:relative;}.search-bar input{width:100%;background:var(--card-bg);border:1px solid var(--card-border);border-radius:var(--r);padding:13px 20px 13px 48px;color:var(--white);font-family:var(--sans);font-size:0.95rem;outline:none;transition:border-color 0.2s;}.search-bar input:focus{border-color:rgba(232,255,71,0.3);}.search-bar input::placeholder{color:var(--muted);}.search-bar svg{position:absolute;left:16px;top:50%;transform:translateY(-50%);width:18px;height:18px;stroke:var(--muted);fill:none;}
+.controls-row{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;}
+.filters{display:flex;gap:6px;flex-wrap:wrap;}.fb{background:var(--card-bg);border:1px solid var(--card-border);color:var(--muted);font-size:0.75rem;font-weight:700;padding:6px 14px;border-radius:99px;letter-spacing:0.04em;text-transform:uppercase;cursor:pointer;transition:all 0.2s;font-family:var(--sans);}.fb:hover{color:var(--white);border-color:rgba(255,255,255,0.14);}.fb.active{background:var(--runway);color:var(--ink);border-color:var(--runway);}
+.sort-wrap{display:flex;align-items:center;gap:8px;}.sort-label{font-size:0.75rem;color:var(--muted);white-space:nowrap;}
+.sort-select{background:var(--card-bg);border:1px solid var(--card-border);color:var(--white);font-family:var(--sans);font-size:0.8rem;padding:6px 28px 6px 12px;border-radius:99px;outline:none;cursor:pointer;-webkit-appearance:none;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='%236B7585' viewBox='0 0 16 16'%3E%3Cpath d='M7.247 11.14L2.451 5.658C1.885 5.013 2.345 4 3.204 4h9.592a1 1 0 0 1 .753 1.659l-4.796 5.48a1 1 0 0 1-1.506 0z'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 10px center;}
+#s-count{font-size:0.8rem;color:var(--muted);}
+.grid-wrap{max-width:1200px;margin:0 auto;padding:0 5% 100px;}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:14px;}
+.no-res{grid-column:1/-1;text-align:center;padding:80px 20px;color:var(--muted);}.no-res h3{font-family:var(--serif);font-size:1.4rem;color:var(--white);margin-bottom:8px;}
+.loading-grid{grid-column:1/-1;text-align:center;padding:56px 20px;color:var(--muted);}.loading-spinner{width:32px;height:32px;border:3px solid var(--card-border);border-top-color:var(--runway);border-radius:50%;animation:spin 0.8s linear infinite;margin:0 auto 16px;}@keyframes spin{to{transform:rotate(360deg)}}
+.card{background:var(--card-bg);border:1px solid var(--card-border);border-radius:var(--r);padding:22px;display:flex;flex-direction:column;gap:12px;transition:border-color 0.2s,background 0.2s,transform 0.2s;position:relative;overflow:hidden;cursor:pointer;}
+.card::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:var(--runway);transform:scaleX(0);transform-origin:left;transition:transform 0.3s ease;}.card:hover{border-color:rgba(232,255,71,0.15);background:rgba(232,255,71,0.03);transform:translateY(-2px);}.card:hover::before{transform:scaleX(1);}
+.card-top{display:flex;align-items:flex-start;gap:13px;}.card-logo{width:50px;height:50px;border-radius:var(--r-sm);background:var(--ink-lighter);display:flex;align-items:center;justify-content:center;font-size:1.5rem;flex-shrink:0;border:1px solid var(--card-border);overflow:hidden;}.card-logo img{width:100%;height:100%;object-fit:cover;}
+.card-info{flex:1;min-width:0;}.card-name{font-weight:700;font-size:0.975rem;color:var(--white);margin-bottom:3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}.card-tagline{font-size:0.8rem;color:var(--muted);line-height:1.4;}
+.card-desc{font-size:0.875rem;color:var(--white-dim);line-height:1.65;flex:1;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;}
+.card-footer{display:flex;align-items:center;justify-content:space-between;gap:8px;flex-wrap:wrap;}.card-meta{display:flex;align-items:center;gap:7px;flex-wrap:wrap;}
+.tag{font-size:0.65rem;font-weight:700;padding:3px 9px;border-radius:99px;background:rgba(232,255,71,0.07);color:var(--runway);letter-spacing:0.05em;text-transform:uppercase;border:1px solid rgba(232,255,71,0.12);}
+.tag-stage{background:rgba(255,255,255,0.04);color:var(--muted);border-color:rgba(255,255,255,0.08);}
+.tag-mrr{background:rgba(74,222,128,0.08);color:#4ade80;border-color:rgba(74,222,128,0.2);}
+.card-link{font-size:0.75rem;color:var(--muted);display:inline-flex;align-items:center;gap:3px;transition:color 0.2s;}.card-link:hover{color:var(--runway);}
+.upvote{display:flex;align-items:center;gap:5px;background:var(--ink-lighter);border:1px solid var(--card-border);color:var(--muted);font-size:0.78rem;font-weight:700;padding:5px 12px;border-radius:99px;cursor:pointer;transition:all 0.2s;flex-shrink:0;font-family:var(--sans);}.upvote:hover,.upvote.voted{background:rgba(232,255,71,0.1);border-color:rgba(232,255,71,0.3);color:var(--runway);}
+.feat-badge{position:absolute;top:13px;right:13px;font-size:0.62rem;font-weight:700;letter-spacing:0.07em;text-transform:uppercase;background:rgba(232,255,71,0.1);color:var(--runway);border:1px solid rgba(232,255,71,0.2);padding:3px 9px;border-radius:99px;}
+.cta-strip{background:var(--ink-mid);border-top:1px solid var(--card-border);padding:56px 5%;text-align:center;}.cta-strip h2{font-family:var(--serif);font-size:clamp(1.6rem,3vw,2.2rem);font-weight:700;margin-bottom:10px;}.cta-strip p{color:var(--muted);font-size:0.92rem;margin-bottom:28px;line-height:1.65;}
+.cta-perks{display:flex;justify-content:center;gap:20px;flex-wrap:wrap;margin-bottom:28px;}.cta-perk{display:flex;align-items:center;gap:6px;font-size:0.78rem;color:var(--white-dim);font-weight:500;}.cta-perk-dot{color:var(--runway);}
+.btn-primary{background:var(--runway);color:var(--ink);font-weight:700;font-size:0.95rem;padding:13px 28px;border-radius:99px;border:none;cursor:pointer;transition:background 0.2s,transform 0.15s;display:inline-flex;align-items:center;gap:7px;font-family:var(--sans);text-decoration:none;}.btn-primary:hover{background:var(--runway-dim);transform:translateY(-2px);}
+footer{padding:34px 5%;border-top:1px solid var(--card-border);background:var(--ink-mid);}
+.footer-in{max-width:1200px;margin:0 auto;display:grid;grid-template-columns:1fr auto auto;align-items:center;gap:24px;}
+.f-logo{font-family:var(--serif);font-size:1.1rem;font-weight:700;margin-bottom:3px;}.f-logo span{color:var(--runway);}.f-tag{font-size:0.75rem;font-style:italic;color:var(--muted);}
+.f-links{display:flex;gap:18px;list-style:none;flex-wrap:wrap;}.f-links a{font-size:0.78rem;color:var(--muted);transition:color 0.2s;}.f-links a:hover{color:var(--white);}
+.f-copy{font-size:0.73rem;color:var(--muted);text-align:right;}
+.toast{position:fixed;bottom:22px;right:22px;background:var(--runway);color:var(--ink);font-weight:700;font-size:0.86rem;padding:11px 18px;border-radius:var(--r-sm);z-index:9998;transform:translateY(60px);opacity:0;transition:transform 0.3s ease,opacity 0.3s ease;max-width:280px;}.toast.show{transform:translateY(0);opacity:1;}
+@media(max-width:768px){.nav-links li:not(:last-child){display:none}.footer-in{grid-template-columns:1fr;gap:14px}.f-copy{text-align:left}.controls-row{flex-direction:column;align-items:flex-start}}
+@media(max-width:480px){.grid{grid-template-columns:1fr}}
+</style>
 </head>
 <body>
 <nav>
-  <div class="nav-inner">
-    <a href="index.html" class="logo"><span class="logo-main">LaunchFree<span>.io</span></span><span class="logo-tag">The Runway</span></a>
-    <ul class="nav-links">
-      <li><a href="browse.html" class="active">Browse</a></li>
-      <li><a href="index.html#what-you-get">What you get</a></li>
-      <li><a href="index.html#standards">Standards</a></li>
-      <li><a href="submit.html" class="nav-cta">Get on the runway ↑</a></li>
-    </ul>
-  </div>
+<div class="nav-inner">
+<a href="index.html" class="logo"><span class="logo-main">LaunchFree<span>.io</span></span><span class="logo-tag">The Runway</span></a>
+<ul class="nav-links">
+<li><a href="browse.html" class="active">Browse</a></li>
+<li><a href="index.html#what-you-get">What you get</a></li>
+<li><a href="index.html#standards">Standards</a></li>
+<li><a href="submit.html" class="nav-cta">Get on the runway ↑</a></li>
+</ul>
+</div>
 </nav>
+
 <div class="page-header">
-  <div class="eyebrow">◆ The Runway</div>
-  <h1>Launches on<br>the <em>runway.</em></h1>
-  <p>Businesses, tools, services, communities. Every stage, every niche. If you're building it, it belongs here. Free to list, free to discover.</p>
+<div class="eyebrow">◆ The Runway</div>
+<h1>Launches on<br>the <em>runway.</em></h1>
+<p>Businesses, tools, services, communities. Every stage, every niche. If you're building it, it belongs here. Free to list, free to discover.</p>
 </div>
+
 <div class="controls">
-  <div class="search-bar">
-    <svg viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-    <input type="search" id="search" placeholder="Search launches, categories, keywords..." aria-label="Search launches" />
-  </div>
-  <div class="controls-row">
-    <div class="filters" id="filters">
-      <button class="fb active" data-f="all">All</button>
-      <button class="fb" data-f="Affiliate">Affiliate</button>
-      <button class="fb" data-f="Travel">Travel</button>
-      <button class="fb" data-f="Creator Tools">Creator</button>
-      <button class="fb" data-f="SaaS">SaaS</button>
-      <button class="fb" data-f="AI / ML">AI / ML</button>
-      <button class="fb" data-f="Community">Community</button>
-      <button class="fb" data-f="Newsletter">Newsletter</button>
-      <button class="fb" data-f="Service">Service</button>
-      <button class="fb" data-f="Physical Product">Physical</button>
-    </div>
-    <div class="sort-wrap">
-      <span class="sort-label">Sort by</span>
-      <select class="sort-select" id="sort">
-        <option value="newest">Newest</option>
-        <option value="votes">Most upvoted</option>
-        <option value="az">A to Z</option>
-      </select>
-    </div>
-  </div>
-  <div id="s-count"></div>
+<div class="search-bar">
+<svg viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+<input type="search" id="search" placeholder="Search launches, categories, keywords..." aria-label="Search launches" />
 </div>
+<div class="controls-row">
+<div class="filters" id="filters">
+<button class="fb active" data-f="all">All</button>
+<button class="fb" data-f="Affiliate">Affiliate</button>
+<button class="fb" data-f="Travel">Travel</button>
+<button class="fb" data-f="Creator Tools">Creator</button>
+<button class="fb" data-f="SaaS">SaaS</button>
+<button class="fb" data-f="AI / ML">AI / ML</button>
+<button class="fb" data-f="Community">Community</button>
+<button class="fb" data-f="Newsletter">Newsletter</button>
+<button class="fb" data-f="Service">Service</button>
+<button class="fb" data-f="Physical Product">Physical</button>
+</div>
+<div class="sort-wrap">
+<span class="sort-label">Sort by</span>
+<select class="sort-select" id="sort">
+<option value="newest">Newest</option>
+<option value="trending">🔥 Trending</option>
+<option value="votes">Most upvoted</option>
+<option value="az">A to Z</option>
+</select>
+</div>
+</div>
+<div id="s-count"></div>
+</div>
+
 <div class="grid-wrap">
-  <div class="grid" id="grid">
-    <div class="loading-grid"><div class="loading-spinner"></div><p>Loading launches...</p></div>
-  </div>
+<div class="grid" id="grid">
+<div class="loading-grid"><div class="loading-spinner"></div><p>Loading launches...</p></div>
 </div>
+</div>
+
 <div class="cta-strip">
-  <h2>Your launch belongs here.</h2>
-  <p>Free to list. Reviewed within 24 hours. If you're building it, it belongs here.</p>
-  <a href="submit.html" class="btn-primary">↑ Get on the runway</a>
+<h2>Your launch belongs here.</h2>
+<p>Free to list. Reviewed within 24 hours. Free dofollow backlink included. If you're building it, it belongs here.</p>
+<div class="cta-perks">
+<div class="cta-perk"><span class="cta-perk-dot">✓</span> Free forever</div>
+<div class="cta-perk"><span class="cta-perk-dot">✓</span> Dofollow backlink</div>
+<div class="cta-perk"><span class="cta-perk-dot">✓</span> Newsletter feature</div>
+<div class="cta-perk"><span class="cta-perk-dot">✓</span> No credit card</div>
 </div>
+<a href="submit.html" class="btn-primary">↑ Get on the runway</a>
+</div>
+
 <footer>
-  <div class="footer-in">
-    <div><div class="f-logo">LaunchFree<span>.io</span></div><div class="f-tag">Every launch needs a runway. Yours is free.</div></div>
-    <ul class="f-links">
-      <li><a href="browse.html">Browse</a></li>
-      <li><a href="index.html#what-you-get">What you get</a></li>
-      <li><a href="index.html#standards">Standards</a></li>
-      <li><a href="submit.html">Submit</a></li>
-      <li><a href="mailto:hello@launchfree.io">Contact</a></li>
-      <li><a href="privacy.html">Privacy</a></li>
-      <li><a href="terms.html">Terms</a></li>
-      <li><a href="disclaimer.html">Disclaimer</a></li>
-    </ul>
-    <div class="f-copy">© 2026 Automated Income Tools LLC<br>Built by a founder, for founders.</div>
-  </div>
+<div class="footer-in">
+<div><div class="f-logo">LaunchFree<span>.io</span></div><div class="f-tag">Every launch needs a runway. Yours is free.</div></div>
+<ul class="f-links">
+<li><a href="browse.html">Browse</a></li>
+<li><a href="index.html#what-you-get">What you get</a></li>
+<li><a href="index.html#standards">Standards</a></li>
+<li><a href="submit.html">Submit</a></li>
+<li><a href="mailto:hello@launchfree.io">Contact</a></li>
+<li><a href="privacy.html">Privacy</a></li>
+<li><a href="terms.html">Terms</a></li>
+<li><a href="disclaimer.html">Disclaimer</a></li>
+</ul>
+<div class="f-copy">© 2026 Automated Income Tools LLC<br>Built by a founder, for founders.</div>
+</div>
 </footer>
+
 <div class="toast" id="toast" role="alert"></div>
+
 <script>
-  const AIRTABLE_BASE='appuyAibeokhZsDJ9';
-  const AIRTABLE_TABLE='Submissions';
-  const AIRTABLE_KEY='YOUR_AIRTABLE_API_KEY_HERE';
-  const CACHE_KEY='lf_listings_cache';
-  const CACHE_TTL=60*60*1000;
-  const SEED=[
-    {id:'s1',name:'AffiliateFinderPro',tagline:'Find high-paying affiliate programs across every niche',desc:'Curated, vetted affiliate programs with commission rates and direct apply links. Built for creators, bloggers, and anyone ready to earn. Free to browse, always.',emoji:'🔍',cat:'Affiliate',url:'https://affiliatefinderpro.com',stage:'Live',votes:12,featured:true,slug:'affiliatefinderpro',date:'2026-05-06'},
-    {id:'s2',name:'FareFinderAI',tagline:'Find cheaper flights with AI, instantly',desc:'Hidden city fares, mistake fares, cashback flights, and flexible routes. The tools airlines do not want you to know about. 5,000 travelers already flying smarter.',emoji:'✈️',cat:'Travel',url:'https://farefinderai.com',stage:'Live',votes:9,featured:false,slug:'farefinderai',date:'2026-05-06'},
-    {id:'s3',name:'Creator Commissions',tagline:'Affiliate marketing for creators of every size, no follower minimum',desc:'The affiliate marketing platform built for small creators, micro influencers, and nano influencers. No follower minimums. No approval gates. Start earning on your own terms.',emoji:'🎯',cat:'Creator Tools',url:'https://creatorcommissions.com',stage:'Early access',votes:7,featured:false,slug:'creatorcommissions',date:'2026-05-06'},
-    {id:'s4',name:'Global Live Shopping',tagline:'The live commerce industry hub for brands, creators and platforms',desc:'Covering live shopping trends, brand programs, creator opportunities, and platform news across TikTok Shop, Amazon Live, and the global live shopping economy.',emoji:'🌐',cat:'Creator Tools',url:'http://globalliveshopping.com',stage:'Live',votes:5,featured:false,slug:'globalliveshopping',date:'2026-05-06'},
-    {id:'s5',name:'Live Shopping Creators',tagline:'Make money live selling on TikTok Shop, Amazon Live and more',desc:'Built for creators who want to monetize their live streams. Find live shopping affiliate programs, learn how to monetize live content, and connect with brands recruiting live sellers.',emoji:'📱',cat:'Creator Tools',url:'http://liveshoppingcreators.com',stage:'Early access',votes:4,featured:false,slug:'liveshoppingcreators',date:'2026-05-06'},
-    {id:'s6',name:'Affiliate Live Shopping',tagline:'The home base for live shopping affiliates',desc:'Find the best live shopping affiliate programs, compare TikTok Shop vs Amazon Live commissions, and turn live content into consistent affiliate income.',emoji:'💰',cat:'Affiliate',url:'http://affiliateliveshopping.com',stage:'Early access',votes:4,featured:false,slug:'affiliateliveshopping',date:'2026-05-06'}
-  ];
-  let LISTINGS=[];let voted=JSON.parse(localStorage.getItem('lf_v3')||'[]');let votes=JSON.parse(localStorage.getItem('lf_vc3')||'null')||{};
-  let cf='all',cs='',sortBy='newest';
+const AIRTABLE_BASE='appuyAibeokhZsDJ9';
+const AIRTABLE_TABLE='Submissions';
+const AIRTABLE_KEY='YOUR_AIRTABLE_API_KEY_HERE';
+const CACHE_KEY='lf_listings_cache';
+const CACHE_TTL=60*60*1000;
 
-  async function fetchListings(){
-    try{const cached=JSON.parse(localStorage.getItem(CACHE_KEY)||'null');if(cached&&(Date.now()-cached.ts)<CACHE_TTL){LISTINGS=cached.data;initVotes();render();return;}}catch(e){}
-    if(AIRTABLE_KEY==='YOUR_AIRTABLE_API_KEY_HERE'){LISTINGS=SEED;initVotes();render();return;}
-    try{
-      const url=`https://api.airtable.com/v0/${AIRTABLE_BASE}/${encodeURIComponent(AIRTABLE_TABLE)}?filterByFormula={Status}='Approved'&sort[0][field]=Submitted&sort[0][direction]=desc`;
-      const res=await fetch(url,{headers:{'Authorization':`Bearer ${AIRTABLE_KEY}`}});
-      if(!res.ok)throw new Error();
-      const data=await res.json();
-      LISTINGS=data.records.map(r=>({id:r.id,name:r.fields['Product Name']||'',tagline:r.fields['Tagline']||'',desc:r.fields['Description']||'',emoji:r.fields['Emoji']||'🚀',logo:r.fields['Logo URL']||'',cat:r.fields['Category']||'Other',url:r.fields['URL']||'#',stage:r.fields['Stage']||'',votes:r.fields['Votes']||0,featured:r.fields['Featured']||false,slug:r.fields['Slug']||'',date:r.fields['Submitted']||''}));
-      localStorage.setItem(CACHE_KEY,JSON.stringify({ts:Date.now(),data:LISTINGS}));
-      initVotes();render();
-    }catch(err){LISTINGS=SEED;initVotes();render();}
-  }
+const SEED=[
+{id:'s1',name:'AffiliateFinderPro',tagline:'Find high-paying affiliate programs across every niche',desc:'Curated, vetted affiliate programs with commission rates and direct apply links. Built for creators, bloggers, and anyone ready to earn. Free to browse, always.',emoji:'🔍',cat:'Affiliate',url:'https://affiliatefinderpro.com',stage:'Live',votes:12,featured:true,slug:'affiliatefinderpro',date:'2026-05-06',mrr:''},
+{id:'s2',name:'FareFinderAI',tagline:'Find cheaper flights with AI, instantly',desc:'Hidden city fares, mistake fares, cashback flights, and flexible routes. The tools airlines do not want you to know about. 5,000 travelers already flying smarter.',emoji:'✈️',cat:'Travel',url:'https://farefinderai.com',stage:'Live',votes:9,featured:false,slug:'farefinderai',date:'2026-05-06',mrr:''},
+{id:'s3',name:'Creator Commissions',tagline:'Affiliate marketing for creators of every size, no follower minimum',desc:'The affiliate marketing platform built for small creators, micro influencers, and nano influencers. No follower minimums. No approval gates. Start earning on your own terms.',emoji:'🎯',cat:'Creator Tools',url:'https://creatorcommissions.com',stage:'Early access',votes:7,featured:false,slug:'creatorcommissions',date:'2026-05-06',mrr:''},
+{id:'s4',name:'Global Live Shopping',tagline:'The live commerce industry hub for brands, creators and platforms',desc:'Covering live shopping trends, brand programs, creator opportunities, and platform news across TikTok Shop, Amazon Live, and the global live shopping economy.',emoji:'🌐',cat:'Creator Tools',url:'http://globalliveshopping.com',stage:'Live',votes:5,featured:false,slug:'globalliveshopping',date:'2026-05-06',mrr:''},
+{id:'s5',name:'Live Shopping Creators',tagline:'Make money live selling on TikTok Shop, Amazon Live and more',desc:'Built for creators who want to monetize their live streams. Find live shopping affiliate programs, learn how to monetize live content, and connect with brands recruiting live sellers.',emoji:'📱',cat:'Creator Tools',url:'http://liveshoppingcreators.com',stage:'Early access',votes:4,featured:false,slug:'liveshoppingcreators',date:'2026-05-06',mrr:''},
+{id:'s6',name:'Affiliate Live Shopping',tagline:'The home base for live shopping affiliates',desc:'Find the best live shopping affiliate programs, compare TikTok Shop vs Amazon Live commissions, and turn live content into consistent affiliate income.',emoji:'💰',cat:'Affiliate',url:'http://affiliateliveshopping.com',stage:'Early access',votes:4,featured:false,slug:'affiliateliveshopping',date:'2026-05-06',mrr:''}
+];
 
-  function initVotes(){LISTINGS.forEach(l=>{if(votes[l.id]==null)votes[l.id]=l.votes;});}
+let LISTINGS=[];
+let voted=JSON.parse(localStorage.getItem('lf_v3')||'[]');
+let votes=JSON.parse(localStorage.getItem('lf_vc3')||'null')||{};
+let cf='all',cs='',sortBy='newest';
 
-  function getItems(){
-    let items=LISTINGS.filter(l=>{const mc=cf==='all'||l.cat===cf;const q=cs.toLowerCase();const mq=!q||l.name.toLowerCase().includes(q)||l.tagline.toLowerCase().includes(q)||(l.desc||'').toLowerCase().includes(q)||l.cat.toLowerCase().includes(q);return mc&&mq;});
-    if(sortBy==='votes')items.sort((a,b)=>(votes[b.id]||0)-(votes[a.id]||0));
-    else if(sortBy==='az')items.sort((a,b)=>a.name.localeCompare(b.name));
-    else items.sort((a,b)=>new Date(b.date||0)-new Date(a.date||0));
-    return items;
-  }
+function trendingScore(l){
+const v=votes[l.id]||0;
+const d=l.date?new Date(l.date):new Date(0);
+const days=(Date.now()-d.getTime())/(1000*60*60*24);
+const boost=days<=30?1.0:days<=90?0.75:0.5;
+return v*boost;
+}
 
-  function render(){
-    const items=getItems();
-    document.getElementById('s-count').textContent=cs?`${items.length} result${items.length!==1?'s':''} for "${cs}"`:`${items.length} launch${items.length!==1?'es':''} on the runway`;
-    if(!items.length){document.getElementById('grid').innerHTML=`<div class="no-res"><h3>No launches found.</h3><p style="margin-top:8px;margin-bottom:24px;">Try a different search or category.</p><a href="submit.html" style="color:var(--runway);font-weight:700;">Be the first to list in this category ↑</a></div>`;return;}
-    document.getElementById('grid').innerHTML=items.map(l=>`<article class="card" onclick="window.location='listings/${l.slug}.html'" role="button" tabindex="0">${l.featured?'<span class="feat-badge">Featured</span>':''}<div class="card-top"><div class="card-logo">${l.logo?`<img src="${l.logo}" alt="${l.name}" />`:(l.emoji||'🚀')}</div><div class="card-info"><div class="card-name">${l.name}</div><div class="card-tagline">${l.tagline}</div></div></div><p class="card-desc">${l.desc}</p><div class="card-footer"><div class="card-meta"><span class="tag">${l.cat}</span>${l.stage?`<span class="tag tag-stage">${l.stage}</span>`:''}<a href="${l.url}" target="_blank" rel="noopener" class="card-link" onclick="event.stopPropagation()">Visit ↗</a></div><button class="upvote ${voted.includes(l.id)?'voted':''}" onclick="upvote(event,'${l.id}')" aria-label="Upvote ${l.name}">▲ <span id="v${l.id}">${votes[l.id]||0}</span></button></div></article>`).join('');
-  }
+async function fetchListings(){
+try{const cached=JSON.parse(localStorage.getItem(CACHE_KEY)||'null');if(cached&&(Date.now()-cached.ts)<CACHE_TTL){LISTINGS=cached.data;initVotes();render();return;}}catch(e){}
+if(AIRTABLE_KEY==='YOUR_AIRTABLE_API_KEY_HERE'){LISTINGS=SEED;initVotes();render();return;}
+try{
+const url=`https://api.airtable.com/v0/${AIRTABLE_BASE}/${encodeURIComponent(AIRTABLE_TABLE)}?filterByFormula={Status}='Approved'&sort[0][field]=Submitted&sort[0][direction]=desc`;
+const res=await fetch(url,{headers:{'Authorization':`Bearer ${AIRTABLE_KEY}`}});
+if(!res.ok)throw new Error();
+const data=await res.json();
+LISTINGS=data.records.map(r=>({id:r.id,name:r.fields['Product Name']||'',tagline:r.fields['Tagline']||'',desc:r.fields['Description']||'',emoji:r.fields['Emoji']||'🚀',logo:r.fields['Logo URL']||'',cat:r.fields['Category']||'Other',url:r.fields['URL']||'#',stage:r.fields['Stage']||'',votes:r.fields['Votes']||0,featured:r.fields['Featured']||false,slug:r.fields['Slug']||'',date:r.fields['Submitted']||'',mrr:r.fields['MRR']||''}));
+localStorage.setItem(CACHE_KEY,JSON.stringify({ts:Date.now(),data:LISTINGS}));
+initVotes();render();
+}catch(err){LISTINGS=SEED;initVotes();render();}
+}
 
-  function upvote(e,id){e.stopPropagation();if(voted.includes(id)){toast('Already upvoted!');return;}votes[id]=(votes[id]||0)+1;voted.push(id);localStorage.setItem('lf_v3',JSON.stringify(voted));localStorage.setItem('lf_vc3',JSON.stringify(votes));const el=document.getElementById('v'+id);if(el)el.textContent=votes[id];e.currentTarget.classList.add('voted');toast('Upvoted! ▲');}
-  document.getElementById('filters').addEventListener('click',e=>{if(!e.target.classList.contains('fb'))return;document.querySelectorAll('.fb').forEach(b=>b.classList.remove('active'));e.target.classList.add('active');cf=e.target.dataset.f;render();});
-  document.getElementById('search').addEventListener('input',e=>{cs=e.target.value.trim();render();});
-  document.getElementById('sort').addEventListener('change',e=>{sortBy=e.target.value;render();});
-  function toast(msg){const t=document.getElementById('toast');t.textContent=msg;t.classList.add('show');setTimeout(()=>t.classList.remove('show'),3500);}
-  fetchListings();
+function initVotes(){LISTINGS.forEach(l=>{if(votes[l.id]==null)votes[l.id]=l.votes;});}
+
+function getItems(){
+let items=LISTINGS.filter(l=>{
+const mc=cf==='all'||l.cat===cf;
+const q=cs.toLowerCase();
+const mq=!q||l.name.toLowerCase().includes(q)||l.tagline.toLowerCase().includes(q)||(l.desc||'').toLowerCase().includes(q)||l.cat.toLowerCase().includes(q);
+return mc&&mq;
+});
+if(sortBy==='trending')items.sort((a,b)=>trendingScore(b)-trendingScore(a));
+else if(sortBy==='votes')items.sort((a,b)=>(votes[b.id]||0)-(votes[a.id]||0));
+else if(sortBy==='az')items.sort((a,b)=>a.name.localeCompare(b.name));
+else items.sort((a,b)=>new Date(b.date||0)-new Date(a.date||0));
+return items;
+}
+
+function render(){
+const items=getItems();
+document.getElementById('s-count').textContent=cs?`${items.length} result${items.length!==1?'s':''} for "${cs}"`:`${items.length} launch${items.length!==1?'es':''} on the runway`;
+if(!items.length){document.getElementById('grid').innerHTML=`<div class="no-res"><h3>No launches found.</h3><p style="margin-top:8px;margin-bottom:24px;">Try a different search or category.</p><a href="submit.html" style="color:var(--runway);font-weight:700;">Be the first to list in this category ↑</a></div>`;return;}
+document.getElementById('grid').innerHTML=items.map(l=>`<article class="card" onclick="window.location='listings/${l.slug}.html'" role="button" tabindex="0">${l.featured?'<span class="feat-badge">Featured</span>':''}<div class="card-top"><div class="card-logo">${l.logo?`<img src="${l.logo}" alt="${l.name}" />`:(l.emoji||'🚀')}</div><div class="card-info"><div class="card-name">${l.name}</div><div class="card-tagline">${l.tagline}</div></div></div><p class="card-desc">${l.desc}</p><div class="card-footer"><div class="card-meta"><span class="tag">${l.cat}</span>${l.stage?`<span class="tag tag-stage">${l.stage}</span>`:''}${l.mrr?`<span class="tag tag-mrr">${l.mrr} MRR</span>`:''}<a href="${l.url}" target="_blank" rel="noopener" class="card-link" onclick="event.stopPropagation()">Visit ↗</a></div><button class="upvote ${voted.includes(l.id)?'voted':''}" onclick="upvote(event,'${l.id}')" aria-label="Upvote ${l.name}">▲ <span id="v${l.id}">${votes[l.id]||0}</span></button></div></article>`).join('');
+}
+
+function upvote(e,id){e.stopPropagation();if(voted.includes(id)){toast('Already upvoted!');return;}votes[id]=(votes[id]||0)+1;voted.push(id);localStorage.setItem('lf_v3',JSON.stringify(voted));localStorage.setItem('lf_vc3',JSON.stringify(votes));const el=document.getElementById('v'+id);if(el)el.textContent=votes[id];e.currentTarget.classList.add('voted');toast('Upvoted! ▲');}
+
+document.getElementById('filters').addEventListener('click',e=>{if(!e.target.classList.contains('fb'))return;document.querySelectorAll('.fb').forEach(b=>b.classList.remove('active'));e.target.classList.add('active');cf=e.target.dataset.f;render();});
+document.getElementById('search').addEventListener('input',e=>{cs=e.target.value.trim();render();});
+document.getElementById('sort').addEventListener('change',e=>{sortBy=e.target.value;render();});
+
+function toast(msg){const t=document.getElementById('toast');t.textContent=msg;t.classList.add('show');setTimeout(()=>t.classList.remove('show'),3500);}
+fetchListings();
 </script>
 </body>
 </html>
