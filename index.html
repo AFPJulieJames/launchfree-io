@@ -31,8 +31,13 @@
     .nav-inner{max-width:1200px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;height:60px;gap:20px;}
     .logo{font-family:var(--serif);font-size:1.25rem;font-weight:700;color:var(--white);white-space:nowrap;flex-shrink:0;}.logo span{color:var(--runway);}
     .nav-search{flex:1;max-width:320px;position:relative;}.nav-search input{width:100%;background:var(--ink-light);border:1px solid var(--card-border);border-radius:99px;padding:7px 16px 7px 36px;color:var(--white);font-family:var(--sans);font-size:0.85rem;outline:none;transition:border-color 0.2s;}.nav-search input:focus{border-color:rgba(232,255,71,0.3);}.nav-search input::placeholder{color:var(--muted);}.nav-search svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);width:14px;height:14px;stroke:var(--muted);fill:none;pointer-events:none;}
-    .nav-links{display:flex;align-items:center;gap:22px;list-style:none;flex-shrink:0;}.nav-toggle{display:none;background:transparent;border:none;cursor:pointer;flex-direction:column;justify-content:center;gap:5px;width:32px;height:32px;padding:0;}.nav-toggle span{display:block;width:22px;height:2px;background:var(--white);border-radius:2px;}.nav-links a{font-size:0.85rem;font-weight:500;color:var(--white-dim);transition:color 0.2s;}.nav-links a:hover{color:var(--white);}
+    .nav-links{display:flex;align-items:center;gap:22px;list-style:none;flex-shrink:0;}.nav-links a{font-size:0.85rem;font-weight:500;color:var(--white-dim);transition:color 0.2s;}.nav-links a:hover{color:var(--white);}
     .nav-cta{background:var(--runway)!important;color:var(--ink)!important;padding:7px 18px!important;border-radius:99px;font-weight:700!important;font-size:0.82rem!important;transition:background 0.2s,transform 0.15s!important;}.nav-cta:hover{background:var(--runway-dim)!important;transform:translateY(-1px);}
+    .nav-toggle{display:none;background:transparent;border:none;flex-direction:column;justify-content:center;gap:5px;width:36px;height:36px;padding:0;flex-shrink:0;}
+    .nav-toggle span{display:block;width:22px;height:2px;background:var(--white);border-radius:2px;transition:transform 0.25s ease,opacity 0.2s ease;}
+    .nav-toggle.open span:nth-child(1){transform:translateY(7px) rotate(45deg);}
+    .nav-toggle.open span:nth-child(2){opacity:0;}
+    .nav-toggle.open span:nth-child(3){transform:translateY(-7px) rotate(-45deg);}
     .hero{position:relative;padding:90px 5% 70px;text-align:center;overflow:hidden;}
     .hero-grid{position:absolute;inset:0;background-image:linear-gradient(rgba(232,255,71,0.025) 1px,transparent 1px),linear-gradient(90deg,rgba(232,255,71,0.025) 1px,transparent 1px);background-size:60px 60px;mask-image:radial-gradient(ellipse 80% 60% at 50% 0%,black 0%,transparent 100%);pointer-events:none;}
     .hero-glow{position:absolute;top:-80px;left:50%;transform:translateX(-50%);width:600px;height:500px;background:radial-gradient(circle,rgba(232,255,71,0.07) 0%,transparent 65%);pointer-events:none;}
@@ -107,43 +112,28 @@
     .f-links{display:flex;gap:18px;list-style:none;flex-wrap:wrap;}.f-links a{font-size:0.78rem;color:var(--muted);transition:color 0.2s;}.f-links a:hover{color:var(--white);}
     .f-copy{font-size:0.73rem;color:var(--muted);text-align:right;}
     .toast{position:fixed;bottom:22px;right:22px;background:var(--runway);color:var(--ink);font-weight:700;font-size:0.86rem;padding:11px 18px;border-radius:var(--r-sm);z-index:9998;transform:translateY(60px);opacity:0;transition:transform 0.3s ease,opacity 0.3s ease;max-width:280px;}.toast.show{transform:translateY(0);opacity:1;}
-    @media(max-width:768px){.nav-search{display:none}.nav-links{position:fixed;top:60px;left:0;right:0;background:rgba(10,15,26,0.98);backdrop-filter:blur(16px);flex-direction:column;align-items:flex-start;gap:0;padding:20px 5%;border-bottom:1px solid var(--card-border);transform:translateY(-110%);transition:transform 0.25s ease;}.nav-links.open{transform:translateY(0);}.nav-links li{width:100%;border-bottom:1px solid var(--card-border);}.nav-links li:last-child{border-bottom:none;padding-top:8px;}.nav-links li a{display:block;padding:16px 0;font-size:1rem;}.nav-toggle{display:flex;}.origin-grid{grid-template-columns:1fr;gap:32px;padding:60px 5%}.std-cols{grid-template-columns:1fr}.std-box{padding:24px 18px}.sub-cta-box{padding:32px 20px}.nl-box{padding:30px 18px}.footer-in{grid-template-columns:1fr;gap:14px}.f-copy{text-align:left}.stat+.stat{border-left:none;border-top:1px solid var(--card-border)}.stats-bar{padding:18px}}
+    @media(max-width:768px){
+      .nav-inner{gap:12px;}
+      .nav-search{display:none;}
+      .nav-toggle{display:flex;}
+      .nav-links{position:fixed;top:60px;left:0;right:0;flex-direction:column;align-items:stretch;gap:0;background:rgba(10,15,26,0.98);backdrop-filter:blur(16px);border-bottom:1px solid var(--card-border);padding:8px 5% 16px;transform:translateY(-120%);transition:transform 0.28s ease;box-shadow:0 12px 32px rgba(0,0,0,0.4);}
+      .nav-links.open{transform:translateY(0);}
+      .nav-links li{width:100%;border-bottom:1px solid var(--card-border);}
+      .nav-links li:last-child{border-bottom:none;padding-top:12px;text-align:center;}
+      .nav-links li a{display:block;padding:16px 4px;font-size:1rem;color:var(--white);}
+      .nav-links li .nav-cta{display:inline-block;padding:11px 22px!important;font-size:0.88rem!important;}
+      .origin-grid{grid-template-columns:1fr;gap:32px;padding:60px 5%;}
+      .std-cols{grid-template-columns:1fr;}
+      .std-box{padding:24px 18px;}
+      .sub-cta-box{padding:32px 20px;}
+      .nl-box{padding:30px 18px;}
+      .footer-in{grid-template-columns:1fr;gap:14px;}
+      .f-copy{text-align:left;}
+      .stat+.stat{border-left:none;border-top:1px solid var(--card-border);}
+      .stats-bar{padding:18px;}
+    }
     @media(max-width:480px){.hero{padding:56px 5% 46px}.grid{grid-template-columns:1fr}}
   </style>
-  <!-- Organization Schema -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "LaunchFree.io",
-  "url": "https://launchfree.io",
-  "logo": "https://launchfree.io/og-image.png",
-  "description": "The free launch directory for anyone building anything. Submit your business, product, service, or idea. No cost, no approval fee, no catch.",
-  "founder": {
-    "@type": "Person",
-    "name": "Julie James",
-    "sameAs": "https://twitter.com/JulieBuilds"
-  },
-  "sameAs": [
-    "https://twitter.com/JulieBuilds"
-  ]
-}
-</script>
-
-<!-- WebSite Schema with SearchAction -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "LaunchFree.io",
-  "url": "https://launchfree.io",
-  "description": "Free launch directory for builders. Submit your launch free, forever.",
-  "publisher": {
-    "@type": "Organization",
-    "name": "LaunchFree.io"
-  }
-}
-</script>
 </head>
 <body>
 <nav>
@@ -153,17 +143,17 @@
       <svg viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
       <input type="search" id="nav-s" placeholder="Search the runway..." aria-label="Search listings" />
     </div>
-    <ul class="nav-links">
+    <ul class="nav-links" id="nav-links">
       <li><a href="browse.html">Browse</a></li>
       <li><a href="#what-you-get">What you get</a></li>
       <li><a href="#standards">Standards</a></li>
       <li><a href="submit.html" class="nav-cta">Get on the runway ↑</a></li>
-        </ul>
-        <button class="nav-toggle" aria-label="Menu" onclick="document.querySelector('.nav-links').classList.toggle('open')">
-          <span></span><span></span><span></span>
-        </button>
-      </div>
-    </nav>
+    </ul>
+    <button class="nav-toggle" id="nav-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="nav-links">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</nav>
 <section class="hero">
   <div class="hero-grid"></div>
   <div class="hero-glow"></div>
@@ -343,6 +333,28 @@
 </footer>
 <div class="toast" id="toast" role="alert"></div>
 <script>
+  /* ── MOBILE NAV TOGGLE ── */
+  (function(){
+    const btn = document.getElementById('nav-toggle');
+    const menu = document.getElementById('nav-links');
+    if(!btn || !menu) return;
+    btn.addEventListener('click', function(){
+      const isOpen = menu.classList.toggle('open');
+      btn.classList.toggle('open', isOpen);
+      btn.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+      btn.setAttribute('aria-label', isOpen ? 'Close menu' : 'Open menu');
+    });
+    // Close menu when a link is tapped
+    menu.querySelectorAll('a').forEach(function(a){
+      a.addEventListener('click', function(){
+        menu.classList.remove('open');
+        btn.classList.remove('open');
+        btn.setAttribute('aria-expanded','false');
+        btn.setAttribute('aria-label','Open menu');
+      });
+    });
+  })();
+
   /* ── CONFIG ── */
   const AIRTABLE_BASE = 'appuyAibeokhZsDJ9';
   const AIRTABLE_TABLE = 'Submissions';
