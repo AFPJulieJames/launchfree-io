@@ -89,7 +89,6 @@ nav{position:sticky;top:0;z-index:100;background:rgba(10,15,26,0.92);backdrop-fi
 .card-link{font-size:0.75rem;color:var(--muted);display:inline-flex;align-items:center;gap:3px;transition:color 0.2s;}.card-link:hover{color:var(--runway);}
 .upvote{display:flex;align-items:center;gap:5px;background:var(--ink-lighter);border:1px solid var(--card-border);color:var(--muted);font-size:0.78rem;font-weight:700;padding:5px 12px;border-radius:99px;transition:all 0.2s;flex-shrink:0;cursor:pointer;}.upvote:hover,.upvote.voted{background:rgba(232,255,71,0.1);border-color:rgba(232,255,71,0.3);color:var(--runway);}
 .feat-badge{position:absolute;top:13px;right:13px;font-size:0.62rem;font-weight:700;letter-spacing:0.07em;text-transform:uppercase;background:rgba(232,255,71,0.1);color:var(--runway);border:1px solid rgba(232,255,71,0.2);padding:3px 9px;border-radius:99px;}
-/* Runway Radar banner */
 .radar-banner{max-width:1200px;margin:0 auto 24px;padding:0 5%;}
 .radar-banner-inner{background:rgba(232,255,71,0.05);border:1px solid rgba(232,255,71,0.14);border-radius:14px;padding:18px 24px;display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;}
 .radar-banner-icon{font-size:1.4rem;line-height:1;flex-shrink:0;}
@@ -244,6 +243,9 @@ footer{padding:34px 5%;border-top:1px solid var(--card-border);background:var(--
 <button class="fb" data-f="Creator Tools">Creator</button>
 <button class="fb" data-f="SaaS">SaaS</button>
 <button class="fb" data-f="AI / ML">AI / ML</button>
+<button class="fb" data-f="Health">Health</button>
+<button class="fb" data-f="Developer Tools">Dev Tools</button>
+<button class="fb" data-f="Productivity">Productivity</button>
 <button class="fb" data-f="Community">Community</button>
 <button class="fb" data-f="Newsletter">Newsletter</button>
 </div>
@@ -377,7 +379,7 @@ footer{padding:34px 5%;border-top:1px solid var(--card-border);background:var(--
 <div class="toast" id="toast" role="alert"></div>
 
 <script>
-/* ── MOBILE NAV TOGGLE ── */
+/* MOBILE NAV TOGGLE */
 (function(){
 const btn=document.getElementById('nav-toggle');
 const menu=document.getElementById('nav-links');
@@ -396,21 +398,36 @@ btn.setAttribute('aria-expanded','false');btn.setAttribute('aria-label','Open me
 });
 })();
 
-/* ── CONFIG ── */
+/* CONFIG */
 const AIRTABLE_BASE='appuyAibeokhZsDJ9';
 const AIRTABLE_TABLE='Submissions';
 const AIRTABLE_KEY='YOUR_AIRTABLE_API_KEY_HERE';
 const CACHE_KEY='lf_listings_cache';
 const CACHE_TTL=60*60*1000;
 
-/* ── SEED LISTINGS ── */
+/* SEED LISTINGS */
 const SEED=[
 {id:'s1',name:'AffiliateFinderPro',tagline:'Find high-paying affiliate programs across every niche',desc:'Curated, vetted affiliate programs with commission rates and direct apply links. Built for creators, bloggers, and anyone ready to earn. Free to browse, always.',emoji:'🔍',cat:'Affiliate',url:'https://affiliatefinderpro.com',stage:'Live',votes:12,featured:true,slug:'affiliatefinderpro',mrr:''},
 {id:'s2',name:'FareFinderAI',tagline:'Find cheaper flights with AI, instantly',desc:'Hidden city fares, mistake fares, cashback flights, and flexible routes. The tools airlines do not want you to know about. 5,000 travelers already flying smarter.',emoji:'✈️',cat:'Travel',url:'https://farefinderai.com',stage:'Live',votes:9,featured:false,slug:'farefinderai',mrr:''},
 {id:'s3',name:'Creator Commissions',tagline:'Affiliate marketing for creators of every size, no follower minimum',desc:'The affiliate marketing platform built for small creators, micro influencers, and nano influencers. No follower minimums. No approval gates. Start earning on your own terms.',emoji:'🎯',cat:'Creator Tools',url:'https://creatorcommissions.com',stage:'Early access',votes:7,featured:false,slug:'creatorcommissions',mrr:''},
 {id:'s4',name:'Global Live Shopping',tagline:'The live commerce industry hub for brands, creators and platforms',desc:'Covering live shopping trends, brand programs, creator opportunities, and platform news across TikTok Shop, Amazon Live, and the global live shopping economy.',emoji:'🌐',cat:'Creator Tools',url:'http://globalliveshopping.com',stage:'Live',votes:5,featured:false,slug:'globalliveshopping',mrr:''},
 {id:'s5',name:'Live Shopping Creators',tagline:'Make money live selling on TikTok Shop, Amazon Live and more',desc:'Built for creators who want to monetize their live streams. Find live shopping affiliate programs, learn how to monetize live content, and connect with brands recruiting live sellers.',emoji:'📱',cat:'Creator Tools',url:'http://liveshoppingcreators.com',stage:'Early access',votes:4,featured:false,slug:'liveshoppingcreators',mrr:''},
-{id:'s6',name:'Affiliate Live Shopping',tagline:'The home base for live shopping affiliates',desc:'Find the best live shopping affiliate programs, compare TikTok Shop vs Amazon Live commissions, and turn live content into consistent affiliate income.',emoji:'💰',cat:'Affiliate',url:'http://affiliateliveshopping.com',stage:'Early access',votes:4,featured:false,slug:'affiliateliveshopping',mrr:''}
+{id:'s6',name:'Affiliate Live Shopping',tagline:'The home base for live shopping affiliates',desc:'Find the best live shopping affiliate programs, compare TikTok Shop vs Amazon Live commissions, and turn live content into consistent affiliate income.',emoji:'💰',cat:'Affiliate',url:'http://affiliateliveshopping.com',stage:'Early access',votes:4,featured:false,slug:'affiliateliveshopping',mrr:''},
+{id:"n1",name:"Solo Founder AI Playbook",tagline:"50 AI prompts for solo founders building their first $10K MRR micro-SaaS",desc:"50 structured, non-generic AI prompts for building a micro-SaaS. Idea validation, product architecture, landing page copy, customer acquisition, and growth. Works with Claude, ChatGPT, or any LLM.",emoji:"🧠",cat:"AI / ML",url:"https://payhip.com/b/szBp7",stage:"Live",votes:0,featured:false,slug:"solofounderaiplaybook",mrr:""},
+{id:"n2",name:"FocusKit",tagline:"Body doubling + visual timer for ADHD, no account, no ads",desc:"A local-first ADHD focus app for Android. A body-doubling companion, visual time-blindness timer, one-tap task capture, and no-shame progress tracking. No account, no ads, no tracking.",emoji:"⏳",cat:"Health",url:"https://github.com/Costder/FocusKit",stage:"Coming Soon",votes:0,featured:false,slug:"focuskit",mrr:""},
+{id:"n3",name:"Docshark",tagline:"Send a doc, see every page they read, then get it signed",desc:"Turn any PDF into a controlled link that shows every open and per-page read time, sign on the same link, and seal it with a verifiable PAdES certificate. Analytics and e-signatures on the free plan.",emoji:"🦈",cat:"SaaS",url:"https://doc-shark.com/en/docshark",stage:"Live",votes:0,featured:false,slug:"docshark",mrr:""},
+{id:"n4",name:"ByteLens",tagline:"Free online protocol visualizer and packet analyzer for developers",desc:"A free online protocol visualizer and packet analysis tool for TCP, UDP, IPv4, IPv6, DNS, and Ethernet. Parse hex packets and inspect protocol fields interactively.",emoji:"🔬",cat:"Developer Tools",url:"https://bytelens.dev",stage:"Live",votes:0,featured:false,slug:"bytelens",mrr:""},
+{id:"n5",name:"Spire",tagline:"AI-powered SOC 2 and EU AI Act compliance evidence collection",desc:"Connects to your infrastructure and continuously collects compliance evidence. An AI agent evaluates it against 66 controls across SOC 2 Type II and the EU AI Act, with citations and remediation guidance.",emoji:"🛡️",cat:"SaaS",url:"https://spire.synov8studio.com",stage:"Live",votes:0,featured:false,slug:"spire",mrr:""},
+{id:"n6",name:"IT Easy Tool",tagline:"Free calculators, AI cost tools, SEO and marketing utilities",desc:"A free online portal with 50+ calculators and utilities for finance, AI API pricing, SEO, marketing, developers, PDF, and image workflows. No signup required for core tools.",emoji:"🧮",cat:"SaaS",url:"https://iteasytool.online",stage:"Live",votes:0,featured:false,slug:"iteasytool",mrr:""},
+{id:"n7",name:"Equity Lens",tagline:"Startup equity and dilution calculators with UK EMI support",desc:"Helps startup employees and founders understand compensation. Free equity worth calculator, multi-round dilution simulator, exit and EMI tax estimator, and role-based benchmarks. Educational only.",emoji:"📊",cat:"Service",url:"https://getequitylens.com",stage:"Live",votes:0,featured:false,slug:"equitylens",mrr:""},
+{id:"n8",name:"RantRam",tagline:"Anonymous venting, no account, no one knows it's you",desc:"An emotional wellness site for getting what is bottled up out of your head. Post anonymously with no account or tracking, and receive low-pressure support. Plus guides on burnout, loneliness, and stress.",emoji:"💬",cat:"Health",url:"https://rantram.com/",stage:"Live",votes:0,featured:false,slug:"rantram",mrr:""},
+{id:"n9",name:"AI Receptionist",tagline:"Website chat assistant for leads and appointment requests",desc:"A website chat assistant for appointment-based businesses. Answers questions, captures qualified leads, creates appointment requests, and sends follow-up emails so teams respond faster.",emoji:"💁",cat:"AI / ML",url:"https://aireceptionist.so",stage:"Live",votes:0,featured:false,slug:"aireceptionist",mrr:""},
+{id:"n10",name:"SEObot",tagline:"AI-powered search visibility and SEO automation",desc:"Simplifies SEO through intelligent automation. Analyzes search data in real time, identifies high-impact keywords, and continuously refines strategy to improve rankings and attract visitors.",emoji:"🤖",cat:"SaaS",url:"https://seobotai.com",stage:"Live",votes:0,featured:false,slug:"seobot",mrr:""},
+{id:"n11",name:"Mind Vortex",tagline:"ADHD planner for calmer, focused days",desc:"A productivity app designed for ADHD minds. Brain dumps, daily planning, focused work sessions, routines, and end-of-day reflection. Free to start on iOS and Android, no account needed until you sync.",emoji:"🌀",cat:"Productivity",url:"https://mindvortex.app",stage:"Live",votes:0,featured:false,slug:"mindvortex",mrr:""},
+{id:"n12",name:"MediaCaption",tagline:"YouTube transcripts, even when captions are missing",desc:"Turns YouTube links into clean, timestamped transcripts you can search, copy, and export. Public captions work without signup; AI speech-to-text fills the gaps. Export TXT, timestamped text, SRT, or VTT.",emoji:"📝",cat:"Creator Tools",url:"https://mediacaption.io",stage:"Live",votes:0,featured:false,slug:"mediacaption",mrr:""},
+{id:"n13",name:"Clout AI",tagline:"Create and monetize your own AI influencer",desc:"A paid AI influencer studio for creators, agencies, and growth teams. Build reusable virtual personas and generate consistent AI photos and videos for TikTok, Reels, Shorts, and UGC campaigns.",emoji:"✨",cat:"AI / ML",url:"https://www.tryclout.ai",stage:"Live",votes:0,featured:false,slug:"cloutai",mrr:""},
+{id:"n14",name:"Nexly",tagline:"Privacy-first product analytics with AI-powered answers",desc:"Brings web traffic, product events, funnels, reports, anomaly detection, and evidence-backed AI Insights into one focused workspace. SDKs for web, Next.js, React, React Native, Flutter, iOS, and Node.",emoji:"📈",cat:"SaaS",url:"https://www.nexly.to",stage:"Beta",votes:0,featured:false,slug:"nexly",mrr:""},
+{id:"n15",name:"Showcase",tagline:"See what your resume actually proves, then turn evidence into a portfolio",desc:"Helps students and early-career professionals turn resume claims into defensible evidence. A free 11-dimension ProofScore audits your work, then builds a private portfolio from facts you can verify.",emoji:"🎓",cat:"AI / ML",url:"https://app.tryshowcase.ink/proofscore",stage:"Beta",votes:0,featured:false,slug:"showcase",mrr:""}
 ];
 
 let LISTINGS=[];
@@ -418,7 +435,7 @@ let voted=JSON.parse(localStorage.getItem('lf_v3')||'[]');
 let votes=JSON.parse(localStorage.getItem('lf_vc3')||'null')||{};
 let cf='all',cs='',csort='newest';
 
-/* ── TRENDING SCORE ── */
+/* TRENDING SCORE */
 function trendingScore(l){
 const v=votes[l.id]||0;
 const submitted=l.submitted?new Date(l.submitted):new Date(0);
@@ -427,7 +444,7 @@ const boost=days<=30?1.0:days<=90?0.75:0.5;
 return v*boost;
 }
 
-/* ── FETCH ── */
+/* FETCH */
 async function fetchListings(){
 try{
 const cached=JSON.parse(localStorage.getItem(CACHE_KEY)||'null');
@@ -470,7 +487,7 @@ switch(csort){
 case'trending':return [...items].sort((a,b)=>trendingScore(b)-trendingScore(a));
 case'votes':return [...items].sort((a,b)=>(votes[b.id]||0)-(votes[a.id]||0));
 case'az':return [...items].sort((a,b)=>a.name.localeCompare(b.name));
-default:return items; // newest = API order
+default:return items;
 }
 }
 
@@ -527,7 +544,7 @@ e.currentTarget.classList.add('voted');
 toast('Upvoted! ▲');
 }
 
-/* ── FILTER BUTTONS ── */
+/* FILTER BUTTONS */
 document.getElementById('filters').addEventListener('click',e=>{
 if(!e.target.classList.contains('fb'))return;
 document.querySelectorAll('.fb').forEach(b=>b.classList.remove('active'));
@@ -535,7 +552,7 @@ e.target.classList.add('active');
 cf=e.target.dataset.f;render();
 });
 
-/* ── SORT BUTTONS ── */
+/* SORT BUTTONS */
 document.getElementById('sort-bar').addEventListener('click',e=>{
 if(!e.target.classList.contains('sb'))return;
 document.querySelectorAll('.sb').forEach(b=>b.classList.remove('active'));
@@ -543,7 +560,7 @@ e.target.classList.add('active');
 csort=e.target.dataset.s;render();
 });
 
-/* ── SEARCH ── */
+/* SEARCH */
 function hookSearch(id){
 const el=document.getElementById(id);if(!el)return;
 el.addEventListener('input',e=>{
@@ -555,7 +572,7 @@ if(cs)document.getElementById('listings').scrollIntoView({behavior:'smooth',bloc
 }
 hookSearch('main-s');hookSearch('nav-s');
 
-/* ── NEWSLETTER ── */
+/* NEWSLETTER */
 function handleNL(e){
 e.preventDefault();
 const btn=e.target.querySelector('button');const input=e.target.querySelector('input[type=email]');
