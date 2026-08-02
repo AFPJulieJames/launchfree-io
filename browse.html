@@ -85,19 +85,19 @@ footer{padding:34px 5%;border-top:1px solid var(--card-border);background:var(--
 <div class="controls-row">
 <div class="filters" id="filters">
 <button class="fb active" data-f="all">All</button>
-<button class="fb" data-f="Affiliate">Affiliate</button>
-<button class="fb" data-f="Travel">Travel</button>
-<button class="fb" data-f="Creator Tools">Creator</button>
-<button class="fb" data-f="SaaS">SaaS</button>
 <button class="fb" data-f="AI / ML">AI / ML</button>
-<button class="fb" data-f="Marketing">Marketing</button>
-<button class="fb" data-f="Health">Health</button>
 <button class="fb" data-f="Developer Tools">Dev Tools</button>
+<button class="fb" data-f="SaaS">SaaS</button>
 <button class="fb" data-f="Productivity">Productivity</button>
+<button class="fb" data-f="Creator Tools">Creator</button>
+<button class="fb" data-f="Fintech">Fintech</button>
+<button class="fb" data-f="Health">Health</button>
+<button class="fb" data-f="Education">Education</button>
+<button class="fb" data-f="Marketing">Marketing</button>
+<button class="fb" data-f="E-commerce">E-commerce</button>
 <button class="fb" data-f="Community">Community</button>
-<button class="fb" data-f="Newsletter">Newsletter</button>
-<button class="fb" data-f="Service">Service</button>
-<button class="fb" data-f="Physical Product">Physical</button>
+<button class="fb" data-f="Travel">Travel</button>
+<button class="fb" data-f="Affiliate">Affiliate</button>
 </div>
 <div class="sort-wrap">
 <span class="sort-label">Sort by</span>
@@ -198,7 +198,12 @@ return v*boost;
 }
 
 async function fetchListings(){
-try{const cached=JSON.parse(localStorage.getItem(CACHE_KEY)||'null');if(cached&&(Date.now()-cached.ts)<CACHE_TTL){LISTINGS=cached.data;initVotes();render();return;}}catch(e){}
+try{
+const res=await fetch('listings.json',{cache:'no-cache'});
+if(!res.ok)throw new Error();
+LISTINGS=await res.json();
+initVotes();render();return;
+}catch(e){}
 if(AIRTABLE_KEY==='YOUR_AIRTABLE_API_KEY_HERE'){LISTINGS=SEED;initVotes();render();return;}
 try{
 const url=`https://api.airtable.com/v0/${AIRTABLE_BASE}/${encodeURIComponent(AIRTABLE_TABLE)}?filterByFormula={Status}='Approved'&sort[0][field]=Submitted&sort[0][direction]=desc`;
