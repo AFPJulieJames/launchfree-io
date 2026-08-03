@@ -1,0 +1,55 @@
+# LaunchFree.io — The Runway
+
+> LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever — no fees, no approval fee, no paywall — and every submission is reviewed by a real person within about 24 hours.
+
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 90 live launches spanning categories including Education, AI / ML, Developer Tools, Creator Tools, Health, Fintech, Productivity, Other, SaaS, Service, Community, Marketing.
+
+## Key pages
+- [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
+- [Browse the Runway](https://launchfree.io/browse.html): The full, filterable grid of every live launch, searchable by category, stage, and popularity.
+- [Directory (all launches, static HTML)](https://launchfree.io/directory.html): Every launch as plain links grouped by category — the full catalog, crawlable without JavaScript.
+- [Submit your launch](https://launchfree.io/submit.html): Free submission form. After a ~24-hour human review you get a permanent listing page, a free dofollow backlink, a badge, and a newsletter feature.
+- [Bootstrap Founder Tools](https://launchfree.io/bootstrap-founder-tools.html): Guide and hub for bootstrapped founders looking to launch and get discovered for free.
+- [Free Product Launch Directory](https://launchfree.io/free-product-launch-directory.html): Overview of LaunchFree as a genuinely free, no-paywall alternative to paid launch platforms.
+- [Indie Maker Directory](https://launchfree.io/indie-maker-directory.html): Directory hub for indie makers and solo builders to list side projects and MVPs for free.
+- [Launch Your SaaS Free](https://launchfree.io/launch-saas-free.html): How to launch a SaaS product for free on The Runway and earn a permanent dofollow backlink.
+- [Privacy Policy](https://launchfree.io/privacy.html): How LaunchFree.io handles data and privacy.
+- [Terms](https://launchfree.io/terms.html): Terms of use for LaunchFree.io.
+- [Disclaimer](https://launchfree.io/disclaimer.html): Site disclaimer for LaunchFree.io.
+
+## Recent launches
+- [First Paycheck](https://launchfree.io/listings/firstpaycheck.html): The honest work-from-home guide (Education).
+- [Uncork](https://launchfree.io/listings/uncork.html): Turn a 5-minute questionnaire into a polished wedding toast (AI / ML).
+- [Causeway](https://launchfree.io/listings/causeway.html): Give your AI a real Chromium browser (Developer Tools).
+- [Fabylon Bookmaker](https://launchfree.io/listings/fabylonbookmaker.html): Free local-first bookmaking software that understands poetry (Creator Tools).
+- [SignalSheet Lab](https://launchfree.io/listings/signalsheetlab.html): Local-first CSV profiling for faster, clearer data decisions (Developer Tools).
+- [Auto-Respond](https://launchfree.io/listings/autorespond.html): AI lead response for Thumbtack and service businesses (AI / ML).
+- [DBT Companion](https://launchfree.io/listings/dbtcompanion.html): Free DBT skills, practice steps, favourites, and a private diary card (Health).
+- [Fortuneteller.Today](https://launchfree.io/listings/fortunetellertoday.html): AI-powered tarot, astrology, BaZi, numerology and runes (AI / ML).
+- [Lumora Storybooks](https://launchfree.io/listings/lumorastorybooks.html): Turn one photo into a personalized illustrated storybook for your kid (Education).
+- [Contaro](https://launchfree.io/listings/contaro.html): Bookkeeping and invoicing software for Austrian small businesses (Fintech).
+- [Screen Break](https://launchfree.io/listings/screenbreak.html): A gentle Mac break reminder that makes pauses happen (Productivity).
+- [YouComic](https://launchfree.io/listings/youcomic.html): Your one-stop AI comic creation platform (Creator Tools).
+- [Agent Approval Inbox](https://launchfree.io/listings/agentapprovalinbox.html): Review consequential automation actions before they run (Developer Tools).
+- [Private Text Scanner](https://launchfree.io/listings/privatetextscanner.html): Private Android OCR that keeps scans and recognized text on your device (Productivity).
+- [Shred the Secrets Wiki](https://launchfree.io/listings/shredthesecretswiki.html): Plan every run, upgrade, secret, badge, and ending (Other).
+- [UrgentCare Dental Bingley](https://launchfree.io/listings/urgentcaredentalbingley.html): A new 24-hour emergency dental clinic for Bingley and Bradford (Health).
+- [Credian](https://launchfree.io/listings/credian.html): Safer financial controls for AI agents (Fintech).
+- [Extract.FAST](https://launchfree.io/listings/extractfast.html): Extract images, text, audio, and metadata from documents and media in bulk (SaaS).
+- [LinkFulfill](https://launchfree.io/listings/linkfulfill.html): Managed, proof-backed directory submissions for SaaS founders (Service).
+- [Web Wander](https://launchfree.io/listings/webwander.html): Escape the feed and find a surprising corner of the web in one click (Other).
+- [READY](https://launchfree.io/listings/ready.html): Free, Open, Community-Led Career Progress (Community).
+- [Musicvertising](https://launchfree.io/listings/musicvertising.html): AI powered music marketing for independent artists (Service).
+- [PawCoach Dog Love Check](https://launchfree.io/listings/pawcoachdoglovecheck.html): Free AI dog love check based on seven everyday moments (AI / ML).
+- [LocalVeil Studio](https://launchfree.io/listings/localveilstudio.html): Redact images, PDFs, Word and Excel locally on Windows (Productivity).
+- [SkipCalls](https://launchfree.io/listings/skipcalls.html): AI phone receptionist for small businesses (AI / ML).
+- [Prosperics](https://launchfree.io/listings/prosperics.html): Free US & Canada financial calculators—no bank sync (Fintech).
+- [Doom Scroll](https://launchfree.io/listings/doomscroll.html): Infinite scroll feed that clocks your miles (Other).
+- [RateYourReads](https://launchfree.io/listings/rateyourreads.html): Track your reading. Discover new books (Community).
+
+## Categories
+Live launches are organized into these categories: Education, AI / ML, Developer Tools, Creator Tools, Health, Fintech, Productivity, Other, SaaS, Service, Community, Marketing, E-commerce, Entertainment, Travel, Lifestyle, Affiliate.
+
+## More
+- [Full sitemap](https://launchfree.io/sitemap.xml): Every indexable page, including all 90 listing pages.
+- The complete, always-current list of launches is at https://launchfree.io/browse.html

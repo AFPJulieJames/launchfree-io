@@ -1,6 +1,59 @@
+# robots.txt for LaunchFree.io — The Runway
+# All crawlers, including AI/LLM crawlers, are welcome. See /llms.txt for an AI-friendly overview.
+
 User-agent: *
 Allow: /
 
+# Explicitly welcome AI answer engines and their training/grounding crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Social/link unfurling bots
 User-agent: facebookexternalhit
 Allow: /
 
