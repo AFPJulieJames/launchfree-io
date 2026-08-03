@@ -290,6 +290,23 @@ footer{position:relative;z-index:1;text-align:center;padding:48px clamp(16px,5vw
 <input type="url" id="logo-url" placeholder="https://yourdomain.com/logo.png" />
 </div>
 </div>
+<!-- HOW DID YOU HEAR ABOUT US (required) -->
+<div class="field">
+<label for="hear-about">How did you hear about us? <span class="req">*</span></label>
+<select id="hear-about">
+<option value="">Select one...</option>
+<option value="Google / Search">Google / search engine</option>
+<option value="X / Twitter">X (Twitter)</option>
+<option value="LinkedIn">LinkedIn</option>
+<option value="Reddit">Reddit</option>
+<option value="Friend / Colleague">A friend or colleague</option>
+<option value="Newsletter / Email">Newsletter / email</option>
+<option value="Another Directory / Site">Another directory or website</option>
+<option value="AI Assistant">AI assistant (ChatGPT, Claude, etc.)</option>
+<option value="Other">Other</option>
+</select>
+<span class="field-error" id="err-hear-about">Please let us know how you found us.</span>
+</div>
 <div class="field">
 <label style="display:flex;align-items:flex-start;gap:12px;cursor:pointer;text-transform:none;letter-spacing:0;font-size:14px;font-weight:500;">
 <input type="checkbox" id="newsletter-opt" style="width:18px;height:18px;accent-color:var(--accent);margin-top:2px;flex-shrink:0;cursor:pointer;" checked />
@@ -346,16 +363,17 @@ function clearErrors(step){document.querySelectorAll(`#step-${step} .field-error
 function validate(step){clearErrors(step);let ok=true;
 if(step===1){const name=document.getElementById('launch-name').value.trim();const url=document.getElementById('launch-url').value.trim();const tag=document.getElementById('tagline').value.trim();if(!name){setError('launch-name','err-launch-name',true);ok=false;}if(!url||!/^[a-zA-Z0-9]/.test(url)){setError('launch-url','err-launch-url',true,'wrap-launch-url');ok=false;}if(!tag){setError('tagline','err-tagline',true);ok=false;}}
 if(step===2){const cat=document.getElementById('category-value').value;const desc=document.getElementById('description').value.trim();const story=document.getElementById('builder-story').value.trim();if(!cat){document.getElementById('err-category').classList.add('show');ok=false;}if(desc.length<100){setError('description','err-description',true);ok=false;}if(!story){setError('builder-story','err-builder-story',true);ok=false;}}
-if(step===3){const nm=document.getElementById('builder-name').value.trim();const em=document.getElementById('builder-email').value.trim();const bio=document.getElementById('builder-bio').value.trim();if(!nm){setError('builder-name','err-builder-name',true);ok=false;}if(!em||!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(em)){setError('builder-email','err-builder-email',true);ok=false;}if(!bio){setError('builder-bio','err-builder-bio',true);ok=false;}}
+if(step===3){const nm=document.getElementById('builder-name').value.trim();const em=document.getElementById('builder-email').value.trim();const bio=document.getElementById('builder-bio').value.trim();const hear=document.getElementById('hear-about').value;if(!nm){setError('builder-name','err-builder-name',true);ok=false;}if(!em||!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(em)){setError('builder-email','err-builder-email',true);ok=false;}if(!bio){setError('builder-bio','err-builder-bio',true);ok=false;}if(!hear){setError('hear-about','err-hear-about',true);ok=false;}}
 if(!ok){const b=document.getElementById('error-'+step);if(b)b.classList.add('show');}return ok;}
 document.querySelectorAll('.cat-pill').forEach(pill=>{pill.addEventListener('click',()=>{document.querySelectorAll('.cat-pill').forEach(p=>p.classList.remove('selected'));pill.classList.add('selected');document.getElementById('category-value').value=pill.dataset.val;document.getElementById('err-category').classList.remove('show');});});
+document.getElementById('hear-about').addEventListener('change',()=>{if(document.getElementById('hear-about').value){setError('hear-about','err-hear-about',false);}});
 function bindCounter(iId,cId,max){const inp=document.getElementById(iId);const cnt=document.getElementById(cId);if(!inp||!cnt)return;inp.addEventListener('input',()=>{const l=inp.value.length;cnt.textContent=l+'/'+max;cnt.classList.toggle('warn',l>max*.8&&l<=max);cnt.classList.toggle('over',l>max);});}
 bindCounter('tagline','tagline-count',80);bindCounter('description','desc-count',1200);
 async function submitForm(){if(!validate(3))return;
 const btn=document.getElementById('submit-btn');const spinner=document.getElementById('spinner');const arrow=document.getElementById('submit-arrow');
 btn.disabled=true;btn.classList.add('loading');spinner.style.display='block';arrow.style.display='none';
 const rawUrl=document.getElementById('launch-url').value.trim();const fullUrl=rawUrl.startsWith('http')?rawUrl:'https://'+rawUrl;
-const fields={'Product Name':document.getElementById('launch-name').value.trim(),'Tagline':document.getElementById('tagline').value.trim(),'URL':fullUrl,'Category':document.getElementById('category-value').value,'Description':document.getElementById('description').value.trim(),'Builder Story':document.getElementById('builder-story').value.trim(),'Launch Status':document.getElementById('launch-status').value||'','Pricing':document.getElementById('pricing').value||'','MRR':document.getElementById('mrr').value.trim(),'Screenshot 1':document.getElementById('screenshot-1').value.trim(),'Screenshot 2':document.getElementById('screenshot-2').value.trim(),'Screenshot 3':document.getElementById('screenshot-3').value.trim(),'Builder Name':document.getElementById('builder-name').value.trim(),'Builder Email':document.getElementById('builder-email').value.trim(),'Builder Bio':document.getElementById('builder-bio').value.trim(),'Twitter':document.getElementById('twitter').value.trim(),'LinkedIn':document.getElementById('linkedin').value.trim(),'Builder Photo':document.getElementById('builder-photo').value.trim(),'Logo URL':document.getElementById('logo-url').value.trim(),'Newsletter Opt In':document.getElementById('newsletter-opt').checked?'Yes':'No','Status':'Pending Review','Submitted At':new Date().toISOString()};
+const fields={'Product Name':document.getElementById('launch-name').value.trim(),'Tagline':document.getElementById('tagline').value.trim(),'URL':fullUrl,'Category':document.getElementById('category-value').value,'Description':document.getElementById('description').value.trim(),'Builder Story':document.getElementById('builder-story').value.trim(),'Launch Status':document.getElementById('launch-status').value||'','Pricing':document.getElementById('pricing').value||'','MRR':document.getElementById('mrr').value.trim(),'Screenshot 1':document.getElementById('screenshot-1').value.trim(),'Screenshot 2':document.getElementById('screenshot-2').value.trim(),'Screenshot 3':document.getElementById('screenshot-3').value.trim(),'Builder Name':document.getElementById('builder-name').value.trim(),'Builder Email':document.getElementById('builder-email').value.trim(),'Builder Bio':document.getElementById('builder-bio').value.trim(),'Twitter':document.getElementById('twitter').value.trim(),'LinkedIn':document.getElementById('linkedin').value.trim(),'Builder Photo':document.getElementById('builder-photo').value.trim(),'Logo URL':document.getElementById('logo-url').value.trim(),'How Did You Hear':document.getElementById('hear-about').value,'Newsletter Opt In':document.getElementById('newsletter-opt').checked?'Yes':'No','Status':'Pending Review','Submitted At':new Date().toISOString()};
 Object.keys(fields).forEach(k=>{if(!fields[k])delete fields[k];});
 try{const res=await fetch(WEBHOOK_URL,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(fields)});if(!res.ok)throw new Error('Webhook error');
 document.getElementById('confirm-name').textContent=fields['Product Name'];document.getElementById('confirm-email').textContent=fields['Builder Email'];showStep(4);}
