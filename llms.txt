@@ -48,7 +48,25 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [RateYourReads](https://launchfree.io/listings/rateyourreads.html): Track your reading. Discover new books (Community).
 
 ## Categories
-Live launches are organized into these categories: Education, AI / ML, Developer Tools, Creator Tools, Health, Fintech, Productivity, Other, SaaS, Service, Community, Marketing, E-commerce, Entertainment, Travel, Lifestyle, Affiliate.
+Browse launches by category (each is a dedicated hub page):
+- [AI / ML](https://launchfree.io/categories/ai-ml.html): 21 launches.
+- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 9 launches.
+- [Fintech](https://launchfree.io/categories/fintech.html): 8 launches.
+- [SaaS](https://launchfree.io/categories/saas.html): 8 launches.
+- [Creator Tools](https://launchfree.io/categories/creator-tools.html): 7 launches.
+- [Productivity](https://launchfree.io/categories/productivity.html): 7 launches.
+- [Health](https://launchfree.io/categories/health.html): 5 launches.
+- [Other](https://launchfree.io/categories/other.html): 5 launches.
+- [Education](https://launchfree.io/categories/education.html): 4 launches.
+- [Community](https://launchfree.io/categories/community.html): 3 launches.
+- [Service](https://launchfree.io/categories/service.html): 3 launches.
+- [Affiliate](https://launchfree.io/categories/affiliate.html): 2 launches.
+- [E-commerce](https://launchfree.io/categories/e-commerce.html): 2 launches.
+- [Marketing](https://launchfree.io/categories/marketing.html): 2 launches.
+- [Travel](https://launchfree.io/categories/travel.html): 2 launches.
+- [Entertainment](https://launchfree.io/categories/entertainment.html): 1 launch.
+- [Lifestyle](https://launchfree.io/categories/lifestyle.html): 1 launch.
+
 
 ## More
 - [Full sitemap](https://launchfree.io/sitemap.xml): Every indexable page, including all 90 listing pages.
