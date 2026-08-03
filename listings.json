@@ -912,22 +912,6 @@
 "mrr": ""
 },
 {
-"id": "nanobanana",
-"name": "Nano Banana",
-"tagline": "Independent AI subscriptions and digital services store",
-"desc": "Nano Banana is an independent online store for AI subscriptions and related digital services. It gives customers a focused storefront for practical su",
-"emoji": "N",
-"logo": "",
-"cat": "E-commerce",
-"url": "https://nano-banana.lol/",
-"stage": "Live",
-"votes": 0,
-"featured": false,
-"slug": "nanobanana",
-"date": "2026-07-22",
-"mrr": ""
-},
-{
 "id": "freecolortool",
 "name": "Free Color Tool",
 "tagline": "Free browser-based color tools for designers and developers.",
