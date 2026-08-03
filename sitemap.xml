@@ -229,6 +229,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://launchfree.io/listings/firstpaycheck.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://launchfree.io/listings/fleetstartradar.html</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -439,6 +445,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://launchfree.io/listings/rantram.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://launchfree.io/listings/rateyourreads.html</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -536,6 +548,12 @@
   </url>
   <url>
     <loc>https://launchfree.io/listings/tradehand.html</loc>
+    <lastmod>2026-08-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://launchfree.io/listings/uncork.html</loc>
     <lastmod>2026-08-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
