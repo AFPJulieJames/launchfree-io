@@ -1200,22 +1200,6 @@
 "mrr": ""
 },
 {
-"id": "rantram",
-"name": "RantRam",
-"tagline": "Anonymous venting, no account, no one knows it's you",
-"desc": "RantRam is an emotional wellness site built around one thing: getting what's bottled up out of your head. You write what's bothering yo…",
-"emoji": "R",
-"logo": "",
-"cat": "Health",
-"url": "https://rantram.com/",
-"stage": "Live",
-"votes": 0,
-"featured": false,
-"slug": "rantram",
-"date": "2026-07-04",
-"mrr": ""
-},
-{
 "id": "aireceptionist",
 "name": "AI Receptionist",
 "tagline": "Website chat assistant for leads and appointment requests",
