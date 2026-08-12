@@ -372,10 +372,7 @@ footer{padding:34px 5%;border-top:1px solid var(--card-border);background:var(--
 <div class="s-label" style="text-align:center;margin-bottom:8px;">The Runway Radar</div>
 <h2>The week's best launches.<br>Every Friday.</h2>
 <p>Fresh launches from builders and founders, curated weekly and delivered free. No noise. Just the launches worth knowing about.</p>
-<form class="nl-form" onsubmit="handleNL(event)">
-<input type="email" placeholder="your@email.com" required />
-<button type="submit">Join free</button>
-</form>
+<div class="nl-embed"><script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="685923a3-d228-4633-ada4-b4d19b3766f1"></script></div>
 <p class="nl-meta">Free. No spam. Unsubscribe anytime. Powered by Beehiiv.</p>
 </div>
 </div>
@@ -562,20 +559,7 @@ if(cs)document.getElementById('listings').scrollIntoView({behavior:'smooth',bloc
 });
 }
 hookSearch('main-s');hookSearch('nav-s');
-/* NEWSLETTER */
-function handleNL(e){
-e.preventDefault();
-const btn=e.target.querySelector('button');const input=e.target.querySelector('input[type=email]');
-const email=input.value.trim();if(!email)return;
-btn.textContent='Subscribing...';btn.disabled=true;
-fetch('https://api.beehiiv.com/v2/publications/pub_5dbf8e17-e0e6-4e61-968e-67c373a38ffb/subscriptions',{
-method:'POST',
-headers:{'Authorization':'Bearer cmWz7SssWP6cQDHeDh0AioTugrKoWdi4AZ2jEUarfPis2Xb2jAggDJv2k0UQgWWf','Content-Type':'application/json'},
-body:JSON.stringify({email,reactivate_existing:true,send_welcome_email:true,utm_source:'launchfree.io',utm_medium:'website',utm_campaign:'newsletter_signup'})
-}).then(res=>{if(!res.ok)throw new Error();toast('Welcome to The Runway Radar! See you Friday. ✉️');e.target.reset();})
-.catch(()=>toast('Something went wrong. Try again or email hello@launchfree.io'))
-.finally(()=>{btn.textContent='Join free';btn.disabled=false;});
-}
+/* NEWSLETTER: handled by the Beehiiv keyless embed in the #newsletter section */
 function toast(msg){const t=document.getElementById('toast');t.textContent=msg;t.classList.add('show');setTimeout(()=>t.classList.remove('show'),3500);}
 const obs=new IntersectionObserver(entries=>entries.forEach(e=>{if(e.isIntersecting)e.target.classList.add('visible');}),{threshold:0.08});
 document.querySelectorAll('.fade-up').forEach(el=>obs.observe(el));
@@ -583,5 +567,6 @@ fetchListings();
 </script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"LaunchFree.io","alternateName":"The Runway","url":"https://launchfree.io","logo":"https://launchfree.io/og-image.png","description":"A free, human-reviewed launch directory for founders, indie makers, and side hustlers. Every listing is free forever with a permanent dofollow backlink.","email":"hello@launchfree.io","founder":{"@type":"Person","name":"Julie James"},"parentOrganization":{"@type":"Organization","name":"Automated Income Tools LLC"},"sameAs":["https://twitter.com/JulieBuilds"]}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"LaunchFree.io","alternateName":"The Runway","url":"https://launchfree.io","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://launchfree.io/browse.html?q={search_term_string}"},"query-input":"required name=search_term_string"}}</script>
+<script type="text/javascript" async src="https://subscribe-forms.beehiiv.com/attribution.js"></script>
 </body>
 </html>
