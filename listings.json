@@ -2816,22 +2816,6 @@
     "mrr": ""
   },
   {
-    "id": "bitcoinsv-it",
-    "name": "bitcoinsv.it",
-    "tagline": "Bitcoin SV (BSV) information hub",
-    "desc": "test",
-    "emoji": "B",
-    "logo": "",
-    "cat": "Education",
-    "url": "https://bitcoinsv.it/",
-    "stage": "Live",
-    "votes": 0,
-    "featured": false,
-    "slug": "bitcoinsv-it",
-    "date": "2026-08-11",
-    "mrr": ""
-  },
-  {
     "id": "origin",
     "name": "Origin",
     "tagline": "Follow any question deeper, one layer at a time",
