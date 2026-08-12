@@ -2846,5 +2846,21 @@
     "slug": "shopify-storefront-audit",
     "date": "2026-08-12",
     "mrr": ""
+  },
+  {
+    "id": "ai-undetectable",
+    "name": "AI Undetectable",
+    "tagline": "Humanize drafts and check text or images in one writing workspace",
+    "desc": "AI Undetectable is a paid writing workspace for people who want to revise AI-assisted drafts and review likely AI patterns before…",
+    "emoji": "A",
+    "logo": "https://aiundetectable.com/images/brand-logo-256.png",
+    "cat": "AI / ML",
+    "url": "https://aiundetectable.com",
+    "stage": "Live",
+    "votes": 0,
+    "featured": false,
+    "slug": "ai-undetectable",
+    "date": "2026-08-12",
+    "mrr": ""
   }
 ]

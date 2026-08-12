@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever — no fees, no approval fee, no paywall — and every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 178 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 179 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -55,7 +55,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [BrawlerStats](https://launchfree.io/listings/brawlerstats.html): Free Brawl Stars stats, club rosters, rankings, and trophy races (Other).
 
 ## Categories
-- [AI / ML](https://launchfree.io/categories/ai-ml.html): 42 free AI / ML launches.
+- [AI / ML](https://launchfree.io/categories/ai-ml.html): 43 free AI / ML launches.
 - [SaaS](https://launchfree.io/categories/saas.html): 21 free SaaS launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 16 free Developer Tools launches.
 - [Productivity](https://launchfree.io/categories/productivity.html): 16 free Productivity launches.
