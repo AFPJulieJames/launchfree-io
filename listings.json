@@ -2830,5 +2830,21 @@
     "slug": "origin",
     "date": "2026-08-11",
     "mrr": ""
+  },
+  {
+    "id": "shopify-storefront-audit",
+    "name": "Shopify Storefront Audit",
+    "tagline": "A fixed-price audit of your live Shopify storefront, with a prioritized fix list in three days.",
+    "desc": "Fixed-price audit of a live Shopify store's public pages with an ordered repair plan, screenshots, and exact URLs, delivered in 3 business…",
+    "emoji": "S",
+    "logo": "",
+    "cat": "Service",
+    "url": "https://revertcreations.com/shopify-storefront-audit?utm_source=launchfree",
+    "stage": "Live",
+    "votes": 0,
+    "featured": false,
+    "slug": "shopify-storefront-audit",
+    "date": "2026-08-12",
+    "mrr": ""
   }
 ]
