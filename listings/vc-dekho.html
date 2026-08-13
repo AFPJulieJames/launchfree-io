@@ -306,5 +306,34 @@ function copyBadge(btn){
   if(el&&localStorage.getItem(k)){el.textContent='1';}
 })();
 </script>
+<script data-lf-vote-backend="1">
+(function(){
+  var SLUG='vc-dekho';
+  var SB='https://klsfvbmqlmmsdnfvoiqw.supabase.co';
+  var KEY='sb_publishable_5Rha8OReRiQdZlpwE8GNeA_SMcR8BQ_';
+  var vkey='lf_vote_'+SLUG;
+  var btn=document.querySelector('.upvote-btn');
+  if(!btn)return;
+  var span=btn.querySelector('#vc');
+  if(!span){btn.innerHTML='\u25B2 <span id="vc">0</span> Upvotes';span=btn.querySelector('#vc');}
+  function setCount(n){if(span)span.textContent=n;}
+  fetch(SB+'/rest/v1/launch_votes?slug=eq.'+encodeURIComponent(SLUG)+'&select=votes',{headers:{apikey:KEY}})
+    .then(function(r){return r.json();})
+    .then(function(d){if(d&&d[0]&&typeof d[0].votes==='number')setCount(d[0].votes);})
+    .catch(function(){});
+  var voted=false;try{voted=!!localStorage.getItem(vkey);}catch(e){}
+  if(voted)btn.classList.add('voted');
+  btn.onclick=function(){
+    if(voted)return;voted=true;
+    try{localStorage.setItem(vkey,'1');}catch(e){}
+    btn.classList.add('voted');
+    fetch(SB+'/rest/v1/rpc/increment_vote',{method:'POST',headers:{apikey:KEY,'Content-Type':'application/json'},body:JSON.stringify({p_slug:SLUG})})
+      .then(function(r){return r.json();})
+      .then(function(n){if(typeof n==='number')setCount(n);})
+      .catch(function(){});
+    if(typeof gtag==='function'){gtag('event','upvote',{launch:SLUG});}
+  };
+})();
+</script>
 </body>
 </html>
