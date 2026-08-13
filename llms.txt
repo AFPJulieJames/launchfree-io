@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever — no fees, no approval fee, no paywall — and every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 179 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 198 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -19,6 +19,25 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Disclaimer](https://launchfree.io/disclaimer.html): Site disclaimer for LaunchFree.io.
 
 ## Recent launches
+- [Nova](https://launchfree.io/listings/nova.html): An AI that remembers you, drifts with every session, and has secrets of its own. (AI / ML).
+- [frontend.watch](https://launchfree.io/listings/frontend-watch.html): Browser-based frontend monitoring and website integrity alerts (Developer Tools).
+- [First Client Sprint](https://launchfree.io/listings/first-client-sprint.html): A practical $5–$7 kit for landing your first small client (Productivity).
+- [AI Viral Dance Generator](https://launchfree.io/listings/ai-viral-dance-generator.html): Viral Dance Video Maker - Turn Photos into AI Dance Videos (AI / ML).
+- [Baby AI](https://launchfree.io/listings/baby-ai.html): See your future baby with AI in seconds (AI / ML).
+- [Aeltryn Nexus](https://launchfree.io/listings/aeltryn-nexus.html): Five prioritized findings for one service buying path — $95 once (Service).
+- [Integrates with Zoho Books](https://launchfree.io/listings/integrates-with-zoho-books.html): Sync Shopify Products, Customers & Orders with Zoho Books (E-commerce).
+- [Digital Defense Brief — AI Scam Survival Guide 2026](https://launchfree.io/listings/digital-defense-brief-ai-scam-survival-guide-2026.html): A practical guide to voice cloning, deepfakes and AI-powered fraud. (Education).
+- [UltimaTour Operator](https://launchfree.io/listings/ultimatour-operator.html): Free WordPress operations software for tour and activity operators (Travel).
+- [FotoIA](https://launchfree.io/listings/fotoia.html): Turn 10 selfies into professional, realistic photos with AI. (AI / ML).
+- [Caaals](https://launchfree.io/listings/caaals.html): AI calorie diary with a live goal date (Health).
+- [Dear Passengers Guide](https://launchfree.io/listings/dear-passengers-guide.html): Independent Dear Passengers guides, tips, and player resources. (Other).
+- [Intakio](https://launchfree.io/listings/intakio.html): Voice forms people actually finish (AI / ML).
+- [Filings.ae](https://launchfree.io/listings/filings-ae.html): UAE Free Zone company setup (Service).
+- [Taku](https://launchfree.io/listings/taku.html): Stop saving AI tools you never use. Discover, run, remix, and build with Taku. (AI / ML).
+- [Flagzy](https://launchfree.io/listings/flagzy.html): Free geography games for 195 country flags and capitals (Education).
+- [Teyla](https://launchfree.io/listings/teyla.html): Turn loose thoughts into a realistic plan for every role in your life. (Productivity).
+- [Kontest](https://launchfree.io/listings/kontest.html): Turn workouts into friendly competition (Health).
+- [One Small Prompt](https://launchfree.io/listings/one-small-prompt.html): A patient business workshop for iPhone, iPad, and the web. (Productivity).
 - [RouteSheet](https://launchfree.io/listings/routesheet.html): Paste stops → Load Check → driver magic links (SaaS).
 - [MapGrid](https://launchfree.io/listings/mapgrid.html): National mapping and GIS platform for property intelligence (SaaS).
 - [VC Dekho](https://launchfree.io/listings/vc-dekho.html): Discover active venture capital investors, funding trends, and insights across I (SaaS).
