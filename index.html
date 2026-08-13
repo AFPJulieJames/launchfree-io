@@ -435,6 +435,12 @@ const SEED=[
 let LISTINGS=[];
 let voted=JSON.parse(localStorage.getItem('lf_v3')||'[]');
 let votes=JSON.parse(localStorage.getItem('lf_vc3')||'null')||{};
+/* LIVE VOTES (Supabase) */
+const SBURL='https://klsfvbmqlmmsdnfvoiqw.supabase.co';
+const SBKEY='sb_publishable_5Rha8OReRiQdZlpwE8GNeA_SMcR8BQ_';
+let liveVotes={};
+async function loadLiveVotes(){try{const r=await fetch(SBURL+'/rest/v1/launch_votes?select=slug,votes&limit=1000',{headers:{apikey:SBKEY}});const rows=await r.json();liveVotes={};if(Array.isArray(rows))rows.forEach(x=>{liveVotes[x.slug]=x.votes;});}catch(_){}}
+function hasVoted(slug){try{return !!localStorage.getItem('lf_vote_'+slug);}catch(_){return false;}}
 let cf='all',cs='',csort='newest';
 /* TRENDING SCORE */
 function trendingScore(l){
@@ -446,7 +452,7 @@ return v*boost;
 }
 /* FETCH */
 async function fetchListings(){
-if(AIRTABLE_KEY==='YOUR_AIRTABLE_API_KEY_HERE'){try{const r=await fetch('listings.json',{cache:'no-store'});if(!r.ok)throw 0;LISTINGS=await r.json();}catch(e){LISTINGS=SEED;}initVotes();render();return;}
+if(AIRTABLE_KEY==='YOUR_AIRTABLE_API_KEY_HERE'){try{const r=await fetch('listings.json',{cache:'no-store'});if(!r.ok)throw 0;LISTINGS=await r.json();}catch(e){LISTINGS=SEED;}await loadLiveVotes();initVotes();render();return;}
 try{
 const url=`https://api.airtable.com/v0/${AIRTABLE_BASE}/${encodeURIComponent(AIRTABLE_TABLE)}?filterByFormula={Status}='Approved'&sort[0][field]=Submitted&sort[0][direction]=desc`;
 const res=await fetch(url,{headers:{'Authorization':`Bearer ${AIRTABLE_KEY}`}});
@@ -475,7 +481,7 @@ console.warn('Airtable fetch failed, using seed',err);
 LISTINGS=SEED;initVotes();render();
 }
 }
-function initVotes(){LISTINGS.forEach(l=>{if(votes[l.id]==null)votes[l.id]=l.votes;});}
+function initVotes(){LISTINGS.forEach(l=>{votes[l.id]=(liveVotes[l.slug]!=null?liveVotes[l.slug]:0);});}
 function getSorted(items){
 switch(csort){
 case'trending':return [...items].sort((a,b)=>trendingScore(b)-trendingScore(a));
@@ -519,20 +525,27 @@ ${l.stage?`<span class="tag tag-stage">${l.stage}</span>`:''}
 ${l.mrr?`<span class="tag tag-mrr">${l.mrr} MRR</span>`:''}
 <a href="${l.url}" target="_blank" rel="noopener" class="card-link" onclick="event.stopPropagation()">Visit ↗</a>
 </div>
-<button class="upvote ${voted.includes(l.id)?'voted':''}" onclick="upvote(event,'${l.id}')" aria-label="Upvote ${l.name}">▲ <span id="v${l.id}">${votes[l.id]||0}</span></button>
+<button class="upvote ${(voted.includes(l.id)||hasVoted(l.slug))?'voted':''}" onclick="upvote(event,'${l.id}','${l.slug}')" aria-label="Upvote ${l.name}">▲ <span id="v${l.id}">${votes[l.id]||0}</span></button>
 </div>
 </article>`).join('');
 }
-function upvote(e,id){
+async function upvote(e,id,slug){
 e.stopPropagation();
-if(voted.includes(id)){toast('Already upvoted!');return;}
-votes[id]=(votes[id]||0)+1;voted.push(id);
-localStorage.setItem('lf_v3',JSON.stringify(voted));
-localStorage.setItem('lf_vc3',JSON.stringify(votes));
+slug=slug||id;
+if(voted.includes(id)||hasVoted(slug)){toast('Already upvoted!');return;}
+try{localStorage.setItem('lf_vote_'+slug,'1');}catch(_){}
+voted.push(id);
+votes[id]=(votes[id]||0)+1;
 const el=document.getElementById('v'+id);
 if(el)el.textContent=votes[id];
-e.currentTarget.classList.add('voted');
+const btn=e.currentTarget;if(btn&&btn.classList)btn.classList.add('voted');
 toast('Upvoted! ▲');
+try{
+const r=await fetch(SBURL+'/rest/v1/rpc/increment_vote',{method:'POST',headers:{apikey:SBKEY,'Content-Type':'application/json'},body:JSON.stringify({p_slug:slug})});
+const n=await r.json();
+if(typeof n==='number'){votes[id]=n;liveVotes[slug]=n;if(el)el.textContent=n;}
+}catch(_){}
+if(typeof gtag==='function'){gtag('event','upvote',{launch:slug});}
 }
 /* FILTER BUTTONS */
 document.getElementById('filters').addEventListener('click',e=>{
