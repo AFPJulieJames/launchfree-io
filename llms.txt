@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever — no fees, no approval fee, no paywall — and every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 198 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 212 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -19,6 +19,20 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Disclaimer](https://launchfree.io/disclaimer.html): Site disclaimer for LaunchFree.io.
 
 ## Recent launches
+- [ShapeScan](https://launchfree.io/listings/shapescan.html): Turn a photo of a flat part into true-scale DXF and SVG. (SaaS).
+- [Moviie](https://launchfree.io/listings/moviie.html): Video hosting with AI tools and sales-connected analytics. (SaaS).
+- [MiYo Gift](https://launchfree.io/listings/miyo-gift.html): Create a private, personalized digital gift from shared memories (Creator Tools).
+- [BrowserAct](https://launchfree.io/listings/browseract.html): Build reusable cloud web scrapers from natural-language requests. (AI / ML).
+- [Harku YouTube to Text](https://launchfree.io/listings/harku-youtube-to-text.html): Turn YouTube videos into timestamped transcripts and subtitle files (Creator Tools).
+- [Product Purchased Badge](https://launchfree.io/listings/product-purchased-badge.html): Show purchase history and purchased badges to returning Shopify customers. (E-commerce).
+- [DimenAI – Smart Shipping & Box](https://launchfree.io/listings/dimenai-smart-shipping-and-box.html): AI-powered shipping rates, box packing, and shipment management for Shopify. (E-commerce).
+- [Delete Customer Account](https://launchfree.io/listings/delete-customer-account.html): Let Shopify customers securely delete their accounts in one click. (E-commerce).
+- [WedWow: Wedding AI Photos](https://launchfree.io/listings/wedwow-wedding-ai-photos.html): AI wedding portraits from couple photos in 60 cinematic styles. (AI / ML).
+- [PresentWell: RBF Coach](https://launchfree.io/listings/presentwell-rbf-coach.html): Private expression coaching for warmer camera confidence. (Productivity).
+- [Sacred Resolve: 70 Days](https://launchfree.io/listings/sacred-resolve-70-days.html): A private 70-day Christian discipline journey for one faithful next step. (Education).
+- [@VirtualCounsel](https://launchfree.io/listings/virtualcounsel.html): A dedicated legal team for startups on a predictable monthly plan (Service).
+- [Online Rewards](https://launchfree.io/listings/online-rewards.html): Incentive and loyalty programs people actually want to use (SaaS).
+- [FluffHaven](https://launchfree.io/listings/fluffhaven.html): Premium pet essentials for happier dogs, cats and their humans. (E-commerce).
 - [Nova](https://launchfree.io/listings/nova.html): An AI that remembers you, drifts with every session, and has secrets of its own. (AI / ML).
 - [frontend.watch](https://launchfree.io/listings/frontend-watch.html): Browser-based frontend monitoring and website integrity alerts (Developer Tools).
 - [First Client Sprint](https://launchfree.io/listings/first-client-sprint.html): A practical $5–$7 kit for landing your first small client (Productivity).
