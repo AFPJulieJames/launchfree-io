@@ -3093,7 +3093,7 @@
     "tagline": "Stop saving AI tools you never use. Discover, run, remix, and build with Taku.",
     "desc": "Taku is an AI desktop workspace for discovering, running, remixing, and building with AI apps, agents, skills, and workflows.\n\nFound a powerful AI tool? Instead of saving another GitHub repo you may never run, Taku turns it into something you can actually use—without dealing with dependencies, environment setup, configuration, or deployment.\n\nStart with AI capabilities that already work, run them ",
     "emoji": "T",
-    "logo": "",
+    "logo": "https://taku.ai/icon.svg",
     "cat": "AI / ML",
     "url": "https://taku.ai/",
     "stage": "Beta",
