@@ -406,9 +406,7 @@
   if(!span){btn.innerHTML='\u25b2 <span id="vc">0</span> Upvotes';span=btn.querySelector("#vc");}
   function setCount(n){if(span)span.textContent=n;}
   fetch(SB+"/rest/v1/launch_votes?slug=eq."+encodeURIComponent(SLUG)+"&select=votes",{headers:{apikey:KEY}})
-    .then(function(r){return r.json();})
-    .then(function(d){if(d&&d[0]&&typeof d[0].votes==="number")setCount(d[0].votes);})
-    .catch(function(){});
+    .then(function(r){return r.json();}).then(function(d){if(d&&d[0]&&typeof d[0].votes==="number")setCount(d[0].votes);}).catch(function(){});
   var voted=false;try{voted=!!localStorage.getItem(vkey);}catch(e){}
   if(voted)btn.classList.add("voted");
   btn.onclick=function(){
@@ -416,9 +414,7 @@
     try{localStorage.setItem(vkey,"1");}catch(e){}
     btn.classList.add("voted");
     fetch(SB+"/rest/v1/rpc/increment_vote",{method:"POST",headers:{apikey:KEY,"Content-Type":"application/json"},body:JSON.stringify({p_slug:SLUG})})
-      .then(function(r){return r.json();})
-      .then(function(n){if(typeof n==="number")setCount(n);})
-      .catch(function(){});
+      .then(function(r){return r.json();}).then(function(n){if(typeof n==="number")setCount(n);}).catch(function(){});
     if(typeof gtag==="function"){gtag("event","upvote",{launch:SLUG});}
   };
 })();

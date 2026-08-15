@@ -9,13 +9,7 @@
   "name": "FluffHaven",
   "tagline": "Premium pet essentials for happier dogs, cats and their humans.",
   "url": "https://fluffhaven.shop/",
-  "description": "FluffHaven is an independent online store dedicated to dogs and cats, offering carefully selected premium pet essentials for every season.
-
-From summer adventures and outdoor play to cozy autumn and winter comfort, FluffHaven brings together useful, fun and stylish products designed to make life happier for pets and their humans.
-
-The store features collections for both dogs and cats, seasonal selections, free shipping, and a simple shopping experience. New products and helpful pet content are added regularly.
-
-FluffHaven was built independently from the ground up with one simple goal: create a warm pet-focused store where owners can discover products they will genuinely enjoy sharing with their companions.",
+  "description": "FluffHaven is an independent online store dedicated to dogs and cats, offering carefully selected premium pet essentials for every season.\n\nFrom summer adventures and outdoor play to cozy autumn and winter comfort, FluffHaven brings together useful, fun and stylish products designed to make life happier for pets and their humans.\n\nThe store features collections for both dogs and cats, seasonal selections, free shipping, and a simple shopping experience. New products and helpful pet content are added regularly.\n\nFluffHaven was built independently from the ground up with one simple goal: create a warm pet-focused store where owners can discover products they will genuinely enjoy sharing with their companions.",
   "category": "E-commerce",
   "stage": "Live",
   "pricing": "",
@@ -36,11 +30,7 @@ FluffHaven was built independently from the ground up with one simple goal: crea
     "linkedin": "https://www.linkedin.com/in/christophe-devleeshouwer-882377399/",
     "photo": "",
     "bio": "I'm the independent creator behind FluffHaven, a pet store I built from the ground up around my love for dogs and cats. I'm building it step by step with the goal of creating a warm, trustworthy brand that brings useful and enjoyable products to pets and their humans.",
-    "story": "FluffHaven started with my love for animals and especially my dog, Ponpon. I wanted to build something of my own around that passion rather than create just another generic online store.
-
-I built FluffHaven independently from the ground up, from the website and product pages to the seasonal collections, SEO and shopping experience.
-
-My goal is simple: grow a small, trustworthy pet brand that helps dog and cat owners discover useful, fun and comfortable products for their companions."
+    "story": "FluffHaven started with my love for animals and especially my dog, Ponpon. I wanted to build something of my own around that passion rather than create just another generic online store.\n\nI built FluffHaven independently from the ground up, from the website and product pages to the seasonal collections, SEO and shopping experience.\n\nMy goal is simple: grow a small, trustworthy pet brand that helps dog and cat owners discover useful, fun and comfortable products for their companions."
   }
 };
   </script>
@@ -416,9 +406,7 @@ My goal is simple: grow a small, trustworthy pet brand that helps dog and cat ow
   if(!span){btn.innerHTML='\u25b2 <span id="vc">0</span> Upvotes';span=btn.querySelector("#vc");}
   function setCount(n){if(span)span.textContent=n;}
   fetch(SB+"/rest/v1/launch_votes?slug=eq."+encodeURIComponent(SLUG)+"&select=votes",{headers:{apikey:KEY}})
-    .then(function(r){return r.json();})
-    .then(function(d){if(d&&d[0]&&typeof d[0].votes==="number")setCount(d[0].votes);})
-    .catch(function(){});
+    .then(function(r){return r.json();}).then(function(d){if(d&&d[0]&&typeof d[0].votes==="number")setCount(d[0].votes);}).catch(function(){});
   var voted=false;try{voted=!!localStorage.getItem(vkey);}catch(e){}
   if(voted)btn.classList.add("voted");
   btn.onclick=function(){
@@ -426,9 +414,7 @@ My goal is simple: grow a small, trustworthy pet brand that helps dog and cat ow
     try{localStorage.setItem(vkey,"1");}catch(e){}
     btn.classList.add("voted");
     fetch(SB+"/rest/v1/rpc/increment_vote",{method:"POST",headers:{apikey:KEY,"Content-Type":"application/json"},body:JSON.stringify({p_slug:SLUG})})
-      .then(function(r){return r.json();})
-      .then(function(n){if(typeof n==="number")setCount(n);})
-      .catch(function(){});
+      .then(function(r){return r.json();}).then(function(n){if(typeof n==="number")setCount(n);}).catch(function(){});
     if(typeof gtag==="function"){gtag("event","upvote",{launch:SLUG});}
   };
 })();
