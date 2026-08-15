@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever — no fees, no approval fee, no paywall — and every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 212 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 226 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -19,6 +19,20 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Disclaimer](https://launchfree.io/disclaimer.html): Site disclaimer for LaunchFree.io.
 
 ## Recent launches
+- [Better Resource Monitor](https://launchfree.io/listings/better-resource-monitor.html): Fast macOS menu bar monitor for CPU, memory, storage, GPU, and network (Productivity).
+- [ClipMate](https://launchfree.io/listings/clipmate.html): Privacy-first clipboard and AI writing tools for any app (Productivity).
+- [mato](https://launchfree.io/listings/mato.html): AI agents that interview real people live. (AI / ML).
+- [ChinaGoTrip](https://launchfree.io/listings/chinagotrip.html): Route-first China travel guides for independent international travelers (Travel).
+- [DeloPulse](https://launchfree.io/listings/delopulse.html): Telegram-native task control with accountability for every assignee. (Productivity).
+- [IdeaHunter](https://launchfree.io/listings/ideahunter.html): Demand-backed app ideas for solo founders (SaaS).
+- [IDPhotoPix](https://launchfree.io/listings/idphotopix.html): Online passport and visa photo maker — $3.99 crop and print (Travel).
+- [Marklet](https://launchfree.io/listings/marklet.html): Your page with a short link and QR code in a minute (Creator Tools).
+- [Payload Components](https://launchfree.io/listings/payload-components.html): Typed Payload CMS blocks, installed and wired (Developer Tools).
+- [Prefably](https://launchfree.io/listings/prefably.html): Find prefab, modular and manufactured home builders in all 50 US states (Service).
+- [Roof Cost Data](https://launchfree.io/listings/roof-cost-data.html): Free roof replacement cost calculator and quote checker for U.S. homeowners. (Other).
+- [VidRefine](https://launchfree.io/listings/vidrefine.html): Private AI video finisher: upscale, repair & compress in your browser (AI / ML).
+- [Mac Developer Bridge](https://launchfree.io/listings/mac-developer-bridge.html): Give ChatGPT a real terminal on your Mac (Developer Tools).
+- [CalisthenAI](https://launchfree.io/listings/calisthenai.html): AI calisthenics coach for Android. Free download, optional Pro. (Health).
 - [ShapeScan](https://launchfree.io/listings/shapescan.html): Turn a photo of a flat part into true-scale DXF and SVG. (SaaS).
 - [Moviie](https://launchfree.io/listings/moviie.html): Video hosting with AI tools and sales-connected analytics. (SaaS).
 - [MiYo Gift](https://launchfree.io/listings/miyo-gift.html): Create a private, personalized digital gift from shared memories (Creator Tools).
