@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever — no fees, no approval fee, no paywall — and every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 226 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 234 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -19,6 +19,14 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Disclaimer](https://launchfree.io/disclaimer.html): Site disclaimer for LaunchFree.io.
 
 ## Recent launches
+- [Clean the Supermarket Tools](https://launchfree.io/listings/clean-the-supermarket-tools.html): Free fan-made tools for Roblox Clean the Supermarket. (Other).
+- [Device-Test](https://launchfree.io/listings/device-test.html): Test your microphone, camera, screen and device hardware online (Developer Tools).
+- [Runebook](https://launchfree.io/listings/runebook.html): The AI story game where you're the main character. (AI / ML).
+- [NoteFree](https://launchfree.io/listings/notefree.html): One-step recording, live transcript, and clear AI notes (Productivity).
+- [BIFROST](https://launchfree.io/listings/bifrost.html): Real-time binaural audio for focus, reset, and rest. (Productivity).
+- [PuppyOne](https://launchfree.io/listings/puppyone.html): A local-first workspace where you and your AI work on the same files. (AI / ML).
+- [uChecker](https://launchfree.io/listings/uchecker.html): Bulk email checking that keeps the full SMTP reply (SaaS).
+- [ImageToSTL](https://launchfree.io/listings/imagetostl.html): One photo becomes a textured 3D model you can print (Developer Tools).
 - [Better Resource Monitor](https://launchfree.io/listings/better-resource-monitor.html): Fast macOS menu bar monitor for CPU, memory, storage, GPU, and network (Productivity).
 - [ClipMate](https://launchfree.io/listings/clipmate.html): Privacy-first clipboard and AI writing tools for any app (Productivity).
 - [mato](https://launchfree.io/listings/mato.html): AI agents that interview real people live. (AI / ML).
