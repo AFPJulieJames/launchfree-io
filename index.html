@@ -222,7 +222,7 @@ footer{padding:34px 5%;border-top:1px solid var(--card-border);background:var(--
 <div class="origin-grid">
 <div class="origin-quote fade-up">
 <blockquote>"I tried to list my own launch on day one and hit a paywall. Then another. Then another. So I built the site I needed and made sure it would never charge anyone to be seen."</blockquote>
-<div class="origin-attr">— <strong>Julie James</strong>, Founder · Automated Income Tools LLC<br><span style="font-size:0.73rem;margin-top:3px;display:block;">May 6, 2026 — the day this got built.</span></div>
+<div class="origin-attr"><strong>Julie James</strong>, Founder · Automated Income Tools LLC<br><span style="font-size:0.73rem;margin-top:3px;display:block;">May 6, 2026: the day this got built.</span></div>
 </div>
 <div class="fade-up">
 <div class="s-label">Why this exists</div>
@@ -417,21 +417,6 @@ btn.setAttribute('aria-expanded','false');btn.setAttribute('aria-label','Open me
 });
 });
 })();
-/* CONFIG */
-const AIRTABLE_BASE='appuyAibeokhZsDJ9';
-const AIRTABLE_TABLE='Submissions';
-const AIRTABLE_KEY='YOUR_AIRTABLE_API_KEY_HERE';
-const CACHE_KEY='lf_listings_cache';
-const CACHE_TTL=60*60*1000;
-/* SEED LISTINGS */
-const SEED=[
-{id:'s1',name:'AffiliateFinderPro',tagline:'Find high-paying affiliate programs across every niche',desc:'Curated, vetted affiliate programs with commission rates and direct apply links. Built for creators, bloggers, and anyone ready to earn. Free to browse, always.',emoji:'🔍',cat:'Affiliate',url:'https://affiliatefinderpro.com',stage:'Live',votes:12,featured:true,slug:'affiliatefinderpro',mrr:''},
-{id:'s2',name:'FareFinderAI',tagline:'Find cheaper flights with AI, instantly',desc:'Hidden city fares, mistake fares, cashback flights, and flexible routes. The tools airlines do not want you to know about. 5,000 travelers already flying smarter.',emoji:'✈️',cat:'Travel',url:'https://farefinderai.com',stage:'Live',votes:9,featured:false,slug:'farefinderai',mrr:''},
-{id:'s3',name:'Creator Commissions',tagline:'Affiliate marketing for creators of every size, no follower minimum',desc:'The affiliate marketing platform built for small creators, micro influencers, and nano influencers. No follower minimums. No approval gates. Start earning on your own terms.',emoji:'🎯',cat:'Creator Tools',url:'https://creatorcommissions.com',stage:'Early access',votes:7,featured:false,slug:'creatorcommissions',mrr:''},
-{id:'s4',name:'Global Live Shopping',tagline:'The live commerce industry hub for brands, creators and platforms',desc:'Covering live shopping trends, brand programs, creator opportunities, and platform news across TikTok Shop, Amazon Live, and the global live shopping economy.',emoji:'🌐',cat:'Creator Tools',url:'http://globalliveshopping.com',stage:'Live',votes:5,featured:false,slug:'globalliveshopping',mrr:''},
-{id:'s5',name:'Live Shopping Creators',tagline:'Make money live selling on TikTok Shop, Amazon Live and more',desc:'Built for creators who want to monetize their live streams. Find live shopping affiliate programs, learn how to monetize live content, and connect with brands recruiting live sellers.',emoji:'📱',cat:'Creator Tools',url:'http://liveshoppingcreators.com',stage:'Early access',votes:4,featured:false,slug:'liveshoppingcreators',mrr:''},
-{id:'s6',name:'Affiliate Live Shopping',tagline:'The home base for live shopping affiliates',desc:'Find the best live shopping affiliate programs, compare TikTok Shop vs Amazon Live commissions, and turn live content into consistent affiliate income.',emoji:'💰',cat:'Affiliate',url:'http://affiliateliveshopping.com',stage:'Early access',votes:4,featured:false,slug:'affiliateliveshopping',mrr:''}
-];
 let LISTINGS=[];
 let voted=JSON.parse(localStorage.getItem('lf_v3')||'[]');
 let votes=JSON.parse(localStorage.getItem('lf_vc3')||'null')||{};
@@ -452,34 +437,15 @@ return v*boost;
 }
 /* FETCH */
 async function fetchListings(){
-if(AIRTABLE_KEY==='YOUR_AIRTABLE_API_KEY_HERE'){try{const r=await fetch('listings.json',{cache:'no-store'});if(!r.ok)throw 0;LISTINGS=await r.json();}catch(e){LISTINGS=SEED;}await loadLiveVotes();initVotes();render();return;}
 try{
-const url=`https://api.airtable.com/v0/${AIRTABLE_BASE}/${encodeURIComponent(AIRTABLE_TABLE)}?filterByFormula={Status}='Approved'&sort[0][field]=Submitted&sort[0][direction]=desc`;
-const res=await fetch(url,{headers:{'Authorization':`Bearer ${AIRTABLE_KEY}`}});
-if(!res.ok)throw new Error('fetch failed');
-const data=await res.json();
-LISTINGS=data.records.map(r=>({
-id:r.id,
-name:r.fields['Product Name']||'',
-tagline:r.fields['Tagline']||'',
-desc:r.fields['Description']||'',
-emoji:r.fields['Emoji']||'🚀',
-logo:r.fields['Logo URL']||'',
-cat:r.fields['Category']||'Other',
-url:r.fields['URL']||'#',
-stage:r.fields['Stage']||'',
-votes:r.fields['Votes']||0,
-featured:r.fields['Featured']||false,
-slug:r.fields['Slug']||'',
-mrr:r.fields['MRR']||'',
-submitted:r.fields['Submitted']||''
-}));
-localStorage.setItem(CACHE_KEY,JSON.stringify({ts:Date.now(),data:LISTINGS}));
-initVotes();render();
+const res=await fetch('listings.json',{cache:'no-cache'});
+if(!res.ok)throw new Error('listings.json '+res.status);
+LISTINGS=await res.json();
 }catch(err){
-console.warn('Airtable fetch failed, using seed',err);
-LISTINGS=SEED;initVotes();render();
+console.error('Could not load listings.json',err);
+LISTINGS=[];
 }
+await loadLiveVotes();initVotes();render();
 }
 function initVotes(){LISTINGS.forEach(l=>{votes[l.id]=(liveVotes[l.slug]!=null?liveVotes[l.slug]:0);});}
 function getSorted(items){

@@ -1,10 +1,6 @@
-# Moved — see docs/RUNBOOK.md
+# Retired: see docs/BUILD_SPEC.md
 
-This file is retired. It was an earlier draft of the runbook and is missing the current golden
-rules (notably: the assistant never runs git, and the `.git/index.lock` root-cause fix).
+This file was an early draft of the runbook. The current build process is `docs/BUILD_SPEC.md`
+and the operations manual is `docs/OPERATIONS_MANUAL.md`.
 
-The single canonical SOP now lives at **`docs/RUNBOOK.md`**. Use that.
-
-Standing project context lives in `LaunchFree_Project_Instructions.md`.
-
-You can safely delete this stub file in GitHub Desktop.
+This file is safe to delete in GitHub Desktop.
