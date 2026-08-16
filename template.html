@@ -1,6 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- ================================================================
+       DEPRECATED PATTERN. DO NOT SHIP PAGES BUILT THIS WAY.
+       This legacy template fills content with init() from a `const LISTING`
+       object at runtime, so crawlers and AI answer engines receive a blank
+       "Loading..." page with a homepage canonical. That caused the SEO/GEO
+       problem fixed on 2026-08-16.
+       New listing pages MUST be server-rendered: bake the real title, meta
+       description, canonical (own URL), OG tags, H1, body content, and JSON-LD
+       into the static HTML. See docs/HANDOFF-2026-08-16.md and docs/RUNBOOK.md.
+       The 234 live pages under listings/ are the reference to copy.
+       ================================================================ -->
   <meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-7CKQDBEDBB"></script>
   <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-7CKQDBEDBB');</script>

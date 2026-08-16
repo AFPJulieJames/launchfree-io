@@ -33,20 +33,37 @@ un-indexed pages, a blocked push) never happens again.
 
 ---
 
-## 2. What to update on every build (the four surfaces)
+## 2. What to update on every build (the five surfaces)
 
 A page file alone is invisible. Every build touches these, together, in one commit:
 
 | Surface | What to do | Auto or manual |
 |---|---|---|
-| `listings/<slug>.html` | Create the page from `template.html` + the vote script | Manual (generated) |
+| `listings/<slug>.html` | Create the page SERVER-RENDERED (real content baked into static HTML) + the vote script. See section 3.5. | Manual (generated) |
 | `listings.json` | Add one record per launch (schema in section 4) | Manual (generated) |
 | `sitemap.xml` | Add one `<url>` per new page before `</urlset>` | Manual (generated) |
 | `llms.txt` | Add one line per new page under "Recent launches"; update the launch count | Manual (generated) |
+| `directory.html` | Regenerate from `listings.json` so the new launches appear (grouped by category, counts + ItemList JSON-LD refreshed) | Manual (generated) |
 | `index.html` / `browse.html` | Nothing. They fetch `listings.json` live and update themselves | Automatic |
 
-If any of the four manual surfaces is skipped, the launch is half-published. The pre-flight
+If any of the five manual surfaces is skipped, the launch is half-published. The pre-flight
 checklist in section 5 catches this.
+
+## 3.5 Pages must be server-rendered (SEO/GEO, non-negotiable)
+
+The real content lives in the static HTML, not in JavaScript. JavaScript is only for interaction
+(tabs, the Supabase upvote, copy-link, copy-badge). If you turn JavaScript off and the page is
+blank, it is wrong. This is what broke on the 56 template-generated pages fixed on 2026-08-16:
+crawlers and AI answer engines (GPTBot, ClaudeBot, PerplexityBot, CCBot) got a blank "Loading..."
+page with a homepage canonical.
+
+Every listing page's static HTML must contain, before any script runs: a real `<title>`
+(`Name — Tagline | LaunchFree.io`, never "Loading..."), a real meta description, a canonical
+pointing at the page's OWN URL (never the homepage), Open Graph and Twitter tags, a real `<h1>`
+with the product name plus the full description and story text, and two JSON-LD blocks
+(`SoftwareApplication` and `BreadcrumbList`). The legacy `template.html` uses the old runtime
+`const LISTING` + `init()` pattern and carries a warning at the top. Do not use it. Copy the
+structure of the 234 live server-rendered pages under `listings/` instead.
 
 ---
 
