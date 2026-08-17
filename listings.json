@@ -3966,5 +3966,21 @@
   "slug": "whatsapp-campaign",
   "date": "2026-08-17",
   "mrr": ""
+ },
+ {
+  "id": "bharat-ai-fasal-doctor",
+  "name": "Bharat AI Fasal Doctor",
+  "tagline": "Smart Farming, Better Harvest",
+  "desc": "Bharat AI Fasal Doctor is an AI-powered agriculture assistant that allows farmers to upload a photo of their crop and receive an AI-based analysis of…",
+  "emoji": "B",
+  "logo": "",
+  "cat": "SaaS",
+  "url": "https://jaswant-spark.lovable.app/",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "bharat-ai-fasal-doctor",
+  "date": "2026-08-17",
+  "mrr": ""
  }
 ]
