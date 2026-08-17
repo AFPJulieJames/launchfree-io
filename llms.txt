@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever — no fees, no approval fee, no paywall — and every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 235 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 248 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -19,6 +19,19 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Disclaimer](https://launchfree.io/disclaimer.html): Site disclaimer for LaunchFree.io.
 
 ## Recent launches
+- [ZipSmart Delivery & Pickup](https://launchfree.io/listings/zipsmart-delivery-and-pickup.html): Validate zip codes and control delivery availability before checkout (E-commerce).
+- [WhatsApp Campaign](https://launchfree.io/listings/whatsapp-campaign.html): Create WhatsApp campaigns and automate customer support from one place (E-commerce).
+- [Tax/VAT Switcher](https://launchfree.io/listings/tax-vat-switcher.html): Switch between VAT-inclusive and exclusive prices for B2B and B2C shoppers (E-commerce).
+- [Revenue Recovery](https://launchfree.io/listings/revenue-recovery.html): Find hidden revenue leaks across orders, products, inventory, and carts (E-commerce).
+- [Quick Book Integration](https://launchfree.io/listings/quick-book-integration.html): Sync Shopify products, customers, and orders with QuickBooks Online (E-commerce).
+- [ProfitPilot Insights & Reports](https://launchfree.io/listings/profitpilot-insights-and-reports.html): Track real profit, costs, margins, and performance across your Shopify store (E-commerce).
+- [Order Modify](https://launchfree.io/listings/order-modify.html): Let admins and customers securely update Shopify orders after checkout (E-commerce).
+- [Opencorp](https://launchfree.io/listings/opencorp.html): Paste your URL. Get the Reddit and HN threads where your buyers complain (Marketing).
+- [Giftly](https://launchfree.io/listings/giftly.html): Automatically add gifts and discounts with flexible cart-based rules (E-commerce).
+- [GearDex](https://launchfree.io/listings/geardex.html): Inventory and shoot planning for camera gear (Productivity).
+- [EU Customs Fee Manager](https://launchfree.io/listings/eu-customs-fee-manager.html): Automate customs and import fees with flexible destination-based rules (E-commerce).
+- [ESOP Value Clarity](https://launchfree.io/listings/esop-value-clarity.html): Understand your ESOP value, ownership, and dilution (Fintech).
+- [Age Verification](https://launchfree.io/listings/age-verification.html): Protect your Shopify store with a customizable age verification gate (E-commerce).
 - [uChecker](https://launchfree.io/listings/uchecker.html): Bulk email checking that keeps the full SMTP reply (SaaS).
 - [Runebook](https://launchfree.io/listings/runebook.html): The AI story game where you're the main character (AI / ML).
 - [PuppyOne](https://launchfree.io/listings/puppyone.html): A local-first workspace where you and your AI work on the same files (AI / ML).
@@ -106,33 +119,20 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [JediPic](https://launchfree.io/listings/jedipic.html): Discover thoughtful personalized gifts from independent makers (Affiliate).
 - [Free Group Chat Name Generator](https://launchfree.io/listings/group-chat-name-generator.html): Generate fun and creative group chat names instantly (AI / ML).
 - [Clocked](https://launchfree.io/listings/clocked.html): Your dating profile, rebuilt with exact photo, order, and copy fixes (Service).
-- [Can't Find Job?](https://launchfree.io/listings/cant-find-job.html): Career tools to land interviews faster (Education).
-- [BrawlerStats](https://launchfree.io/listings/brawlerstats.html): Free Brawl Stars stats, club rosters, rankings, and trophy races (Other).
-- [Board Foot Calculator](https://launchfree.io/listings/board-foot-calculator.html): Free lumber volume, cost, waste, and workshop calculators (Productivity).
-- [AutoPod Content Autopilot](https://launchfree.io/listings/autopod.html): Automate podcast content from episode to publish (Creator Tools).
-- [Audience Analysis](https://launchfree.io/listings/audience-analysis.html): Understand your audience with AI insights (AI / ML).
-- [ApplyBoost](https://launchfree.io/listings/applyboost.html): Free ATS keyword checker + $5 resume bullet packs (Productivity).
-- [Alarm for Garmin](https://launchfree.io/listings/alarm-for-garmin.html): Smart alarms for Garmin watches (Health).
-- [AI Agent Store](https://launchfree.io/listings/ai-agent-store.html): Discover and list AI agents in one marketplace (AI / ML).
-- [AI Affiliate Programs](https://launchfree.io/listings/ai-affiliate-programs.html): Find AI products with affiliate programs (Marketing).
-- [agentskills.codes](https://launchfree.io/listings/agentskills-codes.html): Installable Agent Skills for Claude, Codex, Copilot and AI agents (Developer Tools).
-- [Winstwaker](https://launchfree.io/listings/winstwaker.html): Accurate Dutch online bookkeeping (Fintech).
-- [Nexus Shell](https://launchfree.io/listings/nexus-shell.html): Native macOS SSH workspace for terminal, files, Docker, and monitoring (Developer Tools).
-- [Let's Pick Food](https://launchfree.io/listings/let-s-pick-food.html): Make a food decision in seconds with practical picks, wheels, and meal ideas (Other).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 55 free AI / ML launches.
 - [SaaS](https://launchfree.io/categories/saas.html): 27 free SaaS launches.
-- [Productivity](https://launchfree.io/categories/productivity.html): 25 free Productivity launches.
+- [Productivity](https://launchfree.io/categories/productivity.html): 26 free Productivity launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 21 free Developer Tools launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 17 free Creator Tools launches.
+- [E-commerce](https://launchfree.io/categories/e-commerce.html): 17 free E-commerce launches.
 - [Other](https://launchfree.io/categories/other.html): 14 free Other launches.
 - [Education](https://launchfree.io/categories/education.html): 13 free Education launches.
+- [Fintech](https://launchfree.io/categories/fintech.html): 12 free Fintech launches.
 - [Health](https://launchfree.io/categories/health.html): 12 free Health launches.
-- [Fintech](https://launchfree.io/categories/fintech.html): 11 free Fintech launches.
 - [Service](https://launchfree.io/categories/service.html): 10 free Service launches.
-- [Marketing](https://launchfree.io/categories/marketing.html): 8 free Marketing launches.
-- [E-commerce](https://launchfree.io/categories/e-commerce.html): 7 free E-commerce launches.
+- [Marketing](https://launchfree.io/categories/marketing.html): 9 free Marketing launches.
 - [Travel](https://launchfree.io/categories/travel.html): 7 free Travel launches.
 - [Affiliate](https://launchfree.io/categories/affiliate.html): 3 free Affiliate launches.
 - [Community](https://launchfree.io/categories/community.html): 3 free Community launches.
