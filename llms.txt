@@ -1,15 +1,15 @@
 # LaunchFree.io — The Runway
 
-> LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever — no fees, no approval fee, no paywall — and every submission is reviewed by a real person within about 24 hours.
+> LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
 Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 249 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
 - [Browse the Runway](https://launchfree.io/browse.html): The full, filterable grid of every live launch, searchable by category, stage, and popularity.
-- [Directory (all launches, static HTML)](https://launchfree.io/directory.html): Every launch as plain links grouped by category — the full catalog, crawlable without JavaScript.
+- [Directory (all launches, static HTML)](https://launchfree.io/directory.html): Every launch as plain links grouped by category. The full catalog, crawlable without JavaScript.
 - [Submit your launch](https://launchfree.io/submit.html): Free submission form. After a ~24-hour human review you get a permanent listing page, a free dofollow backlink, a badge, and a newsletter feature.
-- [Runway Radar](https://launchfree.io/radar.html): The content hub of free-launch guides — where to launch for free, how dofollow backlinks help SEO, and how to get traction with no audience or budget.
+- [Runway Radar](https://launchfree.io/radar.html): The content hub of free-launch guides: where to launch for free, how dofollow backlinks help SEO, and how to get traction with no audience or budget.
 - [Bootstrap Founder Tools](https://launchfree.io/bootstrap-founder-tools.html): Guide and hub for bootstrapped founders looking to launch and get discovered for free.
 - [Free Product Launch Directory](https://launchfree.io/free-product-launch-directory.html): Overview of LaunchFree as a genuinely free, no-paywall alternative to paid launch platforms.
 - [Indie Maker Directory](https://launchfree.io/indie-maker-directory.html): Directory hub for indie makers and solo builders to list side projects and MVPs for free.
