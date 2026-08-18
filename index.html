@@ -180,7 +180,7 @@ footer{padding:34px 5%;border-top:1px solid var(--card-border);background:var(--
 <a href="#listings" class="btn-ghost">Browse the runway</a>
 </div>
 <div class="stats-bar fade-up">
-<div class="stat"><span class="stat-n" id="stat-count">90+</span><span class="stat-l">Launches listed</span></div>
+<div class="stat"><span class="stat-n" id="stat-count">249</span><span class="stat-l">Launches listed</span></div>
 <div class="stat"><span class="stat-n">$0</span><span class="stat-l">Cost to list</span></div>
 <div class="stat"><span class="stat-n">24h</span><span class="stat-l">Avg. review time</span></div>
 <div class="stat"><span class="stat-n">∞</span><span class="stat-l">Always free</span></div>
@@ -467,7 +467,7 @@ return getSorted(filtered);
 }
 function render(){
 const items=getItems();
-document.getElementById('stat-count').textContent=LISTINGS.length;
+if(LISTINGS.length){document.getElementById('stat-count').textContent=LISTINGS.length;}
 document.getElementById('s-count').textContent=cs?`${items.length} result${items.length!==1?'s':''} for "${cs}"`:'' ;
 if(!items.length){
 document.getElementById('grid').innerHTML=`<div class="no-res">No launches found. <a href="submit.html" style="color:var(--runway);">Be the first to list in this category ↑</a></div>`;
