@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 270 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 277 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -20,18 +20,25 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 
 ## Recent launches
 - [TyrianTrade](https://launchfree.io/listings/tyriantrade.html): AI-powered market intelligence for crypto, stocks and global markets (Fintech).
+- [Taskfolk](https://launchfree.io/listings/taskfolk.html): Project management for teams and their AI agents (SaaS).
 - [Synetro](https://launchfree.io/listings/synetro.html): Modern infrastructure management for developers and hosting providers (Developer Tools).
 - [SpecForm OS](https://launchfree.io/listings/specform-os.html): Turn garment photos into factory-ready tech packs (AI / ML).
+- [shenshen](https://launchfree.io/listings/shenshen.html): Next-gen AI that turns photos into organized information (AI / ML).
+- [Sekura Talk](https://launchfree.io/listings/sekura-talk.html): A public live text stream with no message history (Community).
 - [Rothco Pro Sync](https://launchfree.io/listings/rothco-pro-sync.html): Sync Rothco products, pricing, and inventory with your Shopify store (E-commerce).
 - [Price Comparison Intelligence](https://launchfree.io/listings/price-comparison-intelligence.html): Track competitor prices and optimize your pricing with real-time AI insights (E-commerce).
 - [PreOrder | Notify](https://launchfree.io/listings/preorder-notify.html): Boost sales with pre-orders, restock alerts, and Coming Soon features (E-commerce).
 - [PDF Accessibility Checker](https://launchfree.io/listings/pdf-accessibility-checker.html): Private browser-local PDF accessibility pre-check with clear review limits (Productivity).
 - [OpenMusic: Music and Videos](https://launchfree.io/listings/openmusic-music-and-videos.html): OpenMusic: Music, videos, lyrics, playlists, and podcasts in one app (Entertainment).
 - [NeverApply](https://launchfree.io/listings/neverapply.html): AI agent that matches jobs, tailors resumes, and auto-applies (AI / ML).
+- [Netstate](https://launchfree.io/listings/netstate.html): Business data to verify, understand, and monitor businesses (SaaS).
 - [MyWellnessHotel](https://launchfree.io/listings/mywellnesshotel.html): Evidence-first wellness hotel research and discovery (Travel).
 - [My Season Hue](https://launchfree.io/listings/my-season-hue.html): Find your 12-season color palette with free visual tools (Lifestyle).
+- [Microoferta Clara](https://launchfree.io/listings/microoferta-clara.html): Turn a skill into a clear, ready to share offer (Service).
 - [Luphra](https://launchfree.io/listings/luphra.html): Prompt to matter (AI / ML).
+- [Knoq](https://launchfree.io/listings/knoq.html): A free daily trivia quiz, 10 new questions every day (Education).
 - [Free Crypto KOL CPW Tracker](https://launchfree.io/listings/free-crypto-kol-cpw-tracker.html): Free Excel CPW tracker plus a paid-partnership disclosure checklist (Marketing).
+- [Faceless.so](https://launchfree.io/listings/faceless-so.html): All-in-one tool to grow a faceless channel (AI / ML).
 - [Doc2Lang](https://launchfree.io/listings/doc2lang.html): Translate documents with AI while preserving formatting and layout (AI / ML).
 - [Crypto KOL Campaign Ops Workbook](https://launchfree.io/listings/crypto-kol-campaign-ops-workbook.html): Excel ops workbook for crypto KOL campaigns and CPW tracking (Marketing).
 - [Cookie Browser](https://launchfree.io/listings/cookie-browser.html): A customizable Windows browser built to replace Chrome (Productivity).
@@ -112,30 +119,23 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Spreadsheet Automation Kit](https://launchfree.io/listings/spreadsheet-automation-kit.html): Automate Excel dashboards and PDF reports without code (Productivity).
 - [Sharpniq](https://launchfree.io/listings/sharpniq.html): Sharpen blurry photos online with AI (AI / ML).
 - [SeedAudio](https://launchfree.io/listings/seedaudio.html): AI Text to Speech & Voice Cloning (AI / ML).
-- [RouteSheet](https://launchfree.io/listings/routesheet.html): Paste stops → Load Check → driver magic links (SaaS).
-- [QuoteBoundary](https://launchfree.io/listings/quoteboundary.html): Free browser toolkit to price work, define scope, and handle changes (Productivity).
-- [Pocket Invoice](https://launchfree.io/listings/pocket-invoice.html): Create unlimited professional invoices and business documents for free (Fintech).
-- [ParaleloBO](https://launchfree.io/listings/paralelobo.html): Live parallel & official USD rates for Bolivia, converter, charts, P2P guides (Fintech).
-- [Origin](https://launchfree.io/listings/origin.html): Follow any question deeper, one layer at a time (AI / ML).
-- [MCNOS](https://launchfree.io/listings/mcnos.html): Govern social campaigns from brief to learning (Marketing).
-- [MapGrid](https://launchfree.io/listings/mapgrid.html): National mapping and GIS platform for property intelligence (SaaS).
 
 ## Categories
-- [AI / ML](https://launchfree.io/categories/ai-ml.html): 59 free AI / ML launches.
+- [AI / ML](https://launchfree.io/categories/ai-ml.html): 61 free AI / ML launches.
+- [SaaS](https://launchfree.io/categories/saas.html): 30 free SaaS launches.
 - [Productivity](https://launchfree.io/categories/productivity.html): 28 free Productivity launches.
-- [SaaS](https://launchfree.io/categories/saas.html): 28 free SaaS launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 23 free Developer Tools launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 21 free E-commerce launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 17 free Creator Tools launches.
 - [Other](https://launchfree.io/categories/other.html): 15 free Other launches.
+- [Education](https://launchfree.io/categories/education.html): 14 free Education launches.
 - [Fintech](https://launchfree.io/categories/fintech.html): 14 free Fintech launches.
-- [Education](https://launchfree.io/categories/education.html): 13 free Education launches.
 - [Health](https://launchfree.io/categories/health.html): 12 free Health launches.
 - [Marketing](https://launchfree.io/categories/marketing.html): 11 free Marketing launches.
-- [Service](https://launchfree.io/categories/service.html): 10 free Service launches.
+- [Service](https://launchfree.io/categories/service.html): 11 free Service launches.
 - [Travel](https://launchfree.io/categories/travel.html): 9 free Travel launches.
+- [Community](https://launchfree.io/categories/community.html): 4 free Community launches.
 - [Affiliate](https://launchfree.io/categories/affiliate.html): 3 free Affiliate launches.
-- [Community](https://launchfree.io/categories/community.html): 3 free Community launches.
 - [Entertainment](https://launchfree.io/categories/entertainment.html): 2 free Entertainment launches.
 - [Lifestyle](https://launchfree.io/categories/lifestyle.html): 2 free Lifestyle launches.
 
