@@ -182,6 +182,19 @@ def llms_txt():
     save(path, src, s)
 
 
+# ----------------------------------------------------------------- homepage hero stat
+def index_html():
+    # index.html fetches listings.json live on page load, so a human sees the right
+    # count. Crawlers, AI answer engines and link unfurlers read the static HTML and do
+    # not run that JS, so stamp the live catalog length into the hero stat span here.
+    # The client-side JS (if LISTINGS.length) stays the fallback; the two always agree.
+    path = "index.html"
+    src = open(os.path.join(ROOT, path), encoding="utf-8").read()
+    s = re.sub(r'(<span[^>]*id="stat-count"[^>]*>)[^<]*(</span>)',
+               lambda m: "%s%d%s" % (m.group(1), TOTAL, m.group(2)), src, count=1)
+    save(path, src, s)
+
+
 # ----------------------------------------------------------------- dead stylesheet elsewhere
 def strip_dead_css():
     for folder in ("radar", "research", "categories", "."):
@@ -201,6 +214,7 @@ for c in CATEGORIES:
     category_page(c)
 directory_page()
 llms_txt()
+index_html()
 strip_dead_css()
 
 print("%d files %s" % (len(written), "written" if WRITE else "would change"))

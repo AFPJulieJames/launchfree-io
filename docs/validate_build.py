@@ -204,6 +204,15 @@ for cat, fname in CATEGORIES.items():
     if m and int(m.group(1)) != len(want):
         err(f"{path} claims {m.group(1)} launches, listings.json has {len(want)}")
 
+# ---------------------------------------------------------------- homepage hero stat
+index_html = read("index.html")
+m = re.search(r'<span[^>]*id="stat-count"[^>]*>([^<]*)</span>', index_html)
+if not m:
+    err('index.html has no <span id="stat-count"> hero stat')
+elif m.group(1).strip() != str(len(data)):
+    err(f"index.html hero stat-count is '{m.group(1).strip()}', listings.json has {len(data)} "
+        f"(regenerate with docs/regen_indexes.py --write)")
+
 # ---------------------------------------------------------------- report
 print(f"LaunchFree build validator  |  {len(data)} records, {len(files)} pages\n")
 for m in errors:
