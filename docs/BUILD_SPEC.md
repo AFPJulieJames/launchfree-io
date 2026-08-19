@@ -288,7 +288,11 @@ A page file on its own is invisible. **Every build touches all six of these, in 
 | 5 | `directory.html` | Regenerate from `listings.json`. Counts and ItemList JSON-LD refresh |
 | 6 | `categories/<category>.html` | Add the new launch to its category page and update that page's count in the title, the H1 block and the ItemList JSON-LD |
 
-`index.html` and `browse.html` need no change. They fetch `listings.json` live on page load.
+`browse.html` needs no change. It fetches `listings.json` live on page load. `index.html` also
+fetches `listings.json` live, but its hero stat span (`id="stat-count"`) is a static number that
+crawlers and AI engines read without running the JS, so `regen_indexes.py` now stamps the live
+catalog count into it on every build. `validate_build.py` errors if that number ever drifts from the
+`listings.json` record count, so do not hand-edit it: run the generators.
 
 Surface 6 is the one that used to get missed. The category pages are static HTML and they do not
 read `listings.json`, so they only change when something regenerates them. On 2026-08-16 they were
