@@ -213,6 +213,12 @@ elif m.group(1).strip() != str(len(data)):
     err(f"index.html hero stat-count is '{m.group(1).strip()}', listings.json has {len(data)} "
         f"(regenerate with docs/regen_indexes.py --write)")
 
+# the meta description leads with the live count; guard it against drift
+md = re.search(r'<meta name="description" content="(\d+)\b', index_html)
+if md and md.group(1) != str(len(data)):
+    err(f"index.html meta description count is {md.group(1)}, listings.json has {len(data)} "
+        f"(regenerate with docs/regen_indexes.py --write)")
+
 # ---------------------------------------------------------------- report
 print(f"LaunchFree build validator  |  {len(data)} records, {len(files)} pages\n")
 for m in errors:

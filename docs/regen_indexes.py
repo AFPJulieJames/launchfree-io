@@ -192,6 +192,9 @@ def index_html():
     src = open(os.path.join(ROOT, path), encoding="utf-8").read()
     s = re.sub(r'(<span[^>]*id="stat-count"[^>]*>)[^<]*(</span>)',
                lambda m: "%s%d%s" % (m.group(1), TOTAL, m.group(2)), src, count=1)
+    # the meta description leads with the live count; stamp it too so it never drifts
+    s = re.sub(r'(<meta name="description" content=")\d+( free, human-reviewed)',
+               lambda m: "%s%d%s" % (m.group(1), TOTAL, m.group(2)), s, count=1)
     save(path, src, s)
 
 
