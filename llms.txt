@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 312 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 313 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -25,6 +25,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [The Map Challenge](https://launchfree.io/listings/the-map-challenge.html): Publish your website on the world map and help your country climb (Community).
 - [TGE SC.](https://launchfree.io/listings/tge-sc.html): Local-first security tools. Pay once. Zero telemetry (Developer Tools).
 - [SteamVaults](https://launchfree.io/listings/steamvaults.html): Buy or sell Steam Sacks of Gems with USDT through a guided trade flow (Fintech).
+- [Seedance 2.5](https://launchfree.io/listings/seedance-2-5.html): AI video generator creating cinematic 4K videos from text and images (AI / ML).
 - [Screen Studio Kit](https://launchfree.io/listings/screen-studio-kit.html): Design every store screenshot from one reusable composition (Creator Tools).
 - [QeyeT](https://launchfree.io/listings/qeyet.html): Private mail that still reaches Gmail. SMTP is not encryption (Productivity).
 - [Puzzlify](https://launchfree.io/listings/puzzlify.html): Turn any photo into a private digital jigsaw gift (Entertainment).
@@ -118,10 +119,9 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [ClipMate](https://launchfree.io/listings/clipmate.html): Privacy-first clipboard and AI writing tools for any app (Productivity).
 - [ChinaGoTrip](https://launchfree.io/listings/chinagotrip.html): Route-first China travel guides for independent international travelers (Travel).
 - [CalisthenAI](https://launchfree.io/listings/calisthenai.html): AI calisthenics coach for Android. Free download, optional Pro (Health).
-- [Better Resource Monitor](https://launchfree.io/listings/better-resource-monitor.html): Fast macOS menu bar monitor for CPU, memory, storage, GPU, and network (Productivity).
 
 ## Categories
-- [AI / ML](https://launchfree.io/categories/ai-ml.html): 65 free AI / ML launches.
+- [AI / ML](https://launchfree.io/categories/ai-ml.html): 66 free AI / ML launches.
 - [Productivity](https://launchfree.io/categories/productivity.html): 33 free Productivity launches.
 - [SaaS](https://launchfree.io/categories/saas.html): 33 free SaaS launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 29 free Developer Tools launches.

@@ -4990,5 +4990,21 @@
   "slug": "kindslot",
   "date": "2026-08-21",
   "mrr": ""
+ },
+ {
+  "id": "seedance-2-5",
+  "name": "Seedance 2.5",
+  "tagline": "AI video generator creating cinematic 4K videos from text and images.",
+  "desc": "Seedance 2.5 is an AI video generator for creators, marketers, and storytellers. It creates cinematic 4K video clips from text prompts and images…",
+  "emoji": "S",
+  "logo": "",
+  "cat": "AI / ML",
+  "url": "https://seedance2-5.me",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "seedance-2-5",
+  "date": "2026-08-21",
+  "mrr": ""
  }
 ]
