@@ -4942,5 +4942,53 @@
   "slug": "lynotv",
   "date": "2026-08-21",
   "mrr": ""
+ },
+ {
+  "id": "screen-studio-kit",
+  "name": "Screen Studio Kit",
+  "tagline": "Design every store screenshot from one reusable composition.",
+  "desc": "A native desktop editor for composing, localizing, validating, capturing, and publishing store-ready screenshots across phones, tablets, desktops…",
+  "emoji": "S",
+  "logo": "https://martingruner.com/products/screenshot-studio.png",
+  "cat": "Creator Tools",
+  "url": "https://martingruner.com/projects/screenshot-studio",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "screen-studio-kit",
+  "date": "2026-08-21",
+  "mrr": ""
+ },
+ {
+  "id": "diff-anything",
+  "name": "Diff Anything",
+  "tagline": "Compare the files developers actually work with, not just text.",
+  "desc": "A private, local-first desktop comparison and merge application for text, structured data, folders, archives, documents, API schemas, HTTP responses…",
+  "emoji": "D",
+  "logo": "https://martingruner.com/products/diff-anything.png",
+  "cat": "Developer Tools",
+  "url": "https://martingruner.com/projects/diffanything",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "diff-anything",
+  "date": "2026-08-21",
+  "mrr": ""
+ },
+ {
+  "id": "kindslot",
+  "name": "KindSlot",
+  "tagline": "Free rewards platform for US users",
+  "desc": "KindSlot is a free-to-play online entertainment and rewards platform for users in the United States. Users can access browser-based activities…",
+  "emoji": "K",
+  "logo": "",
+  "cat": "Entertainment",
+  "url": "https://kindslot.com",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "kindslot",
+  "date": "2026-08-21",
+  "mrr": ""
  }
 ]

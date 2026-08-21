@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 309 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 312 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -25,6 +25,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [The Map Challenge](https://launchfree.io/listings/the-map-challenge.html): Publish your website on the world map and help your country climb (Community).
 - [TGE SC.](https://launchfree.io/listings/tge-sc.html): Local-first security tools. Pay once. Zero telemetry (Developer Tools).
 - [SteamVaults](https://launchfree.io/listings/steamvaults.html): Buy or sell Steam Sacks of Gems with USDT through a guided trade flow (Fintech).
+- [Screen Studio Kit](https://launchfree.io/listings/screen-studio-kit.html): Design every store screenshot from one reusable composition (Creator Tools).
 - [QeyeT](https://launchfree.io/listings/qeyet.html): Private mail that still reaches Gmail. SMTP is not encryption (Productivity).
 - [Puzzlify](https://launchfree.io/listings/puzzlify.html): Turn any photo into a private digital jigsaw gift (Entertainment).
 - [Privacy Leak Check](https://launchfree.io/listings/privacy-leak-check.html): Check your IP, WebRTC, IPv6 and browser privacy exposure (SaaS).
@@ -35,12 +36,14 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [LynoTV](https://launchfree.io/listings/lynotv.html): Android media player for authorized M3U and Xtream sources (Entertainment).
 - [Lumino Studio](https://launchfree.io/listings/lumino-studio.html): Create interactive storybooks offline with complete privacy (Creator Tools).
 - [Lash Map Lab](https://launchfree.io/listings/lash-map-lab.html): Free editable lash maps for DIY cluster lash planning (Lifestyle).
+- [KindSlot](https://launchfree.io/listings/kindslot.html): Free rewards platform for US users (Entertainment).
 - [H3 Video](https://launchfree.io/listings/h3-video.html): AI video creation from text or images with MiniMax H3 (AI / ML).
 - [Google Sheet Invoice Template](https://launchfree.io/listings/google-sheet-invoice-template.html): Send a real invoice in 10 minutes (Productivity).
 - [FormBuddy - AI Form Filler](https://launchfree.io/listings/formbuddy-ai-form-filler.html): AI-powered form filling: scan any form, get every field filled. Voice input in 11 languages (AI / ML).
 - [FLORN](https://launchfree.io/listings/florn.html): Deterministic engine that certifies what structured data can establish (Developer Tools).
 - [DNSNotify](https://launchfree.io/listings/dnsnotify.html): Get email alerts when your domain infrastructure changes (Developer Tools).
 - [Digital Dignity Transformation Kit](https://launchfree.io/listings/digital-dignity-transformation-kit.html): Free kit to turn broken-English Amazon listings into US-buyer copy (E-commerce).
+- [Diff Anything](https://launchfree.io/listings/diff-anything.html): Compare the files developers actually work with, not just text (Developer Tools).
 - [DEVRIAN](https://launchfree.io/listings/devrian.html): Privacy-first developer tools for everyday workflows (Developer Tools).
 - [DevDock](https://launchfree.io/listings/devdock.html): A local development workspace for projects, commands, databases, and security checks (Developer Tools).
 - [Chorebound](https://launchfree.io/listings/chorebound.html): Make everyday chores fun RPG quests with XP, gold and loot (Productivity).
@@ -116,17 +119,14 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [ChinaGoTrip](https://launchfree.io/listings/chinagotrip.html): Route-first China travel guides for independent international travelers (Travel).
 - [CalisthenAI](https://launchfree.io/listings/calisthenai.html): AI calisthenics coach for Android. Free download, optional Pro (Health).
 - [Better Resource Monitor](https://launchfree.io/listings/better-resource-monitor.html): Fast macOS menu bar monitor for CPU, memory, storage, GPU, and network (Productivity).
-- [WedWow: Wedding AI Photos](https://launchfree.io/listings/wedwow-wedding-ai-photos.html): AI wedding portraits from couple photos in 60 cinematic styles (AI / ML).
-- [@VirtualCounsel](https://launchfree.io/listings/virtualcounsel.html): A dedicated legal team for startups on a predictable monthly plan (Service).
-- [ShapeScan](https://launchfree.io/listings/shapescan.html): Turn a photo of a flat part into true-scale DXF and SVG (SaaS).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 65 free AI / ML launches.
 - [Productivity](https://launchfree.io/categories/productivity.html): 33 free Productivity launches.
 - [SaaS](https://launchfree.io/categories/saas.html): 33 free SaaS launches.
-- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 28 free Developer Tools launches.
+- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 29 free Developer Tools launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 22 free E-commerce launches.
-- [Creator Tools](https://launchfree.io/categories/creator-tools.html): 19 free Creator Tools launches.
+- [Creator Tools](https://launchfree.io/categories/creator-tools.html): 20 free Creator Tools launches.
 - [Fintech](https://launchfree.io/categories/fintech.html): 17 free Fintech launches.
 - [Education](https://launchfree.io/categories/education.html): 15 free Education launches.
 - [Other](https://launchfree.io/categories/other.html): 15 free Other launches.
@@ -135,7 +135,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Service](https://launchfree.io/categories/service.html): 11 free Service launches.
 - [Travel](https://launchfree.io/categories/travel.html): 10 free Travel launches.
 - [Community](https://launchfree.io/categories/community.html): 5 free Community launches.
-- [Entertainment](https://launchfree.io/categories/entertainment.html): 4 free Entertainment launches.
+- [Entertainment](https://launchfree.io/categories/entertainment.html): 5 free Entertainment launches.
 - [Affiliate](https://launchfree.io/categories/affiliate.html): 3 free Affiliate launches.
 - [Lifestyle](https://launchfree.io/categories/lifestyle.html): 3 free Lifestyle launches.
 

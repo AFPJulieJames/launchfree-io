@@ -1,0 +1,42 @@
+[
+ {
+  "slug": "screen-studio-kit",
+  "name": "Screen Studio Kit",
+  "tagline": "Design every store screenshot from one reusable composition.",
+  "cat": "Creator Tools",
+  "stage": "Live",
+  "url": "https://martingruner.com/projects/screenshot-studio",
+  "desc_full": "A native desktop editor for composing, localizing, validating, capturing, and publishing store-ready screenshots across phones, tablets, desktops, televisions, watches, and spatial devices.",
+  "builder_name": "Martin Grüner",
+  "builder_bio": "Independent software developer behind DevDock, Diff Anything, and Screen Studio Kit. I build practical desktop tools around real workflows.",
+  "builder_story": "I built Screen Studio Kit because store artwork is real product work, but rebuilding the same composition for every size and language never felt like it should be.",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "https://martingruner.com/products/screenshot-studio.png",
+  "screens": [
+   "https://martingruner.com/products/screenshots/screenshot-studio-golfsmart-editor.jpg",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "diff-anything",
+  "name": "Diff Anything",
+  "tagline": "Compare the files developers actually work with—not just text.",
+  "cat": "Developer Tools",
+  "stage": "Live",
+  "url": "https://martingruner.com/projects/diffanything",
+  "desc_full": "A private, local-first desktop comparison and merge application for text, structured data, folders, archives, documents, API schemas, HTTP responses, images, binaries, and command-line workflows.",
+  "builder_name": "Martin Grüner",
+  "builder_bio": "Independent software developer behind DevDock, Diff Anything, and Screen Studio Kit. I build practical desktop tools around real workflows.",
+  "builder_story": "I built Diff Anything because the useful question is rarely ‘which lines changed?’ It is ‘what changed in the thing I am actually looking at?’",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "https://martingruner.com/products/diff-anything.png",
+  "screens": [
+   "https://martingruner.com/products/screenshots/diff-anything-welcome.png",
+   "",
+   ""
+  ]
+ }
+]
