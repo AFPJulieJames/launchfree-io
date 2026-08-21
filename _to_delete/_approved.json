@@ -1,0 +1,542 @@
+[
+ {
+  "slug": "qeyet",
+  "name": "QeyeT",
+  "tagline": "Private mail that still reaches Gmail. SMTP is not encryption.",
+  "cat": "Productivity",
+  "stage": "Live",
+  "url": "https://qeyet.com",
+  "desc_full": "QeyeT Mail is a free @qeyet.com address with no name and no phone. Readable history lives on devices you authorize, not in an ad engine. You can still write Gmail, Outlook, and Yahoo: that path is ordinary SMTP, not encryption, and we do not call it end-to-end. Create your free address at qeyet.com.",
+  "builder_name": "QeyeT Listings",
+  "builder_bio": "Listings for QeyeT Mail.",
+  "builder_story": "People still need to email Gmail. Free mail is usually an ad product. We built a no-name no-phone address that still reaches the internet, and we say SMTP is not encryption.",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "",
+  "screens": [
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "devdock",
+  "name": "DevDock",
+  "tagline": "A local development workspace for projects, commands, databases, and security checks.",
+  "cat": "Developer Tools",
+  "stage": "Live",
+  "url": "https://martingruner.com/projects/devdock",
+  "desc_full": "DevDock is a local-first Windows desktop workspace for managing software projects, saved commands, Docker environments, database operations, project health, and security audits. It keeps local projects in one sidebar and gives each project a focused workspace for the commands and tools needed to get back to work.",
+  "builder_name": "Martin Grüner",
+  "builder_bio": "Independent software developer behind DevDock, Diff Anything, and Screen Studio Kit. I build practical desktop tools around real workflows.",
+  "builder_story": "I built DevDock to keep track of every project I am working on—where it stands and the commands I use with it—so I can get back to work without retyping the same setup each time.",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "https://martingruner.com/products/devdock.png",
+  "screens": [
+   "https://martingruner.com/products/screenshots/devdock-today.png",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "viralrefer",
+  "name": "ViralRefer",
+  "tagline": "Win the homepage. Tap Get my link",
+  "cat": "Marketing",
+  "stage": "Live",
+  "url": "https://viralrefer.app",
+  "desc_full": "#1 this week puts their site on the homepage for 7 days. Tap Get my link. You climb when a friend does the same. Visiting does not count. Open worldwide, 18+, no email, no cash prize.",
+  "builder_name": "Karanga Oliver",
+  "builder_bio": "Building ViralRefer. Free homepage race. No email.",
+  "builder_story": "Built a live homepage race so a stranger can put their site on this page. Tap Get my link. Visiting does not count. No cash prize.",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "",
+  "screens": [
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "digital-dignity-transformation-kit",
+  "name": "Digital Dignity Transformation Kit",
+  "tagline": "Free kit to turn broken-English Amazon listings into US-buyer copy",
+  "cat": "E-commerce",
+  "stage": "Live",
+  "url": "https://digital-dignity.com/transformation-kit/",
+  "desc_full": "The Amazon Listing Transformation Kit is a free lead magnet for international and ESL Amazon sellers. It includes five before/after rewrites, a pre-publish checklist, keyword placement without stuffing, and 20 bullet formulas, plus instructions to claim 250 free private AI words with no card. Composite educational examples. No ranking guarantees. You remain responsible for Amazon compliance.",
+  "builder_name": "Kevin Whitney",
+  "builder_bio": "Founder of Digital Dignity. Building privacy-first listing tools for international Amazon sellers.",
+  "builder_story": "International sellers lose US buyers when listings read like broken English. We built a free kit and a private optimizer so they can fix copy without dumping catalogs into public chat tools.",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "https://digital-dignity.com/images/og-image.png",
+  "screens": [
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "h3-video",
+  "name": "H3 Video",
+  "tagline": "AI video creation from text or images with MiniMax H3",
+  "cat": "AI / ML",
+  "stage": "Live",
+  "url": "https://h3video.io",
+  "desc_full": "H3 Video is a browser-based AI video generator powered by MiniMax H3. It helps creators, marketers, and teams turn text prompts or images into short videos with motion, sound, reference images, and first/last frame control.",
+  "builder_name": "mhhya",
+  "builder_bio": "I am building H3 Video to make AI video creation more approachable in the browser. It helps creators and teams turn ideas, text, and images into useful short video content with more control over scenes and references.",
+  "builder_story": "Creating useful short videos from ideas often requires complex editing tools. H3 Video makes the process approachable in the browser while keeping creative control for scenes and references.",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "",
+  "screens": [
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "pocketa",
+  "name": "Pocketa",
+  "tagline": "Free UK workspace helping homeowners organise kitchen renovations in one project",
+  "cat": "Productivity",
+  "stage": "Live",
+  "url": "https://www.pocketa.co.uk/",
+  "desc_full": "Pocketa is a free UK workspace that helps homeowners organise kitchen renovations and save when they buy. Keep the work, products, purchases and spending in one place, with partner savings across 190+ UK retailers, without tying the project to one shop.",
+  "builder_name": "Taseer Ahmad",
+  "builder_bio": "Founder of Pocketa, based in Leicester. Building a free UK workspace for kitchen renovation organisation.",
+  "builder_story": "Kitchen renovations scatter decisions across checklists, shops, and spreadsheets. I built Pocketa so UK homeowners can keep the project, products, purchases and spending in one free workspace, with partner savings that are not locked to a single retailer.",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "",
+  "screens": [
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "applode",
+  "name": "Applode",
+  "tagline": "App Store intelligence for independent iOS developers",
+  "cat": "SaaS",
+  "stage": "Live",
+  "url": "https://applode.ai/",
+  "desc_full": "Applode is an App Store market intelligence workspace for independent iOS developers, solo founders, and small studios. It combines opportunity discovery, competitor and review research, AI-assisted market monitoring, and research-to-build handoffs so developers can decide what to build before committing months of work.",
+  "builder_name": "zet",
+  "builder_bio": "Builder of Applode, focused on practical App Store market research tools for independent mobile app developers.",
+  "builder_story": "Applode was built to make App Store research practical for independent developers. Instead of guessing from charts or building first and validating later, developers can compare demand, competition, reviews, and market changes in one focused workspace.",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "",
+  "screens": [
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "google-sheet-invoice-template",
+  "name": "Google Sheet Invoice Template",
+  "tagline": "Send a real invoice in 10 minutes",
+  "cat": "Productivity",
+  "stage": "Live",
+  "url": "https://invoice-pack.rileycraig14.workers.dev",
+  "desc_full": "Freelance invoice template plus a small business bookkeeping spreadsheet. Copy the Google Sheet to Drive or open it as Excel. Line items, tax, due date, client log, and a paid or unpaid books tab in one file. Seven dollars one-time via Stripe. No QuickBooks. No monthly invoice app. Instant download after checkout.",
+  "builder_name": "Riley Craig",
+  "builder_bio": "Riley Craig makes practical spreadsheet tools for freelancers and small businesses.",
+  "builder_story": "Riley Craig built this after watching freelancers pay monthly for invoicing apps when a clean spreadsheet would do the job. The pack is a finished invoice plus simple books, not a blank grid.",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "",
+  "screens": [
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "lash-map-lab",
+  "name": "Lash Map Lab",
+  "tagline": "Free editable lash maps for DIY cluster lash planning",
+  "cat": "Lifestyle",
+  "stage": "Live",
+  "url": "https://lashmaplab.com",
+  "desc_full": "Lash Map Lab is a free, no-sign-up browser tool for planning DIY cluster lash placement. It turns eye shape, preferred style, available lash lengths, and clusters per eye into an editable inner-to-outer map. Users can adjust the guide, review practical fit notes, then download or share it. The tool does not require a photo upload and is intended as a planning aid rather than professional or medical advice.",
+  "builder_name": "Julian Tao",
+  "builder_bio": "I'm Julian Tao, the owner of Lash Map Lab. I build small, practical web tools that turn complicated planning steps into simple browser workflows. For this project, the goal is to make cluster-lash mapping easier to understand without collecting photos or requiring an account.",
+  "builder_story": "While reviewing how people plan DIY cluster lashes, I found that most guides were static images and required users to mentally translate a style into the lengths they actually owned. I built Lash Map Lab to make that planning step editable and private, without asking for a photo or account.",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "https://lashmaplab.com/favicon.svg",
+  "screens": [
+   "https://lashmaplab.com/og.png",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "pinggy",
+  "name": "Pinggy",
+  "tagline": "Public URLs for localhost without downloading any binary",
+  "cat": "Productivity",
+  "stage": "Live",
+  "url": "https://pinggy.io",
+  "desc_full": "Pinggy stands out as the simplest localhost tunneling solution. With Pinggy, you can effortlessly create HTTP, TCP, UDP, or TLS tunnels to your localhost, enabling instant access to your websites or applications, even behind firewalls and NATs.\nNo need to download anything, no complex server configurations - just streamlined, secure access for developers, teams, and innovators. Whether you’re sharing an app for testing or showcasing your work remotely, Pinggy makes it intuitive and stress-free.",
+  "builder_name": "Bishakh Ghosh",
+  "builder_bio": "Founder of Pinggy.io, building simple and reliable developer infrastructure that makes local applications accessible over the internet.\nFocused on simplifying development workflows through secure tunneling, connectivity, and practical tools for modern developers.\nPassionate about solving real-world developer challenges and building products that make engineering faster and more accessible.",
+  "builder_story": "Pinggy.io was built to make sharing local apps over the internet simple. Instead of setting up a VPS, port forwarding, or complicated networking, developers can expose their localhost with a public URL in seconds. It makes testing, demos, webhooks, and collaboration much easier.",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "https://pinggy.io/assets/pinggy_logo.webp",
+  "screens": [
+   "https://pinggy.io/assets/webdebugger.webp",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "penroll",
+  "name": "Penroll",
+  "tagline": "AI hiring copilot for founders and small teams",
+  "cat": "SaaS",
+  "stage": "Live",
+  "url": "https://penroll.app",
+  "desc_full": "Penroll is an AI hiring copilot for founders and small teams. It writes country-aware job posts, publishes hosted application pages, ranks CVs against role requirements, manages interviews, and drafts offer letters in one workspace. Human reviewers always make the final hiring decision. Penroll supports 30+ languages and 100+ countries, uses EU-region storage, and provides GDPR-ready workflows. Start with 10 free credits and no card.",
+  "builder_name": "PenrollApp",
+  "builder_bio": "PenrollApp is the team behind Penroll, an AI hiring copilot for founders and small businesses. We are building a responsible, affordable hiring workflow that helps small teams screen applicants and manage hiring without replacing human decisions.",
+  "builder_story": "Penroll was built after seeing founders spend nights reading dozens of CVs or pay recruiter fees they could not justify. The goal is to give small teams a complete, responsible hiring workflow without needing a dedicated recruiting department.",
+  "twitter": "@penrollapp",
+  "linkedin": "",
+  "logo": "",
+  "screens": [
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "devrian",
+  "name": "DEVRIAN",
+  "tagline": "Privacy-first developer tools for everyday workflows.",
+  "cat": "Developer Tools",
+  "stage": "Beta",
+  "url": "https://devrian.in",
+  "desc_full": "Privacy-first browser workspace for JSON, JWT, Base64, UUID, Regex, hashing, encoding and other everyday developer tasks.",
+  "builder_name": "Dev Rajput",
+  "builder_bio": "I'm a solo developer building DEVRIAN, a privacy-first browser workspace for everyday developer tasks. I built it to make common utilities faster to access while keeping sensitive data in the browser whenever possible.",
+  "builder_story": "I built DEVRIAN because I was tired of jumping between different websites for small developer tasks. I wanted one fast, practical workspace where common tools are easy to access and sensitive data can stay in the browser whenever possible.",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "",
+  "screens": [
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "admapix",
+  "name": "AdMapix",
+  "tagline": "AI advertising intelligence for competitor creative research",
+  "cat": "AI / ML",
+  "stage": "Live",
+  "url": "https://www.admapix.com",
+  "desc_full": "AdMapix is an AI-powered advertising intelligence platform for marketers and growth teams. It helps users research public competitor ad creatives and market trends across channels, with search, filtering, comparison, and organized workflows for campaign planning.",
+  "builder_name": "Brad Hou",
+  "builder_bio": "I am building AdMapix, an AI-powered advertising intelligence platform for marketers and growth teams. It helps turn public competitor ad research and market analysis into a faster, searchable workflow.",
+  "builder_story": "Marketers need a faster way to understand competitor advertising without manually collecting public creatives across channels. AdMapix was built to turn that research into a searchable, comparable workflow for campaign planning and market analysis.",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "",
+  "screens": [
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "the-map-challenge",
+  "name": "The Map Challenge",
+  "tagline": "Publish your website on the world map and help your country climb.",
+  "cat": "Community",
+  "stage": "Live",
+  "url": "https://themapchallenge.com/",
+  "desc_full": "The Map Challenge is a live interactive world map where websites can sponsor a public marker. Each one-time sponsorship gives its chosen country points in a global ranking, combining website discovery with a playful competition.",
+  "builder_name": "The Map Challenge Team",
+  "builder_bio": "We are building a live global map that helps independent websites get discovered while countries compete through sponsorship points.",
+  "builder_story": "We wanted to create a more visual and playful way for small projects and websites around the world to be discovered. The goal is to place at least one sponsor in every country while helping independent websites gain a permanent place on the map.",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "",
+  "screens": [
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "chorebound",
+  "name": "Chorebound",
+  "tagline": "Make everyday chores fun RPG quests with XP, gold and loot",
+  "cat": "Productivity",
+  "stage": "Live",
+  "url": "https://chorebound.com",
+  "desc_full": "Chorebound is a gamified productivity app that turns real-life chores, habits, and goals into RPG-style quests with XP, gold, loot, and real-world rewards. Families, couples, roommates, and individuals can create shared realms, complete task quests together, grow their heroes, face optional encounters, and spend earned gold in a custom reward shop.",
+  "builder_name": "Luke Liasi",
+  "builder_bio": "I'm an independent developer and founder at Liskion LTD. I build practical products that make everyday work and routines more rewarding.",
+  "builder_story": "I built Chorebound to make repetitive chores and habits feel motivating instead of tedious. RPG progression gives everyday tasks a sense of momentum, while shared realms help households work toward goals and rewards together.",
+  "twitter": "@lukeliasi",
+  "linkedin": "",
+  "logo": "https://chorebound.com/images/logo.png",
+  "screens": [
+   "https://chorebound.com/images/app-preview.png",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "tge-sc",
+  "name": "TGE SC.",
+  "tagline": "Local-first security tools. Pay once. Zero telemetry.",
+  "cat": "Developer Tools",
+  "stage": "Live",
+  "url": "https://tgescllc.netlify.app",
+  "desc_full": "TGE SC. ships local-first security tools built by a Navy veteran. Six products: SecretDex (offline credential scanner), ThreatDex (Android APK risk scoring), Rigsmith (env build plans), Moto Flash & Root Companion, TGE Ops Agent (Termux, risk-tiered), and a faceless-content prompt vault. Pay once except the agent. Zip emailed after checkout. Nothing phones home.",
+  "builder_name": "R.D. Hodges",
+  "builder_bio": "U.S. Navy veteran and sole operator of TGE Collective LLC. I build local-first security tools that do not phone home.",
+  "builder_story": "After the Navy I taught myself this stack and kept hitting tools that sat behind a subscription wall with telemetry baked in. I built the kit I actually wanted to own.",
+  "twitter": "",
+  "linkedin": "https://www.linkedin.com/in/ronnie-hodges",
+  "logo": "",
+  "screens": [
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "atracker",
+  "name": "Atracker",
+  "tagline": "Professional tracker for media buying and paid traffic",
+  "cat": "Marketing",
+  "stage": "Live",
+  "url": "https://atracker.io",
+  "desc_full": "Atracker is a professional ad tracker for media buyers and performance marketers. It attributes every click and conversion across paid traffic sources, shows real-time campaign analytics, custom metrics, funnels and offer monitoring in one dashboard, so you can cut losing placements fast and scale what actually converts. Built for affiliate and paid-traffic teams; 14-day free trial, no credit card required.",
+  "builder_name": "Dmitrii",
+  "builder_bio": "I'm Dmitrii, the maker of Atracker. I've spent years in media buying and paid traffic, and I built Atracker to give performance marketers accurate, real-time tracking and analytics for their campaigns.",
+  "builder_story": "Running paid traffic, I kept stitching together spreadsheets and half-broken trackers to find out which placements actually made money. Existing tools were either enterprise-priced or too shallow for media buying, so I built Atracker: the tracker I wanted as a buyer - fast, transparent, and honest about the numbers.",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "https://atracker.io/favicon.svg",
+  "screens": [
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "lumino-studio",
+  "name": "Lumino Studio",
+  "tagline": "Create interactive storybooks offline with complete privacy",
+  "cat": "Creator Tools",
+  "stage": "Beta",
+  "url": "https://Luminostudio.app",
+  "desc_full": "Lumino Studio is an offline desktop app that turns your photos into interactive storybooks. Instead of delivering or keeping memories as a simple folder of images, you can combine photos, text, layouts and navigation into an experience that can be explored and shared. It’s designed for photographers, creators and anyone who wants to tell stories through images. Everything stays local: no cloud uploads, no account and no subscription required.",
+  "builder_name": "Anthony Ciari",
+  "builder_bio": "I’m a leather artisan with a passion for building things, both physical and digital. I built Lumino Studio together with my wife, a photographer, to explore a more engaging way to turn photo collections into stories.",
+  "builder_story": "Lumino started from a simple idea. My wife works with photography, and we wanted a more meaningful way to deliver photos than just sending a folder or a traditional gallery. I started experimenting with the idea of turning a photo collection into something you can actually explore, almost like a digital storybook. What began as a tool for her photography work gradually became Lumino Studio.",
+  "twitter": "",
+  "linkedin": "https://www.linkedin.com/in/anthony-ciari",
+  "logo": "",
+  "screens": [
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "florn",
+  "name": "FLORN",
+  "tagline": "Deterministic engine that certifies what structured data can establish",
+  "cat": "Developer Tools",
+  "stage": "Live",
+  "url": "https://florn.dev",
+  "desc_full": "FLORN analyzes structured data and separates what is established, refuted, and still unresolved. Same inputs, same result. Not a generative model. Public proof: historical FAERS extracts — 0 causal certification because the data do not allow it. https://florn.dev/results",
+  "builder_name": "J. Alirol",
+  "builder_bio": "J. Alirol, founder of H INNOV LLC, building FLORN — a deterministic engine that certifies what structured data can establish.",
+  "builder_story": "Working with structured datasets, I kept seeing tools that produce confident-sounding answers the underlying data cannot support. I wanted the opposite: an engine that runs deterministically and states plainly what is established, what is refuted, and what remains unresolved — including returning nothing when the data do not allow a conclusion.",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "",
+  "screens": [
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "3ammiya",
+  "name": "3ammiya",
+  "tagline": "Egyptian Arabic, made usable in context",
+  "cat": "Education",
+  "stage": "Live",
+  "url": "https://3ammiya.com/en/",
+  "desc_full": "3ammiya is a free Egyptian Arabic dictionary and phrase guide for learners, travelers, and anyone trying to understand Egyptian conversations. Search everyday words and phrases in Arabic or Franco (Arabizi), see plain-English meanings, examples, and usage in context, then browse related words. It focuses on the Egyptian dialect rather than generic machine translation, so learners can understand how people actually speak.",
+  "builder_name": "3ammiya team",
+  "builder_bio": "The 3ammiya team is building a practical, community-minded guide to Egyptian Arabic for learners and travelers. The project focuses on everyday language, context, and clear examples.",
+  "builder_story": "I kept running into the gap between literal Arabic translations and the way Egyptian people actually talk. 3ammiya started as a small, practical dictionary for the words and phrases learners hear in real conversations, with Arabic and Franco search side by side.",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "https://3ammiya.com/logo-512.png",
+  "screens": [
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "balkan-currency-converter",
+  "name": "Balkan Currency Converter",
+  "tagline": "Convert currencies quickly, anywhere",
+  "cat": "Travel",
+  "stage": "Live",
+  "url": "https://balkanconverter.com",
+  "desc_full": "Balkan Currency Converter is a fast Android currency converter built for travel and everyday use. Convert currencies worldwide with the latest reference rates, use cached rates offline, save favorites and view conversion history and 30-day charts. Travel Board lets you compare multiple currencies at once, Saved Sets help prepare for future trips, and Actual Cost shows how a real exchange offer compares with the reference rate. The app also includes a built-in calculator, requires no account, and avoids full-screen ads.",
+  "builder_name": "NS Tim",
+  "builder_bio": "I'm an independent maker building Balkan Currency Converter, a practical Android app for travelers and anyone working with multiple currencies. I focus on keeping everyday currency conversion fast, simple, and useful even when you're offline.",
+  "builder_story": "Balkan Currency Converter started with Balkan currencies and gradually grew into a global converter with offline rates, travel tools, history, charts and a built-in calculator. My goal is to keep it simple enough to open, convert and move on, while still adding features that are genuinely useful on a trip.",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "https://balkanconverter.com/assets/app-icon.png",
+  "screens": [
+   "https://balkanconverter.com/assets/screenshots/main-converter.webp",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "bidrank",
+  "name": "BidRank",
+  "tagline": "Pay $1 more. Take the seat.",
+  "cat": "Marketing",
+  "stage": "Live",
+  "url": "https://bidrank.lol",
+  "desc_full": "BidRank is a public pay-to-rank leaderboard. No ads, no accounts, no cut. Pay a dollar more than the seat you want (minimum $2, $1 steps) via Stripe Checkout.",
+  "builder_name": "Billy Anderson",
+  "builder_bio": "Billy Anderson. Maker of BidRank.",
+  "builder_story": "I wanted a public leaderboard where rank is the dollar amount. Pay a dollar more than the seat you want. No accounts. Stripe writes rank only after checkout.",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "https://bidrank.lol/favicon.svg",
+  "screens": [
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "formbuddy-ai-form-filler",
+  "name": "FormBuddy - AI Form Filler",
+  "tagline": "AI-powered form filling: scan any form, get every field filled. Voice input in 11 languages.",
+  "cat": "AI / ML",
+  "stage": "Live",
+  "url": "https://formbuddy.ai",
+  "desc_full": "FormBuddy is an AI form filler for iPhone, iPad and Mac. Scan any paper, PDF or web form with your camera and it fills every field for you. Save identities, home, work and custom profiles once and reuse them across 50,000 templates. Voice input works in 11 languages.",
+  "builder_name": "Omer Perchik",
+  "builder_bio": "Founder of FormBuddy. Previously co-founded Any.do. Building practical AI tools that remove everyday friction.",
+  "builder_story": "Filling official forms by hand is slow and error-prone, especially on mobile and across languages. We built FormBuddy so anyone can point a camera at a form and be done in seconds, privately, on-device.",
+  "twitter": "FormBuddyAI",
+  "linkedin": "",
+  "logo": "https://formbuddy.ai/og-image.jpg",
+  "screens": [
+   "https://formbuddy.ai/og-image.jpg",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "puzzlify",
+  "name": "Puzzlify",
+  "tagline": "Turn any photo into a private digital jigsaw gift.",
+  "cat": "Entertainment",
+  "stage": "Live",
+  "url": "https://puzzlify.app/en/puzzle-maker/",
+  "desc_full": "Puzzlify turns a personal JPG into a private digital jigsaw you send as a link. Preview it in the browser for free; publish with one credit (EUR 3.99) when you want to gift it. Recipients play with no account, no app, no postage. Optional PIN, leaderboard, and a note that only appears when the last piece clicks in. Digital only: not a printed puzzle, and not Puzzlit, Puzzly, or Puzzify.",
+  "builder_name": "Jose Almarcha",
+  "builder_bio": "Maker of Puzzlify, a private digital jigsaw gift from your photo.",
+  "builder_story": "I wanted to send someone a private digital gift made from a photo, without printing or postage. So I built Puzzlify: upload a photo, get a private digital jigsaw link with an optional hidden note.",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "https://puzzlify.app/apple-touch-icon.png",
+  "screens": [
+   "https://puzzlify.app/share.jpg",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "privacy-leak-check",
+  "name": "Privacy Leak Check",
+  "tagline": "Check your IP, WebRTC, IPv6 and browser privacy exposure",
+  "cat": "SaaS",
+  "stage": "Live",
+  "url": "https://privacy-leak-check.netlify.app/en",
+  "desc_full": "Privacy Leak Check is a free browser-based tool for anyone who wants to understand what a typical website can see about their connection. It checks public IP, ISP, approximate location, WebRTC exposure, browser signals and IPv6 availability without requiring an account, download or installation. The goal is clarity, not fear: results are informational and do not claim that a VPN is required.",
+  "builder_name": "MUSTAFA KAÇAROĞLU",
+  "builder_bio": "Independent maker building simple, practical web tools that help people understand their online privacy and browser signals.",
+  "builder_story": "Browser privacy information is often hidden behind technical terms and scattered across several tools. I wanted to create one simple place where people can check the most common connection and browser signals in a few seconds, then understand what each result actually means.",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "",
+  "screens": [
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "dnsnotify",
+  "name": "DNSNotify",
+  "tagline": "Get email alerts when your domain infrastructure changes",
+  "cat": "Developer Tools",
+  "stage": "Live",
+  "url": "https://dnsnotify.com",
+  "desc_full": "DNSNotify monitors DNS records, authoritative nameservers, SSL certificates and domain registration details, then emails you when something changes or approaches expiry. It is built for website owners, developers and operators who need an early warning before unnoticed domain changes become outages or security problems. A free no-login scanner lets anyone inspect a domain first.",
+  "builder_name": "Mira John",
+  "builder_bio": "Mira John is building DNSNotify to make quiet but important domain infrastructure changes visible before they become larger problems. The focus is practical monitoring that is simple enough for website owners and detailed enough for developers and operators.",
+  "builder_story": "Important DNS, certificate and registration changes are easy to miss because they happen quietly and are spread across different systems. DNSNotify was built to bring those signals together and turn them into a simple, useful email at the moment action is needed.",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "",
+  "screens": [
+   "",
+   "",
+   ""
+  ]
+ },
+ {
+  "slug": "trade-time",
+  "name": "Trade Time",
+  "tagline": "Global stock-exchange hours on a timeline, in your local time.",
+  "cat": "Fintech",
+  "stage": "Live",
+  "url": "https://tradeti.me/",
+  "desc_full": "A free visual timeline of regular trading hours for 30 stock exchanges across 5 regions. Hours are shown in the visitor's local time. No account. No install. Website only.",
+  "builder_name": "Nicolai Johannesen",
+  "builder_bio": "Danish engineer in Palawan. Builds tools. Not a trader.",
+  "builder_story": "I kept needing a simple answer: is this exchange open right now, in my timezone? Not quotes. Just hours. So I made a clock.",
+  "twitter": "",
+  "linkedin": "",
+  "logo": "",
+  "screens": [
+   "",
+   "",
+   ""
+  ]
+ }
+]
