@@ -386,10 +386,10 @@
  {
   "id": "webwander",
   "name": "Web Wander",
-  "tagline": "Escape the feed and find a surprising corner of the web in one click.",
-  "desc": "Web Wander is a free Chrome and Firefox extension for people who miss the strange, surprising web beyond algorithmic feeds. One toolbar click opens a",
+  "tagline": "Stop Scrolling Start Wandering.",
+  "desc": "Web Wander is a free Chrome and Firefox extension that replaces repetitive feeds with one-click discovery across 85+ categories. Browse by interest…",
   "emoji": "W",
-  "logo": "",
+  "logo": "https://bigo.ooo/web-wander/assets/web-wander-icon-512.png",
   "cat": "Other",
   "url": "https://bigo.ooo/web-wander/",
   "stage": "Live",
