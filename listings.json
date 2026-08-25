@@ -6094,5 +6094,37 @@
   "slug": "hawkovr",
   "date": "2026-08-25",
   "mrr": ""
+ },
+ {
+  "id": "freelance-starter-kit",
+  "name": "Freelance Starter Kit",
+  "tagline": "Offline invoice, proposal, rate & time tools for freelancers.",
+  "desc": "Four lightweight tools that run entirely offline in your browser: professional invoice generator (print/PDF), proposal generator with scope and…",
+  "emoji": "F",
+  "logo": "",
+  "cat": "Productivity",
+  "url": "https://cotizadorpro.gumroad.com/l/freelance-starter-kit",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "freelance-starter-kit",
+  "date": "2026-08-25",
+  "mrr": ""
+ },
+ {
+  "id": "atlas-verified",
+  "name": "Atlas Verified",
+  "tagline": "AI verification for global trade: certifications, sanctions, FDA, trade data.",
+  "desc": "Atlas Verified is AI-powered intelligence and verification for global trade: certifications, OFAC, FDA, and trade data. Teams use it for audit-ready…",
+  "emoji": "A",
+  "logo": "",
+  "cat": "AI / ML",
+  "url": "https://atlasverified.ai",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "atlas-verified",
+  "date": "2026-08-25",
+  "mrr": ""
  }
 ]
