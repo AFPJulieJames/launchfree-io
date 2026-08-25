@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 351 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 363 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -19,9 +19,21 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Disclaimer](https://launchfree.io/disclaimer.html): Site disclaimer for LaunchFree.io.
 
 ## Recent launches
+- [TaxMiles: Mileage Tracker](https://launchfree.io/listings/taxmiles-mileage-tracker.html): Auto-detects business drives, estimates tax savings, IRS-ready mileage log (Fintech).
 - [SuperApp by Devkart](https://launchfree.io/listings/superapp-by-devkart.html): One platform. Food, retail, grocery, your brand (E-commerce).
+- [Supaorder](https://launchfree.io/listings/supaorder.html): Your brand, our tech. Zero-commission ordering (E-commerce).
+- [Size Matters](https://launchfree.io/listings/size-matters.html): AI fish photo editor that turns any catch into a trophy (Entertainment).
+- [ShipReady](https://launchfree.io/listings/shipready.html): Production mechanic for Lovable, Bolt, v0, and Cursor apps (Developer Tools).
+- [SEMAPRAX](https://launchfree.io/listings/semaprax.html): Agent-native systems language with replayable semantic patches (Developer Tools).
 - [RecipeScan](https://launchfree.io/listings/recipescan.html): Photograph your fridge. Get dinner instantly (Lifestyle).
+- [PROXe](https://launchfree.io/listings/proxe.html): PROXe answers, qualifies, books and follows up on every enquiry, on every channel. You never miss a lead again (AI / ML).
+- [Presque](https://launchfree.io/listings/presque.html): Your old photographs, turned into introductions (Travel).
+- [PlainQuote](https://launchfree.io/listings/plainquote.html): Quoting app for one-person plumbers. Type the job, print the estimate (Productivity).
 - [More Good Reviews](https://launchfree.io/listings/more-good-reviews.html): Your AI Reputation Manager (Marketing).
+- [Dotallio](https://launchfree.io/listings/dotallio.html): Turn a conversation into a live business app, without app-specific code (AI / ML).
+- [creators.vip](https://launchfree.io/listings/creators-vip.html): Bid your creator link to the top 10 (Creator Tools).
+- [Cleanup My Phone](https://launchfree.io/listings/cleanup-my-phone.html): On-device iPhone cleaner with a 30-day undo vault (Productivity).
+- [CheckShop](https://launchfree.io/listings/checkshop.html): The search engine for independent digital-product stores (E-commerce).
 - [Animal Peekaboo](https://launchfree.io/listings/animal-peekaboo.html): Guess the silhouette, then tap for a joyful 3D reveal (Education).
 - [3D Animal Coloring](https://launchfree.io/listings/3d-animal-coloring.html): Kids color in 2D and see their animals come alive in 3D (Education).
 - [Zloppy](https://launchfree.io/listings/zloppy.html): Dating done fair - free forever, no paywalls, no tracking (Lifestyle).
@@ -107,36 +119,24 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [NeverApply](https://launchfree.io/listings/neverapply.html): AI agent that matches jobs, tailors resumes, and auto-applies (AI / ML).
 - [Netstate](https://launchfree.io/listings/netstate.html): Business data to verify, understand, and monitor businesses (SaaS).
 - [MyWellnessHotel](https://launchfree.io/listings/mywellnesshotel.html): Evidence-first wellness hotel research and discovery (Travel).
-- [My Season Hue](https://launchfree.io/listings/my-season-hue.html): Find your 12-season color palette with free visual tools (Lifestyle).
-- [Microoferta Clara](https://launchfree.io/listings/microoferta-clara.html): Turn a skill into a clear, ready to share offer (Service).
-- [Luphra](https://launchfree.io/listings/luphra.html): Prompt to matter (AI / ML).
-- [Knoq](https://launchfree.io/listings/knoq.html): A free daily trivia quiz, 10 new questions every day (Education).
-- [Free Crypto KOL CPW Tracker](https://launchfree.io/listings/free-crypto-kol-cpw-tracker.html): Free Excel CPW tracker plus a paid-partnership disclosure checklist (Marketing).
-- [Faceless.so](https://launchfree.io/listings/faceless-so.html): All-in-one tool to grow a faceless channel (AI / ML).
-- [Doc2Lang](https://launchfree.io/listings/doc2lang.html): Translate documents with AI while preserving formatting and layout (AI / ML).
-- [Crypto KOL Campaign Ops Workbook](https://launchfree.io/listings/crypto-kol-campaign-ops-workbook.html): Excel ops workbook for crypto KOL campaigns and CPW tracking (Marketing).
-- [Cookie Browser](https://launchfree.io/listings/cookie-browser.html): A customizable Windows browser built to replace Chrome (Productivity).
-- [Co-Invest](https://launchfree.io/listings/co-invest.html): Long/Short buttons under every ticker on X, Reddit, and TradingView (Fintech).
-- [ChooseOS](https://launchfree.io/listings/chooseos.html): Independent comparisons and verified facts for better buying decisions (Other).
-- [AnyGradient](https://launchfree.io/listings/anygradient.html): NextGen gradient generator with OKLCH, Display-P3, noise, and code exports (Developer Tools).
 
 ## Categories
-- [AI / ML](https://launchfree.io/categories/ai-ml.html): 73 free AI / ML launches.
-- [Productivity](https://launchfree.io/categories/productivity.html): 37 free Productivity launches.
+- [AI / ML](https://launchfree.io/categories/ai-ml.html): 75 free AI / ML launches.
+- [Productivity](https://launchfree.io/categories/productivity.html): 39 free Productivity launches.
 - [SaaS](https://launchfree.io/categories/saas.html): 36 free SaaS launches.
-- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 33 free Developer Tools launches.
-- [E-commerce](https://launchfree.io/categories/e-commerce.html): 23 free E-commerce launches.
-- [Creator Tools](https://launchfree.io/categories/creator-tools.html): 21 free Creator Tools launches.
+- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 35 free Developer Tools launches.
+- [E-commerce](https://launchfree.io/categories/e-commerce.html): 25 free E-commerce launches.
+- [Creator Tools](https://launchfree.io/categories/creator-tools.html): 22 free Creator Tools launches.
 - [Education](https://launchfree.io/categories/education.html): 20 free Education launches.
-- [Fintech](https://launchfree.io/categories/fintech.html): 18 free Fintech launches.
+- [Fintech](https://launchfree.io/categories/fintech.html): 19 free Fintech launches.
 - [Marketing](https://launchfree.io/categories/marketing.html): 17 free Marketing launches.
 - [Other](https://launchfree.io/categories/other.html): 15 free Other launches.
 - [Health](https://launchfree.io/categories/health.html): 12 free Health launches.
 - [Service](https://launchfree.io/categories/service.html): 12 free Service launches.
-- [Travel](https://launchfree.io/categories/travel.html): 10 free Travel launches.
+- [Travel](https://launchfree.io/categories/travel.html): 11 free Travel launches.
 - [Lifestyle](https://launchfree.io/categories/lifestyle.html): 8 free Lifestyle launches.
 - [Community](https://launchfree.io/categories/community.html): 7 free Community launches.
-- [Entertainment](https://launchfree.io/categories/entertainment.html): 6 free Entertainment launches.
+- [Entertainment](https://launchfree.io/categories/entertainment.html): 7 free Entertainment launches.
 - [Affiliate](https://launchfree.io/categories/affiliate.html): 3 free Affiliate launches.
 
 ## Runway Radar (guides)
