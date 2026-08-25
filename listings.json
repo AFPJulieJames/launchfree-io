@@ -5806,5 +5806,53 @@
   "slug": "size-matters",
   "date": "2026-08-25",
   "mrr": ""
+ },
+ {
+  "id": "agents-get-paid-kit",
+  "name": "Agents Get Paid Kit",
+  "tagline": "Agents that help humans get paid. The $49 Get Paid Kit.",
+  "desc": "Agents Get Paid Kit is the agent-native path to help humans get paid. The $49 one-time setup covers wallet guidance, an x402 MCP scaffold, spend…",
+  "emoji": "A",
+  "logo": "https://agentsgetpaidmore.com/logo.png",
+  "cat": "AI / ML",
+  "url": "https://www.agentsgetpaidmore.com",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "agents-get-paid-kit",
+  "date": "2026-08-25",
+  "mrr": ""
+ },
+ {
+  "id": "mybabygenerator",
+  "name": "MyBabyGenerator",
+  "tagline": "AI baby portraits across five life stages",
+  "desc": "MyBabyGenerator uses AI to blend one clear photo of each parent into a photorealistic portrait of a possible future child across five life stages:…",
+  "emoji": "M",
+  "logo": "",
+  "cat": "AI / ML",
+  "url": "https://mybabygenerator.com/",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "mybabygenerator",
+  "date": "2026-08-25",
+  "mrr": ""
+ },
+ {
+  "id": "wiki",
+  "name": "Wiki",
+  "tagline": "Manage what your AI is allowed to know, cite, and say.",
+  "desc": "Wiki is the source-of-truth layer for AI applications. Teams verify knowledge, scope per-application permissions, require citation-backed answers,…",
+  "emoji": "W",
+  "logo": "https://wiki.co/brand/wiki-mark.png",
+  "cat": "AI / ML",
+  "url": "https://wiki.co",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "wiki",
+  "date": "2026-08-25",
+  "mrr": ""
  }
 ]

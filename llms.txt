@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 363 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 366 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -19,6 +19,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Disclaimer](https://launchfree.io/disclaimer.html): Site disclaimer for LaunchFree.io.
 
 ## Recent launches
+- [Wiki](https://launchfree.io/listings/wiki.html): Manage what your AI is allowed to know, cite, and say (AI / ML).
 - [TaxMiles: Mileage Tracker](https://launchfree.io/listings/taxmiles-mileage-tracker.html): Auto-detects business drives, estimates tax savings, IRS-ready mileage log (Fintech).
 - [SuperApp by Devkart](https://launchfree.io/listings/superapp-by-devkart.html): One platform. Food, retail, grocery, your brand (E-commerce).
 - [Supaorder](https://launchfree.io/listings/supaorder.html): Your brand, our tech. Zero-commission ordering (E-commerce).
@@ -29,12 +30,14 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [PROXe](https://launchfree.io/listings/proxe.html): PROXe answers, qualifies, books and follows up on every enquiry, on every channel. You never miss a lead again (AI / ML).
 - [Presque](https://launchfree.io/listings/presque.html): Your old photographs, turned into introductions (Travel).
 - [PlainQuote](https://launchfree.io/listings/plainquote.html): Quoting app for one-person plumbers. Type the job, print the estimate (Productivity).
+- [MyBabyGenerator](https://launchfree.io/listings/mybabygenerator.html): AI baby portraits across five life stages (AI / ML).
 - [More Good Reviews](https://launchfree.io/listings/more-good-reviews.html): Your AI Reputation Manager (Marketing).
 - [Dotallio](https://launchfree.io/listings/dotallio.html): Turn a conversation into a live business app, without app-specific code (AI / ML).
 - [creators.vip](https://launchfree.io/listings/creators-vip.html): Bid your creator link to the top 10 (Creator Tools).
 - [Cleanup My Phone](https://launchfree.io/listings/cleanup-my-phone.html): On-device iPhone cleaner with a 30-day undo vault (Productivity).
 - [CheckShop](https://launchfree.io/listings/checkshop.html): The search engine for independent digital-product stores (E-commerce).
 - [Animal Peekaboo](https://launchfree.io/listings/animal-peekaboo.html): Guess the silhouette, then tap for a joyful 3D reveal (Education).
+- [Agents Get Paid Kit](https://launchfree.io/listings/agents-get-paid-kit.html): Agents that help humans get paid. The $49 Get Paid Kit (AI / ML).
 - [3D Animal Coloring](https://launchfree.io/listings/3d-animal-coloring.html): Kids color in 2D and see their animals come alive in 3D (Education).
 - [Zloppy](https://launchfree.io/listings/zloppy.html): Dating done fair - free forever, no paywalls, no tracking (Lifestyle).
 - [workwithme.lol](https://launchfree.io/listings/workwithme-lol.html): The internet's most competitive professional directory (Community).
@@ -116,12 +119,9 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [PreOrder | Notify](https://launchfree.io/listings/preorder-notify.html): Boost sales with pre-orders, restock alerts, and Coming Soon features (E-commerce).
 - [PDF Accessibility Checker](https://launchfree.io/listings/pdf-accessibility-checker.html): Private browser-local PDF accessibility pre-check with clear review limits (Productivity).
 - [OpenMusic: Music and Videos](https://launchfree.io/listings/openmusic-music-and-videos.html): OpenMusic: Music, videos, lyrics, playlists, and podcasts in one app (Entertainment).
-- [NeverApply](https://launchfree.io/listings/neverapply.html): AI agent that matches jobs, tailors resumes, and auto-applies (AI / ML).
-- [Netstate](https://launchfree.io/listings/netstate.html): Business data to verify, understand, and monitor businesses (SaaS).
-- [MyWellnessHotel](https://launchfree.io/listings/mywellnesshotel.html): Evidence-first wellness hotel research and discovery (Travel).
 
 ## Categories
-- [AI / ML](https://launchfree.io/categories/ai-ml.html): 75 free AI / ML launches.
+- [AI / ML](https://launchfree.io/categories/ai-ml.html): 78 free AI / ML launches.
 - [Productivity](https://launchfree.io/categories/productivity.html): 39 free Productivity launches.
 - [SaaS](https://launchfree.io/categories/saas.html): 36 free SaaS launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 35 free Developer Tools launches.
