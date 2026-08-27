@@ -6606,5 +6606,21 @@
   "slug": "biaura",
   "date": "2026-08-27",
   "mrr": ""
+ },
+ {
+  "id": "trainflow",
+  "name": "TrainFlow",
+  "tagline": "Turn YouTube workout moments into trackable routines.",
+  "desc": "TrainFlow is a web app and mobile PWA for people who follow workouts on YouTube. It lets users capture exact video moments as reusable exercise…",
+  "emoji": "T",
+  "logo": "",
+  "cat": "Health",
+  "url": "https://www.trainflow.me",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "trainflow",
+  "date": "2026-08-27",
+  "mrr": ""
  }
 ]

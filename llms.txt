@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 413 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 414 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -21,6 +21,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 ## Recent launches
 - [VRIZEN](https://launchfree.io/listings/vrizen.html): AI, Automation, Software Development, SaaS, Web Development, UI/UX (E-commerce).
 - [VAULT, NO-SHOW SYSTEM](https://launchfree.io/listings/vault-no-show-system.html): A fixed no-show prevention and recovery system for appointment businesses (E-commerce).
+- [TrainFlow](https://launchfree.io/listings/trainflow.html): Turn YouTube workout moments into trackable routines (Health).
 - [Tinapps](https://launchfree.io/listings/tinapps.html): Free browser tools for the small jobs that slow work down (Developer Tools).
 - [SipNook](https://launchfree.io/listings/sipnook.html): Quiet circulating fountain for indoor cats. Ships from a US warehouse in a few days (E-commerce).
 - [Rapidping](https://launchfree.io/listings/rapidping.html): Fast, secure VPN with WireGuard & V2Ray for private internet access (SaaS).
@@ -118,7 +119,6 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Charting Stars](https://launchfree.io/listings/charting-stars.html): Free natal chart calculator. Instant Big Three preview (AI / ML).
 - [cents, CLI for integer money](https://launchfree.io/listings/cents-cli-for-integer-money.html): Python CLI for cents/integer money, no float rounding bugs (Developer Tools).
 - [Anonity](https://launchfree.io/listings/anonity.html): Anonymous one-to-one chat, directly inside Telegram (Community).
-- [AI Photo Editor](https://launchfree.io/listings/ai-photo-editor.html): Edit a photo with a prompt in your browser (AI / ML).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 82 free AI / ML launches.
@@ -131,8 +131,8 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Marketing](https://launchfree.io/categories/marketing.html): 22 free Marketing launches.
 - [Fintech](https://launchfree.io/categories/fintech.html): 21 free Fintech launches.
 - [Other](https://launchfree.io/categories/other.html): 16 free Other launches.
+- [Health](https://launchfree.io/categories/health.html): 15 free Health launches.
 - [Service](https://launchfree.io/categories/service.html): 15 free Service launches.
-- [Health](https://launchfree.io/categories/health.html): 14 free Health launches.
 - [Travel](https://launchfree.io/categories/travel.html): 12 free Travel launches.
 - [Entertainment](https://launchfree.io/categories/entertainment.html): 9 free Entertainment launches.
 - [Lifestyle](https://launchfree.io/categories/lifestyle.html): 9 free Lifestyle launches.
