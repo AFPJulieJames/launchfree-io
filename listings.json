@@ -6622,5 +6622,53 @@
   "slug": "trainflow",
   "date": "2026-08-27",
   "mrr": ""
+ },
+ {
+  "id": "stillsparkly",
+  "name": "StillSparkly",
+  "tagline": "The marketplace just for jewelry - buy and sell pre-loved pieces",
+  "desc": "StillSparkly is a marketplace built only for jewelry. Buyers shop vintage, handmade, designer, and everyday pieces in one place, and sellers list…",
+  "emoji": "S",
+  "logo": "https://stillsparkly.com/icon.png",
+  "cat": "E-commerce",
+  "url": "https://stillsparkly.com",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "stillsparkly",
+  "date": "2026-08-27",
+  "mrr": ""
+ },
+ {
+  "id": "paintpal",
+  "name": "PaintPal",
+  "tagline": "Free collaborative drawing app for kids - draw together in real time",
+  "desc": "PaintPal is a free collaborative drawing and coloring app for kids. One person creates a private drawing room and shares a code, and everyone who…",
+  "emoji": "P",
+  "logo": "https://paintpal.fun/og/og-image.jpg",
+  "cat": "Entertainment",
+  "url": "https://paintpal.fun",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "paintpal",
+  "date": "2026-08-27",
+  "mrr": ""
+ },
+ {
+  "id": "milkmode",
+  "name": "MilkMode",
+  "tagline": "Simple breastfeeding timer for iPhone - one tap, done",
+  "desc": "MilkMode is a beautifully simple breastfeeding timer for iPhone. One tap starts a feed, and you can log straight from the Home Screen widget without…",
+  "emoji": "M",
+  "logo": "https://milkmode.app/apple-touch-icon.png",
+  "cat": "Health",
+  "url": "https://milkmode.app",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "milkmode",
+  "date": "2026-08-27",
+  "mrr": ""
  }
 ]

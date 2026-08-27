@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 414 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 417 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -23,14 +23,17 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [VAULT, NO-SHOW SYSTEM](https://launchfree.io/listings/vault-no-show-system.html): A fixed no-show prevention and recovery system for appointment businesses (E-commerce).
 - [TrainFlow](https://launchfree.io/listings/trainflow.html): Turn YouTube workout moments into trackable routines (Health).
 - [Tinapps](https://launchfree.io/listings/tinapps.html): Free browser tools for the small jobs that slow work down (Developer Tools).
+- [StillSparkly](https://launchfree.io/listings/stillsparkly.html): The marketplace just for jewelry - buy and sell pre-loved pieces (E-commerce).
 - [SipNook](https://launchfree.io/listings/sipnook.html): Quiet circulating fountain for indoor cats. Ships from a US warehouse in a few days (E-commerce).
 - [Rapidping](https://launchfree.io/listings/rapidping.html): Fast, secure VPN with WireGuard & V2Ray for private internet access (SaaS).
 - [RankBurns](https://launchfree.io/listings/rankburns.html): #1 is rented, never owned. Rank burns 8% a day (Marketing).
 - [Qv-Voice](https://launchfree.io/listings/qv-voice.html): Remove background noise from any audio or video with AI (Creator Tools).
 - [Pressbook](https://launchfree.io/listings/pressbook.html): On-device iOS albums and collages (Creator Tools).
+- [PaintPal](https://launchfree.io/listings/paintpal.html): Free collaborative drawing app for kids - draw together in real time (Entertainment).
 - [PageRain](https://launchfree.io/listings/pagerain.html): Social publishing for a roster of profiles, plus cookie-free analytics (Creator Tools).
 - [PadelWrist](https://launchfree.io/listings/padelwrist.html): Padel scoring for Apple Watch, iPhone and iPad (Entertainment).
 - [OnePagey](https://launchfree.io/listings/onepagey.html): AI one-page website builder for local service businesses (SaaS).
+- [MilkMode](https://launchfree.io/listings/milkmode.html): Simple breastfeeding timer for iPhone - one tap, done (Health).
 - [Login Broker](https://launchfree.io/listings/login-broker.html): Social login in five minutes. One key, six providers (Developer Tools).
 - [Inkline](https://launchfree.io/listings/inkline.html): Printables for people who invoice (Lifestyle).
 - [Finnigan & Associates](https://launchfree.io/listings/finnigan-and-associates.html): Resume + LinkedIn rewrite in 48 hours. $149 one-off (Service).
@@ -116,25 +119,22 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [HOL Guard](https://launchfree.io/listings/hol-guard.html): Local-first runtime control for AI coding agents (Developer Tools).
 - [Couple App](https://launchfree.io/listings/couple-app.html): Stay close in 1 minute a day, daily questions, couple games, and widgets for long-distance and busy couples (Lifestyle).
 - [CoachNed](https://launchfree.io/listings/coachned.html): Same fox in every room. Live cases, 7-score debriefs, then the screens (Education).
-- [Charting Stars](https://launchfree.io/listings/charting-stars.html): Free natal chart calculator. Instant Big Three preview (AI / ML).
-- [cents, CLI for integer money](https://launchfree.io/listings/cents-cli-for-integer-money.html): Python CLI for cents/integer money, no float rounding bugs (Developer Tools).
-- [Anonity](https://launchfree.io/listings/anonity.html): Anonymous one-to-one chat, directly inside Telegram (Community).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 82 free AI / ML launches.
 - [Productivity](https://launchfree.io/categories/productivity.html): 44 free Productivity launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 43 free Developer Tools launches.
 - [SaaS](https://launchfree.io/categories/saas.html): 39 free SaaS launches.
-- [E-commerce](https://launchfree.io/categories/e-commerce.html): 28 free E-commerce launches.
+- [E-commerce](https://launchfree.io/categories/e-commerce.html): 29 free E-commerce launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 26 free Creator Tools launches.
 - [Education](https://launchfree.io/categories/education.html): 23 free Education launches.
 - [Marketing](https://launchfree.io/categories/marketing.html): 22 free Marketing launches.
 - [Fintech](https://launchfree.io/categories/fintech.html): 21 free Fintech launches.
+- [Health](https://launchfree.io/categories/health.html): 16 free Health launches.
 - [Other](https://launchfree.io/categories/other.html): 16 free Other launches.
-- [Health](https://launchfree.io/categories/health.html): 15 free Health launches.
 - [Service](https://launchfree.io/categories/service.html): 15 free Service launches.
 - [Travel](https://launchfree.io/categories/travel.html): 12 free Travel launches.
-- [Entertainment](https://launchfree.io/categories/entertainment.html): 9 free Entertainment launches.
+- [Entertainment](https://launchfree.io/categories/entertainment.html): 10 free Entertainment launches.
 - [Lifestyle](https://launchfree.io/categories/lifestyle.html): 9 free Lifestyle launches.
 - [Community](https://launchfree.io/categories/community.html): 7 free Community launches.
 - [Affiliate](https://launchfree.io/categories/affiliate.html): 3 free Affiliate launches.
