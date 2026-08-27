@@ -6590,5 +6590,21 @@
   "slug": "vrizen",
   "date": "2026-08-27",
   "mrr": ""
+ },
+ {
+  "id": "biaura",
+  "name": "Biaura",
+  "tagline": "iPhone app for binaural beats and noise. Pick a sound, set a timer.",
+  "desc": "Biaura is an iPhone app for binaural beats and noise. You pick one sound, set a timer, and let it run for sleep, focus, tinnitus, or a mind that will…",
+  "emoji": "B",
+  "logo": "",
+  "cat": "Health",
+  "url": "https://www.biaura-app.com/",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "biaura",
+  "date": "2026-08-27",
+  "mrr": ""
  }
 ]
