@@ -23,3 +23,6 @@ Desktop.ini
 
 # Never commit email lists / data exports to the public repo
 *.csv
+
+# Local scratch (never commit)
+_to_delete/
