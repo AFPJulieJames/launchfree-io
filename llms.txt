@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 459 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 455 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -96,7 +96,6 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Aaroha](https://launchfree.io/listings/aaroha.html): Aaroha, Your Personal Fitness Companion (Health).
 - [0Chat](https://launchfree.io/listings/0chat.html): Timed 1-on-1 language exchange; partners see gender only (Community).
 - [Wiki](https://launchfree.io/listings/wiki.html): Manage what your AI is allowed to know, cite, and say (AI / ML).
-- [Vedic Astrology Chart](https://launchfree.io/listings/vedic-astrology-chart.html): Free sidereal Vedic birth chart calculator (AI / ML).
 - [Unse Nadri: Place Fortune](https://launchfree.io/listings/unse-nadri-place-fortune.html): Check today's personal fortune with a place already on your plan (Other).
 - [Third-Party API Contract Drift Monitor](https://launchfree.io/listings/third-party-api-contract-drift-monitor.html): Detect authorized API contract changes with baseline evidence (Developer Tools).
 - [TaxMiles: Mileage Tracker](https://launchfree.io/listings/taxmiles-mileage-tracker.html): Auto-detects business drives, estimates tax savings, IRS-ready mileage log (Fintech).
@@ -113,29 +112,30 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [PlainQuote](https://launchfree.io/listings/plainquote.html): Quoting app for one-person plumbers. Type the job, print the estimate (Productivity).
 - [MyBabyGenerator](https://launchfree.io/listings/mybabygenerator.html): AI baby portraits across five life stages (AI / ML).
 - [More Good Reviews](https://launchfree.io/listings/more-good-reviews.html): Your AI Reputation Manager (Marketing).
-- [LyfSkills Discover](https://launchfree.io/listings/lyfskills-discover.html): Find trusted classes and activities for children across India (Education).
 - [Kit Ventas en 24h](https://launchfree.io/listings/kit-ventas-en-24h.html): Consigue clientes en 24 horas con guiones y prompts listos (Marketing).
 - [HawkOVR](https://launchfree.io/listings/hawkovr.html): Free Diablo IV event timers and Helltide overlay for Windows (Developer Tools).
 - [getgiffgaff](https://launchfree.io/listings/getgiffgaff.html): Chinese giffgaff SIM card guide and service (Travel).
 - [Freelance Starter Kit](https://launchfree.io/listings/freelance-starter-kit.html): Offline invoice, proposal, rate & time tools for freelancers (Productivity).
-- [Extract.FAST](https://launchfree.io/listings/extract-fast.html): Extract images, text, audio, and metadata from documents and media in bulk (SaaS).
+- [Dotallio](https://launchfree.io/listings/dotallio.html): Turn a conversation into a live business app, without app-specific code (AI / ML).
+- [creators.vip](https://launchfree.io/listings/creators-vip.html): Bid your creator link to the top 10 (Creator Tools).
+- [Conversion Snapshot 24](https://launchfree.io/listings/conversion-snapshot-24.html): A page-specific conversion audit delivered in 24 hours (Service).
 
 ## Categories
-- [AI / ML](https://launchfree.io/categories/ai-ml.html): 86 free AI / ML launches.
+- [AI / ML](https://launchfree.io/categories/ai-ml.html): 85 free AI / ML launches.
 - [Productivity](https://launchfree.io/categories/productivity.html): 48 free Productivity launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 45 free Developer Tools launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 45 free E-commerce launches.
-- [SaaS](https://launchfree.io/categories/saas.html): 40 free SaaS launches.
+- [SaaS](https://launchfree.io/categories/saas.html): 39 free SaaS launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 27 free Creator Tools launches.
 - [Marketing](https://launchfree.io/categories/marketing.html): 25 free Marketing launches.
-- [Education](https://launchfree.io/categories/education.html): 24 free Education launches.
 - [Fintech](https://launchfree.io/categories/fintech.html): 24 free Fintech launches.
+- [Education](https://launchfree.io/categories/education.html): 23 free Education launches.
 - [Service](https://launchfree.io/categories/service.html): 19 free Service launches.
 - [Health](https://launchfree.io/categories/health.html): 16 free Health launches.
 - [Other](https://launchfree.io/categories/other.html): 16 free Other launches.
 - [Travel](https://launchfree.io/categories/travel.html): 12 free Travel launches.
 - [Lifestyle](https://launchfree.io/categories/lifestyle.html): 11 free Lifestyle launches.
-- [Entertainment](https://launchfree.io/categories/entertainment.html): 10 free Entertainment launches.
+- [Entertainment](https://launchfree.io/categories/entertainment.html): 9 free Entertainment launches.
 - [Community](https://launchfree.io/categories/community.html): 8 free Community launches.
 - [Affiliate](https://launchfree.io/categories/affiliate.html): 3 free Affiliate launches.
 
