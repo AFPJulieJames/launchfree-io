@@ -7326,5 +7326,21 @@
   "slug": "firstsignal",
   "date": "2026-08-27",
   "mrr": ""
+ },
+ {
+  "id": "0chat",
+  "name": "0Chat",
+  "tagline": "Timed 1-on-1 language exchange; partners see gender only",
+  "desc": "0Chat is a free timed 1-on-1 text and voice language-exchange chat. Pick up to 3 of 12 languages and match on a shared one. An idle countdown ends…",
+  "emoji": "0",
+  "logo": "https://0chat.online/favicon.ico",
+  "cat": "Community",
+  "url": "https://0chat.online",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "0chat",
+  "date": "2026-08-27",
+  "mrr": ""
  }
 ]
