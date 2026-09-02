@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 589 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 595 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -19,11 +19,14 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Disclaimer](https://launchfree.io/disclaimer.html): Site disclaimer for LaunchFree.io.
 
 ## Recent launches
+- [YMM Fitment AI: Parts Search](https://launchfree.io/listings/ymm-fitment-ai-parts-search.html): Help shoppers find compatible parts faster with AI-powered YMM search (E-commerce).
 - [WYR? (Would You Rather for two)](https://launchfree.io/listings/wyr-would-you-rather-for-two.html): Private iOS couples game: pair by invite code, 8 play modes, no feed (Entertainment).
+- [WeatherChirp](https://launchfree.io/listings/weatherchirp.html): Typical weather for 30,000+ cities, charted from 30 years of climate data (Travel).
 - [Sponsor Desk](https://launchfree.io/listings/sponsor-desk.html): A flat sponsorship operations desk that handles the details, follow-ups, and coordination (Service).
 - [Sollicitatiekit NL](https://launchfree.io/listings/sollicitatiekit-nl.html): Dutch CV template + 3 motivation letters, 12 euro (Education).
 - [Sitting Press](https://launchfree.io/listings/sitting-press.html): Short playbooks for tired, competent people (Productivity).
 - [Sheet Insights BI](https://launchfree.io/listings/sheet-insights-bi.html): Turn Excel and CSV files into dashboards in seconds (Productivity).
+- [send21](https://launchfree.io/listings/send21.html): Direct. Non-custodial. Yours (Fintech).
 - [Send This](https://launchfree.io/listings/send-this.html): UK tools for a parking ticket, HMRC mileage, and unpaid invoices. £5 (Productivity).
 - [ScorecardGO](https://launchfree.io/listings/scorecardgo.html): Free digital scorecards for 90+ games, shared via QR (Entertainment).
 - [ReelsBuilder AI](https://launchfree.io/listings/reelsbuilder-ai.html): Agent-native short-form video infrastructure for Reels, TikTok & Shorts (AI / ML).
@@ -40,9 +43,11 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Lucky Flipper](https://launchfree.io/listings/lucky-flipper.html): 3D coin flip for decisions. Offline, ad-free (Lifestyle).
 - [Latch AI Ops](https://launchfree.io/listings/latch-ai-ops.html): Shopify AI Ops Install in 72 hours (E-commerce).
 - [Kiara](https://launchfree.io/listings/kiara.html): Offline money tracker. No cloud, no account (Productivity).
+- [Keys-to-Keys File by Mint](https://launchfree.io/listings/keys-to-keys-file-by-mint.html): Printable packets for US renters - move-in to deposit (Lifestyle).
 - [iLook](https://launchfree.io/listings/ilook.html): Privacy-first AI face analysis for authorised adult photos (AI / ML).
 - [Honest Photo Compress](https://launchfree.io/listings/honest-photo-compress.html): Compress photos to a target size on-device. No weekly trap. No ad spam (Productivity).
 - [GulfMedExams](https://launchfree.io/listings/gulfmedexams.html): Gulf Licensing preparation for GP (Education).
+- [GroanApproved](https://launchfree.io/listings/groanapproved.html): Original dad-joke tees on Etsy. Printed when you order, $20 (E-commerce).
 - [Footix](https://launchfree.io/listings/footix.html): Free Preview MCP for football analytics in Cursor (Developer Tools).
 - [Flipini](https://launchfree.io/listings/flipini.html): Digital catalogues, weekly promotions and price comparison in one place (E-commerce).
 - [First Dollar Offer Worksheet](https://launchfree.io/listings/first-dollar-offer-worksheet.html): Name a buyer, a paid pain, and a price you can collect this month (Creator Tools).
@@ -50,6 +55,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [DealBeast](https://launchfree.io/listings/dealbeast.html): Paste an address. Get ARV, rehab, rent, cash flow, MAO (Fintech).
 - [Close the Books: 45-Minute Month-End for Freelancers](https://launchfree.io/listings/close-the-books-45-minute-month-end-for-freelancers.html): A 45-minute month-end pack for US freelancers. Instant download. Not tax advice (Fintech).
 - [Close Agent](https://launchfree.io/listings/close-agent.html): Deposit-first client close workflow for cleaner engagements (Service).
+- [ClearRove](https://launchfree.io/listings/clearrove.html): CRM for distributors, manage leads without the spreadsheet mess (SaaS).
 - [Clear HVAC Costs](https://launchfree.io/listings/clear-hvac-costs.html): Check HVAC bids and uncover hidden installation costs (Productivity).
 - [Change Order Agent](https://launchfree.io/listings/change-order-agent.html): Turn scope changes into clear, written change orders (Service).
 - [Briefbox W-2 vs 1099 take-home](https://launchfree.io/listings/briefbox-w-2-vs-1099-take-home.html): Instant 2026 W-2 vs 1099 take-home. $5 (Fintech).
@@ -113,29 +119,23 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Gigwell Services](https://launchfree.io/listings/gigwell-services.html): Trusted Home Repair and Plumbing Services in India (Service).
 - [FWFW](https://launchfree.io/listings/fwfw.html): Discover websites and tools from around the world (Productivity).
 - [Folio Desk](https://launchfree.io/listings/folio-desk.html): Client OS for freelance designers in Google Sheets (Creator Tools).
-- [E-Ink](https://launchfree.io/listings/e-ink.html): Turn any web page into an EPUB for your e-reader (Productivity).
-- [Due Records](https://launchfree.io/listings/due-records.html): UK sole trader MTD pack 2026/27. £17 once. Not tax advice (Productivity).
-- [CrowdSpark](https://launchfree.io/listings/crowdspark.html): $1 takes #1 (Community).
-- [Creator Content Stack](https://launchfree.io/listings/creator-content-stack.html): A repeatable content workflow: 30-day plan, 120 hooks, and 50 prompts (Creator Tools).
-- [Close Letter Late Pay](https://launchfree.io/listings/close-letter-late-pay.html): $19 one-time late-pay emails for solo bookkeepers. Not a collections agency (Productivity).
-- [Close Letter](https://launchfree.io/listings/close-letter.html): The books are closed. The recap is still a blank email (Productivity).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 103 free AI / ML launches.
 - [Productivity](https://launchfree.io/categories/productivity.html): 80 free Productivity launches.
-- [E-commerce](https://launchfree.io/categories/e-commerce.html): 60 free E-commerce launches.
+- [E-commerce](https://launchfree.io/categories/e-commerce.html): 62 free E-commerce launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 53 free Developer Tools launches.
-- [SaaS](https://launchfree.io/categories/saas.html): 51 free SaaS launches.
+- [SaaS](https://launchfree.io/categories/saas.html): 52 free SaaS launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 36 free Creator Tools launches.
-- [Fintech](https://launchfree.io/categories/fintech.html): 31 free Fintech launches.
+- [Fintech](https://launchfree.io/categories/fintech.html): 32 free Fintech launches.
 - [Education](https://launchfree.io/categories/education.html): 27 free Education launches.
 - [Marketing](https://launchfree.io/categories/marketing.html): 27 free Marketing launches.
 - [Service](https://launchfree.io/categories/service.html): 25 free Service launches.
+- [Lifestyle](https://launchfree.io/categories/lifestyle.html): 19 free Lifestyle launches.
 - [Entertainment](https://launchfree.io/categories/entertainment.html): 18 free Entertainment launches.
 - [Health](https://launchfree.io/categories/health.html): 18 free Health launches.
-- [Lifestyle](https://launchfree.io/categories/lifestyle.html): 18 free Lifestyle launches.
 - [Other](https://launchfree.io/categories/other.html): 18 free Other launches.
-- [Travel](https://launchfree.io/categories/travel.html): 12 free Travel launches.
+- [Travel](https://launchfree.io/categories/travel.html): 13 free Travel launches.
 - [Community](https://launchfree.io/categories/community.html): 9 free Community launches.
 - [Affiliate](https://launchfree.io/categories/affiliate.html): 3 free Affiliate launches.
 
