@@ -46,10 +46,13 @@ nav{position:sticky;top:0;z-index:100;background:rgba(10,15,26,0.92);backdrop-fi
 .art-body blockquote{border-left:3px solid var(--runway);padding:4px 0 4px 20px;margin:0 0 20px;color:var(--white);font-family:var(--serif);font-style:italic;font-size:1.15rem;}
 .art-body .callout{background:var(--card-bg);border:1px solid var(--card-border);border-left:3px solid var(--runway);border-radius:var(--r);padding:20px 24px;margin:0 0 22px;}
 .art-body .callout p:last-child{margin-bottom:0;}
+.art-body .answer{background:var(--card-bg);border:1px solid var(--card-border);border-left:3px solid var(--runway);border-radius:var(--r);padding:20px 24px;margin:0 0 22px;font-size:1.05rem;}
 .art-body table{width:100%;border-collapse:collapse;margin:0 0 22px;font-size:0.92rem;}
 .art-body th,.art-body td{text-align:left;padding:11px 12px;border-bottom:1px solid var(--card-border);}
 .art-body th{color:var(--runway);font-size:0.72rem;text-transform:uppercase;letter-spacing:0.06em;}
 .art-body td{color:var(--white-dim);}
+.tblwrap{overflow-x:auto;margin:0 0 22px;}
+.tblwrap table{margin-bottom:0;min-width:520px;}
 /* faq */
 .faq-wrap{max-width:820px;margin:0 auto;padding:20px 5% 40px;}
 .faq-h{font-family:var(--serif);font-size:1.55rem;font-weight:700;color:var(--white);margin-bottom:18px;}
@@ -103,15 +106,11 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
   "description": "Where to launch based on what you're building: the best free channels for SaaS, digital products, and services, matched to the audiences most likely to convert.",
   "image": "https://launchfree.io/og-image.png",
   "datePublished": "2026-07-30",
-  "dateModified": "2026-07-30",
-  "author": {"@type": "Person", "name": "Julie James"},
-  "publisher": {
-    "@type": "Organization",
-    "name": "LaunchFree.io — The Runway",
-    "url": "https://launchfree.io"
-  },
+  "dateModified": "2026-09-02",
+  "author": {"@type": "Person", "name": "Julie James", "jobTitle": "Founder", "worksFor": {"@type": "Organization", "name": "LaunchFree.io", "@id": "https://launchfree.io/#organization"}},
+  "publisher": {"@id": "https://launchfree.io/#organization"},
   "mainEntityOfPage": {"@type": "WebPage", "@id": "https://launchfree.io/radar/where-to-launch-saas-vs-digital-product-vs-service.html"},
-  "isPartOf": {"@type": "Blog", "name": "Runway Radar", "url": "https://launchfree.io/radar.html"}
+  "isPartOf": {"@id": "https://launchfree.io/#website"}
 }
 </script>
 <script type="application/ld+json">
@@ -144,6 +143,21 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
       "@type": "Question",
       "name": "Where should I launch a service?",
       "acceptedAnswer": {"@type": "Answer", "text": "Services convert through trust and niche relevance: communities where your clients gather, directories that accept services, and content that demonstrates expertise. Broad tech-launch feeds are usually a poor match for service businesses."}
+    },
+    {
+      "@type": "Question",
+      "name": "Can I launch the same product on more than one type of channel?",
+      "acceptedAnswer": {"@type": "Answer", "text": "Yes, and most launches should. A SaaS tool can post to Product Hunt for a burst of attention and still belong in a permanent software directory for lasting discovery. Mixing a launch-day platform with an evergreen listing covers both the spike and the long tail."}
+    },
+    {
+      "@type": "Question",
+      "name": "What if my product is a mix, like a SaaS tool with a service attached?",
+      "acceptedAnswer": {"@type": "Answer", "text": "Lead with whichever half is easiest for a stranger to understand and try in under a minute. If the software sells itself, launch as SaaS and mention the service as an add-on. If the service is the real value and the software supports it, launch in service-focused channels instead."}
+    },
+    {
+      "@type": "Question",
+      "name": "Does LaunchFree.io work for all three types?",
+      "acceptedAnswer": {"@type": "Answer", "text": "Yes. LaunchFree.io accepts any legal product or idea, free forever, which makes it one of the few directories where SaaS tools, digital products, and services all belong on the same list."}
     }
   ]
 }
@@ -171,17 +185,30 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
     <h1 class="art-title">SaaS, Digital Product, or Service: Where Each Should Launch</h1>
     <p class="art-dek">The best place to launch depends on what you&#x27;re launching. A quick guide to matching your product type to the right free channels.</p>
     <div class="art-meta">
-      <span>By The Runway</span><span class="dot">&middot;</span>
-      <span>July 30, 2026</span><span class="dot">&middot;</span>
+      <span>By Julie James, founder of LaunchFree.io</span><span class="dot">&middot;</span>
+      <span>Last updated September 2, 2026</span><span class="dot">&middot;</span>
       <span>2 min read</span>
     </div>
   </div>
 
   <div class="art-body">
 
+<p class="answer"><strong>SaaS launches on product discovery platforms and software directories, digital products launch where format-specific buyers and creators already gather, and services launch through niche communities and trust-building content, not launch-day feeds.</strong> Picking the wrong room for what you built is the most common reason a launch gets ignored.</p>
+
 <p>"Where should I launch?" has no single answer, because it depends on what you built. A developer tool, an ebook, and a freelance service reach their audiences in completely different places. Here's how to match the product to the channel so you're not shouting into the wrong room.</p>
 
-<h2>SaaS and software tools</h2>
+<div class="tblwrap">
+<table>
+<thead><tr><th>Product type</th><th>Best channels</th><th>Why it fits</th></tr></thead>
+<tbody>
+<tr><td>SaaS / software</td><td>Product Hunt, fair launch platforms, software directories, permanent listings</td><td>People actively browse these looking for tools to try</td></tr>
+<tr><td>Digital product</td><td>Niche communities, format-specific marketplaces, directories that accept non-SaaS launches</td><td>Buyers browse by format and topic, not "startup" category</td></tr>
+<tr><td>Service</td><td>Niche communities, service-friendly directories, expertise-proving content</td><td>Services sell on trust and relevance, not launch-day buzz</td></tr>
+</tbody>
+</table>
+</div>
+
+<h2>Where should SaaS and software tools launch?</h2>
 
 <p>Software has the richest launch ecosystem. Product discovery platforms and software directories are full of people actively looking for tools:</p>
 
@@ -192,21 +219,21 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
 <li>Permanent listings for lasting discovery and backlinks.</li>
 </ul>
 
-<h2>Digital products</h2>
+<h2>Where should digital products launch?</h2>
 
-<p>Templates, ebooks, courses, and downloads have buyers, but not always on "startup" platforms. They do best where people browse for that specific format and where creators gather. Lean on niche communities, format-specific marketplaces, and directories that welcome more than just SaaS. Many general launch feeds skew tool-heavy, so pick platforms that explicitly accept digital products, like <a href="https://launchfree.io/index.html">The Runway</a>, which welcomes any legal product or idea.</p>
+<p>Templates, ebooks, courses, and downloads have buyers, but not always on "startup" platforms. They do best where people browse for that specific format and where creators gather. Lean on niche communities, format-specific marketplaces, and directories that welcome more than just SaaS. Many general launch feeds skew tool-heavy, so pick platforms that explicitly accept digital products, like LaunchFree.io, which welcomes any legal product or idea.</p>
 
 <div class="callout"><p>Match the room to the buyer. A course launched in a tools feed gets polite indifference; the same course shared where learners gather sells.</p></div>
 
-<h2>Services</h2>
+<h2>Where should services launch?</h2>
 
 <p>Services sell on trust and relevance, not launch-day buzz. A freelancer or agency converts through demonstrated expertise and being where prospective clients already are. Prioritize niche communities, directories that accept service businesses, and content that proves you know your craft. A broad tech-launch feed is usually the wrong fit; a focused community or a well-placed listing is far better.</p>
 
-<h2>What works for everything</h2>
+<h2>What works no matter what you launch?</h2>
 
 <p>Regardless of type, two things always help: a <a href="https://launchfree.io/radar/what-makes-a-good-launch-page.html">clear landing page</a> and a permanent, indexed listing so the right person can find you later. For the full channel map, see the <a href="https://launchfree.io/radar/where-to-launch-your-product-for-free-2026.html">free launch guide</a>.</p>
 
-<p>Whatever you built, it belongs somewhere. <a href="https://launchfree.io/submit.html">List it free on The Runway</a>.</p>
+<p>Whatever you built, it belongs somewhere. <a href="https://launchfree.io/submit.html">List it free on LaunchFree.io</a>.</p>
 
   </div>
 </article>
@@ -224,6 +251,18 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
   <div class="faq-item">
     <div class="faq-q">Where should I launch a service?</div>
     <div class="faq-a">Services convert through trust and niche relevance: communities where your clients gather, directories that accept services, and content that demonstrates expertise. Broad tech-launch feeds are usually a poor match for service businesses.</div>
+  </div>
+  <div class="faq-item">
+    <div class="faq-q">Can I launch the same product on more than one type of channel?</div>
+    <div class="faq-a">Yes, and most launches should. A SaaS tool can post to Product Hunt for a burst of attention and still belong in a permanent software directory for lasting discovery. Mixing a launch-day platform with an evergreen listing covers both the spike and the long tail.</div>
+  </div>
+  <div class="faq-item">
+    <div class="faq-q">What if my product is a mix, like a SaaS tool with a service attached?</div>
+    <div class="faq-a">Lead with whichever half is easiest for a stranger to understand and try in under a minute. If the software sells itself, launch as SaaS and mention the service as an add-on. If the service is the real value and the software supports it, launch in service-focused channels instead.</div>
+  </div>
+  <div class="faq-item">
+    <div class="faq-q">Does LaunchFree.io work for all three types?</div>
+    <div class="faq-a">Yes. LaunchFree.io accepts any legal product or idea, free forever, which makes it one of the few directories where SaaS tools, digital products, and services all belong on the same list.</div>
   </div>
 </div>
 
