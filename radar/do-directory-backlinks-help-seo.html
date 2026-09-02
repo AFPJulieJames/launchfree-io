@@ -50,6 +50,7 @@ nav{position:sticky;top:0;z-index:100;background:rgba(10,15,26,0.92);backdrop-fi
 .art-body th,.art-body td{text-align:left;padding:11px 12px;border-bottom:1px solid var(--card-border);}
 .art-body th{color:var(--runway);font-size:0.72rem;text-transform:uppercase;letter-spacing:0.06em;}
 .art-body td{color:var(--white-dim);}
+.tblwrap{overflow-x:auto;margin:0 0 22px;}.tblwrap table{margin:0;}
 /* faq */
 .faq-wrap{max-width:820px;margin:0 auto;padding:20px 5% 40px;}
 .faq-h{font-family:var(--serif);font-size:1.55rem;font-weight:700;color:var(--white);margin-bottom:18px;}
@@ -70,20 +71,6 @@ nav{position:sticky;top:0;z-index:100;background:rgba(10,15,26,0.92);backdrop-fi
 .rc-tag{font-size:0.65rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--runway);}
 .rc-title{font-family:var(--serif);font-weight:700;font-size:1.05rem;color:var(--white);margin:8px 0 6px;line-height:1.25;}
 .rc-dek{font-size:0.85rem;color:var(--muted);line-height:1.55;}
-/* hub */
-.hub-hero{max-width:1000px;margin:0 auto;padding:52px 5% 12px;text-align:center;}
-.hub-eyebrow{font-size:0.72rem;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:var(--runway);margin-bottom:14px;}
-.hub-title{font-family:var(--serif);font-size:clamp(2.2rem,6vw,3.6rem);font-weight:900;color:var(--white);line-height:1.05;margin-bottom:18px;}
-.hub-intro{font-size:1.1rem;color:var(--white-dim);line-height:1.7;max-width:640px;margin:0 auto;}
-.hub-grid{max-width:1100px;margin:0 auto;padding:40px 5% 30px;display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:18px;}
-.hub-card{background:var(--card-bg);border:1px solid var(--card-border);border-radius:var(--r-lg);padding:26px 28px;display:flex;flex-direction:column;transition:border-color .15s;}
-.hub-card:hover{border-color:rgba(232,255,71,0.28);}
-.hc-tag{font-size:0.65rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--runway);margin-bottom:10px;}
-.hc-title{font-family:var(--serif);font-weight:700;font-size:1.25rem;color:var(--white);line-height:1.2;margin-bottom:10px;}
-.hc-dek{font-size:0.92rem;color:var(--white-dim);line-height:1.6;flex:1;margin-bottom:16px;}
-.hc-meta{font-size:0.76rem;color:var(--muted);}
-.hub-featured{border-color:rgba(232,255,71,0.35);background:linear-gradient(180deg,rgba(232,255,71,0.05),var(--card-bg));grid-column:1/-1;}
-.hub-featured .hc-title{font-size:1.7rem;}
 /* footer */
 footer{padding:28px 5%;border-top:1px solid var(--card-border);background:var(--ink-mid);}.footer-in{max-width:1200px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;}
 .f-logo{font-family:var(--serif);font-size:1rem;font-weight:700;color:var(--white);}.f-logo span{color:var(--runway);}
@@ -102,16 +89,17 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
   "headline": "Do Directory Backlinks Still Help SEO in 2026?",
   "description": "Do startup directory backlinks still help SEO in 2026? Yes, if they're dofollow and relevant. Here's how to tell a valuable listing from a worthless one.",
   "image": "https://launchfree.io/og-image.png",
-  "datePublished": "2026-08-10",
-  "dateModified": "2026-08-10",
-  "author": {"@type": "Person", "name": "Julie James"},
-  "publisher": {
-    "@type": "Organization",
-    "name": "LaunchFree.io — The Runway",
-    "url": "https://launchfree.io"
+  "author": {
+    "@type": "Person",
+    "name": "Julie James",
+    "jobTitle": "Founder",
+    "worksFor": {"@type": "Organization", "name": "LaunchFree.io", "@id": "https://launchfree.io/#organization"}
   },
+  "publisher": {"@id": "https://launchfree.io/#organization"},
+  "datePublished": "2026-08-10",
+  "dateModified": "2026-09-02",
   "mainEntityOfPage": {"@type": "WebPage", "@id": "https://launchfree.io/radar/do-directory-backlinks-help-seo.html"},
-  "isPartOf": {"@type": "Blog", "name": "Runway Radar", "url": "https://launchfree.io/radar.html"}
+  "isPartOf": {"@id": "https://launchfree.io/#website"}
 }
 </script>
 <script type="application/ld+json">
@@ -149,6 +137,16 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
       "@type": "Question",
       "name": "Are directory backlinks a fast SEO win?",
       "acceptedAnswer": {"@type": "Answer", "text": "No. Think of them as foundational SEO, not a growth hack. They help build early authority and referral traffic while your content and other signals mature; results compound over months, not days."}
+    },
+    {
+      "@type": "Question",
+      "name": "How do I check if a directory link is dofollow or nofollow?",
+      "acceptedAnswer": {"@type": "Answer", "text": "View the page source and search for your link's anchor tag. If it has rel=\"nofollow\", it's nofollow. No rel attribute, or a rel value without nofollow, means it's passing link equity as dofollow."}
+    },
+    {
+      "@type": "Question",
+      "name": "Does LaunchFree.io give a dofollow backlink?",
+      "acceptedAnswer": {"@type": "Answer", "text": "Yes. Every listing on LaunchFree.io includes a permanent dofollow backlink to your site at no cost, reviewed by a real person rather than auto-approved."}
     }
   ]
 }
@@ -176,45 +174,46 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
     <h1 class="art-title">Do Directory Backlinks Still Help SEO in 2026?</h1>
     <p class="art-dek">Short answer: yes, but only the right ones. Here&#x27;s how directory backlinks actually move the needle, and how to tell a valuable listing from a waste of time.</p>
     <div class="art-meta">
-      <span>By The Runway</span><span class="dot">&middot;</span>
-      <span>August 10, 2026</span><span class="dot">&middot;</span>
-      <span>2 min read</span>
+      <span>By Julie James, founder of LaunchFree.io</span><span class="dot">&middot;</span>
+      <span>Last updated September 2, 2026</span><span class="dot">&middot;</span>
+      <span>3 min read</span>
     </div>
   </div>
 
   <div class="art-body">
 
-<p>If you've spent an hour submitting your startup to directories, a fair question follows: did any of that actually help? The internet is full of both hype ("submit to 500 directories!") and dismissiveness ("directories are dead"). The truth sits in between, and it's simple once you know what to look for.</p>
+<p class="answer"><strong>Yes, directory backlinks still help SEO in 2026, but only the good ones.</strong> A single dofollow link from a trusted, relevant, human-reviewed directory does more for your rankings than fifty nofollow listings on abandoned sites. The spray-and-pray version of this tactic is dead. The selective version still works.</p>
 
-<h2>The short answer</h2>
+<h2>What makes a directory backlink actually valuable?</h2>
 
-<p>Yes, directory backlinks still help SEO in 2026, but only the good ones. A single dofollow link from a trusted, relevant directory does more for you than fifty nofollow listings on abandoned sites. The lazy version of this tactic is dead. The selective version still works.</p>
+<p>Three things separate a listing worth having from noise: whether the link is dofollow, whether the directory is relevant to what you're launching, and whether the directory is trusted enough that search engines respect it. Get those three right and a single listing can outperform dozens of weak ones.</p>
 
-<h2>What makes a directory backlink actually valuable</h2>
-
-<p>Three things separate a listing worth having from noise:</p>
-
-<ul>
-<li><strong>Dofollow.</strong> If the link is nofollow, it passes no link equity. It can still drive discovery and referral clicks, but it won't move your rankings. Know which you're getting.</li>
-<li><strong>Relevance.</strong> A launch or startup directory linking to your startup is a natural, topical fit. A generic link farm is not, and search engines can tell.</li>
-<li><strong>Trust.</strong> Directories that review submissions and keep quality high are the ones search engines respect. Anywhere that lists anything instantly, with no review, tends to be worth less.</li>
-</ul>
+<div class="tblwrap">
+<table>
+<thead><tr><th>Signal</th><th>What it means</th><th>Why it matters</th></tr></thead>
+<tbody>
+<tr><td><strong style="color:var(--runway);">Dofollow</strong></td><td>The link passes SEO authority (link equity)</td><td>Nofollow links can still drive traffic, but don't move rankings</td></tr>
+<tr><td><strong style="color:var(--runway);">Relevance</strong></td><td>A launch or startup directory linking to a startup</td><td>Topical fit reads as natural to search engines; link farms don't</td></tr>
+<tr><td><strong style="color:var(--runway);">Trust</strong></td><td>Submissions are reviewed, not auto-approved</td><td>Curated directories carry more authority than instant-listing sites</td></tr>
+</tbody>
+</table>
+</div>
 
 <div class="callout"><p>Rule of thumb: one relevant dofollow link from a curated, human-reviewed directory beats a spreadsheet of 200 auto-approved links every time.</p></div>
 
-<h2>Set expectations: this is foundational, not magic</h2>
+<h2>Is a directory backlink a fast SEO win?</h2>
 
-<p>Directory backlinks are best understood as foundational SEO. They help a young site establish early authority and pick up referral traffic while your content, product, and other signals mature. What they are not is an overnight rankings hack. If a service promises instant page-one results from directory links, that's your cue to walk away.</p>
+<p>No, and treating it like one is where people get disappointed. Directory backlinks are foundational SEO: they help a young site establish early authority and pick up referral traffic while your content, product, and other signals mature. They are not an overnight rankings hack. If a service promises instant page-one results from directory links, that's the cue to walk away.</p>
 
-<h2>How this connects to launching</h2>
+<h2>How does this connect to launching?</h2>
 
-<p>Here's the useful overlap: a good <a href="https://launchfree.io/radar/where-to-launch-your-product-for-free-2026.html">free launch listing</a> often <em>is</em> a quality dofollow backlink. When you list on a reviewed directory, you get discovery, referral traffic, and link equity in one move, no separate "link building" project required.</p>
+<p>Here's the useful overlap: a good <a href="https://launchfree.io/radar/where-to-launch-your-product-for-free-2026.html">free launch listing</a> often <em>is</em> a quality dofollow backlink. When you list on a reviewed directory, you get discovery, referral traffic, and link equity in one move, no separate link-building project required.</p>
 
-<p>That's exactly how we built <a href="https://launchfree.io/index.html">The Runway</a>: every listing includes a permanent dofollow backlink to your site, because a listing that doesn't help your SEO is only doing half its job. If you want the full picture of where else to get them, see our roundup of the <a href="https://launchfree.io/radar/best-free-startup-directories-dofollow-backlinks.html">best free startup directories for dofollow backlinks</a>.</p>
+<p>That's exactly how <a href="https://launchfree.io/index.html">LaunchFree.io</a> (The Runway) was built: every listing includes a permanent dofollow backlink to your site, because a listing that doesn't help your SEO is only doing half its job. For the fuller list, see our roundup of the <a href="https://launchfree.io/radar/best-free-startup-directories-dofollow-backlinks.html">best free startup directories for dofollow backlinks</a>.</p>
 
-<h2>The bottom line</h2>
+<h2>So what should you actually do?</h2>
 
-<p>Directory backlinks aren't dead; the spray-and-pray approach is. Be selective, favor dofollow and relevance over volume, treat it as an ongoing habit, and let it compound. Start with one good one: <a href="https://launchfree.io/submit.html">list your launch free on The Runway</a>.</p>
+<p>Be selective, favor dofollow and relevance over volume, treat submission as an ongoing habit rather than a one-time blast, and let it compound over months. Start with one good one: <a href="https://launchfree.io/submit.html">list your launch free on LaunchFree.io</a>.</p>
 
   </div>
 </article>
@@ -236,6 +235,14 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
   <div class="faq-item">
     <div class="faq-q">Are directory backlinks a fast SEO win?</div>
     <div class="faq-a">No. Think of them as foundational SEO, not a growth hack. They help build early authority and referral traffic while your content and other signals mature; results compound over months, not days.</div>
+  </div>
+  <div class="faq-item">
+    <div class="faq-q">How do I check if a directory link is dofollow or nofollow?</div>
+    <div class="faq-a">View the page source and search for your link&#x27;s anchor tag. If it has rel="nofollow", it&#x27;s nofollow. No rel attribute, or a rel value without nofollow, means it&#x27;s passing link equity as dofollow.</div>
+  </div>
+  <div class="faq-item">
+    <div class="faq-q">Does LaunchFree.io give a dofollow backlink?</div>
+    <div class="faq-a">Yes. Every listing on LaunchFree.io includes a permanent dofollow backlink to your site at no cost, reviewed by a real person rather than auto-approved.</div>
   </div>
 </div>
 
@@ -260,10 +267,10 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
         <div class="rc-title">How to Launch a Product With No Audience or Budget</div>
         <div class="rc-dek">No email list, no followers, no ad spend. You can still launch and get traction. Here&#x27;s the honest, zero-dollar playbook.</div>
       </a>
-      <a class="related-card" href="https://launchfree.io/radar/product-hunt-alternatives-permanent-listing.html">
-        <div class="rc-tag">Launch Guide</div>
-        <div class="rc-title">Product Hunt Alternatives That Give You a Permanent Listing</div>
-        <div class="rc-dek">Product Hunt&#x27;s spotlight lasts a day. These alternatives give you something that lasts: a listing that keeps working for months.</div>
+      <a class="related-card" href="https://launchfree.io/radar/best-free-startup-directories-dofollow-backlinks.html">
+        <div class="rc-tag">Directories</div>
+        <div class="rc-title">The Best Free Startup Directories for Dofollow Backlinks (2026)</div>
+        <div class="rc-dek">A shortlist of free directories that actually pass SEO value, plus how to submit efficiently without turning it into a second job.</div>
       </a>
     </div>
   </div>
