@@ -50,6 +50,7 @@ nav{position:sticky;top:0;z-index:100;background:rgba(10,15,26,0.92);backdrop-fi
 .art-body th,.art-body td{text-align:left;padding:11px 12px;border-bottom:1px solid var(--card-border);}
 .art-body th{color:var(--runway);font-size:0.72rem;text-transform:uppercase;letter-spacing:0.06em;}
 .art-body td{color:var(--white-dim);}
+.tblwrap{overflow-x:auto;margin:0 0 22px;}.tblwrap table{margin:0;}
 /* faq */
 .faq-wrap{max-width:820px;margin:0 auto;padding:20px 5% 40px;}
 .faq-h{font-family:var(--serif);font-size:1.55rem;font-weight:700;color:var(--white);margin-bottom:18px;}
@@ -70,20 +71,6 @@ nav{position:sticky;top:0;z-index:100;background:rgba(10,15,26,0.92);backdrop-fi
 .rc-tag{font-size:0.65rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--runway);}
 .rc-title{font-family:var(--serif);font-weight:700;font-size:1.05rem;color:var(--white);margin:8px 0 6px;line-height:1.25;}
 .rc-dek{font-size:0.85rem;color:var(--muted);line-height:1.55;}
-/* hub */
-.hub-hero{max-width:1000px;margin:0 auto;padding:52px 5% 12px;text-align:center;}
-.hub-eyebrow{font-size:0.72rem;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:var(--runway);margin-bottom:14px;}
-.hub-title{font-family:var(--serif);font-size:clamp(2.2rem,6vw,3.6rem);font-weight:900;color:var(--white);line-height:1.05;margin-bottom:18px;}
-.hub-intro{font-size:1.1rem;color:var(--white-dim);line-height:1.7;max-width:640px;margin:0 auto;}
-.hub-grid{max-width:1100px;margin:0 auto;padding:40px 5% 30px;display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:18px;}
-.hub-card{background:var(--card-bg);border:1px solid var(--card-border);border-radius:var(--r-lg);padding:26px 28px;display:flex;flex-direction:column;transition:border-color .15s;}
-.hub-card:hover{border-color:rgba(232,255,71,0.28);}
-.hc-tag{font-size:0.65rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--runway);margin-bottom:10px;}
-.hc-title{font-family:var(--serif);font-weight:700;font-size:1.25rem;color:var(--white);line-height:1.2;margin-bottom:10px;}
-.hc-dek{font-size:0.92rem;color:var(--white-dim);line-height:1.6;flex:1;margin-bottom:16px;}
-.hc-meta{font-size:0.76rem;color:var(--muted);}
-.hub-featured{border-color:rgba(232,255,71,0.35);background:linear-gradient(180deg,rgba(232,255,71,0.05),var(--card-bg));grid-column:1/-1;}
-.hub-featured .hc-title{font-size:1.7rem;}
 /* footer */
 footer{padding:28px 5%;border-top:1px solid var(--card-border);background:var(--ink-mid);}.footer-in{max-width:1200px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;}
 .f-logo{font-family:var(--serif);font-size:1rem;font-weight:700;color:var(--white);}.f-logo span{color:var(--runway);}
@@ -102,16 +89,17 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
   "headline": "Show HN, Reddit, and Free Communities: A Launch-Day Playbook",
   "description": "How to launch on Hacker News (Show HN), Reddit, and niche communities the right way: free, high-reach channels with etiquette that makes or breaks your launch.",
   "image": "https://launchfree.io/og-image.png",
-  "datePublished": "2026-08-01",
-  "dateModified": "2026-08-01",
-  "author": {"@type": "Person", "name": "Julie James"},
-  "publisher": {
-    "@type": "Organization",
-    "name": "LaunchFree.io — The Runway",
-    "url": "https://launchfree.io"
+  "author": {
+    "@type": "Person",
+    "name": "Julie James",
+    "jobTitle": "Founder",
+    "worksFor": {"@type": "Organization", "name": "LaunchFree.io", "@id": "https://launchfree.io/#organization"}
   },
+  "publisher": {"@id": "https://launchfree.io/#organization"},
+  "datePublished": "2026-08-01",
+  "dateModified": "2026-09-02",
   "mainEntityOfPage": {"@type": "WebPage", "@id": "https://launchfree.io/radar/show-hn-reddit-free-launch-communities.html"},
-  "isPartOf": {"@type": "Blog", "name": "Runway Radar", "url": "https://launchfree.io/radar.html"}
+  "isPartOf": {"@id": "https://launchfree.io/#website"}
 }
 </script>
 <script type="application/ld+json">
@@ -144,6 +132,21 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
       "@type": "Question",
       "name": "Why do community launches fail?",
       "acceptedAnswer": {"@type": "Answer", "text": "Almost always because the founder treats the community as an ad channel. Self-promotion without contribution, ignoring rules, or vanishing after posting gets you downvoted or removed. Show up as a member first."}
+    },
+    {
+      "@type": "Question",
+      "name": "Should I engage with communities before launch day?",
+      "acceptedAnswer": {"@type": "Answer", "text": "Yes, ideally. Contributing genuinely to a subreddit, Discord, or Slack community before you ever mention your product earns the credibility that makes your launch post welcome instead of resented."}
+    },
+    {
+      "@type": "Question",
+      "name": "How do niche communities compare to Hacker News and Reddit?",
+      "acceptedAnswer": {"@type": "Answer", "text": "Niche communities are usually smaller but higher intent. A focused Discord, Slack, or Indie Hackers group often converts better than a big, general audience because everyone there already cares about the specific problem you solve."}
+    },
+    {
+      "@type": "Question",
+      "name": "What's the single biggest etiquette mistake in community launches?",
+      "acceptedAnswer": {"@type": "Answer", "text": "Posting and disappearing. Communities expect the founder to stay in the thread, answer questions honestly, and take criticism without getting defensive. Vanishing after posting reads as disrespect for the room."}
     }
   ]
 }
@@ -171,40 +174,45 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
     <h1 class="art-title">Show HN, Reddit, and Free Communities: A Launch-Day Playbook</h1>
     <p class="art-dek">Community launches are free and powerful, and easy to get wrong. Here&#x27;s how to launch on Hacker News, Reddit, and niche communities without getting flamed.</p>
     <div class="art-meta">
-      <span>By The Runway</span><span class="dot">&middot;</span>
-      <span>August 1, 2026</span><span class="dot">&middot;</span>
-      <span>2 min read</span>
+      <span>By Julie James, founder of LaunchFree.io</span><span class="dot">&middot;</span>
+      <span>Last updated September 2, 2026</span><span class="dot">&middot;</span>
+      <span>3 min read</span>
     </div>
   </div>
 
   <div class="art-body">
 
-<p>Community launches are some of the highest-reach free channels there are. A good "Show HN" can send thousands of visitors in an afternoon; the right Reddit thread can find you your most passionate early users. They're also the easiest to get wrong, because these communities have finely tuned spam detectors and long memories. Here's how to do it right.</p>
+<p class="answer"><strong>Community launches on Hacker News, Reddit, and niche communities are free and high-reach, but only work when you show up as a member first: a plain honest title, a working demo, and staying present in the comments after posting.</strong> These communities have finely tuned spam detectors and long memories, so shortcuts backfire fast.</p>
 
-<h2>Hacker News (Show HN)</h2>
+<h2>How do you launch well on Hacker News?</h2>
 
 <p>Hacker News is a meritocracy with no paid placement, which is exactly why it's valuable. To launch well:</p>
 
-<ul>
-<li>Title it plainly: "Show HN: [what it is]." No hype, no adjectives.</li>
-<li>Link to a working demo people can try without a signup wall if at all possible.</li>
-<li>Write a short first comment explaining why you built it and what's genuinely hard about it.</li>
-<li>Stay in the thread and answer everything, including criticism, candidly.</li>
-</ul>
+<div class="tblwrap">
+<table>
+<thead><tr><th>Do</th><th>Why</th></tr></thead>
+<tbody>
+<tr><td>Title plainly: "Show HN: [what it is]"</td><td>No hype, no adjectives, matches community norms</td></tr>
+<tr><td>Link to a working demo, no signup wall if possible</td><td>Reduces friction to actually trying it</td></tr>
+<tr><td>Write a short first comment on why you built it</td><td>Sets an honest, substantive tone</td></tr>
+<tr><td>Stay in the thread and answer everything</td><td>Vanishing reads as disrespect for the room</td></tr>
+</tbody>
+</table>
+</div>
 
 <div class="callout"><p>Hacker News rewards honesty and substance. The fastest way to fail is to sound like a press release. Talk like an engineer explaining your work to peers.</p></div>
 
-<h2>Reddit</h2>
+<h2>What's the right way to launch on Reddit?</h2>
 
 <p>Reddit can be gold or a graveyard depending entirely on how you show up. Find the subreddit where your users already are, r/SaaS, r/startups, or a niche community for your space, and read the rules before you post. Use the designated threads: many subs run weekly "Share Your Startup" posts made for exactly this. Then share your <em>story</em>, what you built and why, not a pitch. Be helpful in other threads too; contribution earns you the right to promote.</p>
 
-<h2>Niche communities</h2>
+<h2>What about niche communities beyond the big two?</h2>
 
 <p>Beyond the big two, the highest-intent audiences are often in smaller rooms: a Discord for your niche, a Slack community, an Indie Hackers group. These convert better precisely because they're focused. The rule is the same everywhere: be a member first, a marketer second. Our guide on <a href="https://launchfree.io/radar/how-to-launch-with-no-audience-or-budget.html">launching with no audience</a> covers how to find and warm up these rooms before launch day.</p>
 
-<h2>The bottom line</h2>
+<h2>So what should you actually do?</h2>
 
-<p>Community launches are free, powerful, and unforgiving of shortcuts. Lead with honesty, respect the room, and stick around after you post. Then capture the momentum with a permanent home: <a href="https://launchfree.io/submit.html">list free on The Runway</a>.</p>
+<p>Community launches are free, powerful, and unforgiving of shortcuts. Lead with honesty, respect the room, and stick around after you post. Then capture the momentum with a permanent home: <a href="https://launchfree.io/submit.html">list free on LaunchFree.io</a>.</p>
 
   </div>
 </article>
@@ -222,6 +230,18 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
   <div class="faq-item">
     <div class="faq-q">Why do community launches fail?</div>
     <div class="faq-a">Almost always because the founder treats the community as an ad channel. Self-promotion without contribution, ignoring rules, or vanishing after posting gets you downvoted or removed. Show up as a member first.</div>
+  </div>
+  <div class="faq-item">
+    <div class="faq-q">Should I engage with communities before launch day?</div>
+    <div class="faq-a">Yes, ideally. Contributing genuinely to a subreddit, Discord, or Slack community before you ever mention your product earns the credibility that makes your launch post welcome instead of resented.</div>
+  </div>
+  <div class="faq-item">
+    <div class="faq-q">How do niche communities compare to Hacker News and Reddit?</div>
+    <div class="faq-a">Niche communities are usually smaller but higher intent. A focused Discord, Slack, or Indie Hackers group often converts better than a big, general audience because everyone there already cares about the specific problem you solve.</div>
+  </div>
+  <div class="faq-item">
+    <div class="faq-q">What&#x27;s the single biggest etiquette mistake in community launches?</div>
+    <div class="faq-a">Posting and disappearing. Communities expect the founder to stay in the thread, answer questions honestly, and take criticism without getting defensive. Vanishing after posting reads as disrespect for the room.</div>
   </div>
 </div>
 
