@@ -50,6 +50,7 @@ nav{position:sticky;top:0;z-index:100;background:rgba(10,15,26,0.92);backdrop-fi
 .art-body th,.art-body td{text-align:left;padding:11px 12px;border-bottom:1px solid var(--card-border);}
 .art-body th{color:var(--runway);font-size:0.72rem;text-transform:uppercase;letter-spacing:0.06em;}
 .art-body td{color:var(--white-dim);}
+.tblwrap{overflow-x:auto;margin:0 0 22px;}.tblwrap table{margin:0;}
 /* faq */
 .faq-wrap{max-width:820px;margin:0 auto;padding:20px 5% 40px;}
 .faq-h{font-family:var(--serif);font-size:1.55rem;font-weight:700;color:var(--white);margin-bottom:18px;}
@@ -70,20 +71,6 @@ nav{position:sticky;top:0;z-index:100;background:rgba(10,15,26,0.92);backdrop-fi
 .rc-tag{font-size:0.65rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--runway);}
 .rc-title{font-family:var(--serif);font-weight:700;font-size:1.05rem;color:var(--white);margin:8px 0 6px;line-height:1.25;}
 .rc-dek{font-size:0.85rem;color:var(--muted);line-height:1.55;}
-/* hub */
-.hub-hero{max-width:1000px;margin:0 auto;padding:52px 5% 12px;text-align:center;}
-.hub-eyebrow{font-size:0.72rem;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:var(--runway);margin-bottom:14px;}
-.hub-title{font-family:var(--serif);font-size:clamp(2.2rem,6vw,3.6rem);font-weight:900;color:var(--white);line-height:1.05;margin-bottom:18px;}
-.hub-intro{font-size:1.1rem;color:var(--white-dim);line-height:1.7;max-width:640px;margin:0 auto;}
-.hub-grid{max-width:1100px;margin:0 auto;padding:40px 5% 30px;display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:18px;}
-.hub-card{background:var(--card-bg);border:1px solid var(--card-border);border-radius:var(--r-lg);padding:26px 28px;display:flex;flex-direction:column;transition:border-color .15s;}
-.hub-card:hover{border-color:rgba(232,255,71,0.28);}
-.hc-tag{font-size:0.65rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--runway);margin-bottom:10px;}
-.hc-title{font-family:var(--serif);font-weight:700;font-size:1.25rem;color:var(--white);line-height:1.2;margin-bottom:10px;}
-.hc-dek{font-size:0.92rem;color:var(--white-dim);line-height:1.6;flex:1;margin-bottom:16px;}
-.hc-meta{font-size:0.76rem;color:var(--muted);}
-.hub-featured{border-color:rgba(232,255,71,0.35);background:linear-gradient(180deg,rgba(232,255,71,0.05),var(--card-bg));grid-column:1/-1;}
-.hub-featured .hc-title{font-size:1.7rem;}
 /* footer */
 footer{padding:28px 5%;border-top:1px solid var(--card-border);background:var(--ink-mid);}.footer-in{max-width:1200px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;}
 .f-logo{font-family:var(--serif);font-size:1rem;font-weight:700;color:var(--white);}.f-logo span{color:var(--runway);}
@@ -102,16 +89,17 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
   "headline": "The Founder's Guide to Launch-Day Copy That Converts",
   "description": "How to write launch-day copy that converts: clear taglines, benefit-led descriptions, and calls to action that sound human. Practical templates for founders.",
   "image": "https://launchfree.io/og-image.png",
-  "datePublished": "2026-07-29",
-  "dateModified": "2026-07-29",
-  "author": {"@type": "Person", "name": "Julie James"},
-  "publisher": {
-    "@type": "Organization",
-    "name": "LaunchFree.io — The Runway",
-    "url": "https://launchfree.io"
+  "author": {
+    "@type": "Person",
+    "name": "Julie James",
+    "jobTitle": "Founder",
+    "worksFor": {"@type": "Organization", "name": "LaunchFree.io", "@id": "https://launchfree.io/#organization"}
   },
+  "publisher": {"@id": "https://launchfree.io/#organization"},
+  "datePublished": "2026-07-29",
+  "dateModified": "2026-09-02",
   "mainEntityOfPage": {"@type": "WebPage", "@id": "https://launchfree.io/radar/launch-day-copy-guide.html"},
-  "isPartOf": {"@type": "Blog", "name": "Runway Radar", "url": "https://launchfree.io/radar.html"}
+  "isPartOf": {"@id": "https://launchfree.io/#website"}
 }
 </script>
 <script type="application/ld+json">
@@ -144,6 +132,21 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
       "@type": "Question",
       "name": "Should launch copy be formal or casual?",
       "acceptedAnswer": {"@type": "Answer", "text": "Usually casual and direct. Write the way you'd explain your product to a smart friend: short sentences, plain words, real enthusiasm, no corporate filler. Founders who sound human out-convert those who sound like a brochure."}
+    },
+    {
+      "@type": "Question",
+      "name": "Should I sell features or benefits in my launch copy?",
+      "acceptedAnswer": {"@type": "Answer", "text": "Benefits. People don't buy features, they buy what the feature does for them. Write the outcome first, like 'your work is always up to date on every device,' then let the feature back it up."}
+    },
+    {
+      "@type": "Question",
+      "name": "How do I know if my launch copy is clear enough?",
+      "acceptedAnswer": {"@type": "Answer", "text": "Show your headline or tagline to someone who has never seen your product. If they cannot tell you what it does after one read, it needs to be rewritten. Clever comes second; clear comes first."}
+    },
+    {
+      "@type": "Question",
+      "name": "What copy mistakes hurt conversions the most?",
+      "acceptedAnswer": {"@type": "Answer", "text": "Being clever before being clear, listing features without saying what they do for the user, vague calls to action like 'Submit' or 'Learn more,' and writing in a corporate tone that doesn't sound like a real person."}
     }
   ]
 }
@@ -171,39 +174,50 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
     <h1 class="art-title">The Founder&#x27;s Guide to Launch-Day Copy That Converts</h1>
     <p class="art-dek">The words you use on launch day decide whether people click or scroll. A practical guide to writing copy that sounds human and actually converts.</p>
     <div class="art-meta">
-      <span>By The Runway</span><span class="dot">&middot;</span>
-      <span>July 29, 2026</span><span class="dot">&middot;</span>
-      <span>2 min read</span>
+      <span>By Julie James, founder of LaunchFree.io</span><span class="dot">&middot;</span>
+      <span>Last updated September 2, 2026</span><span class="dot">&middot;</span>
+      <span>3 min read</span>
     </div>
   </div>
 
   <div class="art-body">
 
-<p>You can have a great product and a clean page and still lose people at the words. Launch-day copy is the difference between "huh, what is this?" and "oh, I need this." The good news: converting copy isn't about being a professional writer. It's about being clear, human, and specific. Here's how.</p>
+<p class="answer"><strong>Launch-day copy converts when it is clear before it is clever: a plain-language headline, benefit-led descriptions instead of feature lists, and a single low-friction call to action written in a human voice.</strong> You don't need to be a professional writer; you need to be specific.</p>
 
-<h2>Lead with what it is, in plain words</h2>
+<h2>How do you lead with what your product actually is?</h2>
 
 <p>The single most common copy mistake is being clever before being clear. Your headline should tell a stranger what you do and who it's for in one read. Save the personality for after they understand you. If someone can't tell what your product does from the first line, nothing else on the page gets a chance.</p>
 
 <div class="callout"><p>Test: show your tagline to someone who's never seen your product. If they can't tell you what it does, rewrite it. Clever comes second; clear comes first.</p></div>
 
-<h2>Sell the outcome, not the feature</h2>
+<h2>Should you sell the feature or the outcome?</h2>
 
-<p>People don't buy features; they buy what the feature does for them. "Real-time sync" is a feature. "Your work is always up to date on every device" is the outcome. Write the outcome, then let the feature back it up. Go section by section and ask, "so what does this get the user?"</p>
+<div class="tblwrap">
+<table>
+<thead><tr><th>Weak (feature)</th><th>Strong (outcome)</th></tr></thead>
+<tbody>
+<tr><td>"Real-time sync"</td><td>"Your work is always up to date on every device"</td></tr>
+<tr><td>"AI-powered matching"</td><td>"Find the right person in seconds, not hours"</td></tr>
+<tr><td>"Customizable dashboard"</td><td>"See exactly what matters to you, first"</td></tr>
+</tbody>
+</table>
+</div>
 
-<h2>Write calls to action that lower friction</h2>
+<p>People don't buy features; they buy what the feature does for them. Write the outcome, then let the feature back it up. Go section by section and ask, "so what does this get the user?"</p>
+
+<h2>What makes a call to action actually convert?</h2>
 
 <p>A good CTA does two things: it says exactly what happens next, and it removes hesitation. Prefer specific action labels ("Start free," "Try the live demo") over vague ones ("Submit," "Learn more"). Keep it to one primary action, and strip away anything that adds doubt right before the click.</p>
 
-<h2>Sound like a person</h2>
+<h2>Should launch copy sound formal or human?</h2>
 
-<p>Write the way you'd explain your product to a smart friend over coffee: short sentences, plain words, genuine enthusiasm, no corporate filler. Founders who sound human consistently out-convert those who sound like a press release. Read your copy out loud; if you'd never say it to someone's face, cut it.</p>
+<p>Usually human. Write the way you'd explain your product to a smart friend over coffee: short sentences, plain words, genuine enthusiasm, no corporate filler. Founders who sound human consistently out-convert those who sound like a press release. Read your copy out loud; if you'd never say it to someone's face, cut it.</p>
 
-<h2>Put it to work</h2>
+<h2>What should you do once the copy is tight?</h2>
 
-<p>Once your words are tight, make sure the page structure supports them (<a href="https://launchfree.io/radar/what-makes-a-good-launch-page.html">what makes a good launch page</a>) and the technical basics are covered (<a href="https://launchfree.io/radar/pre-launch-website-checklist.html">pre-launch checklist</a>). Then get it in front of people via the <a href="https://launchfree.io/radar/where-to-launch-your-product-for-free-2026.html">free launch channels</a>.</p>
+<p>Make sure the page structure supports it (<a href="https://launchfree.io/radar/what-makes-a-good-launch-page.html">what makes a good launch page</a>) and the technical basics are covered (<a href="https://launchfree.io/radar/pre-launch-website-checklist.html">pre-launch checklist</a>). Then get it in front of people via the <a href="https://launchfree.io/radar/where-to-launch-your-product-for-free-2026.html">free launch channels</a>.</p>
 
-<p>Copy ready? <a href="https://launchfree.io/submit.html">List your launch free on The Runway</a>.</p>
+<p>Copy ready? <a href="https://launchfree.io/submit.html">List your launch free on LaunchFree.io</a>.</p>
 
   </div>
 </article>
@@ -221,6 +235,18 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
   <div class="faq-item">
     <div class="faq-q">Should launch copy be formal or casual?</div>
     <div class="faq-a">Usually casual and direct. Write the way you&#x27;d explain your product to a smart friend: short sentences, plain words, real enthusiasm, no corporate filler. Founders who sound human out-convert those who sound like a brochure.</div>
+  </div>
+  <div class="faq-item">
+    <div class="faq-q">Should I sell features or benefits in my launch copy?</div>
+    <div class="faq-a">Benefits. People don&#x27;t buy features, they buy what the feature does for them. Write the outcome first, like &#x27;your work is always up to date on every device,&#x27; then let the feature back it up.</div>
+  </div>
+  <div class="faq-item">
+    <div class="faq-q">How do I know if my launch copy is clear enough?</div>
+    <div class="faq-a">Show your headline or tagline to someone who has never seen your product. If they cannot tell you what it does after one read, it needs to be rewritten. Clever comes second; clear comes first.</div>
+  </div>
+  <div class="faq-item">
+    <div class="faq-q">What copy mistakes hurt conversions the most?</div>
+    <div class="faq-a">Being clever before being clear, listing features without saying what they do for the user, vague calls to action like &#x27;Submit&#x27; or &#x27;Learn more,&#x27; and writing in a corporate tone that doesn&#x27;t sound like a real person.</div>
   </div>
 </div>
 
