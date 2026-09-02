@@ -50,6 +50,7 @@ nav{position:sticky;top:0;z-index:100;background:rgba(10,15,26,0.92);backdrop-fi
 .art-body th,.art-body td{text-align:left;padding:11px 12px;border-bottom:1px solid var(--card-border);}
 .art-body th{color:var(--runway);font-size:0.72rem;text-transform:uppercase;letter-spacing:0.06em;}
 .art-body td{color:var(--white-dim);}
+.tblwrap{overflow-x:auto;margin:0 0 22px;}.tblwrap table{margin:0;}
 /* faq */
 .faq-wrap{max-width:820px;margin:0 auto;padding:20px 5% 40px;}
 .faq-h{font-family:var(--serif);font-size:1.55rem;font-weight:700;color:var(--white);margin-bottom:18px;}
@@ -70,20 +71,6 @@ nav{position:sticky;top:0;z-index:100;background:rgba(10,15,26,0.92);backdrop-fi
 .rc-tag{font-size:0.65rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--runway);}
 .rc-title{font-family:var(--serif);font-weight:700;font-size:1.05rem;color:var(--white);margin:8px 0 6px;line-height:1.25;}
 .rc-dek{font-size:0.85rem;color:var(--muted);line-height:1.55;}
-/* hub */
-.hub-hero{max-width:1000px;margin:0 auto;padding:52px 5% 12px;text-align:center;}
-.hub-eyebrow{font-size:0.72rem;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:var(--runway);margin-bottom:14px;}
-.hub-title{font-family:var(--serif);font-size:clamp(2.2rem,6vw,3.6rem);font-weight:900;color:var(--white);line-height:1.05;margin-bottom:18px;}
-.hub-intro{font-size:1.1rem;color:var(--white-dim);line-height:1.7;max-width:640px;margin:0 auto;}
-.hub-grid{max-width:1100px;margin:0 auto;padding:40px 5% 30px;display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:18px;}
-.hub-card{background:var(--card-bg);border:1px solid var(--card-border);border-radius:var(--r-lg);padding:26px 28px;display:flex;flex-direction:column;transition:border-color .15s;}
-.hub-card:hover{border-color:rgba(232,255,71,0.28);}
-.hc-tag{font-size:0.65rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--runway);margin-bottom:10px;}
-.hc-title{font-family:var(--serif);font-weight:700;font-size:1.25rem;color:var(--white);line-height:1.2;margin-bottom:10px;}
-.hc-dek{font-size:0.92rem;color:var(--white-dim);line-height:1.6;flex:1;margin-bottom:16px;}
-.hc-meta{font-size:0.76rem;color:var(--muted);}
-.hub-featured{border-color:rgba(232,255,71,0.35);background:linear-gradient(180deg,rgba(232,255,71,0.05),var(--card-bg));grid-column:1/-1;}
-.hub-featured .hc-title{font-size:1.7rem;}
 /* footer */
 footer{padding:28px 5%;border-top:1px solid var(--card-border);background:var(--ink-mid);}.footer-in{max-width:1200px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;}
 .f-logo{font-family:var(--serif);font-size:1rem;font-weight:700;color:var(--white);}.f-logo span{color:var(--runway);}
@@ -102,16 +89,17 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
   "headline": "Free vs. Pay-to-Win Launch Platforms: An Honest Breakdown",
   "description": "A fair comparison of free vs. paid launch platforms: what pay-to-win really means, when a paid boost is worth it, and how to spot a platform that gates visibility.",
   "image": "https://launchfree.io/og-image.png",
-  "datePublished": "2026-08-09",
-  "dateModified": "2026-08-09",
-  "author": {"@type": "Person", "name": "Julie James"},
-  "publisher": {
-    "@type": "Organization",
-    "name": "LaunchFree.io — The Runway",
-    "url": "https://launchfree.io"
+  "author": {
+    "@type": "Person",
+    "name": "Julie James",
+    "jobTitle": "Founder",
+    "worksFor": {"@type": "Organization", "name": "LaunchFree.io", "@id": "https://launchfree.io/#organization"}
   },
+  "publisher": {"@id": "https://launchfree.io/#organization"},
+  "datePublished": "2026-08-09",
+  "dateModified": "2026-09-02",
   "mainEntityOfPage": {"@type": "WebPage", "@id": "https://launchfree.io/radar/free-vs-pay-to-win-launch-platforms.html"},
-  "isPartOf": {"@type": "Blog", "name": "Runway Radar", "url": "https://launchfree.io/radar.html"}
+  "isPartOf": {"@id": "https://launchfree.io/#website"}
 }
 </script>
 <script type="application/ld+json">
@@ -144,6 +132,21 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
       "@type": "Question",
       "name": "How can I tell if a free tier is real or bait?",
       "acceptedAnswer": {"@type": "Answer", "text": "Check whether free listings actually get seen, stay up permanently, and use dofollow links. If the free option is buried, temporary, or nofollow while the paid one gets everything, the free tier is bait."}
+    },
+    {
+      "@type": "Question",
+      "name": "Is a platform with any paid tier automatically pay-to-win?",
+      "acceptedAnswer": {"@type": "Answer", "text": "No. A paid tier only becomes pay-to-win when the free option is crippled on purpose. A platform with a fair free tier and an optional paid boost on top is not the same thing, even though both charge money somewhere."}
+    },
+    {
+      "@type": "Question",
+      "name": "Does LaunchFree.io have a paid tier that outranks free listings?",
+      "acceptedAnswer": {"@type": "Answer", "text": "No. LaunchFree.io's core listing is free forever, and no paid tier buries or outranks it. Sponsored placements are sold separately and never replace a free listing's visibility."}
+    },
+    {
+      "@type": "Question",
+      "name": "What's the fastest way to spot a pay-to-win platform before submitting?",
+      "acceptedAnswer": {"@type": "Answer", "text": "Look for a free listing from that platform that is currently ranked, permanent, and dofollow. If you can't find one, or the ones you find are buried or expired, treat the free tier as bait."}
     }
   ]
 }
@@ -171,49 +174,45 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
     <h1 class="art-title">Free vs. Pay-to-Win Launch Platforms: An Honest Breakdown</h1>
     <p class="art-dek">Not every paid feature is a scam, and not every free platform is generous. Here&#x27;s how to tell the difference, and when paying is actually worth it.</p>
     <div class="art-meta">
-      <span>By The Runway</span><span class="dot">&middot;</span>
-      <span>August 9, 2026</span><span class="dot">&middot;</span>
-      <span>2 min read</span>
+      <span>By Julie James, founder of LaunchFree.io</span><span class="dot">&middot;</span>
+      <span>Last updated September 2, 2026</span><span class="dot">&middot;</span>
+      <span>3 min read</span>
     </div>
   </div>
 
   <div class="art-body">
 
-<p>"Pay-to-win" gets thrown around as an insult, but it's worth being precise, because paying for a launch isn't always bad. Some paid features are genuinely useful. The problem is a specific pattern, and once you can name it, you'll spot it instantly.</p>
+<p class="answer"><strong>Pay-to-win means money buys visibility that free users can't earn through genuine interest, usually because the free tier was deliberately crippled to make paying the only way to be seen.</strong> Not every paid feature fits that pattern. A platform with a fair free tier and an optional paid boost on top is a different, and often reasonable, thing.</p>
 
-<h2>What pay-to-win actually means</h2>
+<h2>What does pay-to-win actually mean?</h2>
 
-<p>Pay-to-win is when money buys you visibility that free users cannot earn through genuine interest. The free tier exists mostly as a funnel: it's crippled, buried, or temporary on purpose, so that "being seen at all" becomes a paid feature. That's the pattern worth avoiding.</p>
+<p>Pay-to-win is a specific pattern, not just "this platform charges money." The free tier exists mostly as a funnel: it's crippled, buried, or temporary on purpose, so that being seen at all becomes a paid feature. Contrast that with a fair platform, where ranking comes from real votes and real engagement, and a paid boost, if one exists, is optional extra reach on top, not the only door in.</p>
 
-<p>Contrast that with a fair platform, where your ranking comes from real votes, real engagement, and a real review, and a paid boost (if one exists) is optional extra reach on top, not the only door in.</p>
+<h2>Is it ever worth paying to launch?</h2>
 
-<h2>When paying is actually fine</h2>
-
-<p>Plenty of good platforms charge for legitimate things, and it can be money well spent:</p>
-
-<ul>
-<li><strong>Skipping a queue.</strong> BetaList, for example, has a free track with a wait and a paid track that publishes faster. The free option is real; you're paying for speed, not for existence.</li>
-<li><strong>Extra reach on a big day.</strong> Uneed and Fazier let you launch free and add an optional boost. If you've got a polished product and a real audience to convert, that can pay for itself.</li>
-<li><strong>Supporting a platform you value.</strong> Sometimes you pay because the community is worth keeping alive.</li>
-</ul>
+<p>Sometimes, and it can be money well spent. Three legitimate reasons to pay: skipping a queue, where the free track is real but slower; buying extra reach on a big launch day when you already have a polished product and an audience to convert; or simply supporting a platform whose community is worth keeping alive. What separates this from pay-to-win is that the free option was genuinely viable before you reached for your card.</p>
 
 <div class="callout"><p>The test isn't "is it free?" It's "can a free launch genuinely succeed here, or is payment the only way to be seen?"</p></div>
 
-<h2>How to read a platform in 60 seconds</h2>
+<h2>How do you tell fair from pay-to-win in 60 seconds?</h2>
 
+<div class="tblwrap">
 <table>
-<tr><th>Signal</th><th>Fair</th><th>Pay-to-win</th></tr>
+<thead><tr><th>Signal</th><th>Fair</th><th>Pay-to-win</th></tr></thead>
+<tbody>
 <tr><td>Free listings</td><td>Actually get seen</td><td>Buried or hidden</td></tr>
 <tr><td>Ranking</td><td>Earned by interest</td><td>Bought with budget</td></tr>
 <tr><td>Listing lifespan</td><td>Permanent</td><td>Expires fast</td></tr>
 <tr><td>Backlink</td><td>Dofollow</td><td>Nofollow or none</td></tr>
+</tbody>
 </table>
+</div>
 
-<h2>Where we stand</h2>
+<h2>Where does LaunchFree.io stand on this?</h2>
 
-<p>We'll be upfront about our own bias: <a href="https://launchfree.io/index.html">The Runway</a> is free forever, with no paid tier that outranks anyone. We cover costs through optional sponsored placements that never bury a free listing. That's a deliberate choice, and it's why founders trust the directory. If you want the wider landscape, our <a href="https://launchfree.io/radar/where-to-launch-your-product-for-free-2026.html">free launch guide</a> maps the best options, paid and free.</p>
+<p>We'll be upfront about our own bias: <a href="https://launchfree.io/index.html">LaunchFree.io</a> (The Runway) is free forever, with no paid tier that outranks anyone. We cover costs through optional sponsored placements that never bury a free listing. That's a deliberate choice, and it's why founders trust the directory. If you want the wider landscape, our <a href="https://launchfree.io/radar/where-to-launch-your-product-for-free-2026.html">free launch guide</a> maps the best options, paid and free.</p>
 
-<p>Pay if a platform earns it. Never pay just to exist. <a href="https://launchfree.io/submit.html">List free on The Runway</a> whenever you're ready.</p>
+<p>Pay if a platform earns it. Never pay just to exist. <a href="https://launchfree.io/submit.html">List free on LaunchFree.io</a> whenever you're ready.</p>
 
   </div>
 </article>
@@ -231,6 +230,18 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
   <div class="faq-item">
     <div class="faq-q">How can I tell if a free tier is real or bait?</div>
     <div class="faq-a">Check whether free listings actually get seen, stay up permanently, and use dofollow links. If the free option is buried, temporary, or nofollow while the paid one gets everything, the free tier is bait.</div>
+  </div>
+  <div class="faq-item">
+    <div class="faq-q">Is a platform with any paid tier automatically pay-to-win?</div>
+    <div class="faq-a">No. A paid tier only becomes pay-to-win when the free option is crippled on purpose. A platform with a fair free tier and an optional paid boost on top is not the same thing, even though both charge money somewhere.</div>
+  </div>
+  <div class="faq-item">
+    <div class="faq-q">Does LaunchFree.io have a paid tier that outranks free listings?</div>
+    <div class="faq-a">No. LaunchFree.io&#x27;s core listing is free forever, and no paid tier buries or outranks it. Sponsored placements are sold separately and never replace a free listing&#x27;s visibility.</div>
+  </div>
+  <div class="faq-item">
+    <div class="faq-q">What&#x27;s the fastest way to spot a pay-to-win platform before submitting?</div>
+    <div class="faq-a">Look for a free listing from that platform that is currently ranked, permanent, and dofollow. If you can&#x27;t find one, or the ones you find are buried or expired, treat the free tier as bait.</div>
   </div>
 </div>
 
