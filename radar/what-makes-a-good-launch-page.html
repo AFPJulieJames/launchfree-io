@@ -50,6 +50,7 @@ nav{position:sticky;top:0;z-index:100;background:rgba(10,15,26,0.92);backdrop-fi
 .art-body th,.art-body td{text-align:left;padding:11px 12px;border-bottom:1px solid var(--card-border);}
 .art-body th{color:var(--runway);font-size:0.72rem;text-transform:uppercase;letter-spacing:0.06em;}
 .art-body td{color:var(--white-dim);}
+.tblwrap{overflow-x:auto;margin:0 0 22px;}.tblwrap table{margin:0;}
 /* faq */
 .faq-wrap{max-width:820px;margin:0 auto;padding:20px 5% 40px;}
 .faq-h{font-family:var(--serif);font-size:1.55rem;font-weight:700;color:var(--white);margin-bottom:18px;}
@@ -70,20 +71,6 @@ nav{position:sticky;top:0;z-index:100;background:rgba(10,15,26,0.92);backdrop-fi
 .rc-tag{font-size:0.65rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--runway);}
 .rc-title{font-family:var(--serif);font-weight:700;font-size:1.05rem;color:var(--white);margin:8px 0 6px;line-height:1.25;}
 .rc-dek{font-size:0.85rem;color:var(--muted);line-height:1.55;}
-/* hub */
-.hub-hero{max-width:1000px;margin:0 auto;padding:52px 5% 12px;text-align:center;}
-.hub-eyebrow{font-size:0.72rem;font-weight:700;letter-spacing:0.14em;text-transform:uppercase;color:var(--runway);margin-bottom:14px;}
-.hub-title{font-family:var(--serif);font-size:clamp(2.2rem,6vw,3.6rem);font-weight:900;color:var(--white);line-height:1.05;margin-bottom:18px;}
-.hub-intro{font-size:1.1rem;color:var(--white-dim);line-height:1.7;max-width:640px;margin:0 auto;}
-.hub-grid{max-width:1100px;margin:0 auto;padding:40px 5% 30px;display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:18px;}
-.hub-card{background:var(--card-bg);border:1px solid var(--card-border);border-radius:var(--r-lg);padding:26px 28px;display:flex;flex-direction:column;transition:border-color .15s;}
-.hub-card:hover{border-color:rgba(232,255,71,0.28);}
-.hc-tag{font-size:0.65rem;font-weight:700;text-transform:uppercase;letter-spacing:0.06em;color:var(--runway);margin-bottom:10px;}
-.hc-title{font-family:var(--serif);font-weight:700;font-size:1.25rem;color:var(--white);line-height:1.2;margin-bottom:10px;}
-.hc-dek{font-size:0.92rem;color:var(--white-dim);line-height:1.6;flex:1;margin-bottom:16px;}
-.hc-meta{font-size:0.76rem;color:var(--muted);}
-.hub-featured{border-color:rgba(232,255,71,0.35);background:linear-gradient(180deg,rgba(232,255,71,0.05),var(--card-bg));grid-column:1/-1;}
-.hub-featured .hc-title{font-size:1.7rem;}
 /* footer */
 footer{padding:28px 5%;border-top:1px solid var(--card-border);background:var(--ink-mid);}.footer-in{max-width:1200px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;gap:20px;flex-wrap:wrap;}
 .f-logo{font-family:var(--serif);font-size:1rem;font-weight:700;color:var(--white);}.f-logo span{color:var(--runway);}
@@ -102,16 +89,17 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
   "headline": "What Makes a Good Product Launch Page (With a Simple Template)",
   "description": "What makes a good product launch page: a simple, proven structure from headline to CTA, plus the common mistakes that quietly kill conversions. With a copy template.",
   "image": "https://launchfree.io/og-image.png",
-  "datePublished": "2026-08-02",
-  "dateModified": "2026-08-02",
-  "author": {"@type": "Person", "name": "Julie James"},
-  "publisher": {
-    "@type": "Organization",
-    "name": "LaunchFree.io — The Runway",
-    "url": "https://launchfree.io"
+  "author": {
+    "@type": "Person",
+    "name": "Julie James",
+    "jobTitle": "Founder",
+    "worksFor": {"@type": "Organization", "name": "LaunchFree.io", "@id": "https://launchfree.io/#organization"}
   },
+  "publisher": {"@id": "https://launchfree.io/#organization"},
+  "datePublished": "2026-08-02",
+  "dateModified": "2026-09-02",
   "mainEntityOfPage": {"@type": "WebPage", "@id": "https://launchfree.io/radar/what-makes-a-good-launch-page.html"},
-  "isPartOf": {"@type": "Blog", "name": "Runway Radar", "url": "https://launchfree.io/radar.html"}
+  "isPartOf": {"@id": "https://launchfree.io/#website"}
 }
 </script>
 <script type="application/ld+json">
@@ -144,6 +132,21 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
       "@type": "Question",
       "name": "How long should a launch page be?",
       "acceptedAnswer": {"@type": "Answer", "text": "As long as it needs to be and no longer. Lead with the essentials above the fold so someone who reads nothing else still understands and can act. Add depth below for people who want it."}
+    },
+    {
+      "@type": "Question",
+      "name": "How many calls to action should a launch page have?",
+      "acceptedAnswer": {"@type": "Answer", "text": "One primary action, repeated at most twice: once above the fold and once at the bottom for people who scrolled. Five different buttons competing for attention is the same as having none."}
+    },
+    {
+      "@type": "Question",
+      "name": "What kind of proof works best on a launch page?",
+      "acceptedAnswer": {"@type": "Answer", "text": "A short demo, real screenshots, or an early testimonial. A screenshot or a short clip does more to establish that the product is real than a paragraph of adjectives ever will."}
+    },
+    {
+      "@type": "Question",
+      "name": "Is a good launch page enough on its own?",
+      "acceptedAnswer": {"@type": "Answer", "text": "No. A launch page converts the traffic it gets, but it still needs somewhere to send that traffic from, like a permanent directory listing or community post. The page and the distribution channel do different jobs."}
     }
   ]
 }
@@ -171,32 +174,37 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
     <h1 class="art-title">What Makes a Good Product Launch Page (With a Simple Template)</h1>
     <p class="art-dek">A launch page has one job: turn a curious visitor into a user. Here&#x27;s the simple structure that does it, and the mistakes that quietly kill conversions.</p>
     <div class="art-meta">
-      <span>By The Runway</span><span class="dot">&middot;</span>
-      <span>August 2, 2026</span><span class="dot">&middot;</span>
-      <span>2 min read</span>
+      <span>By Julie James, founder of LaunchFree.io</span><span class="dot">&middot;</span>
+      <span>Last updated September 2, 2026</span><span class="dot">&middot;</span>
+      <span>3 min read</span>
     </div>
   </div>
 
   <div class="art-body">
 
-<p>A launch page has exactly one job: turn a curious visitor into a user. Not to win a design award, not to explain every feature, just to get one clear thing across and make the next step obvious. Most pages fail because they forget that. Here's the structure that works.</p>
+<p class="answer"><strong>A good launch page has one job: turn a curious visitor into a user, through a clear headline, one primary above-the-fold CTA, real proof, and a benefit-led explanation, not a feature dump.</strong> Most pages fail because they try to do more than that one job at once.</p>
 
-<h2>The simple structure</h2>
+<h2>What's the simple structure that works?</h2>
 
-<ol>
-<li><strong>Headline</strong>: what it is and who it's for, in plain words. Clarity beats cleverness every time.</li>
-<li><strong>Subhead</strong>: one line on the benefit or how it works.</li>
-<li><strong>Primary CTA</strong>: one action, above the fold, impossible to miss.</li>
-<li><strong>Proof</strong>: a short demo, a few screenshots, or early testimonials. Show it's real.</li>
-<li><strong>The "why"</strong>: two or three short sections on the benefit, not a feature dump.</li>
-<li><strong>A closing CTA</strong>: repeat the ask at the bottom for people who scrolled.</li>
-</ol>
+<div class="tblwrap">
+<table>
+<thead><tr><th>Section</th><th>What it does</th></tr></thead>
+<tbody>
+<tr><td>Headline</td><td>What it is and who it's for, in plain words</td></tr>
+<tr><td>Subhead</td><td>One line on the benefit or how it works</td></tr>
+<tr><td>Primary CTA</td><td>One action, above the fold, impossible to miss</td></tr>
+<tr><td>Proof</td><td>A short demo, screenshots, or early testimonials</td></tr>
+<tr><td>The "why"</td><td>Two or three short sections on the benefit, not features</td></tr>
+<tr><td>Closing CTA</td><td>Repeats the ask for people who scrolled</td></tr>
+</tbody>
+</table>
+</div>
 
-<h2>A headline template you can steal</h2>
+<h2>What's a headline template you can steal?</h2>
 
-<div class="callout"><p><strong>[Product]</strong> helps <strong>[who]</strong> do <strong>[outcome]</strong> without <strong>[the annoying part]</strong>.</p><p>Example: "Runway helps founders launch their product for free without paywalls or approval queues."</p></div>
+<div class="callout"><p><strong>[Product]</strong> helps <strong>[who]</strong> do <strong>[outcome]</strong> without <strong>[the annoying part]</strong>.</p><p>Example: "LaunchFree.io helps founders launch their product for free without paywalls or approval queues."</p></div>
 
-<h2>The mistakes that quietly kill conversions</h2>
+<h2>What mistakes quietly kill conversions?</h2>
 
 <ul>
 <li><strong>Clever over clear.</strong> If a visitor can't tell what you do in five seconds, they leave.</li>
@@ -206,11 +214,11 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
 <li><strong>Slow or broken on mobile.</strong> Most launch traffic is on a phone.</li>
 </ul>
 
-<h2>Write the copy, then launch it</h2>
+<h2>What should you do once the page is ready?</h2>
 
 <p>For the words themselves, our <a href="https://launchfree.io/radar/launch-day-copy-guide.html">launch-day copy guide</a> goes deeper on tone and CTAs, and the <a href="https://launchfree.io/radar/pre-launch-website-checklist.html">pre-launch checklist</a> covers the technical polish. Once the page does its one job well, get it in front of people: our <a href="https://launchfree.io/radar/where-to-launch-your-product-for-free-2026.html">free launch guide</a> shows where.</p>
 
-<p>Got a page you're proud of? <a href="https://launchfree.io/submit.html">List it free on The Runway</a>.</p>
+<p>Got a page you're proud of? <a href="https://launchfree.io/submit.html">List it free on LaunchFree.io</a>.</p>
 
   </div>
 </article>
@@ -228,6 +236,18 @@ gtag('js',new Date());gtag('config','G-7CKQDBEDBB');
   <div class="faq-item">
     <div class="faq-q">How long should a launch page be?</div>
     <div class="faq-a">As long as it needs to be and no longer. Lead with the essentials above the fold so someone who reads nothing else still understands and can act. Add depth below for people who want it.</div>
+  </div>
+  <div class="faq-item">
+    <div class="faq-q">How many calls to action should a launch page have?</div>
+    <div class="faq-a">One primary action, repeated at most twice: once above the fold and once at the bottom for people who scrolled. Five different buttons competing for attention is the same as having none.</div>
+  </div>
+  <div class="faq-item">
+    <div class="faq-q">What kind of proof works best on a launch page?</div>
+    <div class="faq-a">A short demo, real screenshots, or an early testimonial. A screenshot or a short clip does more to establish that the product is real than a paragraph of adjectives ever will.</div>
+  </div>
+  <div class="faq-item">
+    <div class="faq-q">Is a good launch page enough on its own?</div>
+    <div class="faq-a">No. A launch page converts the traffic it gets, but it still needs somewhere to send that traffic from, like a permanent directory listing or community post. The page and the distribution channel do different jobs.</div>
   </div>
 </div>
 
