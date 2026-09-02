@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 597 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 598 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -22,6 +22,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [YMM Fitment AI: Parts Search](https://launchfree.io/listings/ymm-fitment-ai-parts-search.html): Help shoppers find compatible parts faster with AI-powered YMM search (E-commerce).
 - [WYR? (Would You Rather for two)](https://launchfree.io/listings/wyr-would-you-rather-for-two.html): Private iOS couples game: pair by invite code, 8 play modes, no feed (Entertainment).
 - [WeatherChirp](https://launchfree.io/listings/weatherchirp.html): Typical weather for 30,000+ cities, charted from 30 years of climate data (Travel).
+- [TRiAD AI](https://launchfree.io/listings/triad-ai.html): Relational AI platform with MaXaM, MAiRY Star, and MiP (AI / ML).
 - [Sponsor Desk](https://launchfree.io/listings/sponsor-desk.html): A flat sponsorship operations desk that handles the details, follow-ups, and coordination (Service).
 - [Sollicitatiekit NL](https://launchfree.io/listings/sollicitatiekit-nl.html): Dutch CV template + 3 motivation letters, 12 euro (Education).
 - [Sitting Press](https://launchfree.io/listings/sitting-press.html): Short playbooks for tired, competent people (Productivity).
@@ -118,10 +119,9 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Kompresly Audio](https://launchfree.io/listings/kompresly-audio.html): Compress audio to a target KB or MB. Local, batch, no account (Productivity).
 - [ImgSmaller PDF Editor](https://launchfree.io/listings/imgsmaller-pdf-editor.html): Free private PDF editor with OCR, no upload, signup or watermark (Productivity).
 - [Helfer](https://launchfree.io/listings/helfer.html): Where trainers show expertise and find new clients (Health).
-- [Gigwell Services](https://launchfree.io/listings/gigwell-services.html): Trusted Home Repair and Plumbing Services in India (Service).
 
 ## Categories
-- [AI / ML](https://launchfree.io/categories/ai-ml.html): 103 free AI / ML launches.
+- [AI / ML](https://launchfree.io/categories/ai-ml.html): 104 free AI / ML launches.
 - [Productivity](https://launchfree.io/categories/productivity.html): 80 free Productivity launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 62 free E-commerce launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 53 free Developer Tools launches.

@@ -9550,5 +9550,21 @@
   "slug": "self-selling-planet",
   "date": "2026-09-02",
   "mrr": ""
+ },
+ {
+  "id": "triad-ai",
+  "name": "TRiAD AI",
+  "tagline": "Relational AI platform with MaXaM, MAiRY Star, and MiP",
+  "desc": "TRiAD AI is a consumer relational-chatbot platform with three conversational intelligences: MaXaM on a proprietary non-RLHF model, MAiRY Star on a dual-channel semantic memory engine, and MiP…",
+  "emoji": "T",
+  "logo": "",
+  "cat": "AI / ML",
+  "url": "https://triadai.tech",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "triad-ai",
+  "date": "2026-09-02",
+  "mrr": ""
  }
 ]
