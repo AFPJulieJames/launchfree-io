@@ -30,7 +30,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Editing.video](https://launchfree.io/listings/editing-video.html): Private browser video editing without signup or cloud uploads (Creator Tools).
 - [CryptoeSIM](https://launchfree.io/listings/cryptoesim.html): Pay for travel eSIMs with Bitcoin and crypto, no KYC (Travel).
 - [Crypto DCA Stack Tracker](https://launchfree.io/listings/crypto-dca-stack-tracker.html): One spreadsheet for crypto DCA buys. Any ticker. No API (Fintech).
-- [Brick500 — 500 BRICKS](https://launchfree.io/listings/brick500-500-bricks.html): A 500-space digital advertising wall with 7-day placements from £3 (Marketing).
+- [Brick500: 500 BRICKS](https://launchfree.io/listings/brick500-500-bricks.html): A 500-space digital advertising wall with 7-day placements from £3 (Marketing).
 - [Black Screen](https://launchfree.io/listings/black-screen.html): Free fullscreen colors for display testing and distraction-free use (Productivity).
 - [AIhaoyisheng](https://launchfree.io/listings/aihaoyisheng.html): Free bedside clinical calculators for licensed clinicians (Health).
 - [6RSH](https://launchfree.io/listings/6rsh.html): One inbox for WhatsApp & Instagram, AI auto-replies, WhatsApp Flows, CRM & WooC (SaaS).
@@ -61,7 +61,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Photoshoot.app](https://launchfree.io/listings/photoshoot-app.html): Reference-led AI product and fashion photography (AI / ML).
 - [Page Zero Desk](https://launchfree.io/listings/page-zero-desk.html): ChatGPT and Midjourney slot cards for writers, artists, and designers (Creator Tools).
 - [Offer Stack Worksheet](https://launchfree.io/listings/offer-stack-worksheet.html): Name a $9 / $19 / $49 offer stack without fake value stacks (Creator Tools).
-- [Nudge — 5 Late Payment Emails (PDF)](https://launchfree.io/listings/nudge-5-late-payment-emails-pdf.html): Five ready-to-send emails for when a freelance invoice is late (Creator Tools).
+- [Nudge: 5 Late Payment Emails (PDF)](https://launchfree.io/listings/nudge-5-late-payment-emails-pdf.html): Five ready-to-send emails for when a freelance invoice is late (Creator Tools).
 - [NexageApps](https://launchfree.io/listings/nexageapps.html): Privacy-first apps. No cloud account required (Other).
 - [NeoGress AI](https://launchfree.io/listings/neogress-ai.html): AI-powered website builder for global business growth (AI / ML).
 - [MustSee](https://launchfree.io/listings/mustsee.html): Numbered directory for new product launches (SaaS).

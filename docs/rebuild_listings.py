@@ -106,7 +106,15 @@ def urlenc(t):
 
 
 def esc(t):
-    return htmllib.escape(t or "", quote=True)
+    # Decode any pre-existing HTML entities to a fixpoint first, so re-rendering an already-rendered
+    # page never stacks &amp;amp; encoding layers. Values from listings.json have no entities, so this
+    # is a no-op for them; values read back from prior page HTML get healed instead of re-escaped.
+    s = t or ""
+    prev = None
+    while s != prev:
+        prev = s
+        s = htmllib.unescape(s)
+    return htmllib.escape(s, quote=True)
 
 
 # ------------------------------------------------------------------ related launches

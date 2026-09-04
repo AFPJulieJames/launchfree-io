@@ -94,7 +94,7 @@ Local working copy: `/Users/jules/Documents/Claude/LaunchFree Hub/launchfree-io/
 | `sitemap.xml` | 282 URLs. Every listing, category, article and root page | Every build |
 | `llms.txt` | A plain language site summary written for AI answer engines, with links and a live launch count | Every build |
 | `robots.txt` | Explicitly welcomes GPTBot, ClaudeBot, PerplexityBot, CCBot, Google-Extended, Bingbot and the social unfurl bots | Rarely |
-| `radar.html` + `radar/*.html` | The Runway Radar content hub, 15 SEO articles about launching for free | When new articles are written |
+| `radar.html` + `radar/*.html` | The Runway Radar content hub, 17 SEO articles about launching for free. Hand-authored, no template, see section 9 rule 8 for the required favicon block | When new articles are written |
 | `research/*.html` | Original research, currently "State of Indie Launches 2026" | Rarely |
 | `faq.html`, `privacy.html`, `terms.html`, `disclaimer.html` | Static legal and info pages | Rarely |
 | `add-badge.html`, `badge-dark.svg`, `badge-light.svg` | The "Listed on The Runway" badge builders embed on their own sites. This is what generates the reciprocal links | Rarely |
@@ -276,6 +276,27 @@ choice: being cited by AI assistants is a distribution channel, not a threat.
 
 **7. Internal links matter.** Every listing links to three related launches in the same category.
 That is what pulls crawl depth through the catalog.
+
+**8. Every page ships the full favicon and touch-icon set, no exceptions.** Six link tags, right
+after the viewport meta tag:
+
+```html
+<link rel="icon" href="https://launchfree.io/favicon.ico" sizes="any" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://launchfree.io/favicon-16.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://launchfree.io/favicon-32.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://launchfree.io/apple-touch-icon-180.png" />
+<link rel="icon" type="image/png" sizes="192x192" href="https://launchfree.io/icon-192.png" />
+<link rel="icon" type="image/png" sizes="512x512" href="https://launchfree.io/icon-512.png" />
+```
+
+Listings, category pages, the homepage and directory all get this automatically because they are
+generated from `docs/LISTING_TEMPLATE_SSR.html`, which carries the block. **The radar articles
+(`radar/*.html`) do not have a generator or shared template, they are hand-authored one file at a
+time, so this block does not propagate to them automatically.** This is exactly how all 17 of them
+shipped with no favicon markup until the 2026-09-04 audit caught it. When writing a new radar
+article: copy the full `<head>` block from the most recently published article in `radar/` (they
+are all identical in structure, only title/description/canonical/OG differ per article) rather than
+writing the head from scratch, and confirm the six icon lines above are present before publishing.
 
 Latest full audit: `docs/SEO_GEO_Audit_2026-08-16.md`.
 

@@ -10289,7 +10289,7 @@
  },
  {
   "id": "nudge-5-late-payment-emails-pdf",
-  "name": "Nudge — 5 Late Payment Emails (PDF)",
+  "name": "Nudge: 5 Late Payment Emails (PDF)",
   "tagline": "Five ready-to-send emails for when a freelance invoice is late.",
   "desc": "Nudge is a 5-email late-payment sequence for freelancers. Copy, swap [Client], [Invoice #], [Amount], and [Due date], then send from your own inbox.…",
   "emoji": "N",
@@ -10481,7 +10481,7 @@
  },
  {
   "id": "brick500-500-bricks",
-  "name": "Brick500 — 500 BRICKS",
+  "name": "Brick500: 500 BRICKS",
   "tagline": "A 500-space digital advertising wall with 7-day placements from £3.",
   "desc": "Brick500 is a limited 500-space digital advertising wall for small businesses, creators, musicians, artists and side projects. Advertisers claim a…",
   "emoji": "B",
