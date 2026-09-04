@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 653 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 659 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -19,6 +19,12 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Disclaimer](https://launchfree.io/disclaimer.html): Site disclaimer for LaunchFree.io.
 
 ## Recent launches
+- [Subbie](https://launchfree.io/listings/subbie.html): UK CIS invoice from your phone. £19 once, offline (Productivity).
+- [ShowVision](https://launchfree.io/listings/showvision.html): Track TV releases, read news, and solve visual TV and movie quizzes (Entertainment).
+- [norma](https://launchfree.io/listings/norma.html): Create collages in harmony with geometry, proportion, rhythm (SaaS).
+- [Get Found on Google](https://launchfree.io/listings/get-found-on-google.html): Free public-page check. A person emails what to fix within 24 hours (Marketing).
+- [Brick500 — 500 BRICKS](https://launchfree.io/listings/brick500-500-bricks.html): A 500-space digital advertising wall with 7-day placements from £3 (Marketing).
+- [AIhaoyisheng](https://launchfree.io/listings/aihaoyisheng.html): Free bedside clinical calculators for licensed clinicians (Health).
 - [whizo ai](https://launchfree.io/listings/whizo-ai.html): AI-powered platform helping businesses automate workflows and engage customers (Marketing).
 - [Weekly Metrics Markdown Dashboard](https://launchfree.io/listings/weekly-metrics-markdown-dashboard.html): Blank-cell weekly metrics for indie hackers, $9 USDC (Productivity).
 - [WebToolsEdge](https://launchfree.io/listings/webtoolsedge.html): Free online tools for text, SEO, images, calculators, and everyday tasks (Productivity).
@@ -113,26 +119,20 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Close Agent](https://launchfree.io/listings/close-agent.html): Deposit-first client close workflow for cleaner engagements (Service).
 - [ClearRove](https://launchfree.io/listings/clearrove.html): CRM for distributors, manage leads without the spreadsheet mess (SaaS).
 - [Clear HVAC Costs](https://launchfree.io/listings/clear-hvac-costs.html): Check HVAC bids and uncover hidden installation costs (Productivity).
-- [Change Order Agent](https://launchfree.io/listings/change-order-agent.html): Turn scope changes into clear, written change orders (Service).
-- [burn0ut](https://launchfree.io/listings/burn0ut.html): Support that meets you at your capacity (Health).
-- [Briefbox W-2 vs 1099 take-home](https://launchfree.io/listings/briefbox-w-2-vs-1099-take-home.html): Instant 2026 W-2 vs 1099 take-home. $5 (Fintech).
-- [blackmyth.game](https://launchfree.io/listings/blackmyth-game.html): Non-official Black Myth mythology and official-fact reference (Education).
-- [AI Tools Police](https://launchfree.io/listings/ai-tools-police.html): Independent investigations and honest verdicts on AI tools (AI / ML).
-- [Xero Integration](https://launchfree.io/listings/xero-integration.html): Sync Shopify products, customers, and orders to Xero (E-commerce).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 111 free AI / ML launches.
-- [Productivity](https://launchfree.io/categories/productivity.html): 86 free Productivity launches.
+- [Productivity](https://launchfree.io/categories/productivity.html): 87 free Productivity launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 64 free E-commerce launches.
-- [SaaS](https://launchfree.io/categories/saas.html): 63 free SaaS launches.
+- [SaaS](https://launchfree.io/categories/saas.html): 64 free SaaS launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 54 free Developer Tools launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 46 free Creator Tools launches.
 - [Fintech](https://launchfree.io/categories/fintech.html): 33 free Fintech launches.
-- [Marketing](https://launchfree.io/categories/marketing.html): 31 free Marketing launches.
+- [Marketing](https://launchfree.io/categories/marketing.html): 33 free Marketing launches.
 - [Education](https://launchfree.io/categories/education.html): 28 free Education launches.
 - [Service](https://launchfree.io/categories/service.html): 26 free Service launches.
-- [Health](https://launchfree.io/categories/health.html): 22 free Health launches.
-- [Entertainment](https://launchfree.io/categories/entertainment.html): 21 free Entertainment launches.
+- [Health](https://launchfree.io/categories/health.html): 23 free Health launches.
+- [Entertainment](https://launchfree.io/categories/entertainment.html): 22 free Entertainment launches.
 - [Other](https://launchfree.io/categories/other.html): 21 free Other launches.
 - [Lifestyle](https://launchfree.io/categories/lifestyle.html): 19 free Lifestyle launches.
 - [Travel](https://launchfree.io/categories/travel.html): 14 free Travel launches.
