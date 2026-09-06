@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 725 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 739 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -19,20 +19,34 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Disclaimer](https://launchfree.io/disclaimer.html): Site disclaimer for LaunchFree.io.
 
 ## Recent launches
+- [Vellum Lane Free Weekly Planner](https://launchfree.io/listings/vellum-lane-free-weekly-planner.html): FREE printable A4 weekly planner PDF digital download (Creator Tools).
 - [UGC Rights Renewal Desk](https://launchfree.io/listings/ugc-rights-renewal-desk.html): Get paid when brands keep running your work (SaaS).
 - [ShopGaps](https://launchfree.io/listings/shopgaps.html): Find missing images, SKUs, and prices in catalogs (E-commerce).
 - [SayCraft](https://launchfree.io/listings/saycraft.html): Turn your product meeting into a working prototype (Developer Tools).
 - [RoyaleTools](https://launchfree.io/listings/royaletools.html): Free Clash Royale Daily Brief, decks, and tools (Entertainment).
+- [Pitch — New Client Proposal Template (PDF)](https://launchfree.io/listings/pitch-new-client-proposal-template-pdf.html): Fill-in freelance proposal after a discovery call (Service).
 - [Peptide Cosmetics Decoder](https://launchfree.io/listings/peptide-cosmetics-decoder.html): Read peptide INCI labels on cosmetic serums, not slogans (Education).
+- [Ops Control HQ](https://launchfree.io/listings/ops-control-hq.html): Run operations from exceptions, not averages (Productivity).
+- [One Custom Song](https://launchfree.io/listings/one-custom-song.html): Personalized AI songs, lyric posters, and music videos from any memory or love n (AI / ML).
+- [OfferMath](https://launchfree.io/listings/offermath.html): Calculate total compensation (salary + equity) in seconds (AI / ML).
 - [Nethaven](https://launchfree.io/listings/nethaven.html): Budgets, investments and net worth in one app for iOS, Android and web (Fintech).
+- [Meeting Timezones](https://launchfree.io/listings/meeting-timezones.html): Compare time zones side by side. See overlaps instantly (SaaS).
+- [Lynqra](https://launchfree.io/listings/lynqra.html): AI workflow automation for Singapore SMEs (Service).
 - [IDPhoto.ai](https://launchfree.io/listings/idphoto-ai.html): ID Photo API for passport, visa & ID photos (Developer Tools).
 - [Humanleap](https://launchfree.io/listings/humanleap.html): AI agents that run socials, site, search & enquiries for UK SMBs, £500/mo (Marketing).
 - [HJcyberX Plugins](https://launchfree.io/listings/hjcyberx-plugins.html): WordPress and WooCommerce plugins by HJcyberX (E-commerce).
 - [HJcyberX Blog](https://launchfree.io/listings/hjcyberx-blog.html): Practical cybersecurity tips, tools, and guides from HJcyberX (Education).
+- [Grafics MLS Ready](https://launchfree.io/listings/grafics-mls-ready.html): Listing-safe photo cleanup for realtors, no fake staging (SaaS).
+- [Gojo](https://launchfree.io/listings/gojo.html): Your Mac, one hover away (Productivity).
 - [Ghostnonce](https://launchfree.io/listings/ghostnonce.html): One-shot Solana durable-nonce inventory for multisig signers. 49/79 USDC (Developer Tools).
+- [First Dollar Kit](https://launchfree.io/listings/first-dollar-kit.html): 48-Hour Sprint to Your First Digital Sale (Education).
 - [FindAffiliates](https://launchfree.io/listings/findaffiliates.html): Find and compare affiliate programs fast (Marketing).
 - [ClientReply](https://launchfree.io/listings/clientreply.html): Paste sticky client email → 3 calibrated replies (Productivity).
 - [City Calculator Tool](https://launchfree.io/listings/city-calculator-tool.html): Know what it's like to live in a City, Financially (SaaS).
+- [Cierre MX](https://launchfree.io/listings/cierre-mx.html): Kit freelancers MX: cotizar, WhatsApp 0/2/5/10 y cobrar (Productivity).
+- [Calculator Toolkit](https://launchfree.io/listings/calculator-toolkit.html): Private browser calculators for restaurant tips and bill splitting (Productivity).
+- [BigPipe](https://launchfree.io/listings/bigpipe.html): Free venture planning for marketing and growth agencies (Marketing).
+- [ApiLink](https://launchfree.io/listings/apilink.html): One OpenAI-compatible API for every AI model (Developer Tools).
 - [ZnowPulse](https://launchfree.io/listings/znowpulse.html): Monitor services and communicate incidents clearly (SaaS).
 - [Yellowcell Excel Templates](https://launchfree.io/listings/yellowcell-excel-templates.html): One-time Excel money templates for freelancers, invoice, budget, debt, free mileage log (Productivity).
 - [WakeMark](https://launchfree.io/listings/wakemark.html): Wake up your X bookmarks (Productivity).
@@ -105,32 +119,18 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Slip](https://launchfree.io/listings/slip.html): Paste a Solana wallet, pay 8 USDC, get a CSV of balances and signatures (Developer Tools).
 - [Salearis](https://launchfree.io/listings/salearis.html): Hire Verified DACH Sales Freelancers Faster (Other).
 - [Referral Ask Pack](https://launchfree.io/listings/referral-ask-pack.html): Forwardable referral asks without inbox scraping (Creator Tools).
-- [Real Estate AI Operating System](https://launchfree.io/listings/real-estate-ai-operating-system.html): 69 AI prompts & workflows for real estate agents (AI / ML).
-- [QuoteClear](https://launchfree.io/listings/quoteclear.html): Compare supplier quotes in seconds, not spreadsheets (Productivity).
-- [Polite Retainer](https://launchfree.io/listings/polite-retainer.html): Hours bank. Month-end invoice (SaaS).
-- [Polite Resume Agent](https://launchfree.io/listings/polite-resume-agent.html): Hold cleared. Work resumes (SaaS).
-- [Polite Renewal Agent](https://launchfree.io/listings/polite-renewal-agent.html): Period ending. JSON in; renewal pack out. $29 once (Service).
-- [Polite Receipt Agent](https://launchfree.io/listings/polite-receipt-agent.html): Payment cleared. JSON in; receipt pack out (SaaS).
-- [Polite Milestone Agent](https://launchfree.io/listings/polite-milestone-agent.html): Phase complete. Approve the next phase (SaaS).
-- [Polite Kickoff](https://launchfree.io/listings/polite-kickoff.html): Kickoff after the deposit clears (SaaS).
-- [Polite Hold Agent](https://launchfree.io/listings/polite-hold-agent.html): Engagement paused. JSON in; hold pack out (SaaS).
-- [Pinpoint Inc](https://launchfree.io/listings/pinpoint-inc.html): De-escalation Technology (Other).
-- [Photoshoot.app](https://launchfree.io/listings/photoshoot-app.html): Reference-led AI product and fashion photography (AI / ML).
-- [Page Zero Desk](https://launchfree.io/listings/page-zero-desk.html): ChatGPT and Midjourney slot cards for writers, artists, and designers (Creator Tools).
-- [Offer Stack Worksheet](https://launchfree.io/listings/offer-stack-worksheet.html): Name a $9 / $19 / $49 offer stack without fake value stacks (Creator Tools).
-- [Nudge: 5 Late Payment Emails (PDF)](https://launchfree.io/listings/nudge-5-late-payment-emails-pdf.html): Five ready-to-send emails for when a freelance invoice is late (Creator Tools).
 
 ## Categories
-- [AI / ML](https://launchfree.io/categories/ai-ml.html): 122 free AI / ML launches.
-- [Productivity](https://launchfree.io/categories/productivity.html): 92 free Productivity launches.
-- [SaaS](https://launchfree.io/categories/saas.html): 76 free SaaS launches.
+- [AI / ML](https://launchfree.io/categories/ai-ml.html): 124 free AI / ML launches.
+- [Productivity](https://launchfree.io/categories/productivity.html): 96 free Productivity launches.
+- [SaaS](https://launchfree.io/categories/saas.html): 78 free SaaS launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 67 free E-commerce launches.
-- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 60 free Developer Tools launches.
-- [Creator Tools](https://launchfree.io/categories/creator-tools.html): 51 free Creator Tools launches.
-- [Marketing](https://launchfree.io/categories/marketing.html): 39 free Marketing launches.
+- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 61 free Developer Tools launches.
+- [Creator Tools](https://launchfree.io/categories/creator-tools.html): 52 free Creator Tools launches.
+- [Marketing](https://launchfree.io/categories/marketing.html): 40 free Marketing launches.
 - [Fintech](https://launchfree.io/categories/fintech.html): 37 free Fintech launches.
-- [Education](https://launchfree.io/categories/education.html): 31 free Education launches.
-- [Service](https://launchfree.io/categories/service.html): 27 free Service launches.
+- [Education](https://launchfree.io/categories/education.html): 32 free Education launches.
+- [Service](https://launchfree.io/categories/service.html): 29 free Service launches.
 - [Entertainment](https://launchfree.io/categories/entertainment.html): 26 free Entertainment launches.
 - [Health](https://launchfree.io/categories/health.html): 24 free Health launches.
 - [Other](https://launchfree.io/categories/other.html): 22 free Other launches.
