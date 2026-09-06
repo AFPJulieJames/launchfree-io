@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 711 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 725 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -19,6 +19,20 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Disclaimer](https://launchfree.io/disclaimer.html): Site disclaimer for LaunchFree.io.
 
 ## Recent launches
+- [UGC Rights Renewal Desk](https://launchfree.io/listings/ugc-rights-renewal-desk.html): Get paid when brands keep running your work (SaaS).
+- [ShopGaps](https://launchfree.io/listings/shopgaps.html): Find missing images, SKUs, and prices in catalogs (E-commerce).
+- [SayCraft](https://launchfree.io/listings/saycraft.html): Turn your product meeting into a working prototype (Developer Tools).
+- [RoyaleTools](https://launchfree.io/listings/royaletools.html): Free Clash Royale Daily Brief, decks, and tools (Entertainment).
+- [Peptide Cosmetics Decoder](https://launchfree.io/listings/peptide-cosmetics-decoder.html): Read peptide INCI labels on cosmetic serums, not slogans (Education).
+- [Nethaven](https://launchfree.io/listings/nethaven.html): Budgets, investments and net worth in one app for iOS, Android and web (Fintech).
+- [IDPhoto.ai](https://launchfree.io/listings/idphoto-ai.html): ID Photo API for passport, visa & ID photos (Developer Tools).
+- [Humanleap](https://launchfree.io/listings/humanleap.html): AI agents that run socials, site, search & enquiries for UK SMBs, £500/mo (Marketing).
+- [HJcyberX Plugins](https://launchfree.io/listings/hjcyberx-plugins.html): WordPress and WooCommerce plugins by HJcyberX (E-commerce).
+- [HJcyberX Blog](https://launchfree.io/listings/hjcyberx-blog.html): Practical cybersecurity tips, tools, and guides from HJcyberX (Education).
+- [Ghostnonce](https://launchfree.io/listings/ghostnonce.html): One-shot Solana durable-nonce inventory for multisig signers. 49/79 USDC (Developer Tools).
+- [FindAffiliates](https://launchfree.io/listings/findaffiliates.html): Find and compare affiliate programs fast (Marketing).
+- [ClientReply](https://launchfree.io/listings/clientreply.html): Paste sticky client email → 3 calibrated replies (Productivity).
+- [City Calculator Tool](https://launchfree.io/listings/city-calculator-tool.html): Know what it's like to live in a City, Financially (SaaS).
 - [ZnowPulse](https://launchfree.io/listings/znowpulse.html): Monitor services and communicate incidents clearly (SaaS).
 - [Yellowcell Excel Templates](https://launchfree.io/listings/yellowcell-excel-templates.html): One-time Excel money templates for freelancers, invoice, budget, debt, free mileage log (Productivity).
 - [WakeMark](https://launchfree.io/listings/wakemark.html): Wake up your X bookmarks (Productivity).
@@ -105,33 +119,19 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Page Zero Desk](https://launchfree.io/listings/page-zero-desk.html): ChatGPT and Midjourney slot cards for writers, artists, and designers (Creator Tools).
 - [Offer Stack Worksheet](https://launchfree.io/listings/offer-stack-worksheet.html): Name a $9 / $19 / $49 offer stack without fake value stacks (Creator Tools).
 - [Nudge: 5 Late Payment Emails (PDF)](https://launchfree.io/listings/nudge-5-late-payment-emails-pdf.html): Five ready-to-send emails for when a freelance invoice is late (Creator Tools).
-- [NexageApps](https://launchfree.io/listings/nexageapps.html): Privacy-first apps. No cloud account required (Other).
-- [NeoGress AI](https://launchfree.io/listings/neogress-ai.html): AI-powered website builder for global business growth (AI / ML).
-- [MustSee](https://launchfree.io/listings/mustsee.html): Numbered directory for new product launches (SaaS).
-- [Money Clarity Co](https://launchfree.io/listings/money-clarity-co.html): Plain personal-finance spreadsheets you actually own (Fintech).
-- [LWS Tech](https://launchfree.io/listings/lws-tech.html): Lone Worker Safety Solutions for Modern Workforces (SaaS).
-- [IPVIZO](https://launchfree.io/listings/ipvizo.html): Premium Streaming for Modern TV Devices (Entertainment).
-- [Ipek](https://launchfree.io/listings/ipek.html): Turn repetitive data tasks into workflows you own (Productivity).
-- [Imgbulk](https://launchfree.io/listings/imgbulk.html): Create ecommerce product visuals at batch scale (Creator Tools).
-- [HERISM](https://launchfree.io/listings/herism.html): Skincare on a thousand-night horizon (Health).
-- [GetMentionedByAI](https://launchfree.io/listings/getmentionedbyai.html): Discover and compare AI visibility, AEO, and GEO tools (Marketing).
-- [EinfachAI](https://launchfree.io/listings/einfachai.html): AI automation and Shopware development for e-commerce brands (AI / ML).
-- [DeepSeek-V4.io](https://launchfree.io/listings/deepseek-v4-io.html): Independent DeepSeek chat, API gateway, and agent guides (AI / ML).
-- [Cordlytic](https://launchfree.io/listings/cordlytic.html): One calm control room for Discord communities (Community).
-- [Competitor Teardown Template](https://launchfree.io/listings/competitor-teardown-template.html): 90-minute teardown that ships three original landing sentences (Creator Tools).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 122 free AI / ML launches.
-- [Productivity](https://launchfree.io/categories/productivity.html): 91 free Productivity launches.
-- [SaaS](https://launchfree.io/categories/saas.html): 74 free SaaS launches.
-- [E-commerce](https://launchfree.io/categories/e-commerce.html): 65 free E-commerce launches.
-- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 57 free Developer Tools launches.
+- [Productivity](https://launchfree.io/categories/productivity.html): 92 free Productivity launches.
+- [SaaS](https://launchfree.io/categories/saas.html): 76 free SaaS launches.
+- [E-commerce](https://launchfree.io/categories/e-commerce.html): 67 free E-commerce launches.
+- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 60 free Developer Tools launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 51 free Creator Tools launches.
-- [Marketing](https://launchfree.io/categories/marketing.html): 37 free Marketing launches.
-- [Fintech](https://launchfree.io/categories/fintech.html): 36 free Fintech launches.
-- [Education](https://launchfree.io/categories/education.html): 29 free Education launches.
+- [Marketing](https://launchfree.io/categories/marketing.html): 39 free Marketing launches.
+- [Fintech](https://launchfree.io/categories/fintech.html): 37 free Fintech launches.
+- [Education](https://launchfree.io/categories/education.html): 31 free Education launches.
 - [Service](https://launchfree.io/categories/service.html): 27 free Service launches.
-- [Entertainment](https://launchfree.io/categories/entertainment.html): 25 free Entertainment launches.
+- [Entertainment](https://launchfree.io/categories/entertainment.html): 26 free Entertainment launches.
 - [Health](https://launchfree.io/categories/health.html): 24 free Health launches.
 - [Other](https://launchfree.io/categories/other.html): 22 free Other launches.
 - [Lifestyle](https://launchfree.io/categories/lifestyle.html): 21 free Lifestyle launches.
