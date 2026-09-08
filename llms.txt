@@ -31,7 +31,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Pocket Screen](https://launchfree.io/listings/pocket-screen.html): Keep your reference in view without switching windows (Productivity).
 - [PepLedger – Peptide Tracker](https://launchfree.io/listings/pepledger-peptide-tracker.html): Never miss a dose. See what's still active (Health).
 - [Orkas](https://launchfree.io/listings/orkas.html): Open-source, local-first desktop AI workforce (AI / ML).
-- [Ops — Freelance Money & Client Workbook](https://launchfree.io/listings/ops-freelance-money-and-client-workbook.html): One workbook for invoices, expenses, rates, clients, and time (Fintech).
+- [Ops: Freelance Money & Client Workbook](https://launchfree.io/listings/ops-freelance-money-and-client-workbook.html): One workbook for invoices, expenses, rates, clients, and time (Fintech).
 - [OpenPDF Hub](https://launchfree.io/listings/openpdf-hub.html): Free PDF tools in your browser. Private (Productivity).
 - [Occasion Desk Pro](https://launchfree.io/listings/occasion-desk-pro.html): Pretty birthday and gift-notes desk. Free for 5 people (Lifestyle).
 - [NextlerAI Publisher](https://launchfree.io/listings/nextlerai-publisher.html): AI research, writing, SEO and publishing automation for WordPress (AI / ML).
@@ -93,7 +93,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [ShopGaps](https://launchfree.io/listings/shopgaps.html): Find missing images, SKUs, and prices in catalogs (E-commerce).
 - [SayCraft](https://launchfree.io/listings/saycraft.html): Turn your product meeting into a working prototype (Developer Tools).
 - [RoyaleTools](https://launchfree.io/listings/royaletools.html): Free Clash Royale Daily Brief, decks, and tools (Entertainment).
-- [Pitch — New Client Proposal Template (PDF)](https://launchfree.io/listings/pitch-new-client-proposal-template-pdf.html): Fill-in freelance proposal after a discovery call (Service).
+- [Pitch: New Client Proposal Template (PDF)](https://launchfree.io/listings/pitch-new-client-proposal-template-pdf.html): Fill-in freelance proposal after a discovery call (Service).
 - [Peptide Cosmetics Decoder](https://launchfree.io/listings/peptide-cosmetics-decoder.html): Read peptide INCI labels on cosmetic serums, not slogans (Education).
 - [Ops Control HQ](https://launchfree.io/listings/ops-control-hq.html): Run operations from exceptions, not averages (Productivity).
 - [One Custom Song](https://launchfree.io/listings/one-custom-song.html): Personalized AI songs, lyric posters, and music videos from any memory or love n (AI / ML).

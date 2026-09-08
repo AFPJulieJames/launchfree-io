@@ -128,6 +128,11 @@ def directory_page():
 
     s = re.sub(r"all \d+ free, human-reviewed launches", "all %d free, human-reviewed launches" % TOTAL, s)
     s = re.sub(r"all \d+ free, human-reviewed", "all %d free, human-reviewed" % TOTAL, s)
+    # plain <meta name="description"> uses "directory: N free, human-reviewed launches", a different
+    # shape than the "all N free, human-reviewed" pattern above, so it needs its own rule or it silently
+    # drifts (caught by the 2026-09-08 audit: this line was still stamped 629 while every other surface
+    # said 808).
+    s = re.sub(r"(directory: )\d+( free, human-reviewed launches)", r"\g<1>%d\g<2>" % TOTAL, s, count=1)
     s = re.sub(r"directory of \d+ free launches", "directory of %d free launches" % TOTAL, s)
     s = re.sub(r"<title>Browse All \d+ Launches", "<title>Browse All %d Launches" % TOTAL, s)
     s = re.sub(r'<p class="meta">\d+ live launches across \d+ categories',
