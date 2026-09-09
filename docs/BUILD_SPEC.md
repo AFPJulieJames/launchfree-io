@@ -167,25 +167,50 @@ new pages. We do not rewrite history and break links to make a list look tidy.
 Before anything is built, open every submitted URL live and judge it. Record one line per
 submission: **Approve**, **Review**, or **Reject**, plus the reason.
 
-**Approve** when the URL loads, the product is real and usable, and the submission describes what
-is actually there.
+LaunchFree exists because every other free-launch queue paywalled or gatekept its founder. The
+default is to approve. A submission does not need to be polished, ambitious, or software in the
+traditional sense to belong here: a single-purpose calculator, a digital template or kit sold on
+Gumroad or Payhip, a portfolio of creative or design work, a freelancer or agency's own service
+page, a one-page tool, all of these are real things someone built and get approved on the same
+terms as anything else. The test is not "is this impressive" or "is this a SaaS company." The test
+is: does something real exist at this URL that a visitor can see, use, download, or buy, and does
+the submission describe it honestly. If yes, approve it.
+
+**Approve** when the URL loads, something real exists there (a working tool, a purchasable
+product, a usable service, a body of creative work, a functioning page for a real business), and
+the submission describes what is actually there. This explicitly includes thin or simple
+single-purpose tools, templates and digital kits, art and portfolio work, and agency, freelancer,
+or service pages. How small or how commercial the thing is does not matter. A product that accepts
+payment in crypto (USDC, Solana, etc.) is judged like any other: is the product itself real and
+usable. Paying in crypto is not the same thing as the product being a crypto investment scheme.
 
 **Reject** for any of:
 
-- Dead link, parked domain, empty page, or a login wall with nothing behind it
+- Dead link, parked domain, completely empty page, or a login wall with nothing behind it
 - Fraud or terms-of-service violation: OTP or verification bypass, reselling other people's AI or
   software subscriptions, account trading
-- Crypto tokens, coins, or investment schemes
+- Crypto tokens, coins, presales, or investment schemes where the token or coin itself is the
+  product being sold
 - Deceptive claims, fake testimonials, invented metrics
 - Anything unsafe involving minors
-- Not a product: a blank template, a personal blog post, an affiliate landing page with no product
+- Completely empty: no product, no page, nothing a visitor can point to (this is now a narrow
+  category; a thin or simple offering is not the same as nothing existing)
+
+There is no separate reject category for a type of app or business model (reward apps,
+pay-per-task apps, marketplaces, resellers, and so on). Judge the specific submission against the
+criteria above. A pattern that is sometimes associated with scams elsewhere is not, on its own, a
+reason to reject a specific listing that does not itself show fraud, dead links, or deceptive
+claims.
 
 **Review** when it is fixable and worth an email: the URL is not live yet, the same builder
-submitted the same product twice, a trademark problem, or the listing needs one clarification.
-Send the review email and hold the submission. Do not build it.
+submitted the same product twice, a trademark problem, or the listing needs one factual
+clarification (for example, the copy claims a feature the live product does not show). Send the
+review email and hold the submission. Do not build it.
 
 Duplicate submissions of the same product collapse to one listing. One builder submitting several
-genuinely different products is fine, and each is judged on its own.
+genuinely different products is fine, and each is judged on its own, even if the products share a
+similar business model (for example, two different pay-to-rank marketplaces for two different
+things are two separate listings, not duplicates).
 
 **Only confirmed Approves get built.**
 
