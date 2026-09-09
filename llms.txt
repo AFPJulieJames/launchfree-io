@@ -35,7 +35,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [SocialEcho](https://launchfree.io/listings/socialecho.html): AI social media workspace for teams managing multiple brands (Marketing).
 - [Signal Brief](https://launchfree.io/listings/signal-brief.html): 5 new AI tools for B2B SaaS product managers, every weekday morning (AI / ML).
 - [Show Up: AI Fitness Coach](https://launchfree.io/listings/show-up-ai-fitness-coach.html): The AI fitness coach built to keep you consistent (Health).
-- [ShiftProof](https://launchfree.io/listings/shiftproof.html): Offline California RN CE certificate organizer—one payment, no subscription (Health).
+- [ShiftProof](https://launchfree.io/listings/shiftproof.html): Offline California RN CE certificate organizer, one payment, no subscription (Health).
 - [Servicekosten Afrekening](https://launchfree.io/listings/servicekosten-afrekening.html): Lichte jaarafrekening servicekosten voor NL verhuurders (1-20 units) (SaaS).
 - [SD AI Studio](https://launchfree.io/listings/sd-ai-studio.html): Cinematic AI video creation with sound, references, motion, and edits (AI / ML).
 - [SayFurther](https://launchfree.io/listings/sayfurther.html): Zero-sugar electrolyte sticks in 500, 200 and 60 mg (Health).
@@ -91,7 +91,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Craftvia](https://launchfree.io/listings/craftvia.html): Minecraft resources and creators, in one clean marketplace (SaaS).
 - [Cogniq](https://launchfree.io/listings/cogniq.html): Practical AI built to be lightweight, accessible, and useful (AI / ML).
 - [Cloud AI Masterclass](https://launchfree.io/listings/cloud-ai-masterclass.html): Master AI & Cloud Development with AWS, Azure & AI Agents (AI / ML).
-- [CloseReady OS](https://launchfree.io/listings/closeready-os.html): Intake + monthly ask kit for solo bookkeepers — stop chasing bank statements (Fintech).
+- [CloseReady OS](https://launchfree.io/listings/closeready-os.html): Intake + monthly ask kit for solo bookkeepers, stop chasing bank statements (Fintech).
 - [City Weekend Spot](https://launchfree.io/listings/city-weekend-spot.html): New York weekend venues ranked by paid placement (Travel).
 - [ccleaks.com](https://launchfree.io/listings/ccleaks-com.html): Claim-checked AI supply-chain incident coverage (AI / ML).
 - [CardURL OG debugger](https://launchfree.io/listings/cardurl-og-debugger.html): Free Open Graph debugger. Paste a page, see title, description, and card preview (SaaS).
@@ -106,7 +106,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Boxping](https://launchfree.io/listings/boxping.html): Pay-per-request ocean container JSON (Developer Tools).
 - [BlueTicks for Gmail](https://launchfree.io/listings/blueticks-for-gmail.html): WhatsApp style blue ticks in your Gmail sent list: sent, then opened (Productivity).
 - [Balloon Party Box](https://launchfree.io/listings/balloon-party-box.html): NZ balloon arrangements, garlands, and decorative arches for parties and events (Entertainment).
-- [Avinash Singh — Portfolio](https://launchfree.io/listings/avinash-singh-portfolio.html): Full-stack portfolio from Delhi — Next.js, React Native, TypeScript & free tools (Developer Tools).
+- [Avinash Singh: Portfolio](https://launchfree.io/listings/avinash-singh-portfolio.html): Full-stack portfolio from Delhi, Next.js, React Native, TypeScript & free tools (Developer Tools).
 - [AutoM3U](https://launchfree.io/listings/autom3u.html): Build reliable custom M3U playlists from monitored live TV sources (Productivity).
 - [Attested Memory](https://launchfree.io/listings/attested-memory.html): Signed memory that survives context rot, not another chat log (Developer Tools).
 - [ARMCP – Portal & Games](https://launchfree.io/listings/armcp-portal-and-games.html): Crypto data, Web3 tools, community and games in one Android app (Fintech).

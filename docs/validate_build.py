@@ -58,6 +58,17 @@ except Exception as e:
     print(f"ERROR  listings.json is not valid JSON: {e}")
     sys.exit(1)
 
+# An em dash in name/tagline gets stamped verbatim into directory.html and category cards by
+# regen_indexes.py, which the listings/*.html body-copy scan below never looks at. Catch it here,
+# at the source, instead of relying on that scan to (sometimes) catch it indirectly. Added
+# 2026-09-09 after a run found two records whose listing pages were hand-cleaned to a comma but
+# whose listings.json tagline still held the em dash, silently reappearing on directory/category
+# cards that the listing-page scan cannot see.
+for r in data:
+    for field in ("name", "tagline"):
+        if "—" in (r.get(field) or ""):
+            warn(f"{r['slug']}: em dash in {field} (renders as body copy in directory/category cards)")
+
 slugs = [r.get("slug") for r in data]
 dupes = [s for s, n in Counter(slugs).items() if n > 1]
 if dupes:
