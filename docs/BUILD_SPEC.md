@@ -183,6 +183,11 @@ single-purpose tools, templates and digital kits, art and portfolio work, and ag
 or service pages. How small or how commercial the thing is does not matter. A product that accepts
 payment in crypto (USDC, Solana, etc.) is judged like any other: is the product itself real and
 usable. Paying in crypto is not the same thing as the product being a crypto investment scheme.
+A real, live waitlist or coming-soon page also counts: if the URL loads a genuine signup page that
+honestly describes what is coming, tag it Stage = Coming Soon and approve it the same as a shipped
+product. A visitor can see it and act on it today, which is the bar. This is different from a
+submission where nothing loads at all, or where the only way to see the product is to build it
+yourself from source; those stay Review, below.
 
 **Reject** for any of:
 
@@ -202,10 +207,12 @@ criteria above. A pattern that is sometimes associated with scams elsewhere is n
 reason to reject a specific listing that does not itself show fraud, dead links, or deceptive
 claims.
 
-**Review** when it is fixable and worth an email: the URL is not live yet, the same builder
-submitted the same product twice, a trademark problem, or the listing needs one factual
-clarification (for example, the copy claims a feature the live product does not show). Send the
-review email and hold the submission. Do not build it.
+**Review** when it is fixable and worth an email: nothing real loads at the URL at all (no
+page, a blank shell, a repo with no live page you'd have to build from source yourself), the same
+builder submitted the same product twice, a trademark problem, or the listing needs one factual
+clarification (for example, the copy claims a feature the live product does not show). A live
+waitlist or coming-soon page is not this case; see Approve above. Send the review email and hold
+the submission. Do not build it.
 
 Duplicate submissions of the same product collapse to one listing. One builder submitting several
 genuinely different products is fine, and each is judged on its own, even if the products share a

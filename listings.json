@@ -16222,5 +16222,21 @@
   "slug": "uk-cv-template-pack",
   "date": "2026-09-10",
   "mrr": ""
+ },
+ {
+  "id": "zoro",
+  "name": "ZORO",
+  "tagline": "Agentic trading for stocks & crypto",
+  "desc": "ZORO is an agentic trading platform. AI that trades with you across stocks, crypto, and bitcoin. Built for traders who want product and market signal…",
+  "emoji": "Z",
+  "logo": "",
+  "cat": "Fintech",
+  "url": "https://ZORO.TRADE",
+  "stage": "Coming Soon",
+  "votes": 0,
+  "featured": false,
+  "slug": "zoro",
+  "date": "2026-09-10",
+  "mrr": ""
  }
 ]

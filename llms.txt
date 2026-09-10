@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1014 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1015 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -19,6 +19,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Disclaimer](https://launchfree.io/disclaimer.html): Site disclaimer for LaunchFree.io.
 
 ## Recent launches
+- [ZORO](https://launchfree.io/listings/zoro.html): Agentic trading for stocks & crypto (Fintech).
 - [X Video Downloader](https://launchfree.io/listings/x-video-downloader.html): Download public X and Twitter videos in HD MP4 or MP3, free, no login (Other).
 - [Web security scanner](https://launchfree.io/listings/web-security-scanner.html): Free website security scanner for businesses (Creator Tools).
 - [ViralSpark](https://launchfree.io/listings/viralspark.html): Drop your link. Let the internet share it for you (Marketing).
@@ -118,7 +119,6 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [PROJECT LEGEND AI Launchboard](https://launchfree.io/listings/project-legend-ai-launchboard.html): An AI-run public challenge to earn its first dollar (AI / ML).
 - [Pricing Ladder Worksheet](https://launchfree.io/listings/pricing-ladder-worksheet.html): One-time vs monthly pricing you can defend (Creator Tools).
 - [PreyReach](https://launchfree.io/listings/preyreach.html): AI local business prospecting for web and marketing agencies (AI / ML).
-- [Pouch Free](https://launchfree.io/listings/pouch-free.html): Quit nicotine pouches with Money Vault & Wait taper (Health).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 184 free AI / ML launches.
@@ -128,8 +128,8 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 74 free E-commerce launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 72 free Creator Tools launches.
 - [Marketing](https://launchfree.io/categories/marketing.html): 57 free Marketing launches.
+- [Fintech](https://launchfree.io/categories/fintech.html): 48 free Fintech launches.
 - [Service](https://launchfree.io/categories/service.html): 48 free Service launches.
-- [Fintech](https://launchfree.io/categories/fintech.html): 47 free Fintech launches.
 - [Education](https://launchfree.io/categories/education.html): 42 free Education launches.
 - [Health](https://launchfree.io/categories/health.html): 39 free Health launches.
 - [Entertainment](https://launchfree.io/categories/entertainment.html): 37 free Entertainment launches.
