@@ -13749,7 +13749,7 @@
   "tagline": "Say what you need; freeze Excel and push workflows",
   "desc": "Dianwu.AI Flow turns natural-language asks into frozen Excel and data-push workflows. Built for invoice/bill PDF (including scans) to Excel and similar document-to-table pain. Pricing: Hobby free 30 runs/month; Pro $5/mo",
   "emoji": "F",
-  "logo": "",
+  "logo": "https://dianwu.ai/icon.svg",
   "cat": "AI / ML",
   "url": "https://dianwu.ai",
   "stage": "Live",
