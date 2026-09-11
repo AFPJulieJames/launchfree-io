@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1023 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1033 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -19,6 +19,16 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Disclaimer](https://launchfree.io/disclaimer.html): Site disclaimer for LaunchFree.io.
 
 ## Recent launches
+- [VisitorPing](https://launchfree.io/listings/visitorping.html): Live website visitor dashboard and instant iPhone visitor alerts (SaaS).
+- [ThreadCut](https://launchfree.io/listings/threadcut.html): Turn drafts into threads, LinkedIn posts, and newsletter structure (Productivity).
+- [The Agentic Coding Kit](https://launchfree.io/listings/the-agentic-coding-kit.html): A senior engineer's AI coding setup for Claude Code & Cursor (Developer Tools).
+- [SlopSpot Pro](https://launchfree.io/listings/slopspot-pro.html): Chrome extension that highlights AI clichés (Productivity).
+- [ShengYi FAQ Bot](https://launchfree.io/listings/shengyi-faq-bot.html): Bilingual Telegram FAQ bots for course & community admins (Education).
+- [Plainrow](https://launchfree.io/listings/plainrow.html): Offline CSV tools in the browser. Files never leave this computer (Developer Tools).
+- [Next.js SaaS Starter](https://launchfree.io/listings/next-js-saas-starter.html): Open-source Next.js SaaS starter with auth that runs in your own app (Developer Tools).
+- [LocalOps](https://launchfree.io/listings/localops.html): Contractor market packs for agencies and tools (Marketing).
+- [LinkedIn About Pack](https://launchfree.io/listings/linkedin-about-pack.html): LinkedIn About templates for a clearer, more compelling profile (Productivity).
+- [InboxArchive](https://launchfree.io/listings/inboxarchive.html): See every email your favorite brands send (Marketing).
 - [ZORO](https://launchfree.io/listings/zoro.html): Agentic trading for stocks & crypto (Fintech).
 - [X Video Downloader](https://launchfree.io/listings/x-video-downloader.html): Download public X and Twitter videos in HD MP4 or MP3, free, no login (Other).
 - [Web security scanner](https://launchfree.io/listings/web-security-scanner.html): Free website security scanner for businesses (Creator Tools).
@@ -109,28 +119,18 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Show Up: AI Fitness Coach](https://launchfree.io/listings/show-up-ai-fitness-coach.html): The AI fitness coach built to keep you consistent (Health).
 - [Shopify Prompt Ops: 117 bilingual prompts for Shopify mercha](https://launchfree.io/listings/shopify-prompt-ops-117-bilingual-prompts-for-shopify-mercha.html): 117 ES+EN prompts for Shopify product copy, ads, email, SEO & more (E-commerce).
 - [ShiftProof](https://launchfree.io/listings/shiftproof.html): Offline California RN CE certificate organizer, one payment, no subscription (Health).
-- [Servicekosten Afrekening](https://launchfree.io/listings/servicekosten-afrekening.html): Lichte jaarafrekening servicekosten voor NL verhuurders (1-20 units) (SaaS).
-- [SD AI Studio](https://launchfree.io/listings/sd-ai-studio.html): Cinematic AI video creation with sound, references, motion, and edits (AI / ML).
-- [ScanMind](https://launchfree.io/listings/scanmind.html): Scan, organize, search, and share medical records privately on iPhone (Health).
-- [SayFurther](https://launchfree.io/listings/sayfurther.html): Zero-sugar electrolyte sticks in 500, 200 and 60 mg (Health).
-- [RiadIntel](https://launchfree.io/listings/riadintel.html): Medina riad district research for investors (Other).
-- [ReUGC](https://launchfree.io/listings/reugc.html): Ready-made reaction clips for product demos and social ads (Creator Tools).
-- [ResumeRank Pro](https://launchfree.io/listings/resumerank-pro.html): AI resume ranking, score batches vs job description (SaaS).
-- [Rental Turnover Checklist Kit](https://launchfree.io/listings/rental-turnover-checklist-kit.html): Inspection to ready-to-rent turnover workflow for hosts and property managers (Service).
-- [Remote Jobs](https://launchfree.io/listings/remote-jobs.html): A focused board for discovering and publishing remote work opportunities (Service).
-- [RefillPanel](https://launchfree.io/listings/refillpanel.html): Affordable Social Media Marketing Services (Marketing).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 186 free AI / ML launches.
-- [Productivity](https://launchfree.io/categories/productivity.html): 132 free Productivity launches.
-- [SaaS](https://launchfree.io/categories/saas.html): 109 free SaaS launches.
-- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 81 free Developer Tools launches.
+- [Productivity](https://launchfree.io/categories/productivity.html): 135 free Productivity launches.
+- [SaaS](https://launchfree.io/categories/saas.html): 110 free SaaS launches.
+- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 84 free Developer Tools launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 74 free E-commerce launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 72 free Creator Tools launches.
-- [Marketing](https://launchfree.io/categories/marketing.html): 58 free Marketing launches.
+- [Marketing](https://launchfree.io/categories/marketing.html): 60 free Marketing launches.
 - [Fintech](https://launchfree.io/categories/fintech.html): 48 free Fintech launches.
 - [Service](https://launchfree.io/categories/service.html): 48 free Service launches.
-- [Education](https://launchfree.io/categories/education.html): 44 free Education launches.
+- [Education](https://launchfree.io/categories/education.html): 45 free Education launches.
 - [Health](https://launchfree.io/categories/health.html): 39 free Health launches.
 - [Entertainment](https://launchfree.io/categories/entertainment.html): 37 free Entertainment launches.
 - [Other](https://launchfree.io/categories/other.html): 33 free Other launches.
