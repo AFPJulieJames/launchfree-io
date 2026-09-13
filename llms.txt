@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1149 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1150 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -23,6 +23,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [ToolSphare](https://launchfree.io/listings/toolsphare.html): 463+ free PDF, image, text & developer tools, no signup (Developer Tools).
 - [Tokenized](https://launchfree.io/listings/tokenized.html): Compare tokenized stocks, stablecoins and commodities (Fintech).
 - [StoreRadar](https://launchfree.io/listings/storeradar.html): Matched Shopify stores for B2B growth (E-commerce).
+- [SoloPro](https://launchfree.io/listings/solopro.html): See your real profit after expenses and taxes, without the spreadsheets (SaaS).
 - [Sheetshot](https://launchfree.io/listings/sheetshot.html): A screenshot of a table should just be a spreadsheet (SaaS).
 - [Shareholder Resolution Generator](https://launchfree.io/listings/shareholder-resolution-generator.html): Free shareholder resolution generator for UAE company changes & banks (Service).
 - [SayVocal](https://launchfree.io/listings/sayvocal.html): Compare AI voices and text-to-speech outputs before choosing a voice (AI / ML).
@@ -118,12 +119,11 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [The Agentic Coding Kit](https://launchfree.io/listings/the-agentic-coding-kit.html): A senior engineer's AI coding setup for Claude Code & Cursor (Developer Tools).
 - [Solopreneur P&L + Tax Set-Aside](https://launchfree.io/listings/solopreneur-p-and-l-tax-set-aside.html): Two free workbooks. See the month. Park the quarter (Productivity).
 - [SlopSpot Pro](https://launchfree.io/listings/slopspot-pro.html): Chrome extension that highlights AI clichés (Productivity).
-- [Short.now](https://launchfree.io/listings/short-now.html): Turn long videos into viral shorts with AI (AI / ML).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 203 free AI / ML launches.
 - [Productivity](https://launchfree.io/categories/productivity.html): 164 free Productivity launches.
-- [SaaS](https://launchfree.io/categories/saas.html): 128 free SaaS launches.
+- [SaaS](https://launchfree.io/categories/saas.html): 129 free SaaS launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 91 free Developer Tools launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 82 free Creator Tools launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 79 free E-commerce launches.
