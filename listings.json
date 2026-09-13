@@ -16467,7 +16467,7 @@
     "id": "plainrow",
     "name": "Plainrow",
     "tagline": "Offline CSV tools in the browser. Files never leave this computer.",
-    "desc": "A client trusts you with their files. You cannot upload their CSV. On Monday you need to put warehouse stock on every catalog product, keeping blank stock as is and clearing out leftovers, all on this computer. Lite handles the free version of that join: two files, stack, and dedupe. Kitchen goes further for a one-time $19, and Polar emails you the finished zip. You get the sheet back without ever uploading it.",
+    "desc": "A client trusts you with their files. You cannot upload their CSV. On Monday you need to put warehouse stock on every catalog product, keeping blank stock as is and clearing out leftovers, all on this computer. Lite cannot do that join. Lite is free for two files: stack and dedupe. Kitchen handles that join for a one-time $19, and Polar emails you the finished zip. You get the sheet back without ever uploading it.",
     "emoji": "P",
     "logo": "",
     "cat": "Developer Tools",
