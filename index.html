@@ -185,6 +185,10 @@ footer{padding:34px 5%;border-top:1px solid var(--card-border);background:var(--
 .radar-banner-inner{flex-direction:column;align-items:flex-start;gap:14px;}
 }
 @media(max-width:480px){.hero{padding:56px 5% 46px}.grid{grid-template-columns:1fr}}
+.jl-rail-wrap{max-width:1200px;margin:0 auto 8px;padding:0 5%;}
+.jl-rail{display:flex;gap:14px;overflow-x:auto;padding:4px 2px 14px;scroll-snap-type:x proximity;}
+.jl-rail .card{min-width:270px;max-width:270px;scroll-snap-align:start;}
+.grid-label{margin:18px 0 10px;}
 </style>
 </head>
 <body>
@@ -225,6 +229,18 @@ footer{padding:34px 5%;border-top:1px solid var(--card-border);background:var(--
 <div class="stat"><span class="stat-n">$0</span><span class="stat-l">Cost to list</span></div>
 <div class="stat"><span class="stat-n">24h</span><span class="stat-l">Avg. review time</span></div>
 <div class="stat"><span class="stat-n">∞</span><span class="stat-l">Always free</span></div>
+</div>
+</section>
+<section class="section nl-section" id="newsletter">
+<div class="si">
+<div class="nl-box fade-up">
+<div class="nl-icon">✉️</div>
+<div class="s-label" style="text-align:center;margin-bottom:8px;">The Runway Radar</div>
+<h2>The week's best launches.<br>Every Tuesday.</h2>
+<p>Fresh launches from builders and founders, curated weekly and delivered free. No noise. Just the launches worth knowing about.</p>
+<div class="nl-embed"><script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="685923a3-d228-4633-ada4-b4d19b3766f1"></script></div>
+<p class="nl-meta">Free. No spam. Unsubscribe anytime. Powered by Beehiiv.</p>
+</div>
 </div>
 </section>
 <div class="ticker" aria-hidden="true">
@@ -287,18 +303,11 @@ footer{padding:34px 5%;border-top:1px solid var(--card-border);background:var(--
 </div>
 <div id="s-count"></div>
 </div>
-<!-- RUNWAY RADAR BANNER -->
-<div class="radar-banner">
-<div class="radar-banner-inner">
-<div class="radar-banner-icon">📬</div>
-<div class="radar-banner-text">
-<div class="radar-banner-label">The Runway Radar</div>
-<div class="radar-banner-desc">Every Tuesday, the top 5 launches of the week go out to our subscribers. Free to list. Free to be featured.</div>
-</div>
-<a href="submit.html" class="radar-banner-cta">List your launch free ↑</a>
-</div>
-</div>
 <div class="listings-wrap">
+<div class="jl-rail-wrap" id="jl-rail-wrap">
+<div class="s-label">Just landed</div>
+<div class="jl-rail" id="jl-rail"></div>
+</div>
 <div class="l-header">
 <div class="filters" id="filters">
 <button class="fb active" data-f="all">All</button>
@@ -321,11 +330,12 @@ footer{padding:34px 5%;border-top:1px solid var(--card-border);background:var(--
 <button class="sb" data-s="az">A-Z</button>
 </div>
 </div>
+<div class="s-label grid-label" id="grid-label">This week's top 20</div>
 <div class="grid" id="grid">
 <div class="loading-grid"><div class="loading-spinner"></div><p>Loading launches...</p></div>
 </div>
 <div style="text-align:center;margin-top:32px;">
-<a href="directory.html" class="btn-ghost">Browse all launches by category →</a>
+<a href="directory.html" class="btn-ghost">Browse all <span id="browse-all-count"></span> launches by category →</a>
 </div>
 </div>
 <section class="section get-section" id="what-you-get">
@@ -406,18 +416,6 @@ footer{padding:34px 5%;border-top:1px solid var(--card-border);background:var(--
 </div>
 </div>
 </section>
-<section class="section nl-section" id="newsletter">
-<div class="si">
-<div class="nl-box fade-up">
-<div class="nl-icon">✉️</div>
-<div class="s-label" style="text-align:center;margin-bottom:8px;">The Runway Radar</div>
-<h2>The week's best launches.<br>Every Tuesday.</h2>
-<p>Fresh launches from builders and founders, curated weekly and delivered free. No noise. Just the launches worth knowing about.</p>
-<div class="nl-embed"><script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="685923a3-d228-4633-ada4-b4d19b3766f1"></script></div>
-<p class="nl-meta">Free. No spam. Unsubscribe anytime. Powered by Beehiiv.</p>
-</div>
-</div>
-</section>
 <footer>
 <div class="footer-in">
 <div><div class="f-logo">LaunchFree<span>.io</span></div><div class="f-tag">Every launch needs a runway. Yours is free.</div></div>
@@ -464,8 +462,24 @@ let votes=JSON.parse(localStorage.getItem('lf_vc3')||'null')||{};
 const SBURL='https://klsfvbmqlmmsdnfvoiqw.supabase.co';
 const SBKEY='sb_publishable_5Rha8OReRiQdZlpwE8GNeA_SMcR8BQ_';
 let liveVotes={};
+let weeklyVotes={};
+const JUST_LANDED_COUNT=8;
 async function loadLiveVotes(){try{const r=await fetch(SBURL+'/rest/v1/launch_votes?select=slug,votes&limit=1000',{headers:{apikey:SBKEY}});const rows=await r.json();liveVotes={};if(Array.isArray(rows))rows.forEach(x=>{liveVotes[x.slug]=x.votes;});}catch(_){}}
+async function fetchWeeklyVotes(){try{const r=await fetch(SBURL+'/rest/v1/weekly_leaderboard?select=slug,votes_this_week&limit=500',{headers:{apikey:SBKEY}});const rows=await r.json();weeklyVotes={};if(Array.isArray(rows))rows.forEach(x=>{weeklyVotes[x.slug]=x.votes_this_week;});}catch(_){weeklyVotes={};}}
 function hasVoted(slug){try{return !!localStorage.getItem('lf_vote_'+slug);}catch(_){return false;}}
+function launchDate(l){return l.submitted?new Date(l.submitted):(l.date?new Date(l.date):new Date(0));}
+function getJustLanded(n){return [...LISTINGS].sort((a,b)=>launchDate(b)-launchDate(a)).slice(0,n);}
+function getTopTwenty(excludeSlugs){
+const seen=new Set(excludeSlugs||[]);
+const chosen=[];
+const withWeekly=[...LISTINGS].filter(l=>(weeklyVotes[l.slug]||0)>0&&!seen.has(l.slug)).sort((a,b)=>(weeklyVotes[b.slug]||0)-(weeklyVotes[a.slug]||0));
+for(const l of withWeekly){if(chosen.length>=20)break;chosen.push(l);seen.add(l.slug);}
+if(chosen.length<20){
+const fallback=[...LISTINGS].filter(l=>!seen.has(l.slug)).sort((a,b)=>launchDate(b)-launchDate(a));
+for(const l of fallback){if(chosen.length>=20)break;chosen.push(l);seen.add(l.slug);}
+}
+return chosen;
+}
 let cf='all',cs='',csort='newest';
 /* TRENDING SCORE */
 function trendingScore(l){
@@ -485,7 +499,7 @@ LISTINGS=await res.json();
 console.error('Could not load listings.json',err);
 LISTINGS=[];
 }
-await loadLiveVotes();initVotes();render();
+await Promise.all([loadLiveVotes(),fetchWeeklyVotes()]);initVotes();render();
 }
 function initVotes(){LISTINGS.forEach(l=>{votes[l.id]=(liveVotes[l.slug]!=null?liveVotes[l.slug]:0);});}
 function getSorted(items){
@@ -505,15 +519,8 @@ return mc&&mq;
 });
 return getSorted(filtered);
 }
-function render(){
-const items=getItems();
-if(LISTINGS.length){document.getElementById('stat-count').textContent=LISTINGS.length;}
-document.getElementById('s-count').textContent=cs?`${items.length} result${items.length!==1?'s':''} for "${cs}"`:'' ;
-if(!items.length){
-document.getElementById('grid').innerHTML=`<div class="no-res">No launches found. <a href="submit.html" style="color:var(--runway);">Be the first to list in this category ↑</a></div>`;
-return;
-}
-document.getElementById('grid').innerHTML=items.map(l=>`
+function cardHTML(l){
+return `
 <article class="card" onclick="window.location='listings/${l.slug}.html'" role="button" tabindex="0">
 ${l.featured?'<span class="feat-badge">Featured</span>':''}
 <div class="card-top">
@@ -529,11 +536,44 @@ ${l.featured?'<span class="feat-badge">Featured</span>':''}
 <span class="tag">${l.cat}</span>
 ${l.stage?`<span class="tag tag-stage">${l.stage}</span>`:''}
 ${l.mrr?`<span class="tag tag-mrr">${l.mrr} MRR</span>`:''}
+${weeklyVotes[l.slug]?`<span class="tag tag-mrr">🔥 ${weeklyVotes[l.slug]} this week</span>`:''}
 <a href="${l.url}" target="_blank" rel="noopener" class="card-link" onclick="event.stopPropagation()">Visit ↗</a>
 </div>
 <button class="upvote ${(voted.includes(l.id)||hasVoted(l.slug))?'voted':''}" onclick="upvote(event,'${l.id}','${l.slug}')" aria-label="Upvote ${l.name}">▲ <span id="v${l.id}">${votes[l.id]||0}</span></button>
 </div>
-</article>`).join('');
+</article>`;
+}
+function render(){
+if(LISTINGS.length){document.getElementById('stat-count').textContent=LISTINGS.length;}
+const bac=document.getElementById('browse-all-count');if(bac)bac.textContent=LISTINGS.length;
+const jlWrap=document.getElementById('jl-rail-wrap');
+const gridLabel=document.getElementById('grid-label');
+const sortBar=document.getElementById('sort-bar');
+const homepageMode=(cf==='all'&&!cs);
+
+if(homepageMode){
+if(jlWrap)jlWrap.style.display='';
+if(sortBar)sortBar.style.display='none';
+if(gridLabel)gridLabel.textContent="This week's top 20";
+document.getElementById('s-count').textContent='';
+const jl=getJustLanded(JUST_LANDED_COUNT);
+const jlSlugs=jl.map(l=>l.slug);
+document.getElementById('jl-rail').innerHTML=jl.map(cardHTML).join('');
+const top20=getTopTwenty(jlSlugs);
+document.getElementById('grid').innerHTML=top20.length?top20.map(cardHTML).join(''):`<div class="no-res">Nothing here yet.</div>`;
+return;
+}
+
+if(jlWrap)jlWrap.style.display='none';
+if(sortBar)sortBar.style.display='';
+if(gridLabel)gridLabel.textContent='Results';
+const items=getItems();
+document.getElementById('s-count').textContent=cs?`${items.length} result${items.length!==1?'s':''} for "${cs}"`:'' ;
+if(!items.length){
+document.getElementById('grid').innerHTML=`<div class="no-res">No launches found. <a href="submit.html" style="color:var(--runway);">Be the first to list in this category ↑</a></div>`;
+return;
+}
+document.getElementById('grid').innerHTML=items.map(cardHTML).join('');
 }
 async function upvote(e,id,slug){
 e.stopPropagation();
