@@ -22414,5 +22414,53 @@
   "slug": "riah-swipe",
   "date": "2026-09-17",
   "mrr": ""
+ },
+ {
+  "id": "taijora",
+  "name": "Taijora",
+  "tagline": "AI Bazi charting and interpretation",
+  "desc": "AI Bazi (Chinese Four Pillars of Destiny) charting and interpretation, in Traditional Chinese. Generates a full birth chart with true solar time\u2026",
+  "emoji": "T",
+  "logo": "",
+  "cat": "AI / ML",
+  "url": "https://taijora.com/zh-hant",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "taijora",
+  "date": "2026-09-17",
+  "mrr": ""
+ },
+ {
+  "id": "seenmetric",
+  "name": "SEENMETRIC",
+  "tagline": "AI Visibility and SEO audits with a step by step action plan",
+  "desc": "SEENMETRIC is an AI Visibility and SEO audit service for business websites. It checks how Google and AI assistants find, read and recommend a\u2026",
+  "emoji": "S",
+  "logo": "",
+  "cat": "AI / ML",
+  "url": "https://seenmetric.com.au",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "seenmetric",
+  "date": "2026-09-17",
+  "mrr": ""
+ },
+ {
+  "id": "solo-agent-ops",
+  "name": "Solo Agent Ops",
+  "tagline": "Paid $297 async Workflow Audit for solopreneurs needing a supervised agent path",
+  "desc": "Solo Agent Ops sells a paid async Workflow Audit for $297. After Stripe payment and complete intake, you get a written diagnostic within 48 business\u2026",
+  "emoji": "S",
+  "logo": "",
+  "cat": "AI / ML",
+  "url": "https://solo-agent-ops.pages.dev",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "solo-agent-ops",
+  "date": "2026-09-17",
+  "mrr": ""
  }
 ]

@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1401 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1404 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -23,9 +23,12 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Yield.ly](https://launchfree.io/listings/yield-ly.html): Scan, rank, and inspect crypto yields (Fintech).
 - [webwarheads](https://launchfree.io/listings/webwarheads.html): Stop paying $1,500 for a website. Start with $37 (SaaS).
 - [Vildanden Agent Config Free (Next.js)](https://launchfree.io/listings/vildanden-agent-config-free-next-js.html): Free Next.js App Router AGENTS.md, CLAUDE.md, and scoped Cursor rules (Developer Tools).
+- [Taijora](https://launchfree.io/listings/taijora.html): AI Bazi charting and interpretation (AI / ML).
 - [Supplement Scanner: BioStacks](https://launchfree.io/listings/supplement-scanner-biostacks.html): Scan any supplement. Score it by clinical dose, not brand (Health).
 - [Songifted](https://launchfree.io/listings/songifted.html): Turn personal stories into custom AI song gifts (AI / ML).
+- [Solo Agent Ops](https://launchfree.io/listings/solo-agent-ops.html): Paid $297 async Workflow Audit for solopreneurs needing a supervised agent path (AI / ML).
 - [Soft Focus ADHD Planner](https://launchfree.io/listings/soft-focus-adhd-planner.html): Undated printable ADHD planner for adults: Weekly Big 3 without the shame spiral (Productivity).
+- [SEENMETRIC](https://launchfree.io/listings/seenmetric.html): AI Visibility and SEO audits with a step by step action plan (AI / ML).
 - [Sclerite](https://launchfree.io/listings/sclerite.html): Authorize Windows project folders; ask source-backed questions; see changes, conflicts, and dates (Productivity).
 - [SafeSweep](https://launchfree.io/listings/safesweep.html): Free Windows cleanup. Scan first, review the results, choose what goes (Productivity).
 - [Riah Usage](https://launchfree.io/listings/riah-usage.html): Local dashboard for AI subscription meters: Claude, Cursor, Grok, more (Productivity).
@@ -116,12 +119,9 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [1099 Quarterly Tax Set-Aside Calculator 2026](https://launchfree.io/listings/1099-quarterly-tax-set-aside-calculator-2026.html): Estimate and track quarterly tax set-asides in one Excel workbook (Fintech).
 - [Zoooo: Classic Area Capture](https://launchfree.io/listings/zoooo-classic-area-capture.html): Draw paths, restore art, collect animal cards, free Android casual (Entertainment).
 - [Zinn hub](https://launchfree.io/listings/zinn-hub.html): The Fairer Freelance Marketplace (Service).
-- [Wan AI](https://launchfree.io/listings/wan-ai.html): AI video generator for text to video, image to video, and voiceover-ready creation (Marketing).
-- [Voymira](https://launchfree.io/listings/voymira.html): Fast, free online tools for PDFs, images, text and more (SaaS).
-- [VayoVideo](https://launchfree.io/listings/vayovideo.html): AI manga image & video generator and comic creator (AI / ML).
 
 ## Categories
-- [AI / ML](https://launchfree.io/categories/ai-ml.html): 245 free AI / ML launches.
+- [AI / ML](https://launchfree.io/categories/ai-ml.html): 248 free AI / ML launches.
 - [Productivity](https://launchfree.io/categories/productivity.html): 200 free Productivity launches.
 - [SaaS](https://launchfree.io/categories/saas.html): 162 free SaaS launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 112 free Developer Tools launches.
