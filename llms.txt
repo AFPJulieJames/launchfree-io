@@ -23,6 +23,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Yield.ly](https://launchfree.io/listings/yield-ly.html): Scan, rank, and inspect crypto yields (Fintech).
 - [webwarheads](https://launchfree.io/listings/webwarheads.html): Stop paying $1,500 for a website. Start with $37 (SaaS).
 - [Vildanden Agent Config Free (Next.js)](https://launchfree.io/listings/vildanden-agent-config-free-next-js.html): Free Next.js App Router AGENTS.md, CLAUDE.md, and scoped Cursor rules (Developer Tools).
+- [Vesta Peptides](https://launchfree.io/listings/vesta-peptides.html): Research peptide catalog with documented quality and multi-region fulfillment (E-commerce).
 - [Taijora](https://launchfree.io/listings/taijora.html): AI Bazi charting and interpretation (AI / ML).
 - [Supplement Scanner: BioStacks](https://launchfree.io/listings/supplement-scanner-biostacks.html): Scan any supplement. Score it by clinical dose, not brand (Health).
 - [Songifted](https://launchfree.io/listings/songifted.html): Turn personal stories into custom AI song gifts (AI / ML).
@@ -70,6 +71,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Anyway](https://launchfree.io/listings/anyway.html): Agent-ready payments and billing for global commerce (Fintech).
 - [AnydocAI](https://launchfree.io/listings/anydocai.html): Private browser Markdown converter for PDF, Word, Excel and more (AI / ML).
 - [125 Instagram Captions for Barbers (Swipe File)](https://launchfree.io/listings/125-instagram-captions-for-barbers-swipe-file.html): Ready-to-copy Instagram captions for barbers. Plain English. Swap placeholders a (Marketing).
+- [120 Instagram Captions for UK Local Businesses (Swipe File)](https://launchfree.io/listings/120-instagram-captions-for-uk-local-businesses-swipe-file.html): Ready-to-copy Instagram captions for UK cafes, salons, barbers, gyms and indie shops (Marketing).
 - [Uber Lyft Rideshare Weekly P&L 2026](https://launchfree.io/listings/uber-lyft-rideshare-weekly-p-and-l-2026.html): See weekly rideshare profit and loss clearly with a driver-friendly tracker (Fintech).
 - [Top Proxy](https://launchfree.io/listings/top-proxy.html): Compare proxy providers by price and technical facts (Developer Tools).
 - [Timothy Kane Dev Micro Kits](https://launchfree.io/listings/timothy-kane-dev-micro-kits.html): $4-11 dev kits for API smoke, OpenAPI, rate limits, webhooks & landing pages (Developer Tools).
@@ -117,17 +119,15 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Cupid](https://launchfree.io/listings/cupid.html): Free browser school-romance visual novel you can play in minutes (Entertainment).
 - [Content Creator Income Tracker $12](https://launchfree.io/listings/content-creator-income-tracker-12.html): Track content creator income across multiple platforms in one place (Creator Tools).
 - [Client Ledger Mini](https://launchfree.io/listings/client-ledger-mini.html): Solo freelancer client tracker + first-week pack (€19) (Productivity).
-- [Budy](https://launchfree.io/listings/budy.html): AI POS for dispensaries, coffee shops & restaurants, offline checkout (Productivity).
-- [BillFast](https://launchfree.io/listings/billfast.html): Invoices in under a minute - no accounting bloat (SaaS).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 252 free AI / ML launches.
-- [Productivity](https://launchfree.io/categories/productivity.html): 200 free Productivity launches.
-- [SaaS](https://launchfree.io/categories/saas.html): 162 free SaaS launches.
+- [Productivity](https://launchfree.io/categories/productivity.html): 199 free Productivity launches.
+- [SaaS](https://launchfree.io/categories/saas.html): 161 free SaaS launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 112 free Developer Tools launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 93 free Creator Tools launches.
-- [E-commerce](https://launchfree.io/categories/e-commerce.html): 84 free E-commerce launches.
-- [Marketing](https://launchfree.io/categories/marketing.html): 82 free Marketing launches.
+- [E-commerce](https://launchfree.io/categories/e-commerce.html): 85 free E-commerce launches.
+- [Marketing](https://launchfree.io/categories/marketing.html): 83 free Marketing launches.
 - [Fintech](https://launchfree.io/categories/fintech.html): 71 free Fintech launches.
 - [Service](https://launchfree.io/categories/service.html): 62 free Service launches.
 - [Education](https://launchfree.io/categories/education.html): 61 free Education launches.
