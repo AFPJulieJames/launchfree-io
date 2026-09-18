@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1428 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1430 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -44,8 +44,10 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Printlooper](https://launchfree.io/listings/printlooper.html): Free marketplace for 3D print-on-demand, merch, and maker dropship (E-commerce).
 - [Penscan](https://launchfree.io/listings/penscan.html): cybersecurity, web security, vulnerability scanning, security testing, developer (SaaS).
 - [PDFtoMarkdown.ai](https://launchfree.io/listings/pdftomarkdown-ai.html): PDF to clean Markdown for Claude, ChatGPT, Obsidian, RAG & agents (SaaS).
+- [Paysavo Payments](https://launchfree.io/listings/paysavo-payments.html): Multicurrency wallets, transfers, FX and payments in one platform (Fintech).
 - [OneTribe](https://launchfree.io/listings/onetribe.html): Simple PTO and leave management for growing teams, free for up to 10 seats (Productivity).
 - [notefold](https://launchfree.io/listings/notefold.html): One-file English notes for interviews and daily work (Productivity).
+- [Northvault Workflow Tools](https://launchfree.io/listings/northvault-workflow-tools.html): One-time workflow tools for small-business follow-up and website review (Service).
 - [Meu Contador de Dias](https://launchfree.io/listings/meu-contador-de-dias.html): Free online calculator for calendar days and business days (Productivity).
 - [Math Anon, A Math Tutoring App](https://launchfree.io/listings/math-anon-a-math-tutoring-app.html): Math Tutors For Kids, From The Comfort Of Your Home (Education).
 - [Masung CH572](https://launchfree.io/listings/masung-ch572.html): Printer for Custom Printing on Coffee Packaging Bags and Tea Bag Packaging (Other).
@@ -117,8 +119,6 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Lahjty](https://launchfree.io/listings/lahjty.html): Arabic-first AI marketing: dialect copy, images, speech, and Partner API (Creator Tools).
 - [KwaFlux](https://launchfree.io/listings/kwaflux.html): Local AI video & image enhancer for Windows, upscale, restore, stabilize on you (Creator Tools).
 - [Konversa](https://launchfree.io/listings/konversa.html): Websites + WhatsApp/AI chatbots for LatAm SMBs. ~48h, from $100. CO/MX/DO/PE (AI / ML).
-- [KKIKA.ai](https://launchfree.io/listings/kkika-ai.html): Interactive AI presentations with live polls, PPTX/PDF import, no audience signu (Education).
-- [Hustle Ledger Starter Pack](https://launchfree.io/listings/hustle-ledger-starter-pack.html): Your practical toolkit for starting and growing a side hustle (Productivity).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 254 free AI / ML launches.
@@ -128,9 +128,9 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 93 free Creator Tools launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 86 free E-commerce launches.
 - [Marketing](https://launchfree.io/categories/marketing.html): 83 free Marketing launches.
-- [Fintech](https://launchfree.io/categories/fintech.html): 72 free Fintech launches.
+- [Fintech](https://launchfree.io/categories/fintech.html): 73 free Fintech launches.
+- [Service](https://launchfree.io/categories/service.html): 64 free Service launches.
 - [Education](https://launchfree.io/categories/education.html): 63 free Education launches.
-- [Service](https://launchfree.io/categories/service.html): 63 free Service launches.
 - [Entertainment](https://launchfree.io/categories/entertainment.html): 59 free Entertainment launches.
 - [Health](https://launchfree.io/categories/health.html): 50 free Health launches.
 - [Other](https://launchfree.io/categories/other.html): 42 free Other launches.

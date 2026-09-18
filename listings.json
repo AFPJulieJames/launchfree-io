@@ -22846,5 +22846,37 @@
   "slug": "launchrepo",
   "date": "2026-09-17",
   "mrr": ""
+ },
+ {
+  "id": "paysavo-payments",
+  "name": "Paysavo Payments",
+  "tagline": "Multicurrency wallets, transfers, FX and payments in one platform",
+  "desc": "Paysavo is a financial technology platform built to make managing and moving money across borders simpler for individuals and businesses. Through one…",
+  "emoji": "P",
+  "logo": "https://d1dnoigkayfgu.cloudfront.net/uploads/logos/1692946612_logo.png",
+  "cat": "Fintech",
+  "url": "https://paysavo.com",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "paysavo-payments",
+  "date": "2026-09-17",
+  "mrr": ""
+ },
+ {
+  "id": "northvault-workflow-tools",
+  "name": "Northvault Workflow Tools",
+  "tagline": "One-time workflow tools for small-business follow-up and website review.",
+  "desc": "Northvault Workflow Tools provides practical one-time downloads for small businesses that need clearer lead follow-up tracking and website inquiry…",
+  "emoji": "N",
+  "logo": "",
+  "cat": "Service",
+  "url": "https://payhip.com/NorthVaultDigital/collection/small-business-workflow-tools",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "northvault-workflow-tools",
+  "date": "2026-09-17",
+  "mrr": ""
  }
 ]
