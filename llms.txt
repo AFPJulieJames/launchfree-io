@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1430 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1433 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -19,6 +19,9 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Disclaimer](https://launchfree.io/disclaimer.html): Site disclaimer for LaunchFree.io.
 
 ## Recent launches
+- [UK Freelance Starter Pack](https://launchfree.io/listings/uk-freelance-starter-pack.html): A £7 starter pack for people beginning freelance work in the UK (Productivity).
+- [Receipt Layer](https://launchfree.io/listings/receipt-layer.html): Define done, issue receipts, and settle the week when AI touches workstreams (Creator Tools).
+- [MEDICAB 3-Pack Clear Open-Top Organizer Boxes](https://launchfree.io/listings/medicab-3-pack-clear-open-top-organizer-boxes.html): Three clear organizers with movable dividers for flexible small-item storage (Lifestyle).
 - [ZammioHub](https://launchfree.io/listings/zammiohub.html): Free online calculators for finance, health, math, and everyday needs (Productivity).
 - [Yield.ly](https://launchfree.io/listings/yield-ly.html): Scan, rank, and inspect crypto yields (Fintech).
 - [webwarheads](https://launchfree.io/listings/webwarheads.html): Stop paying $1,500 for a website. Start with $37 (SaaS).
@@ -116,16 +119,13 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [MailVeri](https://launchfree.io/listings/mailveri.html): Bulk email verification that is accurate and affordable (Marketing).
 - [LoreJam](https://launchfree.io/listings/lorejam.html): Share Lore. Make More (Entertainment).
 - [LetsBeta](https://launchfree.io/listings/letsbeta.html): Free software trials for real business operators (SaaS).
-- [Lahjty](https://launchfree.io/listings/lahjty.html): Arabic-first AI marketing: dialect copy, images, speech, and Partner API (Creator Tools).
-- [KwaFlux](https://launchfree.io/listings/kwaflux.html): Local AI video & image enhancer for Windows, upscale, restore, stabilize on you (Creator Tools).
-- [Konversa](https://launchfree.io/listings/konversa.html): Websites + WhatsApp/AI chatbots for LatAm SMBs. ~48h, from $100. CO/MX/DO/PE (AI / ML).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 254 free AI / ML launches.
-- [Productivity](https://launchfree.io/categories/productivity.html): 202 free Productivity launches.
+- [Productivity](https://launchfree.io/categories/productivity.html): 203 free Productivity launches.
 - [SaaS](https://launchfree.io/categories/saas.html): 165 free SaaS launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 113 free Developer Tools launches.
-- [Creator Tools](https://launchfree.io/categories/creator-tools.html): 93 free Creator Tools launches.
+- [Creator Tools](https://launchfree.io/categories/creator-tools.html): 94 free Creator Tools launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 86 free E-commerce launches.
 - [Marketing](https://launchfree.io/categories/marketing.html): 83 free Marketing launches.
 - [Fintech](https://launchfree.io/categories/fintech.html): 73 free Fintech launches.
@@ -134,7 +134,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Entertainment](https://launchfree.io/categories/entertainment.html): 59 free Entertainment launches.
 - [Health](https://launchfree.io/categories/health.html): 50 free Health launches.
 - [Other](https://launchfree.io/categories/other.html): 42 free Other launches.
-- [Lifestyle](https://launchfree.io/categories/lifestyle.html): 40 free Lifestyle launches.
+- [Lifestyle](https://launchfree.io/categories/lifestyle.html): 41 free Lifestyle launches.
 - [Travel](https://launchfree.io/categories/travel.html): 24 free Travel launches.
 - [Community](https://launchfree.io/categories/community.html): 16 free Community launches.
 - [Affiliate](https://launchfree.io/categories/affiliate.html): 3 free Affiliate launches.
