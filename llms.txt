@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1433 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1437 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -20,8 +20,12 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 
 ## Recent launches
 - [UK Freelance Starter Pack](https://launchfree.io/listings/uk-freelance-starter-pack.html): A £7 starter pack for people beginning freelance work in the UK (Productivity).
+- [Schedule C Expense & Receipt Log 2026 | Excel Freelancer Tracker](https://launchfree.io/listings/schedule-c-expense-and-receipt-log-2026-excel-freelancer-tracker.html): Schedule C expense and receipt log for freelancers, with optional mileage tracking (Fintech).
 - [Receipt Layer](https://launchfree.io/listings/receipt-layer.html): Define done, issue receipts, and settle the week when AI touches workstreams (Creator Tools).
+- [Mileage Log Pro 2026](https://launchfree.io/listings/mileage-log-pro-2026.html): A streamlined mileage log for accurate trip records and expense planning (Fintech).
 - [MEDICAB 3-Pack Clear Open-Top Organizer Boxes](https://launchfree.io/listings/medicab-3-pack-clear-open-top-organizer-boxes.html): Three clear organizers with movable dividers for flexible small-item storage (Lifestyle).
+- [Freelance Client CRM Lite 2026](https://launchfree.io/listings/freelance-client-crm-lite-2026.html): A simple CRM for freelancers to manage client work and follow-ups (Productivity).
+- [Claude Resets](https://launchfree.io/listings/claude-resets.html): Claude Code reset-window tracker by Grok Bot / Chief of Staff (AI) (AI / ML).
 - [ZammioHub](https://launchfree.io/listings/zammiohub.html): Free online calculators for finance, health, math, and everyday needs (Productivity).
 - [Yield.ly](https://launchfree.io/listings/yield-ly.html): Scan, rank, and inspect crypto yields (Fintech).
 - [webwarheads](https://launchfree.io/listings/webwarheads.html): Stop paying $1,500 for a website. Start with $37 (SaaS).
@@ -115,20 +119,16 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Panda Largo](https://launchfree.io/listings/panda-largo.html): Sua dose diária de notícias, guias e novidades sobre o mundo dos games (Entertainment).
 - [Nest — Free Pregnancy & Baby Notion Tracker](https://launchfree.io/listings/nest-free-pregnancy-and-baby-notion-tracker.html): Free pregnancy & baby Notion tracker with offline Nest Night feed/sleep/diaper l (Productivity).
 - [NamingCube](https://launchfree.io/listings/namingcube.html): AI brand name generator with live domain checks (AI / ML).
-- [My Celebrity Parents](https://launchfree.io/listings/my-celebrity-parents.html): Explore sourced celebrity families and take a free fictional quiz (Entertainment).
-- [MailVeri](https://launchfree.io/listings/mailveri.html): Bulk email verification that is accurate and affordable (Marketing).
-- [LoreJam](https://launchfree.io/listings/lorejam.html): Share Lore. Make More (Entertainment).
-- [LetsBeta](https://launchfree.io/listings/letsbeta.html): Free software trials for real business operators (SaaS).
 
 ## Categories
-- [AI / ML](https://launchfree.io/categories/ai-ml.html): 254 free AI / ML launches.
-- [Productivity](https://launchfree.io/categories/productivity.html): 203 free Productivity launches.
+- [AI / ML](https://launchfree.io/categories/ai-ml.html): 255 free AI / ML launches.
+- [Productivity](https://launchfree.io/categories/productivity.html): 204 free Productivity launches.
 - [SaaS](https://launchfree.io/categories/saas.html): 165 free SaaS launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 113 free Developer Tools launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 94 free Creator Tools launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 86 free E-commerce launches.
 - [Marketing](https://launchfree.io/categories/marketing.html): 83 free Marketing launches.
-- [Fintech](https://launchfree.io/categories/fintech.html): 73 free Fintech launches.
+- [Fintech](https://launchfree.io/categories/fintech.html): 75 free Fintech launches.
 - [Service](https://launchfree.io/categories/service.html): 64 free Service launches.
 - [Education](https://launchfree.io/categories/education.html): 63 free Education launches.
 - [Entertainment](https://launchfree.io/categories/entertainment.html): 59 free Entertainment launches.
