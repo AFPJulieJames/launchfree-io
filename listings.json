@@ -25454,5 +25454,53 @@
   "slug": "inomi",
   "date": "2026-09-19",
   "mrr": ""
+ },
+ {
+  "id": "bullynx",
+  "name": "Bullynx",
+  "tagline": "AI chart screenshot analyzer for retail investors and traders. Educational only.",
+  "desc": "Bullynx is a chart screenshot analyzer for retail investors and active traders. Upload a screenshot of any chart, from any platform, and Bullynx…",
+  "emoji": "B",
+  "logo": "",
+  "cat": "Fintech",
+  "url": "https://bullynx.com",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "bullynx",
+  "date": "2026-09-20",
+  "mrr": ""
+ },
+ {
+  "id": "nitavera",
+  "name": "Nitavera",
+  "tagline": "Private shelf conflict checks and skin analysis in your browser",
+  "desc": "Nitavera is a free, private shelf conflict checker and browser-based skin analyzer. Add the products you already use and it flags 15 common…",
+  "emoji": "N",
+  "logo": "",
+  "cat": "Health",
+  "url": "https://nitavera.com/",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "nitavera",
+  "date": "2026-09-20",
+  "mrr": ""
+ },
+ {
+  "id": "chartsense-ai",
+  "name": "ChartSense AI",
+  "tagline": "Decision-support software for digital-asset market analysis (structure + risk).",
+  "desc": "ChartSense AI is decision-support software for digital-asset market analysis. It helps traders and analysts review market structure, liquidity…",
+  "emoji": "C",
+  "logo": "",
+  "cat": "AI / ML",
+  "url": "https://chartsenseai.com",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "chartsense-ai",
+  "date": "2026-09-20",
+  "mrr": ""
  }
 ]

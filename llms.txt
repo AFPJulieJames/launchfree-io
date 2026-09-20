@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1591 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1594 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -19,6 +19,9 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Disclaimer](https://launchfree.io/disclaimer.html): Site disclaimer for LaunchFree.io.
 
 ## Recent launches
+- [Nitavera](https://launchfree.io/listings/nitavera.html): Private shelf conflict checks and skin analysis in your browser (Health).
+- [ChartSense AI](https://launchfree.io/listings/chartsense-ai.html): Decision-support software for digital-asset market analysis (structure + risk) (AI / ML).
+- [Bullynx](https://launchfree.io/listings/bullynx.html): AI chart screenshot analyzer for retail investors and traders. Educational only (Fintech).
 - [YonshoreAPI](https://launchfree.io/listings/yonshoreapi.html): OpenAI-compatible Claude and GPT APIs with public pricing (Developer Tools).
 - [WeChat to Markdown (wx2md)](https://launchfree.io/listings/wechat-to-markdown-wx2md.html): Save WeChat articles as local Markdown, no upload (Productivity).
 - [UNLIMOS](https://launchfree.io/listings/unlimos.html): AI receptionist + booking automation for salons, spas, barbers, and beauty (AI / ML).
@@ -116,23 +119,20 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Promizi](https://launchfree.io/listings/promizi.html): Find working promo codes, coupons and live deals (E-commerce).
 - [Problem Overflow](https://launchfree.io/listings/problem-overflow.html): Share the problem, not the stack. Get unstuck with people working on the same thing (Productivity).
 - [Pomoria](https://launchfree.io/listings/pomoria.html): A freemium focus environment beyond the timer (Productivity).
-- [Plainledger Quarterly Set-Aside 2026](https://launchfree.io/listings/plainledger-quarterly-set-aside-2026.html): Excel + Sheets tax set-aside tracker for 1099 freelancers (Fintech).
-- [Pixelbead](https://launchfree.io/listings/pixelbead.html): Turn images into printable bead patterns with real brand palettes (Creator Tools).
-- [PhotoGenerAI](https://launchfree.io/listings/photogenerai.html): Create and edit AI photos, free to try without sign-up (AI / ML).
 
 ## Categories
-- [AI / ML](https://launchfree.io/categories/ai-ml.html): 282 free AI / ML launches.
+- [AI / ML](https://launchfree.io/categories/ai-ml.html): 283 free AI / ML launches.
 - [Productivity](https://launchfree.io/categories/productivity.html): 224 free Productivity launches.
 - [SaaS](https://launchfree.io/categories/saas.html): 184 free SaaS launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 125 free Developer Tools launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 104 free Creator Tools launches.
 - [Marketing](https://launchfree.io/categories/marketing.html): 95 free Marketing launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 90 free E-commerce launches.
-- [Fintech](https://launchfree.io/categories/fintech.html): 84 free Fintech launches.
+- [Fintech](https://launchfree.io/categories/fintech.html): 85 free Fintech launches.
 - [Education](https://launchfree.io/categories/education.html): 72 free Education launches.
 - [Entertainment](https://launchfree.io/categories/entertainment.html): 69 free Entertainment launches.
 - [Service](https://launchfree.io/categories/service.html): 68 free Service launches.
-- [Health](https://launchfree.io/categories/health.html): 55 free Health launches.
+- [Health](https://launchfree.io/categories/health.html): 56 free Health launches.
 - [Lifestyle](https://launchfree.io/categories/lifestyle.html): 48 free Lifestyle launches.
 - [Other](https://launchfree.io/categories/other.html): 47 free Other launches.
 - [Travel](https://launchfree.io/categories/travel.html): 24 free Travel launches.
