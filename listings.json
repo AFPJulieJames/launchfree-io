@@ -26446,5 +26446,21 @@
     "slug": "after-hours-web-capture-kit-hvac-edition",
     "date": "2026-09-21",
     "mrr": ""
+  },
+  {
+    "id": "korp-vpn",
+    "name": "Korp VPN",
+    "tagline": "VPN for Android and iOS with a five-day app trial",
+    "desc": "Korp VPN offers Android and iOS apps for everyday browsing, travel and remote work. The apps include a five-day trial so you can test the service on…",
+    "emoji": null,
+    "logo": "",
+    "cat": "Service",
+    "url": "https://korpvpn.com",
+    "stage": "Live",
+    "votes": 0,
+    "featured": false,
+    "slug": "korp-vpn",
+    "date": "2026-09-21",
+    "mrr": ""
   }
 ]

@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1653 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1654 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -24,6 +24,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Outie](https://launchfree.io/listings/outie.html): Free-forever EUR link-in-bio that feels like a tiny homepage (Creator Tools).
 - [Orcely](https://launchfree.io/listings/orcely.html): Create professional quotes and invoices in minutes (SaaS).
 - [Mein Liebesbuch](https://launchfree.io/listings/mein-liebesbuch.html): Turns photos into a 10-chapter illustrated book in about 10 minutes (Lifestyle).
+- [Korp VPN](https://launchfree.io/listings/korp-vpn.html): VPN for Android and iOS with a five-day app trial (Service).
 - [Jev Usage Router](https://launchfree.io/listings/jev-usage-router.html): Cheap TypeSafe Jev gate before expensive Grok Bot browser/research/retry work (AI / ML).
 - [Fone - Link in Bio AI Agent](https://launchfree.io/listings/fone-link-in-bio-ai-agent.html): Your link-in-bio AI agent, talking in your voice 24/7 (AI / ML).
 - [ClientOps Kit - Proposal, SOW, Invoices & Client Ops Pack for Freelancers](https://launchfree.io/listings/clientops-kit-proposal-sow-invoices-and-client-ops-pack-for-freelancers.html): Freelancer ops pack: proposals, SOWs, invoices, emails, tracker & scripts (Creator Tools).
@@ -118,7 +119,6 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [FeedJolt](https://launchfree.io/listings/feedjolt.html): Lightweight feedback board + public roadmap + changelog (Canny-lite, flat-priced (SaaS).
 - [Falah - Islamic Companion](https://launchfree.io/listings/falah-islamic-companion.html): Islamic App, Quran, Prayer Times, Qibla, Azan, Tasbih, Darood, Muslim App, Islam (Lifestyle).
 - [EZ Car Fix](https://launchfree.io/listings/ez-car-fix.html): Free DIY car repair guides with steps and videos (Education).
-- [Evidence-bus starter](https://launchfree.io/listings/evidence-bus-starter.html): Stop accepting done in chat. Evidence bus is $9 (Developer Tools).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 289 free AI / ML launches.
@@ -131,7 +131,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Fintech](https://launchfree.io/categories/fintech.html): 87 free Fintech launches.
 - [Entertainment](https://launchfree.io/categories/entertainment.html): 73 free Entertainment launches.
 - [Education](https://launchfree.io/categories/education.html): 72 free Education launches.
-- [Service](https://launchfree.io/categories/service.html): 71 free Service launches.
+- [Service](https://launchfree.io/categories/service.html): 72 free Service launches.
 - [Health](https://launchfree.io/categories/health.html): 56 free Health launches.
 - [Lifestyle](https://launchfree.io/categories/lifestyle.html): 50 free Lifestyle launches.
 - [Other](https://launchfree.io/categories/other.html): 48 free Other launches.
