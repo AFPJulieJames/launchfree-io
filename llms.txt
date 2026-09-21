@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1641 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1653 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -19,6 +19,18 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Disclaimer](https://launchfree.io/disclaimer.html): Site disclaimer for LaunchFree.io.
 
 ## Recent launches
+- [TreeQuoteCheck](https://launchfree.io/listings/treequotecheck.html): Review the amount and scope in a tree-removal quote (Service).
+- [Toolvori](https://launchfree.io/listings/toolvori.html): Good tools, put to great use (AI / ML).
+- [Outie](https://launchfree.io/listings/outie.html): Free-forever EUR link-in-bio that feels like a tiny homepage (Creator Tools).
+- [Orcely](https://launchfree.io/listings/orcely.html): Create professional quotes and invoices in minutes (SaaS).
+- [Mein Liebesbuch](https://launchfree.io/listings/mein-liebesbuch.html): Turns photos into a 10-chapter illustrated book in about 10 minutes (Lifestyle).
+- [Jev Usage Router](https://launchfree.io/listings/jev-usage-router.html): Cheap TypeSafe Jev gate before expensive Grok Bot browser/research/retry work (AI / ML).
+- [Fone - Link in Bio AI Agent](https://launchfree.io/listings/fone-link-in-bio-ai-agent.html): Your link-in-bio AI agent, talking in your voice 24/7 (AI / ML).
+- [ClientOps Kit - Proposal, SOW, Invoices & Client Ops Pack for Freelancers](https://launchfree.io/listings/clientops-kit-proposal-sow-invoices-and-client-ops-pack-for-freelancers.html): Freelancer ops pack: proposals, SOWs, invoices, emails, tracker & scripts (Creator Tools).
+- [ClientForge](https://launchfree.io/listings/clientforge.html): The client OS for Webflow, Framer & WordPress freelancers (Creator Tools).
+- [Asqav](https://launchfree.io/listings/asqav.html): Signed, tamper-evident receipts for accountable AI-agent actions (AI / ML).
+- [After-Hours Web Capture Kit - HVAC Edition](https://launchfree.io/listings/after-hours-web-capture-kit-hvac-edition.html): Closed-hours capture for HVAC shops, paste-ready templates. Not a phone bot. $79 (Creator Tools).
+- [99tests](https://launchfree.io/listings/99tests.html): Your test cases, executed by human testers on real devices (Service).
 - [WebKraft](https://launchfree.io/listings/webkraft.html): Affordable AI websites for Indian SMBs with WhatsApp lead capture (SaaS).
 - [Webhub](https://launchfree.io/listings/webhub.html): Webhub would suit that audience because it is an AI-powered marketing and websit (Marketing).
 - [Version Signal](https://launchfree.io/listings/version-signal.html): Current npm and PyPI versions from the canonical registries (Developer Tools).
@@ -107,33 +119,21 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Falah - Islamic Companion](https://launchfree.io/listings/falah-islamic-companion.html): Islamic App, Quran, Prayer Times, Qibla, Azan, Tasbih, Darood, Muslim App, Islam (Lifestyle).
 - [EZ Car Fix](https://launchfree.io/listings/ez-car-fix.html): Free DIY car repair guides with steps and videos (Education).
 - [Evidence-bus starter](https://launchfree.io/listings/evidence-bus-starter.html): Stop accepting done in chat. Evidence bus is $9 (Developer Tools).
-- [EcoGas Station](https://launchfree.io/listings/ecogas-station.html): Send USDT from your wallet. No gas fee. Keep your keys (Fintech).
-- [Drawing Suggestions](https://launchfree.io/listings/drawing-suggestions.html): A clear starting point for your next drawing (Creator Tools).
-- [Dragon Name Generator](https://launchfree.io/listings/dragon-name-generator.html): Generate unique fantasy dragon names instantly (Other).
-- [CryptoHow](https://launchfree.io/listings/cryptohow.html): Dutch crypto guides and cashback card comparison for Netherlands readers (Education).
-- [crowdwisdomtrading](https://launchfree.io/listings/crowdwisdomtrading.html): Consensus from professional traders, turned into defendable trade plans with ent (Fintech).
-- [Cross Stitch Pattern Generator](https://launchfree.io/listings/cross-stitch-pattern-generator.html): Turn any photo into a printable cross stitch pattern with DMC colors (Creator Tools).
-- [Creget](https://launchfree.io/listings/creget.html): Invest with clarity, not guesswork (Fintech).
-- [Contractor Tax Workbook 2026](https://launchfree.io/listings/contractor-tax-workbook-2026.html): Excel workbook for freelancers who invoice, income, expenses, mileage, quarterl (Productivity).
-- [Coin Flipper](https://launchfree.io/listings/coin-flipper.html): Flip a Coin Online, Heads or Tails (Entertainment).
-- [额度不浪费 — Codex & Claude Quota Resets, Prompts & Alerts](https://launchfree.io/listings/codex-and-claude-quota-resets-prompts-and-alerts.html): Codex & Claude quota resets, prompt library and alerts (Productivity).
-- [Cocorobi AI Agent](https://launchfree.io/listings/cocorobi-ai-agent.html): AI-powered B2B referral and sales development platform (SaaS).
-- [Capvant](https://launchfree.io/listings/capvant.html): Compare business funding offers from 75+ funders in one place (Fintech).
 
 ## Categories
-- [AI / ML](https://launchfree.io/categories/ai-ml.html): 285 free AI / ML launches.
+- [AI / ML](https://launchfree.io/categories/ai-ml.html): 289 free AI / ML launches.
 - [Productivity](https://launchfree.io/categories/productivity.html): 235 free Productivity launches.
-- [SaaS](https://launchfree.io/categories/saas.html): 192 free SaaS launches.
+- [SaaS](https://launchfree.io/categories/saas.html): 193 free SaaS launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 131 free Developer Tools launches.
-- [Creator Tools](https://launchfree.io/categories/creator-tools.html): 107 free Creator Tools launches.
+- [Creator Tools](https://launchfree.io/categories/creator-tools.html): 111 free Creator Tools launches.
 - [Marketing](https://launchfree.io/categories/marketing.html): 100 free Marketing launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 91 free E-commerce launches.
 - [Fintech](https://launchfree.io/categories/fintech.html): 87 free Fintech launches.
 - [Entertainment](https://launchfree.io/categories/entertainment.html): 73 free Entertainment launches.
 - [Education](https://launchfree.io/categories/education.html): 72 free Education launches.
-- [Service](https://launchfree.io/categories/service.html): 69 free Service launches.
+- [Service](https://launchfree.io/categories/service.html): 71 free Service launches.
 - [Health](https://launchfree.io/categories/health.html): 56 free Health launches.
-- [Lifestyle](https://launchfree.io/categories/lifestyle.html): 49 free Lifestyle launches.
+- [Lifestyle](https://launchfree.io/categories/lifestyle.html): 50 free Lifestyle launches.
 - [Other](https://launchfree.io/categories/other.html): 48 free Other launches.
 - [Travel](https://launchfree.io/categories/travel.html): 25 free Travel launches.
 - [Community](https://launchfree.io/categories/community.html): 18 free Community launches.
