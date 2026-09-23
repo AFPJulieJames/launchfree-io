@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1676 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1677 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -19,6 +19,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Disclaimer](https://launchfree.io/disclaimer.html): Site disclaimer for LaunchFree.io.
 
 ## Recent launches
+- [Moss Terminal](https://launchfree.io/listings/moss-terminal.html): Free financial research for iPhone: markets, news and company charts (Fintech).
 - [DigitalDzen](https://launchfree.io/listings/digitaldzen.html): Find your next move (Lifestyle).
 - [TURNIT](https://launchfree.io/listings/turnit.html): Turning Content Into Social Content (AI / ML).
 - [TrueProxies](https://launchfree.io/listings/trueproxies.html): Residential proxies you can actually trust (Developer Tools).
@@ -118,7 +119,6 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Simplicio](https://launchfree.io/listings/simplicio.html): Pablo plugged Simplicio in. OpenCode: $0.11890 → $0.00999 (−91.6%) (AI / ML).
 - [Scratchworks Reply Pack](https://launchfree.io/listings/scratchworks-reply-pack.html): 50 Google review reply templates for UK trades (Marketing).
 - [SafePage Generator](https://launchfree.io/listings/safepage-generator.html): Generate campaign landing pages, prelanders and multi-page sites for new GEOs and offers (SaaS).
-- [ProofFlick](https://launchfree.io/listings/proofflick.html): Proofreading and dictation for Windows, with your voice intact (Productivity).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 297 free AI / ML launches.
@@ -128,7 +128,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 112 free Creator Tools launches.
 - [Marketing](https://launchfree.io/categories/marketing.html): 100 free Marketing launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 91 free E-commerce launches.
-- [Fintech](https://launchfree.io/categories/fintech.html): 87 free Fintech launches.
+- [Fintech](https://launchfree.io/categories/fintech.html): 88 free Fintech launches.
 - [Entertainment](https://launchfree.io/categories/entertainment.html): 76 free Entertainment launches.
 - [Education](https://launchfree.io/categories/education.html): 74 free Education launches.
 - [Service](https://launchfree.io/categories/service.html): 73 free Service launches.

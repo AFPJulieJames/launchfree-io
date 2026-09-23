@@ -25723,7 +25723,7 @@
     "date": "2026-09-20",
     "votes": 0,
     "mrr": "",
-    "logo": "",
+    "logo": "https://launchfree.io/costrift-logo.png",
     "emoji": null,
     "featured": false
   },
@@ -26812,6 +26812,22 @@
     "votes": 0,
     "featured": false,
     "slug": "digitaldzen",
+    "date": "2026-09-22",
+    "mrr": ""
+  },
+  {
+    "id": "moss-terminal",
+    "name": "Moss Terminal",
+    "tagline": "Free financial research for iPhone: markets, news and company charts",
+    "desc": "Moss Terminal brings indices, rates, FX, market news and company charts together on iPhone. It's for curious market-watchers, finance students and\u2026",
+    "emoji": "M",
+    "logo": "",
+    "cat": "Fintech",
+    "url": "https://testflight.apple.com/join/f7xjFGQb",
+    "stage": "Beta",
+    "votes": 0,
+    "featured": false,
+    "slug": "moss-terminal",
     "date": "2026-09-22",
     "mrr": ""
   }
