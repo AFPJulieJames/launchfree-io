@@ -105,6 +105,19 @@ def urlenc(t):
     return quote(t or "", safe="")
 
 
+def fix_name_dashes(t):
+    """House style: no em dashes in product names. A colon reads better than a
+    comma in a title, so this mirrors fix_dashes() but keeps the separator a
+    colon instead of collapsing to a comma. Belt-and-suspenders: normal intake
+    should already produce a clean name, this just guarantees a raw em dash in
+    listings.json can never reach an SSR surface."""
+    if not t:
+        return t
+    t = re.sub(r"(?<=[\d$])\s*[\u2014\u2013]\s*(?=[\d$])", "-", t)  # numeric range keeps a hyphen
+    t = re.sub(r"\s*[\u2014\u2013]\s*", ": ", t)                    # everything else becomes a colon
+    return t
+
+
 def esc(t):
     # Decode any pre-existing HTML entities to a fixpoint first, so re-rendering an already-rendered
     # page never stacks &amp;amp; encoding layers. Values from listings.json have no entities, so this
@@ -217,7 +230,7 @@ def extract(slug, src):
                         % (esc(m.group(1)), esc(rec["name"])))
     out["GALLERY_IMAGES"] = "".join(imgs)
 
-    out["NAME"] = esc(rec["name"])
+    out["NAME"] = esc(fix_name_dashes(rec["name"]))
     out["SLUG"] = slug
     out["TAGLINE"] = esc(fix_dashes(rec["tagline"]))
     out["CATEGORY"] = esc(rec["cat"])

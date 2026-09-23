@@ -27,7 +27,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Toolvori](https://launchfree.io/listings/toolvori.html): Good tools, put to great use (AI / ML).
 - [Teamsmoji](https://launchfree.io/listings/teamsmoji.html): Free library of 100,000+ custom emojis for Teams, Slack and Discord (Entertainment).
 - [Speeder](https://launchfree.io/listings/speeder.html): AI agents that help domain investors buy, manage, and sell domains (AI / ML).
-- [Side Hustle Launch Kit — First $100 Online Without Ads](https://launchfree.io/listings/side-hustle-launch-kit-first-100-online-without-ads.html): Reach your first $100 online without ads, a large audience, or a friend network (Creator Tools).
+- [Side Hustle Launch Kit: First $100 Online Without Ads](https://launchfree.io/listings/side-hustle-launch-kit-first-100-online-without-ads.html): Reach your first $100 online without ads, a large audience, or a friend network (Creator Tools).
 - [Road to Offer](https://launchfree.io/listings/road-to-offer.html): AI-powered consulting case interview prep: voice mocks, drills, scored debriefs (Education).
 - [ReadyOpenClaw](https://launchfree.io/listings/readyopenclaw.html): Hosting home for OpenClaw agents, configure and manage from one console (AI / ML).
 - [Raphael AI](https://launchfree.io/listings/raphael-ai.html): Free AI image editor, backgrounds, enhance, generate (AI / ML).
@@ -47,7 +47,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [EventSend](https://launchfree.io/listings/eventsend.html): Send once. Deliver everywhere. Event routing for product teams (Developer Tools).
 - [EchoLearn](https://launchfree.io/listings/echolearn.html): Turn recordings into summaries, meeting minutes, and subtitles (Education).
 - [Denshin](https://launchfree.io/listings/denshin.html): Gamified Web3 quests focused on real on-chain activity (Entertainment).
-- [Dating Pack — Profile + Bio + 20 First Messages](https://launchfree.io/listings/dating-pack-profile-bio-20-first-messages.html): Stop sending «привет». Ready profile + 20 openers for $15 (Lifestyle).
+- [Dating Pack: Profile + Bio + 20 First Messages](https://launchfree.io/listings/dating-pack-profile-bio-20-first-messages.html): Stop sending «привет». Ready profile + 20 openers for $15 (Lifestyle).
 - [ClientOps Kit - Proposal, SOW, Invoices & Client Ops Pack for Freelancers](https://launchfree.io/listings/clientops-kit-proposal-sow-invoices-and-client-ops-pack-for-freelancers.html): Freelancer ops pack: proposals, SOWs, invoices, emails, tracker & scripts (Creator Tools).
 - [ClientForge](https://launchfree.io/listings/clientforge.html): The client OS for Webflow, Framer & WordPress freelancers (Creator Tools).
 - [CalcFuel](https://launchfree.io/listings/calcfuel.html): Free transport & trip fuel calculators, with clear formulas (Travel).
@@ -75,7 +75,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [QuantumPools](https://launchfree.io/listings/quantumpools.html): Cover Value for concentrated LP, fees vs IL vs original deposit (Fintech).
 - [Professional Regulation Guide](https://launchfree.io/listings/professional-regulation-guide.html): Independent fitness-to-practise guidance for regulated professionals (Service).
 - [Pregnancy AI](https://launchfree.io/listings/pregnancy-ai.html): Create beautiful pregnancy photos from home with AI (AI / ML).
-- [Praise — Free Testimonial Request Desk](https://launchfree.io/listings/praise-free-testimonial-request-desk.html): Free offline testimonial ask desk for freelancers after delivery (Productivity).
+- [Praise: Free Testimonial Request Desk](https://launchfree.io/listings/praise-free-testimonial-request-desk.html): Free offline testimonial ask desk for freelancers after delivery (Productivity).
 - [Piano to Sheet Music](https://launchfree.io/listings/piano-to-sheet-music.html): Turn a piano recording into sheet music, MIDI and MusicXML (Creator Tools).
 - [Ops Finance Toolkit](https://launchfree.io/listings/ops-finance-toolkit.html): Excel ops & finance kit, 13-week cash, dashboard, invoice chase, vendor SOPs. $ (Fintech).
 - [OG Stamp](https://launchfree.io/listings/og-stamp.html): Pay-as-you-go Open Graph image API, no subscription (Developer Tools).

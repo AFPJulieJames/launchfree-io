@@ -48,6 +48,18 @@ newest = sorted(DATA, key=lambda r: (r.get("date", ""), r["slug"]), reverse=True
 written = []
 
 
+def fix_name_dashes(t):
+    """House style: no em dashes in product names (see rebuild_listings.py's
+    twin of this function for the full rationale). Belt-and-suspenders so a
+    raw em dash in listings.json can never reach directory/category/llms.txt
+    either, matching the per-listing-page guard."""
+    if not t:
+        return t
+    t = re.sub(r"(?<=[\d$])\s*[\u2014\u2013]\s*(?=[\d$])", "-", t)
+    t = re.sub(r"\s*[\u2014\u2013]\s*", ": ", t)
+    return t
+
+
 def e(t):
     return htmllib.escape(t or "", quote=True)
 
@@ -68,7 +80,7 @@ def save(path, old, new):
 # ----------------------------------------------------------------- category pages
 def card(r, prefix="../listings/"):
     return ('<a class="card" href="%s%s.html"><span class="nm">%s</span>'
-            '<span class="tg">%s</span></a>' % (prefix, r["slug"], e(r["name"]), e(r["tagline"])))
+            '<span class="tg">%s</span></a>' % (prefix, r["slug"], e(fix_name_dashes(r["name"])), e(r["tagline"])))
 
 
 def category_page(cat):
@@ -96,7 +108,7 @@ def category_page(cat):
     # ItemList JSON-LD
     items = ",".join(
         '{"@type":"ListItem","position":%d,"url":"https://launchfree.io/listings/%s.html","name":"%s"}'
-        % (i + 1, r["slug"], e(r["name"])) for i, r in enumerate(rows))
+        % (i + 1, r["slug"], e(fix_name_dashes(r["name"]))) for i, r in enumerate(rows))
     s = re.sub(r'"description":"All \d+ free %s launches listed on LaunchFree\.io\."' % re.escape(cat),
                '"description":"All %d free %s launches listed on LaunchFree.io."' % (n, cat), s, count=1)
     s = re.sub(r'"mainEntity":\{"@type":"ItemList","numberOfItems":\d+,"itemListElement":\[.*?\]\}',
@@ -158,7 +170,7 @@ def directory_page():
     # ItemList in the CollectionPage schema, if present
     items = ",".join(
         '{"@type": "ListItem", "position": %d, "url": "https://launchfree.io/listings/%s.html", "name": "%s"}'
-        % (i + 1, r["slug"], e(r["name"])) for i, r in enumerate(newest[:100]))
+        % (i + 1, r["slug"], e(fix_name_dashes(r["name"]))) for i, r in enumerate(newest[:100]))
     s = re.sub(r'"mainEntity": \{"@type": "ItemList", "numberOfItems": \d+, "itemListElement": \[.*?\]\}',
                '"mainEntity": {"@type": "ItemList", "numberOfItems": %d, "itemListElement": [%s]}'
                % (TOTAL, items), s, count=1, flags=re.S)
@@ -174,7 +186,7 @@ def llms_txt():
 
     recent = "\n".join(
         "- [%s](https://launchfree.io/listings/%s.html): %s (%s)."
-        % (r["name"], r["slug"], r["tagline"].rstrip(". "), r["cat"]) for r in newest[:100])
+        % (fix_name_dashes(r["name"]), r["slug"], r["tagline"].rstrip(". "), r["cat"]) for r in newest[:100])
     s = re.sub(r"(## Recent launches\n).*?(\n\n## )", r"\g<1>%s\g<2>" % recent.replace("\\", "\\\\"),
                s, count=1, flags=re.S)
 
