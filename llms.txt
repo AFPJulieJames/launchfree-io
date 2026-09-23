@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1677 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1676 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -81,7 +81,6 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Nitavera](https://launchfree.io/listings/nitavera.html): Private shelf conflict checks and skin analysis in your browser (Health).
 - [MixWise](https://launchfree.io/listings/mixwise.html): What can you make with the bottles you already own? (Lifestyle).
 - [Million Dollar Website](https://launchfree.io/listings/million-dollar-website.html): A shared pixel canvas for tiny art, logos and personal marks (Entertainment).
-- [Lathe](https://launchfree.io/listings/lathe.html): Your app, database and auth on one dedicated machine. One flat bill (SaaS).
 - [Kite RSS](https://launchfree.io/listings/kite-rss.html): Privacy-first, offline-first RSS reader for iPhone/iPad. No forced account (Productivity).
 - [JobBeacon](https://launchfree.io/listings/jobbeacon.html): Career-page monitoring with filtered email job alerts (Productivity).
 - [Indi Andaz](https://launchfree.io/listings/indi-andaz.html): Sell online. Sell offline (E-commerce).
@@ -119,11 +118,12 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Simplicio](https://launchfree.io/listings/simplicio.html): Pablo plugged Simplicio in. OpenCode: $0.11890 → $0.00999 (−91.6%) (AI / ML).
 - [Scratchworks Reply Pack](https://launchfree.io/listings/scratchworks-reply-pack.html): 50 Google review reply templates for UK trades (Marketing).
 - [SafePage Generator](https://launchfree.io/listings/safepage-generator.html): Generate campaign landing pages, prelanders and multi-page sites for new GEOs and offers (SaaS).
+- [ProofFlick](https://launchfree.io/listings/proofflick.html): Proofreading and dictation for Windows, with your voice intact (Productivity).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 297 free AI / ML launches.
 - [Productivity](https://launchfree.io/categories/productivity.html): 237 free Productivity launches.
-- [SaaS](https://launchfree.io/categories/saas.html): 193 free SaaS launches.
+- [SaaS](https://launchfree.io/categories/saas.html): 192 free SaaS launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 133 free Developer Tools launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 112 free Creator Tools launches.
 - [Marketing](https://launchfree.io/categories/marketing.html): 100 free Marketing launches.
