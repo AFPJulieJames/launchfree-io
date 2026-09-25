@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1904 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 1913 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -24,6 +24,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [WorksheetWise](https://launchfree.io/listings/worksheetwise.html): Printable worksheets and answer keys for focused practice (Education).
 - [Workify](https://launchfree.io/listings/workify.html): Branded careers page and job board for Shopify (E-commerce).
 - [Word Salad Wiki](https://launchfree.io/listings/word-salad-wiki.html): Daily hints, answers and how-to-play guides (Entertainment).
+- [Weekly Ops Cadence](https://launchfree.io/listings/weekly-ops-cadence.html): A simple weekly operating rhythm for cash, sales and delivery (Productivity).
 - [Web Harmonium](https://launchfree.io/listings/web-harmonium.html): Play Web Harmonium Online Free in Your Browser (Productivity).
 - [Voxiom Wiki](https://launchfree.io/listings/voxiom-wiki.html): Browser voxel FPS guides, weapons and tier lists (Entertainment).
 - [VideoCutout](https://launchfree.io/listings/videocutout.html): Remove video backgrounds with AI (AI / ML).
@@ -37,6 +38,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Surrounders](https://launchfree.io/listings/surrounders.html): booking service marketplace (Service).
 - [SupaPark (Merlin)](https://launchfree.io/listings/supapark-merlin.html): AI Disney World planner for real waits, crowd days, and park tips (AI / ML).
 - [sudoai](https://launchfree.io/listings/sudoai.html): Daily NEW AI launches for makers, open submit (AI / ML).
+- [Starsmith Idle Wiki](https://launchfree.io/listings/starsmith-idle-wiki.html): Guides and mechanics explained for the Starsmith Idle blacksmith clicker (Entertainment).
 - [Stacked](https://launchfree.io/listings/stacked.html): A quiet, ad-free table for daily puzzles, twelve games, one payment (Entertainment).
 - [Split Image Online Free](https://launchfree.io/listings/split-image-online-free.html): Image Splitter, Grid or Print (Developer Tools).
 - [Solo Landlord Month-End Pack](https://launchfree.io/listings/solo-landlord-month-end-pack.html): Ready-to-import rent roll, Schedule E log and month-end checklist for solo landlords (Productivity).
@@ -63,12 +65,14 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [PhysioStack](https://launchfree.io/listings/physiostack.html): Practice software for Australian physios. Less admin. More treatment (SaaS).
 - [PetMorph](https://launchfree.io/listings/petmorph.html): Create AI portraits, character interpretations, ID-style photos, and holiday car (AI / ML).
 - [Outreach OS](https://launchfree.io/listings/outreach-os.html): Cold outreach system for freelancers and small agencies: templates, scripts, tracking (Productivity).
+- [Ops & Sales Starter Stack](https://launchfree.io/listings/ops-and-sales-starter-stack.html): Three Excel kits for freelancers: pricing, pipeline/proposals, and ops finance (Productivity).
 - [Online Protractor](https://launchfree.io/listings/online-protractor.html): Free Protractor Tool (Developer Tools).
 - [Offertly+Rechnungly Bundle](https://launchfree.io/listings/offertly-rechnungly-bundle.html): DACH Freelancer PDF tools: Offertly + Rechnungly, bundle for $20 via PayPal (SaaS).
 - [Noveum](https://launchfree.io/listings/noveum.html): Test, debug, and improve production AI agents (AI / ML).
 - [nexmin](https://launchfree.io/listings/nexmin.html): the intelligence that listens with you (Health).
 - [Munshi Social](https://launchfree.io/listings/munshi-social.html): The AI content marketing engine for small teams (Marketing).
 - [Mortgage Calculator for Pros](https://launchfree.io/listings/mortgage-calculator-for-pros.html): EASY Loan Calculator, Car, Home, Personal (Productivity).
+- [molt](https://launchfree.io/listings/molt.html): Coding agent that won't say done on a false claim. Checks pass on disk or it ref (Developer Tools).
 - [Mobile Notary Week Pack](https://launchfree.io/listings/mobile-notary-week-pack.html): Job log and mileage CSVs for solo mobile notaries. Sheets/Excel (Productivity).
 - [Metrela](https://launchfree.io/listings/metrela.html): Get recommended by ChatGPT and found on Google (Marketing).
 - [Mehndi Design](https://launchfree.io/listings/mehndi-design.html): Curated Mehndi designs from around the world (Lifestyle).
@@ -115,22 +119,18 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [CoworkingView](https://launchfree.io/listings/coworkingview.html): European marketplace for coworking spaces and offices (SaaS).
 - [Coriyo](https://launchfree.io/listings/coriyo.html): Your City. Your Stage. Your People (Service).
 - [Close OS](https://launchfree.io/listings/close-os.html): Prospects replied, now close: discovery, objections, proposals, deal tracker (Creator Tools).
-- [ClientProof](https://launchfree.io/listings/clientproof.html): Multi-client Wall of Love for agencies (SaaS).
-- [Client Pipeline Bundle](https://launchfree.io/listings/client-pipeline-bundle.html): Full solo-seller path, Outreach + Follow-up + Close OS in one download (Creator Tools).
-- [Claimify](https://launchfree.io/listings/claimify.html): AI returns, exchanges and warranty claims for Shopify stores (E-commerce).
-- [ChatToPDF](https://launchfree.io/listings/chattopdf.html): Turn exported WhatsApp chats into readable PDFs (Productivity).
 
 ## Categories
-- [AI / ML](https://launchfree.io/categories/ai-ml.html): 341 free AI / ML launches.
-- [Productivity](https://launchfree.io/categories/productivity.html): 269 free Productivity launches.
-- [SaaS](https://launchfree.io/categories/saas.html): 214 free SaaS launches.
-- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 163 free Developer Tools launches.
+- [AI / ML](https://launchfree.io/categories/ai-ml.html): 342 free AI / ML launches.
+- [Productivity](https://launchfree.io/categories/productivity.html): 273 free Productivity launches.
+- [SaaS](https://launchfree.io/categories/saas.html): 215 free SaaS launches.
+- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 164 free Developer Tools launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 121 free Creator Tools launches.
-- [Marketing](https://launchfree.io/categories/marketing.html): 110 free Marketing launches.
+- [Marketing](https://launchfree.io/categories/marketing.html): 111 free Marketing launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 101 free E-commerce launches.
 - [Fintech](https://launchfree.io/categories/fintech.html): 95 free Fintech launches.
+- [Entertainment](https://launchfree.io/categories/entertainment.html): 92 free Entertainment launches.
 - [Education](https://launchfree.io/categories/education.html): 91 free Education launches.
-- [Entertainment](https://launchfree.io/categories/entertainment.html): 91 free Entertainment launches.
 - [Service](https://launchfree.io/categories/service.html): 78 free Service launches.
 - [Lifestyle](https://launchfree.io/categories/lifestyle.html): 61 free Lifestyle launches.
 - [Health](https://launchfree.io/categories/health.html): 59 free Health launches.
