@@ -188,7 +188,7 @@ footer{padding:34px 5%;border-top:1px solid var(--card-border);background:var(--
 .jl-rail-wrap{max-width:1200px;margin:0 auto 8px;padding:0 5%;}
 .jl-rail{display:flex;gap:14px;overflow-x:auto;padding:4px 2px 14px;scroll-snap-type:x proximity;}
 .jl-rail .card{min-width:270px;max-width:270px;scroll-snap-align:start;}
-.grid-label{margin:18px 0 10px;}
+.lb-head{margin:34px 0 18px;}.lb-head .s-title{margin-bottom:8px;}.lb-sub{font-size:0.9rem;}@media(max-width:768px){.lb-head{margin:28px 0 16px;}.lb-head .s-title{font-size:1.7rem;}}
 </style>
 </head>
 <body>
@@ -304,10 +304,6 @@ footer{padding:34px 5%;border-top:1px solid var(--card-border);background:var(--
 <div id="s-count"></div>
 </div>
 <div class="listings-wrap">
-<div class="jl-rail-wrap" id="jl-rail-wrap">
-<div class="s-label">Just landed</div>
-<div class="jl-rail" id="jl-rail"></div>
-</div>
 <div class="l-header">
 <div class="filters" id="filters">
 <button class="fb active" data-f="all">All</button>
@@ -330,7 +326,14 @@ footer{padding:34px 5%;border-top:1px solid var(--card-border);background:var(--
 <button class="sb" data-s="az">A-Z</button>
 </div>
 </div>
-<div class="s-label grid-label" id="grid-label">This week's top 20</div>
+<div class="jl-rail-wrap" id="jl-rail-wrap">
+<div class="s-label">Just landed</div>
+<div class="jl-rail" id="jl-rail"></div>
+</div>
+<div class="lb-head" id="lb-head">
+<h2 class="s-title grid-label" id="grid-label">Most voted this week</h2>
+<p class="s-sub lb-sub" id="lb-sub">Ranked by upvotes from the last 7 days. The count rolls forward every day, so every launch gets a fair shot.</p>
+</div>
 <div class="grid" id="grid">
 <div class="loading-grid"><div class="loading-spinner"></div><p>Loading launches...</p></div>
 </div>
@@ -554,7 +557,8 @@ const homepageMode=(cf==='all'&&!cs);
 if(homepageMode){
 if(jlWrap)jlWrap.style.display='';
 if(sortBar)sortBar.style.display='none';
-if(gridLabel)gridLabel.textContent="This week's top 20";
+if(gridLabel)gridLabel.textContent="Most voted this week";
+const lbSub1=document.getElementById('lb-sub');if(lbSub1)lbSub1.style.display='';
 document.getElementById('s-count').textContent='';
 const jl=getJustLanded(JUST_LANDED_COUNT);
 const jlSlugs=jl.map(l=>l.slug);
@@ -567,6 +571,7 @@ return;
 if(jlWrap)jlWrap.style.display='none';
 if(sortBar)sortBar.style.display='';
 if(gridLabel)gridLabel.textContent='Results';
+const lbSub2=document.getElementById('lb-sub');if(lbSub2)lbSub2.style.display='none';
 const items=getItems();
 document.getElementById('s-count').textContent=cs?`${items.length} result${items.length!==1?'s':''} for "${cs}"`:'' ;
 if(!items.length){
