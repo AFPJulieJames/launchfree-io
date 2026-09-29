@@ -9,6 +9,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Browse the Runway](https://launchfree.io/browse.html): The full, filterable grid of every live launch, searchable by category, stage, and popularity.
 - [Directory (all launches, static HTML)](https://launchfree.io/directory.html): Every launch as plain links grouped by category. The full catalog, crawlable without JavaScript.
 - [Submit your launch](https://launchfree.io/submit.html): Free submission form. After a ~24-hour human review you get a permanent listing page, a free dofollow backlink, a badge, and a newsletter feature.
+- [Advertise](https://launchfree.io/advertise.html): Sponsorship options, quoted individually. Paid placements are always labeled Sponsored and never affect approval, ranking, or votes.
 - [Runway Radar](https://launchfree.io/radar.html): The content hub of free-launch guides: where to launch for free, how dofollow backlinks help SEO, and how to get traction with no audience or budget.
 - [Bootstrap Founder Tools](https://launchfree.io/bootstrap-founder-tools.html): Guide and hub for bootstrapped founders looking to launch and get discovered for free.
 - [Free Product Launch Directory](https://launchfree.io/free-product-launch-directory.html): Overview of LaunchFree as a genuinely free, no-paywall alternative to paid launch platforms.
