@@ -37694,5 +37694,37 @@
     "slug": "dealgro",
     "date": "2026-10-05",
     "mrr": ""
+  },
+  {
+    "id": "meenelkhazook",
+    "name": "Meenelkhazook",
+    "tagline": "Local party game with online rooms and a voting system",
+    "desc": "Meen El Khazook is a free social party game for Android. One player is the impostor and doesn’t know the secret word; everyone else does. Talk…",
+    "emoji": "M",
+    "logo": "",
+    "cat": "Entertainment",
+    "url": "https://play.google.com/store/apps/details?id=com.omaroverpro.meenelkhazook",
+    "stage": "Beta",
+    "votes": 0,
+    "featured": false,
+    "slug": "meenelkhazook",
+    "date": "2026-10-05",
+    "mrr": ""
+  },
+  {
+    "id": "get-your-f-king-sh-t-together-planner",
+    "name": "Get Your F*#king Sh!t Together Planner",
+    "tagline": "A no-BS planner for those who don't always plan in polite terms",
+    "desc": "Get Your F*#king Sh!t Together Planner is for people who want to get more organized but don’t necessarily plan in polite terms. It combines practical…",
+    "emoji": "G",
+    "logo": "https://payhip.com/cdn-cgi/image/format=auto,width=1500/https://pe56d.s3.amazonaws.com/o_1k23rjnlm1ii21tjl1hrp1vo91o4dm.png",
+    "cat": "Productivity",
+    "url": "https://digitaldazebyrae.com/b/sxAYT",
+    "stage": "Live",
+    "votes": 0,
+    "featured": false,
+    "slug": "get-your-f-king-sh-t-together-planner",
+    "date": "2026-10-05",
+    "mrr": ""
   }
 ]

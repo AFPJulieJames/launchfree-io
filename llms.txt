@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 2356 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 2358 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -49,6 +49,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [NUMORA](https://launchfree.io/listings/numora.html): Free browser calculators for finance, tax, health, cooking and more (Productivity).
 - [NeuralSound](https://launchfree.io/listings/neuralsound.html): AI music source separation for vocals, instrumentals and background music (AI / ML).
 - [Monytra](https://launchfree.io/listings/monytra.html): Free uptime monitoring for agencies (Developer Tools).
+- [Meenelkhazook](https://launchfree.io/listings/meenelkhazook.html): Local party game with online rooms and a voting system (Entertainment).
 - [Mazelingo](https://launchfree.io/listings/mazelingo.html): Practice languages through adjustable bilingual reading (Education).
 - [lokal.live](https://launchfree.io/listings/lokal-live.html): Keep opening hours and offers current, with businesses approving each update (Marketing).
 - [LightScreen](https://launchfree.io/listings/lightscreen.html): Free fullscreen light screen, fill light and ring light in your browser (Productivity).
@@ -58,6 +59,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Image Translator](https://launchfree.io/listings/image-translator.html): Translate text in images while preserving their layout (AI / ML).
 - [GutMaxx](https://launchfree.io/listings/gutmaxx.html): Free UK supermarket-food tracker to hit ~30g fibre/day (Health).
 - [grillmyidea](https://launchfree.io/listings/grillmyidea.html): Stress-test your business idea before you invest (AI / ML).
+- [Get Your F*#king Sh!t Together Planner](https://launchfree.io/listings/get-your-f-king-sh-t-together-planner.html): A no-BS planner for those who don't always plan in polite terms (Productivity).
 - [Gestión Animal](https://launchfree.io/listings/gestion-animal.html): Breeding kennel software for Spain, all in one place (SaaS).
 - [Free Audio Editor](https://launchfree.io/listings/free-audio-editor.html): Free Windows audio recorder and editor, plus browser audio tools (Creator Tools).
 - [Entovist](https://launchfree.io/listings/entovist.html): Workforce scheduling for multi-location teams (SaaS).
@@ -118,19 +120,17 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Kasset](https://launchfree.io/listings/kasset.html): AI note taker, wherever you meet (AI / ML).
 - [iPulse AI](https://launchfree.io/listings/ipulse-ai.html): Open Agentic Investment Research Platform (Fintech).
 - [Ingredient Substitutes](https://launchfree.io/listings/ingredient-substitutes.html): The best substitute for any ingredient, with exact amounts (Lifestyle).
-- [Infonic AI Chatbot](https://launchfree.io/listings/infonic-ai-chatbot.html): AI chatbot trained on your website and documents for 24/7 support (AI / ML).
-- [ImageTo100](https://launchfree.io/listings/imageto100.html): Free image compression tools to reduce photo file sizes to specific KB limits (Productivity).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 418 free AI / ML launches.
-- [Productivity](https://launchfree.io/categories/productivity.html): 335 free Productivity launches.
+- [Productivity](https://launchfree.io/categories/productivity.html): 336 free Productivity launches.
 - [SaaS](https://launchfree.io/categories/saas.html): 268 free SaaS launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 208 free Developer Tools launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 143 free Creator Tools launches.
 - [Marketing](https://launchfree.io/categories/marketing.html): 141 free Marketing launches.
 - [Education](https://launchfree.io/categories/education.html): 121 free Education launches.
 - [Fintech](https://launchfree.io/categories/fintech.html): 119 free Fintech launches.
-- [Entertainment](https://launchfree.io/categories/entertainment.html): 117 free Entertainment launches.
+- [Entertainment](https://launchfree.io/categories/entertainment.html): 118 free Entertainment launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 112 free E-commerce launches.
 - [Service](https://launchfree.io/categories/service.html): 95 free Service launches.
 - [Lifestyle](https://launchfree.io/categories/lifestyle.html): 75 free Lifestyle launches.
