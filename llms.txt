@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 2650 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 2655 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -24,12 +24,17 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [XenIndex](https://launchfree.io/listings/xenindex.html): Discover verified European software from registered companies across Europe (Other).
 - [where](https://launchfree.io/listings/where.html): Describe a plan in one sentence. AI builds the whole event (Lifestyle).
 - [Voice Prompter](https://launchfree.io/listings/voice-prompter.html): Free voice-follow teleprompter with a floating script window (Creator Tools).
+- [Visaora](https://launchfree.io/listings/visaora.html): Free visa and immigration calculators for 130+ travel tools (Travel).
 - [Tellenze](https://launchfree.io/listings/tellenze.html): Work management for teams of people and AI agents (Productivity).
+- [Teasa](https://launchfree.io/listings/teasa.html): AI character chat and interactive Stories shaped by you (Entertainment).
 - [Spin the Wheel - Random Name Picker](https://launchfree.io/listings/spin-the-wheel-random-name-picker.html): Free online random name picker - spin to choose (Other).
 - [Sea Imagine AI](https://launchfree.io/listings/sea-imagine-ai.html): Create AI images and videos from text and images (AI / ML).
+- [Repostit](https://launchfree.io/listings/repostit.html): Republish short-form videos across social platforms (Marketing).
 - [RazFit](https://launchfree.io/listings/razfit.html): Home workouts in 1, 5 or 10 minutes with AI coaches (Health).
 - [oldphotosai](https://launchfree.io/listings/oldphotosai.html): Restore, colorize, and enhance old photos in your browser (AI / ML).
 - [Mahjong Rise](https://launchfree.io/listings/mahjong-rise.html): Calm mahjong solitaire with your own little yard, built solo entirely with AI (Entertainment).
+- [MacClean](https://launchfree.io/listings/macclean.html): See what fills your Mac, then review the files before cleanup (Productivity).
+- [LowLighter](https://launchfree.io/listings/lowlighter.html): Desktop AI overlay for answers, summaries and meetings (AI / ML).
 - [gtm.help](https://launchfree.io/listings/gtm-help.html): Paste your website, get a ranked growth plan (Marketing).
 - [BrutalDash](https://launchfree.io/listings/brutaldash.html): Custom Windows dashboards with PC stats, gaming overlays and music controls (Productivity).
 - [boloh](https://launchfree.io/listings/boloh.html): One photo a day for close friends. Feed unlocks after you post (Community).
@@ -115,28 +120,23 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Kept: Keep Your Promises](https://launchfree.io/listings/kept-keep-your-promises.html): Make personal promises and record what happened (Productivity).
 - [Kandiideas](https://launchfree.io/listings/kandiideas.html): Kandi ideas and wrist bead counts you can string tonight (Lifestyle).
 - [Jynno](https://launchfree.io/listings/jynno.html): AI studio for images, video, photo editing and product ad creation (Creator Tools).
-- [JunkPricebook](https://launchfree.io/listings/junkpricebook.html): Save your prices, then build and share junk removal quotes from your phone (SaaS).
-- [JSONViewerTool](https://launchfree.io/listings/jsonviewertool.html): Free browser-based JSON tools for viewing, formatting and comparison (Developer Tools).
-- [Jefe](https://launchfree.io/listings/jefe.html): WhatsApp AI and direct ordering for restaurants in Latin America (SaaS).
-- [imagetotext.im](https://launchfree.io/listings/imagetotext-im.html): Free in-browser OCR that pulls printed text out of images (Productivity).
-- [Image Color Remover](https://launchfree.io/listings/image-color-remover.html): Click a color to make it transparent and export a PNG in your browser (Creator Tools).
 
 ## Categories
-- [AI / ML](https://launchfree.io/categories/ai-ml.html): 468 free AI / ML launches.
-- [Productivity](https://launchfree.io/categories/productivity.html): 388 free Productivity launches.
+- [AI / ML](https://launchfree.io/categories/ai-ml.html): 469 free AI / ML launches.
+- [Productivity](https://launchfree.io/categories/productivity.html): 389 free Productivity launches.
 - [SaaS](https://launchfree.io/categories/saas.html): 292 free SaaS launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 227 free Developer Tools launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 176 free Creator Tools launches.
-- [Marketing](https://launchfree.io/categories/marketing.html): 156 free Marketing launches.
+- [Marketing](https://launchfree.io/categories/marketing.html): 157 free Marketing launches.
 - [Education](https://launchfree.io/categories/education.html): 139 free Education launches.
 - [Fintech](https://launchfree.io/categories/fintech.html): 131 free Fintech launches.
-- [Entertainment](https://launchfree.io/categories/entertainment.html): 125 free Entertainment launches.
+- [Entertainment](https://launchfree.io/categories/entertainment.html): 126 free Entertainment launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 121 free E-commerce launches.
 - [Service](https://launchfree.io/categories/service.html): 106 free Service launches.
 - [Lifestyle](https://launchfree.io/categories/lifestyle.html): 85 free Lifestyle launches.
 - [Other](https://launchfree.io/categories/other.html): 83 free Other launches.
 - [Health](https://launchfree.io/categories/health.html): 79 free Health launches.
-- [Travel](https://launchfree.io/categories/travel.html): 38 free Travel launches.
+- [Travel](https://launchfree.io/categories/travel.html): 39 free Travel launches.
 - [Community](https://launchfree.io/categories/community.html): 29 free Community launches.
 - [Affiliate](https://launchfree.io/categories/affiliate.html): 7 free Affiliate launches.
 
