@@ -46894,5 +46894,37 @@
   "slug": "treadmillpace",
   "date": "2026-10-19",
   "mrr": ""
+ },
+ {
+  "id": "app-screenshot-creator",
+  "name": "App Screenshot Creator",
+  "tagline": "Template-based App Store and Google Play screenshots, free for 3 projects",
+  "desc": "App Screenshot Creator makes App Store and Google Play screenshots from ready-made templates. Add your own app screens, then customize fonts, sizes…",
+  "emoji": "A",
+  "logo": "",
+  "cat": "Developer Tools",
+  "url": "https://appscreenshotcreator.com/",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "app-screenshot-creator",
+  "date": "2026-10-19",
+  "mrr": ""
+ },
+ {
+  "id": "aquarium-adventures",
+  "name": "Aquarium Adventures",
+  "tagline": "A mixed-reality aquarium for Meta Quest with sea life you can feed and explore",
+  "desc": "Aquarium Adventures is a mixed-reality experience for Meta Quest that turns your room into an underwater world. Place props such as shipwrecks and…",
+  "emoji": "A",
+  "logo": "",
+  "cat": "Entertainment",
+  "url": "https://www.meta.com/experiences/aquarium-adventures/25080139484934574/",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "aquarium-adventures",
+  "date": "2026-10-19",
+  "mrr": ""
  }
 ]

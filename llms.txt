@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 2931 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 2933 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -50,7 +50,9 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [bop](https://launchfree.io/listings/bop.html): A playful desktop ball toy for Mac and Windows (Entertainment).
 - [Bookkeeping Prompts](https://launchfree.io/listings/bookkeeping-prompts.html): Free AI prompts and workflows for small-business bookkeeping (Fintech).
 - [BlankPage.one](https://launchfree.io/listings/blankpage-one.html): A no-login blank page for quick notes (Productivity).
+- [Aquarium Adventures](https://launchfree.io/listings/aquarium-adventures.html): A mixed-reality aquarium for Meta Quest with sea life you can feed and explore (Entertainment).
 - [AptaBook AI receptionist](https://launchfree.io/listings/aptabook-ai-receptionist.html): 24/7 AI receptionist that answers and books appointments for service businesses (AI / ML).
+- [App Screenshot Creator](https://launchfree.io/listings/app-screenshot-creator.html): Template-based App Store and Google Play screenshots, free for 3 projects (Developer Tools).
 - [Zoice](https://launchfree.io/listings/zoice.html): Turn a photo and a script into a realistic AI avatar video in minutes (AI / ML).
 - [UGCBloom](https://launchfree.io/listings/ugcbloom.html): AI agents that run your influencer and UGC campaigns (Marketing).
 - [TheCalculatorWorld](https://launchfree.io/listings/thecalculatorworld.html): Free finance calculators and converters with clear results and breakdowns (Fintech).
@@ -118,19 +120,17 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Deckmetric](https://launchfree.io/listings/deckmetric.html): AI pitch deck analysis for startup founders (SaaS).
 - [DealBots](https://launchfree.io/listings/dealbots.html): One AI-picked deal a day, right in your browser (Productivity).
 - [Daily Affirmations - Anicca](https://launchfree.io/listings/daily-affirmations-anicca.html): An iPhone affirmation app with gentle reminders and no streaks (Health).
-- [CYBERMAPS](https://launchfree.io/listings/cybermaps.html): Help search and AI understand your WordPress site (Developer Tools).
-- [CryptoTax Converter](https://launchfree.io/listings/cryptotax-converter.html): Free browser-only wallet history → Koinly/KoinX/CoinTracker CSV (Fintech).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 522 free AI / ML launches.
 - [Productivity](https://launchfree.io/categories/productivity.html): 432 free Productivity launches.
 - [SaaS](https://launchfree.io/categories/saas.html): 322 free SaaS launches.
-- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 245 free Developer Tools launches.
+- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 246 free Developer Tools launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 204 free Creator Tools launches.
 - [Marketing](https://launchfree.io/categories/marketing.html): 171 free Marketing launches.
 - [Education](https://launchfree.io/categories/education.html): 155 free Education launches.
 - [Fintech](https://launchfree.io/categories/fintech.html): 152 free Fintech launches.
-- [Entertainment](https://launchfree.io/categories/entertainment.html): 137 free Entertainment launches.
+- [Entertainment](https://launchfree.io/categories/entertainment.html): 138 free Entertainment launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 129 free E-commerce launches.
 - [Service](https://launchfree.io/categories/service.html): 109 free Service launches.
 - [Lifestyle](https://launchfree.io/categories/lifestyle.html): 95 free Lifestyle launches.
