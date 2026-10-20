@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 3022 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 3040 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -20,6 +20,24 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Disclaimer](https://launchfree.io/disclaimer.html): Site disclaimer for LaunchFree.io.
 
 ## Recent launches
+- [Wordsmith Free Manuscript Critique](https://launchfree.io/listings/wordsmith-free-manuscript-critique.html): Free AI first-page critique for authors, no sign-up (AI / ML).
+- [weekendflights](https://launchfree.io/listings/weekendflights.html): Every weekend's round-trip flight price for the next 12 months on one calendar (Travel).
+- [VoiceVibe](https://launchfree.io/listings/voicevibe.html): Talk to your computer. It types, speaks & does what you ask (Productivity).
+- [VibePicks](https://launchfree.io/listings/vibepicks.html): One verdict per AI dev tool job: #1, runner-up and best free, with sources (Developer Tools).
+- [Tonework](https://launchfree.io/listings/tonework.html): Free browser tools for manga and webtoon backgrounds (Creator Tools).
+- [Teijara](https://launchfree.io/listings/teijara.html): Cloud POS, inventory, invoicing and online storefronts for small businesses (SaaS).
+- [Suparelay](https://launchfree.io/listings/suparelay.html): Call any landline or mobile in the world from your browser (Travel).
+- [Sunny Guha](https://launchfree.io/listings/sunny-guha.html): Freelance digital marketing, SEO, and web services by Sunny Guha (Marketing).
+- [Small Business Marketing Kit](https://launchfree.io/listings/small-business-marketing-kit.html): 100 content prompts and sales scripts for small service businesses (Marketing).
+- [RobotTraining.jobs](https://launchfree.io/listings/robottraining-jobs.html): Robot training jobs with the pay they post (Other).
+- [receipt-to-csv](https://launchfree.io/listings/receipt-to-csv.html): Turn receipt photos into CSV, privately in-browser (Productivity).
+- [RailMystery](https://launchfree.io/listings/railmystery.html): Host-pay fixed-rail AI murder mystery; guests free. Culprit stays locked (AI / ML).
+- [Prospect Signal](https://launchfree.io/listings/prospect-signal.html): Researched B2B prospect lists for web designers and SEO pros (Marketing).
+- [Paper Trail Tools](https://launchfree.io/listings/paper-trail-tools.html): Printable organizers, large-print puzzle books and fantasy RPG downloads (E-commerce).
+- [Ovaideu](https://launchfree.io/listings/ovaideu.html): AI-powered digital advertising operations for growing teams (AI / ML).
+- [Globs](https://launchfree.io/listings/globs.html): Big ideas need little blobs. 300 spots, from $1 (Marketing).
+- [FormatReady](https://launchfree.io/listings/formatready.html): Turn your manuscript into KDP-ready EPUB and print PDF (Productivity).
+- [Create Your First Digital Product](https://launchfree.io/listings/create-your-first-digital-product.html): A beginner guide with 20 product ideas, 30 AI prompts, and a 14-day launch plan (Education).
 - [ZIPZAX](https://launchfree.io/listings/zipzax.html): Free collection of 425 online tools for PDFs, images, data and more (Productivity).
 - [YouTube Thumb](https://launchfree.io/listings/youtube-thumb.html): Free YouTube thumbnail downloader, no login needed (Creator Tools).
 - [Yap Online Dictation](https://launchfree.io/listings/yap-online-dictation.html): Free online dictation that stays on your device (Productivity).
@@ -102,41 +120,23 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [HyperGSC](https://launchfree.io/listings/hypergsc.html): Hosted MCP server that puts your Search Console data in AI chats (AI / ML).
 - [Groove Console](https://launchfree.io/listings/groove-console.html): Vinyl-inspired tone and tempo-aware gestures for music creators (Creator Tools).
 - [GAIvsIQ: Free Online IQ Test](https://launchfree.io/listings/gaivsiq-free-online-iq-test.html): Free online IQ test, about 30 minutes, no sign-up (Education).
-- [FreeMahjongPlay](https://launchfree.io/listings/freemahjongplay.html): Free browser Mahjong Solitaire with 28 layouts (Entertainment).
-- [Founder AI Agent Safety Checklist](https://launchfree.io/listings/founder-ai-agent-safety-checklist.html): Pre-launch security checklist for founders shipping AI agents (AI / ML).
-- [Feliz Halloween IA](https://launchfree.io/listings/feliz-halloween-ia.html): AI Catrina and Halloween makeup from your selfie (AI / ML).
-- [FateClear](https://launchfree.io/listings/fateclear.html): Free BaZi, Zi Wei, Western, Vedic and tarot readings, no sign-up (Lifestyle).
-- [EzGYM](https://launchfree.io/listings/ezgym.html): Gym management software with billing and a WhatsApp AI bot (SaaS).
-- [EzDIS](https://launchfree.io/listings/ezdis.html): Invoicing, inventory, routes and collections for distributors (SaaS).
-- [EpoxyMath](https://launchfree.io/listings/epoxymath.html): Free epoxy resin calculators for tables, river tables, deep pours and molds (Creator Tools).
-- [Elsie](https://launchfree.io/listings/elsie.html): Compare similar clothes across stores side by side (E-commerce).
-- [Eleqia](https://launchfree.io/listings/eleqia.html): Spanish-language guides and a free recommender for choosing business software by sector (Service).
-- [EazAir](https://launchfree.io/listings/eazair.html): Compare live flight fares in one search, free with no added fee (Travel).
-- [EasyFace AI](https://launchfree.io/listings/easyface-ai.html): Try hairstyles, hair colors and facial hair on your own photo (AI / ML).
-- [EasyAccessPDF](https://launchfree.io/listings/easyaccesspdf.html): Automated PDF accessibility tagging with PDF/UA validation (Productivity).
-- [EA LAB](https://launchfree.io/listings/ea-lab.html): Configurable MT5 trading robots with documented strategy rules (Fintech).
-- [Driply](https://launchfree.io/listings/driply.html): Sell digital products with no monthly fee, just 5% per sale (E-commerce).
-- [CuteFontGen](https://launchfree.io/listings/cutefontgen.html): Free cute and kawaii Unicode text style generator (Creator Tools).
-- [CropImageCircle.com](https://launchfree.io/listings/cropimagecircle-com.html): Free circle image cropper with transparent PNG export (Creator Tools).
-- [ContentPin Studio](https://launchfree.io/listings/contentpin-studio.html): Research niche topics and turn them into illustrated articles and Pin designs (Creator Tools).
-- [ConsentProbe](https://launchfree.io/listings/consentprobe.html): Audit which cookies and requests fire on your store before consent (SaaS).
 
 ## Categories
-- [AI / ML](https://launchfree.io/categories/ai-ml.html): 538 free AI / ML launches.
-- [Productivity](https://launchfree.io/categories/productivity.html): 447 free Productivity launches.
-- [SaaS](https://launchfree.io/categories/saas.html): 328 free SaaS launches.
-- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 250 free Developer Tools launches.
-- [Creator Tools](https://launchfree.io/categories/creator-tools.html): 216 free Creator Tools launches.
-- [Marketing](https://launchfree.io/categories/marketing.html): 174 free Marketing launches.
-- [Education](https://launchfree.io/categories/education.html): 161 free Education launches.
+- [AI / ML](https://launchfree.io/categories/ai-ml.html): 541 free AI / ML launches.
+- [Productivity](https://launchfree.io/categories/productivity.html): 450 free Productivity launches.
+- [SaaS](https://launchfree.io/categories/saas.html): 329 free SaaS launches.
+- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 251 free Developer Tools launches.
+- [Creator Tools](https://launchfree.io/categories/creator-tools.html): 217 free Creator Tools launches.
+- [Marketing](https://launchfree.io/categories/marketing.html): 178 free Marketing launches.
+- [Education](https://launchfree.io/categories/education.html): 162 free Education launches.
 - [Fintech](https://launchfree.io/categories/fintech.html): 155 free Fintech launches.
 - [Entertainment](https://launchfree.io/categories/entertainment.html): 144 free Entertainment launches.
-- [E-commerce](https://launchfree.io/categories/e-commerce.html): 132 free E-commerce launches.
+- [E-commerce](https://launchfree.io/categories/e-commerce.html): 133 free E-commerce launches.
 - [Service](https://launchfree.io/categories/service.html): 113 free Service launches.
 - [Lifestyle](https://launchfree.io/categories/lifestyle.html): 101 free Lifestyle launches.
-- [Other](https://launchfree.io/categories/other.html): 92 free Other launches.
+- [Other](https://launchfree.io/categories/other.html): 93 free Other launches.
 - [Health](https://launchfree.io/categories/health.html): 87 free Health launches.
-- [Travel](https://launchfree.io/categories/travel.html): 45 free Travel launches.
+- [Travel](https://launchfree.io/categories/travel.html): 47 free Travel launches.
 - [Community](https://launchfree.io/categories/community.html): 31 free Community launches.
 - [Affiliate](https://launchfree.io/categories/affiliate.html): 8 free Affiliate launches.
 
