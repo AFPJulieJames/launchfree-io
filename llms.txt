@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 3233 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 3238 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -80,6 +80,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Recipe Notes](https://launchfree.io/listings/recipe-notes.html): Save recipes from TikTok, Instagram and any website (Lifestyle).
 - [Receipt Maker](https://launchfree.io/listings/receipt-maker.html): Signed PDF receipts on phone or web (Productivity).
 - [Random Topic Generators](https://launchfree.io/listings/random-topic-generators.html): Free topics for conversations, writing and timed speech practice (Education).
+- [Quitar Fondo](https://launchfree.io/listings/quitar-fondo.html): AI background remover in Spanish: transparent PNG in seconds (AI / ML).
 - [QuickMedCalc](https://launchfree.io/listings/quickmedcalc.html): Free medical calculators with transparent formulas (Health).
 - [Push Notification Tester](https://launchfree.io/listings/push-notification-tester.html): Send a test Apple push from your Mac with a certificate, token, and payload (Developer Tools).
 - [PURA NEO Pro](https://launchfree.io/listings/pura-neo-pro.html): Your coffee, anywhere (Other).
@@ -100,9 +101,11 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Nubnote](https://launchfree.io/listings/nubnote.html): iPhone notes app that sorts and titles your thoughts for you (Productivity).
 - [Nitrosend](https://launchfree.io/listings/nitrosend.html): Branded campaigns, flows and transactional email for builders (Marketing).
 - [NextCV](https://launchfree.io/listings/nextcv.html): Tailor your CV and cover letter to every job ad, in seconds (SaaS).
+- [NewYouGo](https://launchfree.io/listings/newyougo.html): AI image, video and music generator in one studio (AI / ML).
 - [MyLookStory](https://launchfree.io/listings/mylookstory.html): Explore hairstyles, edit photos, and create AI visuals (AI / ML).
 - [MW4 Map](https://launchfree.io/listings/mw4-map.html): Free fan-made Hajin interactive map and guides for MW4 DMZ (Entertainment).
 - [Music Pitch & Speed Changer](https://launchfree.io/listings/music-pitch-and-speed-changer.html): Change key and tempo separately. A-B loop. Free, no ads, no account (Creator Tools).
+- [Moss Image](https://launchfree.io/listings/moss-image.html): Try the open MOSS-Image text-to-image model in your browser (AI / ML).
 - [Monolith](https://launchfree.io/listings/monolith.html): Docs, projects, and databases on your own server (Productivity).
 - [MoneyShield: Sub Tracker](https://launchfree.io/listings/moneyshield-sub-tracker.html): Decide which subscriptions to cancel first, before the next charge (Fintech).
 - [Minute of Fame](https://launchfree.io/listings/minute-of-fame.html): Own one minute of the day. It airs live every day (Entertainment).
@@ -117,15 +120,12 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [LocalUpscale](https://launchfree.io/listings/localupscale.html): AI video upscaler in your browser, no upload needed (Creator Tools).
 - [Linkuo](https://launchfree.io/listings/linkuo.html): Find the cheapest marketplace for any sponsored post (Marketing).
 - [LineRecon](https://launchfree.io/listings/linerecon.html): Compare POs, order confirmations and invoices line by line, with human review (SaaS).
-- [Letterbench Transactional Email Kit](https://launchfree.io/listings/letterbench-transactional-email-kit.html): 17 tested SaaS email templates in MJML and React Email (Developer Tools).
-- [KVWang](https://launchfree.io/listings/kvwang.html): Browser phone for manual US customer calls and follow-up notes (SaaS).
-- [Kemuva](https://launchfree.io/listings/kemuva.html): Personalized digital gifts, previewed within 24 hours (E-commerce).
 
 ## Categories
-- [AI / ML](https://launchfree.io/categories/ai-ml.html): 562 free AI / ML launches.
+- [AI / ML](https://launchfree.io/categories/ai-ml.html): 566 free AI / ML launches.
 - [Productivity](https://launchfree.io/categories/productivity.html): 478 free Productivity launches.
 - [SaaS](https://launchfree.io/categories/saas.html): 342 free SaaS launches.
-- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 271 free Developer Tools launches.
+- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 272 free Developer Tools launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 239 free Creator Tools launches.
 - [Marketing](https://launchfree.io/categories/marketing.html): 191 free Marketing launches.
 - [Education](https://launchfree.io/categories/education.html): 175 free Education launches.
