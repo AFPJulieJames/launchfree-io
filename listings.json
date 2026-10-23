@@ -52766,5 +52766,21 @@
   "slug": "tempburn",
   "date": "2026-10-23",
   "mrr": ""
+ },
+ {
+  "id": "volt-ai",
+  "name": "Volt AI",
+  "tagline": "Open-source Windows AI assistant with voice, web search and tools",
+  "desc": "Volt AI is a free, open-source Python assistant for Windows 10 and 11, in the style of a personal Jarvis. You talk to it in plain English or by…",
+  "emoji": "V",
+  "logo": "https://raw.githubusercontent.com/jackjamesbecker-arch/Volt-AI/main/voltavatar.png",
+  "cat": "AI / ML",
+  "url": "https://github.com/jackjamesbecker-arch/Volt-AI",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "volt-ai",
+  "date": "2026-10-23",
+  "mrr": ""
  }
 ]
