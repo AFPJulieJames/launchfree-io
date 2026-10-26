@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 3637 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 3638 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -93,6 +93,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Rephrase AI](https://launchfree.io/listings/rephrase-ai.html): Web tool that rewrites your drafts with tone and length controls (Productivity).
 - [Register My Photos](https://launchfree.io/listings/register-my-photos.html): Prepare US copyright group photo registrations in your browser (Creator Tools).
 - [ReelFlix](https://launchfree.io/listings/reelflix.html): Vertical micro-drama streaming for your phone (Entertainment).
+- [Recordwell](https://launchfree.io/listings/recordwell.html): US people search by first and last name (Service).
 - [RecipeAgents](https://launchfree.io/listings/recipeagents.html): Step-by-step AI automation recipes for n8n, Zapier and Make (Productivity).
 - [Random Song Generator](https://launchfree.io/listings/random-song-generator.html): Spin a random song by genre or decade and hear a 30-second preview (Entertainment).
 - [QuickTools](https://launchfree.io/listings/quicktools.html): Free browser-based text and image tools with no sign-up (Productivity).
@@ -119,7 +120,6 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [PDF to Markdown Converter by MarkItDown](https://launchfree.io/listings/pdf-to-markdown-converter-by-markitdown.html): Convert PDF to editable Markdown in the browser, no sign-in for standard use (Productivity).
 - [Pay Raise Calculator](https://launchfree.io/listings/pay-raise-calculator.html): See your new pay after a raise and if it beats inflation (Fintech).
 - [PassportPhoto.app](https://launchfree.io/listings/passportphoto-app.html): Free passport and visa photo cropper that runs in your browser (Productivity).
-- [Passport Hoops](https://launchfree.io/listings/passport-hoops.html): Free index of 315 pro basketball leagues for players going overseas (Other).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 637 free AI / ML launches.
@@ -133,7 +133,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Fintech](https://launchfree.io/categories/fintech.html): 179 free Fintech launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 146 free E-commerce launches.
 - [Lifestyle](https://launchfree.io/categories/lifestyle.html): 134 free Lifestyle launches.
-- [Service](https://launchfree.io/categories/service.html): 122 free Service launches.
+- [Service](https://launchfree.io/categories/service.html): 123 free Service launches.
 - [Other](https://launchfree.io/categories/other.html): 115 free Other launches.
 - [Health](https://launchfree.io/categories/health.html): 100 free Health launches.
 - [Travel](https://launchfree.io/categories/travel.html): 59 free Travel launches.

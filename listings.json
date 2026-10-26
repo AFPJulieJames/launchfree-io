@@ -58190,5 +58190,21 @@
   "slug": "aimarket24",
   "date": "2026-10-26",
   "mrr": ""
+ },
+ {
+  "id": "recordwell",
+  "name": "Recordwell",
+  "tagline": "US people search by first and last name",
+  "desc": "Recordwell is a people search service for the United States. Enter a first and last name and it compares public records and online signals in one…",
+  "emoji": "R",
+  "logo": "",
+  "cat": "Service",
+  "url": "https://recordwell.ai",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "recordwell",
+  "date": "2026-10-26",
+  "mrr": ""
  }
 ]
