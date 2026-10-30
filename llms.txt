@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 3847 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 3844 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -20,6 +20,8 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Disclaimer](https://launchfree.io/disclaimer.html): Site disclaimer for LaunchFree.io.
 
 ## Recent launches
+- [Tubidy.Mobile](https://launchfree.io/listings/tubidy-mobile.html): Free music discovery and in-browser audio tools (Entertainment).
+- [Hounds](https://launchfree.io/listings/hounds.html): Smart-money radar for Solana trenches: signals, multiples, automate (Fintech).
 - [Zombie Hug](https://launchfree.io/listings/zombie-hug.html): AI zombie trend hug video from two photos, $6.90 per video (Entertainment).
 - [Zhanle](https://launchfree.io/listings/zhanle.html): Free Vedic birth chart, compatibility scores and Lenormand readings (Lifestyle).
 - [YouTube Video to Prompt by Video2Prompt](https://launchfree.io/listings/youtube-video-to-prompt-by-video2prompt.html): YouTube Video to Prompt: Shorts to AI video prompts (Creator Tools).
@@ -118,25 +120,23 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [MolecularDocking.online](https://launchfree.io/listings/moleculardocking-online.html): One-click AutoDock Vina docking online, no install (SaaS).
 - [Mini Tech](https://launchfree.io/listings/mini-tech.html): Focused software with one Mini Tech account (Productivity).
 - [MaskMyBody](https://launchfree.io/listings/maskmybody.html): Free in-browser photo privacy editor (AI / ML).
-- [Marigold Pet](https://launchfree.io/listings/marigold-pet.html): Turn one pet photo into a 15-second Halloween costume video (AI / ML).
-- [MagicRemover](https://launchfree.io/listings/magicremover.html): AI object remover for people, objects, text and logos (AI / ML).
 
 ## Categories
-- [AI / ML](https://launchfree.io/categories/ai-ml.html): 675 free AI / ML launches.
+- [AI / ML](https://launchfree.io/categories/ai-ml.html): 674 free AI / ML launches.
 - [Productivity](https://launchfree.io/categories/productivity.html): 573 free Productivity launches.
 - [SaaS](https://launchfree.io/categories/saas.html): 376 free SaaS launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 316 free Developer Tools launches.
-- [Creator Tools](https://launchfree.io/categories/creator-tools.html): 309 free Creator Tools launches.
+- [Creator Tools](https://launchfree.io/categories/creator-tools.html): 308 free Creator Tools launches.
 - [Marketing](https://launchfree.io/categories/marketing.html): 231 free Marketing launches.
 - [Education](https://launchfree.io/categories/education.html): 215 free Education launches.
-- [Entertainment](https://launchfree.io/categories/entertainment.html): 212 free Entertainment launches.
-- [Fintech](https://launchfree.io/categories/fintech.html): 187 free Fintech launches.
+- [Entertainment](https://launchfree.io/categories/entertainment.html): 213 free Entertainment launches.
+- [Fintech](https://launchfree.io/categories/fintech.html): 188 free Fintech launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 148 free E-commerce launches.
-- [Lifestyle](https://launchfree.io/categories/lifestyle.html): 142 free Lifestyle launches.
+- [Lifestyle](https://launchfree.io/categories/lifestyle.html): 140 free Lifestyle launches.
 - [Service](https://launchfree.io/categories/service.html): 125 free Service launches.
 - [Other](https://launchfree.io/categories/other.html): 120 free Other launches.
 - [Health](https://launchfree.io/categories/health.html): 109 free Health launches.
-- [Travel](https://launchfree.io/categories/travel.html): 66 free Travel launches.
+- [Travel](https://launchfree.io/categories/travel.html): 65 free Travel launches.
 - [Community](https://launchfree.io/categories/community.html): 35 free Community launches.
 - [Affiliate](https://launchfree.io/categories/affiliate.html): 8 free Affiliate launches.
 
