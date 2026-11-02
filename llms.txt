@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 4337 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 4356 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -59,6 +59,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Velto](https://launchfree.io/listings/velto.html): GLP-1 treatment tracker for logging doses, symptoms, meals and weight (Health).
 - [UPKira](https://launchfree.io/listings/upkira.html): Uptime, API and cron job monitoring with public status pages (Developer Tools).
 - [Unlimited Faxing](https://launchfree.io/listings/unlimited-faxing.html): Online fax and e-signature in one account (Service).
+- [Unitpost](https://launchfree.io/listings/unitpost.html): One API for transactional email, marketing campaigns and SMS (Developer Tools).
 - [UmberLore](https://launchfree.io/listings/umberlore.html): Art history checked against museum and archive records (Education).
 - [Ugibo](https://launchfree.io/listings/ugibo.html): Software & AI built for your business, in weeks (Service).
 - [UGCfy AI](https://launchfree.io/listings/ugcfy-ai.html): UGC-style video ads generated from a product link (Marketing).
@@ -70,6 +71,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Tulyro](https://launchfree.io/listings/tulyro.html): Free browser-based calculators, text tools and utilities with no signup (Productivity).
 - [Tryaz Gaming](https://launchfree.io/listings/tryaz-gaming.html): Free Clash Royale deck builder, player stats and reward links (Entertainment).
 - [TrustBible Bible Word Counter](https://launchfree.io/listings/trustbible-bible-word-counter.html): Count Bible words and inspect the verses behind each total (Education).
+- [TripDeputy](https://launchfree.io/listings/tripdeputy.html): A trip planner for every link you save (Travel).
 - [Trezow](https://launchfree.io/listings/trezow.html): A free give-away marketplace where neighbours share items for nothing (E-commerce).
 - [Trazevia](https://launchfree.io/listings/trazevia.html): Check supplier data completeness before EUDR due diligence (SaaS).
 - [TravelHistoryTool](https://launchfree.io/listings/travelhistorytool.html): Turn travel records into a dated trip list for N-400 or UK ILR (Productivity).
@@ -106,6 +108,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [TankhaPay](https://launchfree.io/listings/tankhapay.html): HR, payroll and compliance platform for Indian businesses (SaaS).
 - [Tamedex](https://launchfree.io/listings/tamedex.html): Palworld breeding tools and dated Roblox codes (Entertainment).
 - [TallyClip](https://launchfree.io/listings/tallyclip.html): Converts bank statement PDFs into Excel, CSV or QuickBooks Online import files (Fintech).
+- [Take Dictation](https://launchfree.io/listings/take-dictation.html): Private dictation for your Mac that types cleaned-up text where you write (Productivity).
 - [TagPeek](https://launchfree.io/listings/tagpeek.html): Check an Etsy listing's photos, title and tags before you publish (E-commerce).
 - [TableGrab](https://launchfree.io/listings/tablegrab.html): Copy web tables to Excel, pay once (Productivity).
 - [SynthPulse](https://launchfree.io/listings/synthpulse.html): AI music, images and video from a written prompt, in one workspace (AI / ML).
@@ -117,26 +120,23 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [SteadyPipe](https://launchfree.io/listings/steadypipe.html): A weekly pipeline check for freelancers with uneven income (Productivity).
 - [StatementConv](https://launchfree.io/listings/statementconv.html): Convert PDF bank statements to CSV and Excel (Fintech).
 - [Statement Converter](https://launchfree.io/listings/statement-converter.html): Convert bank statement PDFs to CSV, QBO, OFX or QIF in your browser (Fintech).
-- [State & Strain](https://launchfree.io/listings/state-and-strain.html): Cannabis news and public business-license research (Other).
-- [Starbucks Calorie Calculator](https://launchfree.io/listings/starbucks-calorie-calculator.html): Free calorie, sugar, caffeine and protein calculator for 160+ Starbucks drinks (Health).
-- [Stankotorg Band Saw Calculators](https://launchfree.io/listings/stankotorg-band-saw-calculators.html): Free band saw blade selection and cutting calculators, in Russian (Productivity).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 757 free AI / ML launches.
-- [Productivity](https://launchfree.io/categories/productivity.html): 664 free Productivity launches.
-- [SaaS](https://launchfree.io/categories/saas.html): 409 free SaaS launches.
+- [Productivity](https://launchfree.io/categories/productivity.html): 669 free Productivity launches.
+- [SaaS](https://launchfree.io/categories/saas.html): 412 free SaaS launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 366 free Creator Tools launches.
-- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 350 free Developer Tools launches.
-- [Marketing](https://launchfree.io/categories/marketing.html): 260 free Marketing launches.
-- [Education](https://launchfree.io/categories/education.html): 242 free Education launches.
+- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 352 free Developer Tools launches.
+- [Marketing](https://launchfree.io/categories/marketing.html): 261 free Marketing launches.
+- [Education](https://launchfree.io/categories/education.html): 243 free Education launches.
 - [Entertainment](https://launchfree.io/categories/entertainment.html): 239 free Entertainment launches.
-- [Fintech](https://launchfree.io/categories/fintech.html): 210 free Fintech launches.
+- [Fintech](https://launchfree.io/categories/fintech.html): 211 free Fintech launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 166 free E-commerce launches.
-- [Lifestyle](https://launchfree.io/categories/lifestyle.html): 159 free Lifestyle launches.
+- [Lifestyle](https://launchfree.io/categories/lifestyle.html): 160 free Lifestyle launches.
 - [Service](https://launchfree.io/categories/service.html): 148 free Service launches.
-- [Other](https://launchfree.io/categories/other.html): 133 free Other launches.
-- [Health](https://launchfree.io/categories/health.html): 118 free Health launches.
-- [Travel](https://launchfree.io/categories/travel.html): 71 free Travel launches.
+- [Other](https://launchfree.io/categories/other.html): 134 free Other launches.
+- [Health](https://launchfree.io/categories/health.html): 121 free Health launches.
+- [Travel](https://launchfree.io/categories/travel.html): 72 free Travel launches.
 - [Community](https://launchfree.io/categories/community.html): 36 free Community launches.
 - [Affiliate](https://launchfree.io/categories/affiliate.html): 9 free Affiliate launches.
 
