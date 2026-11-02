@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 4318 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 4337 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -30,6 +30,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [WrapLoom](https://launchfree.io/listings/wraploom.html): Browser editor for Tesla Paint Shop wraps with live 3D preview and a free wrap gallery (Creator Tools).
 - [WPForge](https://launchfree.io/listings/wpforge.html): WordPress and WooCommerce builds, speed work and guides (Service).
 - [WorkOrder Software](https://launchfree.io/listings/workorder-software.html): Simple work order software for small contractors (SaaS).
+- [WorkbookDiff](https://launchfree.io/listings/workbookdiff.html): Compare two Excel files in your browser and export changes (Productivity).
 - [Wonder Agent Play](https://launchfree.io/listings/wonder-agent-play.html): Independent playground for Muse-Wonder-1.0 (coming soon) (AI / ML).
 - [Wishora](https://launchfree.io/listings/wishora.html): Personalized gift songs from a name and a memory (AI / ML).
 - [WinRansomProtect](https://launchfree.io/listings/winransomprotect.html): Offline anti-ransomware app for Windows that blocks file encryption locally (Developer Tools).
@@ -49,6 +50,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Voltage Drop Calculator](https://launchfree.io/listings/voltage-drop-calculator.html): Free voltage drop and wire size calculator based on NEC tables (Productivity).
 - [VoiceVault](https://launchfree.io/listings/voicevault.html): Private offline voice journal and diary for Android (Productivity).
 - [Voice AI Checker](https://launchfree.io/listings/voice-ai-checker.html): Check short voice clips for AI-generated or cloned speech with a risk signal (AI / ML).
+- [Vocal Remover Online](https://launchfree.io/listings/vocal-remover-online.html): AI vocal remover with vocal and instrumental WAV stems (Creator Tools).
 - [VNCNT Sessionry](https://launchfree.io/listings/vncnt-sessionry.html): Crash-proof session manager that restores your tabs (Productivity).
 - [Virling](https://launchfree.io/listings/virling.html): See which channels bring paying customers (Marketing).
 - [VidFare](https://launchfree.io/listings/vidfare.html): Free price tracker for AI video generation, in dollars per second (Creator Tools).
@@ -118,27 +120,25 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [State & Strain](https://launchfree.io/listings/state-and-strain.html): Cannabis news and public business-license research (Other).
 - [Starbucks Calorie Calculator](https://launchfree.io/listings/starbucks-calorie-calculator.html): Free calorie, sugar, caffeine and protein calculator for 160+ Starbucks drinks (Health).
 - [Stankotorg Band Saw Calculators](https://launchfree.io/listings/stankotorg-band-saw-calculators.html): Free band saw blade selection and cutting calculators, in Russian (Productivity).
-- [Stack and Sum](https://launchfree.io/listings/stack-and-sum.html): What creator platforms really cost once every fee is counted (Creator Tools).
-- [SRT2Word](https://launchfree.io/listings/srt2word.html): Converts SRT subtitle files into clean Word documents or text, in the browser (Creator Tools).
 
 ## Categories
-- [AI / ML](https://launchfree.io/categories/ai-ml.html): 754 free AI / ML launches.
-- [Productivity](https://launchfree.io/categories/productivity.html): 661 free Productivity launches.
-- [SaaS](https://launchfree.io/categories/saas.html): 404 free SaaS launches.
-- [Creator Tools](https://launchfree.io/categories/creator-tools.html): 365 free Creator Tools launches.
-- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 348 free Developer Tools launches.
+- [AI / ML](https://launchfree.io/categories/ai-ml.html): 757 free AI / ML launches.
+- [Productivity](https://launchfree.io/categories/productivity.html): 664 free Productivity launches.
+- [SaaS](https://launchfree.io/categories/saas.html): 409 free SaaS launches.
+- [Creator Tools](https://launchfree.io/categories/creator-tools.html): 366 free Creator Tools launches.
+- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 350 free Developer Tools launches.
 - [Marketing](https://launchfree.io/categories/marketing.html): 260 free Marketing launches.
-- [Education](https://launchfree.io/categories/education.html): 241 free Education launches.
+- [Education](https://launchfree.io/categories/education.html): 242 free Education launches.
 - [Entertainment](https://launchfree.io/categories/entertainment.html): 239 free Entertainment launches.
-- [Fintech](https://launchfree.io/categories/fintech.html): 209 free Fintech launches.
+- [Fintech](https://launchfree.io/categories/fintech.html): 210 free Fintech launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 166 free E-commerce launches.
-- [Lifestyle](https://launchfree.io/categories/lifestyle.html): 157 free Lifestyle launches.
+- [Lifestyle](https://launchfree.io/categories/lifestyle.html): 159 free Lifestyle launches.
 - [Service](https://launchfree.io/categories/service.html): 148 free Service launches.
 - [Other](https://launchfree.io/categories/other.html): 133 free Other launches.
 - [Health](https://launchfree.io/categories/health.html): 118 free Health launches.
 - [Travel](https://launchfree.io/categories/travel.html): 71 free Travel launches.
 - [Community](https://launchfree.io/categories/community.html): 36 free Community launches.
-- [Affiliate](https://launchfree.io/categories/affiliate.html): 8 free Affiliate launches.
+- [Affiliate](https://launchfree.io/categories/affiliate.html): 9 free Affiliate launches.
 
 ## Runway Radar (guides)
 - [Runway Radar](https://launchfree.io/radar.html): Honest, practical guides on launching for free: where to list, how to earn dofollow backlinks, and how to get traction with no audience or budget. From the team behind The Runway.
