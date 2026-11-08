@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 4520 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 4564 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -29,54 +29,74 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [WipeObj](https://launchfree.io/listings/wipeobj.html): Free AI object remover that never uploads photos (AI / ML).
 - [WinSystemHarden](https://launchfree.io/listings/winsystemharden.html): Free, offline Windows hardening tool with one-click rollback (Other).
 - [WhoAppChat](https://launchfree.io/listings/whoappchat.html): One-to-one text, voice or video chat in the browser, free to start (Community).
+- [Wherestan](https://launchfree.io/listings/wherestan.html): Guess the country in six tries, with a new one every day (Entertainment).
 - [Whatstype](https://launchfree.io/listings/whatstype.html): Free 16-type personality test, no signup, about 3 minutes (Lifestyle).
 - [Whatoblock](https://launchfree.io/listings/whatoblock.html): Live threat intelligence your firewall can use (SaaS).
 - [Weighted GPA Calculator](https://launchfree.io/listings/weighted-gpa-calculator.html): Free weighted GPA calculator for school: grades and credits, no signup (Education).
 - [Website Redesign Cost Calculator](https://launchfree.io/listings/website-redesign-cost-calculator.html): Plan the website build and the care before comparing quotes (Productivity).
 - [VRAMGlass](https://launchfree.io/listings/vramglass.html): GPU comparison and VRAM planning for local AI (Developer Tools).
+- [VPS Hosting Radar](https://launchfree.io/listings/vps-hosting-radar.html): Managed VPS and cloud hosting picks with clear tradeoffs (Other).
 - [Voice Changer](https://launchfree.io/listings/voice-changer.html): Android app to record or open audio and apply voice effects (Entertainment).
 - [Video Frame Extractor](https://launchfree.io/listings/video-frame-extractor.html): Free online video frame extractor that runs in your browser, with no upload (Creator Tools).
+- [Venasri (formerly AI TradeCheck)](https://launchfree.io/listings/venasri-formerly-ai-tradecheck.html): Trading psychology and loss-limit guard for MT5. Not financial advice (Fintech).
 - [Vault Security](https://launchfree.io/listings/vault-security.html): Your AI-powered digital safety assistant (SaaS).
 - [TurboNIW](https://launchfree.io/listings/turboniw.html): Preparation materials for EB-2 National Interest Waiver self-petitions (Service).
+- [Triv-AI](https://launchfree.io/listings/triv-ai.html): A quiz game where AI writes the board on any topic for teams to play (Entertainment).
+- [Triple 3D](https://launchfree.io/listings/triple-3d.html): Turn images, sketches and text prompts into 3D models, free to start (AI / ML).
+- [Trendoday](https://launchfree.io/listings/trendoday.html): One ranked list of what is trending on GitHub, HN, Google, Steam and more (Productivity).
+- [Transglot](https://launchfree.io/listings/transglot.html): AI localization drafts, quality checks and team review for changing products (SaaS).
 - [Tradocket](https://launchfree.io/listings/tradocket.html): Export shipping documents: fill in the shipment once (Productivity).
 - [Traconix](https://launchfree.io/listings/traconix.html): Organize receitas, despesas e compromissos financeiros pessoais e da casa (Fintech).
 - [Toolscase Voice Studio](https://launchfree.io/listings/toolscase-voice-studio.html): Browser-based AI text to speech, video voiceovers and speech transcription (AI / ML).
 - [Toolscase StreamHub](https://launchfree.io/listings/toolscase-streamhub.html): Multistream live video to many platforms from one source (Creator Tools).
 - [Toolscase AI](https://launchfree.io/listings/toolscase-ai.html): Find the right AI model for every task and budget (AI / ML).
 - [ThumbBlitz](https://launchfree.io/listings/thumbblitz.html): Free Roblox thumbnail editor in your browser (Creator Tools).
+- [The GPA Calculator](https://launchfree.io/listings/the-gpa-calculator.html): Free GPA and grade calculators with formulas shown (Education).
 - [Text to Video](https://launchfree.io/listings/text-to-video.html): AI text-to-video generator with image, avatar and lip-sync tools (AI / ML).
 - [TestDock](https://launchfree.io/listings/testdock.html): Save deep links and run repeatable manual app tests on iOS and Android (Developer Tools).
 - [TAX.hk](https://launchfree.io/listings/tax-hk.html): Hong Kong tax specialists, calculators and guides (Service).
 - [TapGPU](https://launchfree.io/listings/tapgpu.html): Hourly and monthly cloud GPU rental for AI work (AI / ML).
 - [TadaReel](https://launchfree.io/listings/tadareel.html): AI video generator: short clips from a text prompt or one image (AI / ML).
+- [Swipefast](https://launchfree.io/listings/swipefast.html): AI builds your checkout as a draft you approve (SaaS).
 - [Strukchad](https://launchfree.io/listings/strukchad.html): Construction management software for Kenyan contractors (SaaS).
 - [SteadyEdit](https://launchfree.io/listings/steadyedit.html): Browser AI image editor: change one detail, such as text in a photo (AI / ML).
 - [Star in the Trend](https://launchfree.io/listings/star-in-the-trend.html): Turn your photo into a dancing Christmas elf video (AI / ML).
 - [SkullCap AI](https://launchfree.io/listings/skullcap-ai.html): One photo in, a 9.7-second skull cap transformation video out (Creator Tools).
+- [SimilarTube](https://launchfree.io/listings/similartube.html): Find similar YouTube channels with AI (Marketing).
 - [ShimmerPic](https://launchfree.io/listings/shimmerpic.html): Browser AI image studio built on GPT Image 2.5 (AI / ML).
+- [Seiton](https://launchfree.io/listings/seiton.html): A native Mac menu bar manager with a 14-day free trial (Productivity).
 - [SecondCall AI](https://launchfree.io/listings/secondcall-ai.html): An AI receptionist for local service businesses (AI / ML).
 - [ScopeLine](https://launchfree.io/listings/scopeline.html): Free scope creep tracker and change order tool for freelancers (Productivity).
 - [SceneTools](https://launchfree.io/listings/scenetools.html): Pick a job (copy, stocks, short video, SEO), then see matching public AI tools (AI / ML).
 - [RSS and Atom Feed Extractor](https://launchfree.io/listings/rss-and-atom-feed-extractor.html): Extracts RSS and Atom feed items into clean structured data on Apify (Developer Tools).
+- [RouteMux](https://launchfree.io/listings/routemux.html): One API key and one endpoint for many AI models (Developer Tools).
+- [RoomGlimpse](https://launchfree.io/listings/roomglimpse.html): AI interior design from your real room photo (AI / ML).
 - [RizCraft](https://launchfree.io/listings/rizcraft.html): Free browser toolkit with 100+ developer, text, image, audio and PDF tools (Developer Tools).
 - [ResumeInvited](https://launchfree.io/listings/resumeinvited.html): Online resume builder with live preview and PDF or Word downloads (Productivity).
 - [ReportPatch](https://launchfree.io/listings/reportpatch.html): A $99 second check on your client report totals before it goes out (Service).
 - [Remove AI Meta](https://launchfree.io/listings/remove-ai-meta.html): Clear C2PA, IPTC, XMP and GPS metadata from images in your browser (Other).
+- [Remove AI Info](https://launchfree.io/listings/remove-ai-info.html): Check and remove photo metadata, including GPS and C2PA, in your browser (Creator Tools).
 - [Reel](https://launchfree.io/listings/reel.html): Clipboard history for Mac: search, pin and paste anything you copied (Productivity).
 - [Recessed Light Calculator](https://launchfree.io/listings/recessed-light-calculator.html): Estimate recessed-light counts, spacing and 2D layouts for rectangular rooms (Lifestyle).
 - [RapVideoGo](https://launchfree.io/listings/rapvideogo.html): Create rap music videos from photos with AI (Creator Tools).
+- [Quiet Lion](https://launchfree.io/listings/quiet-lion.html): Monthly traffic rankings of AI product sites by visits and growth (Marketing).
 - [QuickShot](https://launchfree.io/listings/quickshot.html): Capture, mark up, OCR and record Mac screens (Productivity).
 - [QuickEngCalc](https://launchfree.io/listings/quickengcalc.html): Free browser engineering and statistics calculator suite (Developer Tools).
 - [Quady3D Image to 3D](https://launchfree.io/listings/quady3d-image-to-3d.html): Browser-based image-to-3D drafts you can inspect and export (AI / ML).
 - [QrDishes](https://launchfree.io/listings/qrdishes.html): QR code menus you can reprice anytime (SaaS).
 - [Put Me In](https://launchfree.io/listings/put-me-in.html): Put yourself in the meme: photo to video AI (Creator Tools).
+- [PushOwl](https://launchfree.io/listings/pushowl.html): Email, SMS, and push marketing for Shopify (Marketing).
 - [PulseWatch](https://launchfree.io/listings/pulsewatch.html): Vendor outage and own-site uptime monitoring with a free forever plan (Developer Tools).
 - [Prospetra](https://launchfree.io/listings/prospetra.html): Evidence-based website audits and prospecting software for agencies (Marketing).
 - [Probably Stolen Codex](https://launchfree.io/listings/probably-stolen-codex.html): Unofficial fan guide to Probably Stolen: calculators, planner and tips (Entertainment).
+- [Prizm](https://launchfree.io/listings/prizm.html): Your CV and cover letter tailored to every job offer (Productivity).
 - [PrintCleric](https://launchfree.io/listings/printcleric.html): Free STL check and repair for resin miniature printers (AI / ML).
 - [PostCliq](https://launchfree.io/listings/postcliq.html): The free website audit that finds why visitors don't enquire (Marketing).
+- [Plinth](https://launchfree.io/listings/plinth.html): Studio-lit 3D mockups from your screenshots (Creator Tools).
 - [PlayNewt](https://launchfree.io/listings/playnewt.html): Newly released free browser indie games, played through official embeds (Entertainment).
 - [Playlist Exporter](https://launchfree.io/listings/playlist-exporter.html): Export public YouTube playlists to CSV, Excel, JSON and more (Productivity).
+- [Plain Game](https://launchfree.io/listings/plain-game.html): A free browser guessing game with a daily flight, practice and friend matches (Entertainment).
+- [PixPurge](https://launchfree.io/listings/pixpurge.html): AI watermark and text remover that rebuilds the background (AI / ML).
 - [PDFAnnotations](https://launchfree.io/listings/pdfannotations.html): Extract PDF comments in your browser, then export reviewer feedback to useful formats (Productivity).
 - [PDF Dark](https://launchfree.io/listings/pdf-dark.html): Invert PDF colors locally in your browser (Productivity).
 - [PBZ Codex](https://launchfree.io/listings/pbz-codex.html): Unofficial fan guide to Phantom Blade Zero with tools and trackers (Entertainment).
@@ -85,6 +105,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Pack Leader](https://launchfree.io/listings/pack-leader.html): Find your Google Maps gaps. Then close them (Marketing).
 - [Ovanto](https://launchfree.io/listings/ovanto.html): Free AI image generator with no sign up and no login (AI / ML).
 - [Orion CMD](https://launchfree.io/listings/orion-cmd.html): Outside-in uptime, SSL and domain monitoring for MSPs and IT teams (SaaS).
+- [OpenAny](https://launchfree.io/listings/openany.html): One API key for AI models, data APIs and agent skills (Developer Tools).
 - [OCR4You](https://launchfree.io/listings/ocr4you.html): 78 PDF, image and OCR tools, free to try with credits (Productivity).
 - [nxlxtx](https://launchfree.io/listings/nxlxtx.html): Convert PDFs and images in your browser (Productivity).
 - [Nova Buddy AI](https://launchfree.io/listings/nova-buddy-ai.html): Your everyday AI assistant with free chat, your own AI avatar, and daily tools (AI / ML).
@@ -93,49 +114,28 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [MyWiFiQR](https://launchfree.io/listings/mywifiqr.html): Free static QR code generator, no signup (Productivity).
 - [My 12 Axes](https://launchfree.io/listings/my-12-axes.html): Free 12 axes political values test, no sign-up (Education).
 - [MusiCraft AI](https://launchfree.io/listings/musicraft-ai.html): Browser-based AI stem splitter for separating music into stems (AI / ML).
+- [MP4toMP3](https://launchfree.io/listings/mp4tomp3.html): Convert video files into audio in your browser, free with no signup (Creator Tools).
 - [Moxel](https://launchfree.io/listings/moxel.html): Analytics that tell you what to fix, down to the form field (Marketing).
+- [Movifind](https://launchfree.io/listings/movifind.html): Find your next movie (Entertainment).
 - [Monstro X](https://launchfree.io/listings/monstro-x.html): Member management software for gyms and martial arts schools (SaaS).
 - [Mockling](https://launchfree.io/listings/mockling.html): Free generator for mock screenshots of chats, social posts, emails and lock screens (Creator Tools).
 - [Metadataless](https://launchfree.io/listings/metadataless.html): Strip EXIF and GPS metadata in your browser, nothing uploaded (Other).
-- [Mental](https://launchfree.io/listings/mental.html): An iPhone mood journal that helps you spot patterns in how you feel (Health).
-- [MatriTotal](https://launchfree.io/listings/matritotal.html): Digital wedding invitations with RSVP, built for Spanish-speaking couples (Lifestyle).
-- [Markedfile](https://launchfree.io/listings/markedfile.html): Invisible forensic watermarking that helps trace leaked files to a recipient (SaaS).
-- [Margo](https://launchfree.io/listings/margo.html): Free AI character headcanon generator (AI / ML).
-- [Mail Security Tools](https://launchfree.io/listings/mail-security-tools.html): Email security directory, guides, free DNS check and a $29 checklist (Service).
-- [Lumber Calc](https://launchfree.io/listings/lumber-calc.html): Free lumber calculators for board feet, stairs, decks, rafters and cut lists (Productivity).
-- [Licentivo](https://launchfree.io/listings/licentivo.html): Software licensing API and SDKs for desktop apps (Developer Tools).
-- [Letras Diferentes](https://launchfree.io/listings/letras-diferentes.html): Free fancy-text generator for cursive and beautiful letters to copy and paste (Creator Tools).
-- [Leonida Map Tracker](https://launchfree.io/listings/leonida-map-tracker.html): Free interactive Leonida map and place tracker with no account needed (Entertainment).
-- [LensUp Scanner](https://launchfree.io/listings/lensup-scanner.html): Free online document scanner that turns phone photos into PDFs (Productivity).
-- [Legalnaut](https://launchfree.io/listings/legalnaut.html): AI workspace for litigation teams: chronologies, evidence, citations (AI / ML).
-- [LaunchHome](https://launchfree.io/listings/launchhome.html): Bring a paged app grid back to your Mac (Productivity).
-- [launch.cab](https://launchfree.io/listings/launch-cab.html): A launch platform where your product rides a cab around a 3D city (Marketing).
-- [Krillion Unlimited](https://launchfree.io/listings/krillion-unlimited.html): Free browser trivia game with unlimited rounds, hints and seven languages (Entertainment).
-- [Kitten TTS 2 on BestTTS](https://launchfree.io/listings/kitten-tts-2-on-besttts.html): A BestTTS reference page for KittenML's Kitten TTS 2 speech model, with a demo (AI / ML).
-- [KarmaSpace](https://launchfree.io/listings/karmaspace.html): Explore feng shui, BaZi, tarot and compatibility on iPhone, Android and web (Lifestyle).
-- [It's My Life Dog AI](https://launchfree.io/listings/it-s-my-life-dog-ai.html): Turn one pet photo into a singing car video (AI / ML).
-- [IsItDownAPI](https://launchfree.io/listings/isitdownapi.html): Vendor outage monitoring through an API and MCP endpoint (Developer Tools).
-- [INTA, Life is Timing](https://launchfree.io/listings/inta-life-is-timing.html): A saju (Four Pillars) app with an AI companion called Dongja (Lifestyle).
-- [InboxGuards](https://launchfree.io/listings/inboxguards.html): Mailbox takeover alerts for Microsoft 365 and Google Workspace (SaaS).
-- [ImageGauge](https://launchfree.io/listings/imagegauge.html): Check image dimensions, resolution, DPI and print size in your browser (Productivity).
-- [IELTS Writing Checker](https://launchfree.io/listings/ielts-writing-checker.html): Score IELTS Writing answers against the four official criteria with detailed feedback (Education).
-- [HUALI](https://launchfree.io/listings/huali.html): Chinese art for meaningful spaces (E-commerce).
 
 ## Categories
-- [AI / ML](https://launchfree.io/categories/ai-ml.html): 787 free AI / ML launches.
-- [Productivity](https://launchfree.io/categories/productivity.html): 697 free Productivity launches.
-- [SaaS](https://launchfree.io/categories/saas.html): 425 free SaaS launches.
-- [Creator Tools](https://launchfree.io/categories/creator-tools.html): 380 free Creator Tools launches.
-- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 368 free Developer Tools launches.
-- [Marketing](https://launchfree.io/categories/marketing.html): 269 free Marketing launches.
-- [Education](https://launchfree.io/categories/education.html): 251 free Education launches.
-- [Entertainment](https://launchfree.io/categories/entertainment.html): 251 free Entertainment launches.
-- [Fintech](https://launchfree.io/categories/fintech.html): 216 free Fintech launches.
+- [AI / ML](https://launchfree.io/categories/ai-ml.html): 793 free AI / ML launches.
+- [Productivity](https://launchfree.io/categories/productivity.html): 704 free Productivity launches.
+- [SaaS](https://launchfree.io/categories/saas.html): 427 free SaaS launches.
+- [Creator Tools](https://launchfree.io/categories/creator-tools.html): 384 free Creator Tools launches.
+- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 375 free Developer Tools launches.
+- [Marketing](https://launchfree.io/categories/marketing.html): 274 free Marketing launches.
+- [Entertainment](https://launchfree.io/categories/entertainment.html): 257 free Entertainment launches.
+- [Education](https://launchfree.io/categories/education.html): 252 free Education launches.
+- [Fintech](https://launchfree.io/categories/fintech.html): 217 free Fintech launches.
 - [Lifestyle](https://launchfree.io/categories/lifestyle.html): 172 free Lifestyle launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 169 free E-commerce launches.
-- [Service](https://launchfree.io/categories/service.html): 153 free Service launches.
-- [Other](https://launchfree.io/categories/other.html): 139 free Other launches.
-- [Health](https://launchfree.io/categories/health.html): 123 free Health launches.
+- [Service](https://launchfree.io/categories/service.html): 154 free Service launches.
+- [Other](https://launchfree.io/categories/other.html): 142 free Other launches.
+- [Health](https://launchfree.io/categories/health.html): 124 free Health launches.
 - [Travel](https://launchfree.io/categories/travel.html): 74 free Travel launches.
 - [Community](https://launchfree.io/categories/community.html): 37 free Community launches.
 - [Affiliate](https://launchfree.io/categories/affiliate.html): 9 free Affiliate launches.
