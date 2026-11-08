@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 4736 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 4744 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -22,6 +22,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 ## Recent launches
 - [Zupitly](https://launchfree.io/listings/zupitly.html): Free online tools: 991 calculators plus image, PDF and QR tools, no sign-up (Productivity).
 - [Zerg Client](https://launchfree.io/listings/zerg-client.html): A coding agent for your terminal that plans, edits code and runs tests (Developer Tools).
+- [YTVT (Your Voice Translated)](https://launchfree.io/listings/ytvt-your-voice-translated.html): AI voice-over and subtitles for online video, in real time (AI / ML).
 - [YourSmartKit Take-Home Pay Calculator](https://launchfree.io/listings/yoursmartkit-take-home-pay-calculator.html): Free take-home pay calculator: enter your own tax rates, no sign-up (Fintech).
 - [XSplit Broadcaster](https://launchfree.io/listings/xsplit-broadcaster.html): Live streaming and recording software for Windows with a free plan (Creator Tools).
 - [WorkMonitor](https://launchfree.io/listings/workmonitor.html): Employee time tracking and productivity analytics, free for up to 2 seats (Productivity).
@@ -31,6 +32,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [VCam](https://launchfree.io/listings/vcam.html): Virtual camera for Windows and Mac with on-device processing (AI / ML).
 - [Valdar](https://launchfree.io/listings/valdar.html): Scan a sports card with your phone and see its player, set and value in seconds (AI / ML).
 - [Urdu Nigaar](https://launchfree.io/listings/urdu-nigaar.html): Free Urdu typing tools, font guides and converters that run in your browser (Education).
+- [Unspin](https://launchfree.io/listings/unspin.html): Free guided Epley maneuver sessions for vertigo (Health).
 - [Two Mountains](https://launchfree.io/listings/two-mountains.html): AI-personalized letters for overthinkers, drawing on Laozi and Marcus Aurelius (Productivity).
 - [Turnly](https://launchfree.io/listings/turnly.html): Turn one photo into a short AI video using trending templates or your own prompt (Creator Tools).
 - [TrueNotification](https://launchfree.io/listings/truenotification.html): Visible, consent-based Android parental control for notifications and screen time (Lifestyle).
@@ -53,6 +55,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [SimpleQuizMaker](https://launchfree.io/listings/simplequizmaker.html): AI quiz maker for teachers, students and self-study (Education).
 - [ShopCutout](https://launchfree.io/listings/shopcutout.html): Free product photo background remover with transparent PNG, white JPG and ZIP batch (E-commerce).
 - [SellerSift](https://launchfree.io/listings/sellersift.html): Free directory of Amazon seller tools with calculators and price checks (E-commerce).
+- [Seedream 5.5](https://launchfree.io/listings/seedream-5-5.html): AI image generation with Seedream 5.5 in your browser (AI / ML).
 - [Security Deposit Deduction Calculator (by Kitwright)](https://launchfree.io/listings/security-deposit-deduction-calculator-by-kitwright.html): Free deposit deduction calculator for landlords with state return deadlines (Productivity).
 - [RVZ to ISO](https://launchfree.io/listings/rvz-to-iso.html): Convert Dolphin RVZ disc images to ISO online, no install needed (Other).
 - [Runs.Space](https://launchfree.io/listings/runs-space.html): A weekly space race where products climb the ranks as people fuel them (Community).
@@ -62,6 +65,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Rideword](https://launchfree.io/listings/rideword.html): A transparent always-on-top teleprompter for Mac that stays out of your calls (Productivity).
 - [Revada](https://launchfree.io/listings/revada.html): GPS drive logger for cars and motorcycles that keeps every route yours (Lifestyle).
 - [Renewal Check Studio](https://launchfree.io/listings/renewal-check-studio.html): Track subscription costs and renewal deadlines offline (Productivity).
+- [Recupra](https://launchfree.io/listings/recupra.html): AI agents that recover clinic revenue from no-shows (SaaS).
 - [recorder.video](https://launchfree.io/listings/recorder-video.html): Free screen and webcam recorder that never uploads (Productivity).
 - [RealtyCrawl](https://launchfree.io/listings/realtycrawl.html): Real estate data API with an MCP server and agent skill (Developer Tools).
 - [Rayclip](https://launchfree.io/listings/rayclip.html): Send clipboard text, screenshots and files between your Mac and Android phone (Productivity).
@@ -75,6 +79,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [PresuAI](https://launchfree.io/listings/presuai.html): Spanish-language quotes, invoices and receipt scanning for freelancers (Fintech).
 - [PhotoSway](https://launchfree.io/listings/photosway.html): Turn a pet photo into a viral-trend dance video (AI / ML).
 - [Phantom Blade Zero Save Checker (Kungfupunk)](https://launchfree.io/listings/phantom-blade-zero-save-checker-kungfupunk.html): Drop a Phantom Blade Zero PC save to see missed collectibles and your deaths (Entertainment).
+- [Peptulator](https://launchfree.io/listings/peptulator.html): Free peptide calculator from mg to syringe units (Health).
 - [PawAlarm](https://launchfree.io/listings/pawalarm.html): Make a missing-pet poster and alert the neighbours where your pet vanished (Lifestyle).
 - [Pagewren](https://launchfree.io/listings/pagewren.html): A simple baby memory book for iPhone, one photo or sentence at a time (Lifestyle).
 - [PageVeil](https://launchfree.io/listings/pageveil.html): Browser extension for Chrome, Edge and Firefox with a free tier (Productivity).
@@ -108,23 +113,18 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Infinity Pool AI](https://launchfree.io/listings/infinity-pool-ai.html): Turn one portrait into a 12-second flamingo float infinity-pool AI video (Entertainment).
 - [Inbound Lead Responder](https://launchfree.io/listings/inbound-lead-responder.html): An n8n template that answers new enquiries and drafts replies (Marketing).
 - [HowAI](https://launchfree.io/listings/howai.html): Browse AI-made work and the agent Skills behind it, for websites, slides, images and video (AI / ML).
+- [Hostly](https://launchfree.io/listings/hostly.html): AI receptionist for your website chat (AI / ML).
 - [HireValid](https://launchfree.io/listings/hirevalid.html): Skills assessments for hiring, with integrity scoring to flag suspicious test behavior (SaaS).
 - [HELOC Interest Calculator](https://launchfree.io/listings/heloc-interest-calculator.html): Free HELOC calculator for draw-period interest, repayment and LTV (Fintech).
 - [HeirloomPix](https://launchfree.io/listings/heirloompix.html): Restore scratches, fading and yellowing in old photos. Free demo, paid packs, no subscription (AI / ML).
 - [GuruTrans](https://launchfree.io/listings/gurutrans.html): Browser tools for translating, rewriting and encoding text into dozens of styles (Creator Tools).
 - [GrabPitik](https://launchfree.io/listings/grabpitik.html): Find your motorcycle ride and event photos from Philippine photographers (Creator Tools).
 - [gptmelo](https://launchfree.io/listings/gptmelo.html): AI article writer with a citation-readiness score for AI search (AI / ML).
-- [goforajob.com](https://launchfree.io/listings/goforajob-com.html): Free job search across many countries, from employer career pages (Other).
-- [go ka Tools](https://launchfree.io/listings/go-ka-tools.html): Free browser tools: image compressor, cropper, SVG tools and an invoice maker (Productivity).
-- [Glasstally](https://launchfree.io/listings/glasstally.html): Turn supplier price lists into online blind and shade price calculators (SaaS).
-- [Flits](https://launchfree.io/listings/flits.html): Turn screenshots and photos into editable calendar events (Productivity).
-- [FlagPlayLab](https://launchfree.io/listings/flagplaylab.html): Free flag football playbook designer for coaches, on web and mobile (Other).
-- [Echobell](https://launchfree.io/listings/echobell.html): Webhook and email alerts delivered to your phone as time-sensitive notifications (Developer Tools).
 
 ## Categories
-- [AI / ML](https://launchfree.io/categories/ai-ml.html): 817 free AI / ML launches.
-- [Productivity](https://launchfree.io/categories/productivity.html): 739 free Productivity launches.
-- [SaaS](https://launchfree.io/categories/saas.html): 441 free SaaS launches.
+- [AI / ML](https://launchfree.io/categories/ai-ml.html): 820 free AI / ML launches.
+- [Productivity](https://launchfree.io/categories/productivity.html): 740 free Productivity launches.
+- [SaaS](https://launchfree.io/categories/saas.html): 443 free SaaS launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 405 free Creator Tools launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 385 free Developer Tools launches.
 - [Marketing](https://launchfree.io/categories/marketing.html): 282 free Marketing launches.
@@ -135,7 +135,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 174 free E-commerce launches.
 - [Service](https://launchfree.io/categories/service.html): 154 free Service launches.
 - [Other](https://launchfree.io/categories/other.html): 147 free Other launches.
-- [Health](https://launchfree.io/categories/health.html): 127 free Health launches.
+- [Health](https://launchfree.io/categories/health.html): 129 free Health launches.
 - [Travel](https://launchfree.io/categories/travel.html): 77 free Travel launches.
 - [Community](https://launchfree.io/categories/community.html): 39 free Community launches.
 - [Affiliate](https://launchfree.io/categories/affiliate.html): 9 free Affiliate launches.
