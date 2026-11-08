@@ -77102,5 +77102,21 @@
   "slug": "engineering-on-web",
   "date": "2026-11-08",
   "mrr": ""
+ },
+ {
+  "id": "aicomics",
+  "name": "AIComics",
+  "tagline": "Turn any story into a comic with AI",
+  "desc": "AIComics is a web-based AI comic studio for storytellers who cannot draw or do not have time. Write or paste a story and it turns it into comic pages…",
+  "emoji": "A",
+  "logo": "",
+  "cat": "Creator Tools",
+  "url": "https://www.aicomics.art",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "aicomics",
+  "date": "2026-11-08",
+  "mrr": ""
  }
 ]
