@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 4582 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 4587 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -41,6 +41,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Video Frame Extractor](https://launchfree.io/listings/video-frame-extractor.html): Free online video frame extractor that runs in your browser, with no upload (Creator Tools).
 - [Venasri (formerly AI TradeCheck)](https://launchfree.io/listings/venasri-formerly-ai-tradecheck.html): Trading psychology and loss-limit guard for MT5. Not financial advice (Fintech).
 - [Vault Security](https://launchfree.io/listings/vault-security.html): Your AI-powered digital safety assistant (SaaS).
+- [Ultimate Aptitude Prep](https://launchfree.io/listings/ultimate-aptitude-prep.html): Free aptitude practice with timed quizzes and explanations (Education).
 - [TurboNIW](https://launchfree.io/listings/turboniw.html): Preparation materials for EB-2 National Interest Waiver self-petitions (Service).
 - [Triv-AI](https://launchfree.io/listings/triv-ai.html): A quiz game where AI writes the board on any topic for teams to play (Entertainment).
 - [Triple 3D](https://launchfree.io/listings/triple-3d.html): Turn images, sketches and text prompts into 3D models, free to start (AI / ML).
@@ -82,6 +83,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Reel](https://launchfree.io/listings/reel.html): Clipboard history for Mac: search, pin and paste anything you copied (Productivity).
 - [Recessed Light Calculator](https://launchfree.io/listings/recessed-light-calculator.html): Estimate recessed-light counts, spacing and 2D layouts for rectangular rooms (Lifestyle).
 - [RapVideoGo](https://launchfree.io/listings/rapvideogo.html): Create rap music videos from photos with AI (Creator Tools).
+- [RamalamaWalk](https://launchfree.io/listings/ramalamawalk.html): Authorized selfie to a locked costume walk, in a short vertical AI video (AI / ML).
 - [Quiet Lion](https://launchfree.io/listings/quiet-lion.html): Monthly traffic rankings of AI product sites by visits and growth (Marketing).
 - [QuickShot](https://launchfree.io/listings/quickshot.html): Capture, mark up, OCR and record Mac screens (Productivity).
 - [QuickEngCalc](https://launchfree.io/listings/quickengcalc.html): Free browser engineering and statistics calculator suite (Developer Tools).
@@ -118,24 +120,22 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [MyWiFiQR](https://launchfree.io/listings/mywifiqr.html): Free static QR code generator, no signup (Productivity).
 - [My 12 Axes](https://launchfree.io/listings/my-12-axes.html): Free 12 axes political values test, no sign-up (Education).
 - [MusiCraft AI](https://launchfree.io/listings/musicraft-ai.html): Browser-based AI stem splitter for separating music into stems (AI / ML).
-- [MP4toMP3](https://launchfree.io/listings/mp4tomp3.html): Convert video files into audio in your browser, free with no signup (Creator Tools).
-- [Moxel](https://launchfree.io/listings/moxel.html): Analytics that tell you what to fix, down to the form field (Marketing).
 
 ## Categories
-- [AI / ML](https://launchfree.io/categories/ai-ml.html): 796 free AI / ML launches.
-- [Productivity](https://launchfree.io/categories/productivity.html): 710 free Productivity launches.
+- [AI / ML](https://launchfree.io/categories/ai-ml.html): 798 free AI / ML launches.
+- [Productivity](https://launchfree.io/categories/productivity.html): 711 free Productivity launches.
 - [SaaS](https://launchfree.io/categories/saas.html): 427 free SaaS launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 387 free Creator Tools launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 375 free Developer Tools launches.
 - [Marketing](https://launchfree.io/categories/marketing.html): 274 free Marketing launches.
 - [Entertainment](https://launchfree.io/categories/entertainment.html): 259 free Entertainment launches.
-- [Education](https://launchfree.io/categories/education.html): 254 free Education launches.
+- [Education](https://launchfree.io/categories/education.html): 255 free Education launches.
 - [Fintech](https://launchfree.io/categories/fintech.html): 218 free Fintech launches.
 - [Lifestyle](https://launchfree.io/categories/lifestyle.html): 172 free Lifestyle launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 169 free E-commerce launches.
 - [Service](https://launchfree.io/categories/service.html): 154 free Service launches.
 - [Other](https://launchfree.io/categories/other.html): 143 free Other launches.
-- [Health](https://launchfree.io/categories/health.html): 124 free Health launches.
+- [Health](https://launchfree.io/categories/health.html): 125 free Health launches.
 - [Travel](https://launchfree.io/categories/travel.html): 74 free Travel launches.
 - [Community](https://launchfree.io/categories/community.html): 37 free Community launches.
 - [Affiliate](https://launchfree.io/categories/affiliate.html): 9 free Affiliate launches.
