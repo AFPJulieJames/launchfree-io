@@ -77070,5 +77070,37 @@
   "slug": "ploutos",
   "date": "2026-11-08",
   "mrr": ""
+ },
+ {
+  "id": "worxwap",
+  "name": "worXwap",
+  "tagline": "Trade skills, not cash",
+  "desc": "worXwap is a skill swapping marketplace where people trade work instead of paying cash. You post what you offer and what you want, and both sides…",
+  "emoji": "W",
+  "logo": "",
+  "cat": "Community",
+  "url": "https://www.worxwap.com/home",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "worxwap",
+  "date": "2026-11-08",
+  "mrr": ""
+ },
+ {
+  "id": "engineering-on-web",
+  "name": "Engineering on Web",
+  "tagline": "CAD, FEA and PCB design in your browser",
+  "desc": "Engineering on Web is a suite of four engineering tools that run in the browser with nothing to install. It includes a parametric 3D CAD for…",
+  "emoji": "E",
+  "logo": "",
+  "cat": "SaaS",
+  "url": "https://engineeringonweb.com/",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "engineering-on-web",
+  "date": "2026-11-08",
+  "mrr": ""
  }
 ]
