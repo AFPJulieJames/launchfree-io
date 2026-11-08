@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 4587 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 4606 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -25,6 +25,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Yi Nian · Pray Buddha](https://launchfree.io/listings/yi-nian-pray-buddha.html): Free Diamond Sutra reading and a 72-seat silent cloud temple (Lifestyle).
 - [Yes No Tarot](https://launchfree.io/listings/yes-no-tarot.html): Quick yes/no tarot readings online, with free daily readings (Entertainment).
 - [Worksheet Generator](https://launchfree.io/listings/worksheet-generator.html): AI worksheet generator for teachers, with a free tier of 5 worksheets a month (Education).
+- [Work Hours & Pay Tracker](https://launchfree.io/listings/work-hours-and-pay-tracker.html): Track shifts, hours, overtime and pay in a simple spreadsheet (Productivity).
 - [WordRadar](https://launchfree.io/listings/wordradar.html): Keyword discovery and SERP research through a web dashboard, REST API and MCP (Developer Tools).
 - [WipeObj](https://launchfree.io/listings/wipeobj.html): Free AI object remover that never uploads photos (AI / ML).
 - [WinSystemHarden](https://launchfree.io/listings/winsystemharden.html): Free, offline Windows hardening tool with one-click rollback (Other).
@@ -34,6 +35,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Whatoblock](https://launchfree.io/listings/whatoblock.html): Live threat intelligence your firewall can use (SaaS).
 - [Weighted GPA Calculator](https://launchfree.io/listings/weighted-gpa-calculator.html): Free weighted GPA calculator for school: grades and credits, no signup (Education).
 - [Website Redesign Cost Calculator](https://launchfree.io/listings/website-redesign-cost-calculator.html): Plan the website build and the care before comparing quotes (Productivity).
+- [WealthScout](https://launchfree.io/listings/wealthscout.html): Net worth tracker and tax-aware planner for shares, property and crypto (Fintech).
 - [VRAMGlass](https://launchfree.io/listings/vramglass.html): GPU comparison and VRAM planning for local AI (Developer Tools).
 - [VPS Hosting Radar](https://launchfree.io/listings/vps-hosting-radar.html): Managed VPS and cloud hosting picks with clear tradeoffs (Other).
 - [Voice Changer](https://launchfree.io/listings/voice-changer.html): Android app to record or open audio and apply voice effects (Entertainment).
@@ -63,6 +65,8 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Strukchad](https://launchfree.io/listings/strukchad.html): Construction management software for Kenyan contractors (SaaS).
 - [SteadyEdit](https://launchfree.io/listings/steadyedit.html): Browser AI image editor: change one detail, such as text in a photo (AI / ML).
 - [Star in the Trend](https://launchfree.io/listings/star-in-the-trend.html): Turn your photo into a dancing Christmas elf video (AI / ML).
+- [Stage2Stocks US](https://launchfree.io/listings/stage2stocks-us.html): Daily US market regime, sector rotation and Stage 2 stock setups (Fintech).
+- [SoftBests](https://launchfree.io/listings/softbests.html): A curated directory of 523 software tools across 12 categories (Productivity).
 - [SkullCap AI](https://launchfree.io/listings/skullcap-ai.html): One photo in, a 9.7-second skull cap transformation video out (Creator Tools).
 - [SimilarTube](https://launchfree.io/listings/similartube.html): Find similar YouTube channels with AI (Marketing).
 - [ShimmerPic](https://launchfree.io/listings/shimmerpic.html): Browser AI image studio built on GPT Image 2.5 (AI / ML).
@@ -96,6 +100,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Probably Stolen Codex](https://launchfree.io/listings/probably-stolen-codex.html): Unofficial fan guide to Probably Stolen: calculators, planner and tips (Entertainment).
 - [Prizm](https://launchfree.io/listings/prizm.html): Your CV and cover letter tailored to every job offer (Productivity).
 - [PrintCleric](https://launchfree.io/listings/printcleric.html): Free STL check and repair for resin miniature printers (AI / ML).
+- [Pricify](https://launchfree.io/listings/pricify.html): Free India market dashboard: stocks, crypto, mutual funds and SIP tools (Fintech).
 - [PostCliq](https://launchfree.io/listings/postcliq.html): The free website audit that finds why visitors don't enquire (Marketing).
 - [Plinth](https://launchfree.io/listings/plinth.html): Studio-lit 3D mockups from your screenshots (Creator Tools).
 - [PlayNewt](https://launchfree.io/listings/playnewt.html): Newly released free browser indie games, played through official embeds (Entertainment).
@@ -112,31 +117,26 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Orion CMD](https://launchfree.io/listings/orion-cmd.html): Outside-in uptime, SSL and domain monitoring for MSPs and IT teams (SaaS).
 - [OpenAny](https://launchfree.io/listings/openany.html): One API key for AI models, data APIs and agent skills (Developer Tools).
 - [OCR4You](https://launchfree.io/listings/ocr4you.html): 78 PDF, image and OCR tools, free to try with credits (Productivity).
+- [OB Wheel](https://launchfree.io/listings/ob-wheel.html): Calculate EDD and gestational age from LMP, ultrasound or IVF transfer date (Health).
 - [nxlxtx](https://launchfree.io/listings/nxlxtx.html): Convert PDFs and images in your browser (Productivity).
 - [Nova Buddy AI](https://launchfree.io/listings/nova-buddy-ai.html): Your everyday AI assistant with free chat, your own AI avatar, and daily tools (AI / ML).
-- [Notch Revenue](https://launchfree.io/listings/notch-revenue.html): Your Stripe today and month revenue, in your MacBook notch (Productivity).
-- [Nizlo](https://launchfree.io/listings/nizlo.html): Windows-first RMM and IT management for MSPs and lean IT teams (SaaS).
-- [NickMint](https://launchfree.io/listings/nickmint.html): Generate gaming usernames and Gamertag ideas by style (Entertainment).
-- [MyWiFiQR](https://launchfree.io/listings/mywifiqr.html): Free static QR code generator, no signup (Productivity).
-- [My 12 Axes](https://launchfree.io/listings/my-12-axes.html): Free 12 axes political values test, no sign-up (Education).
-- [MusiCraft AI](https://launchfree.io/listings/musicraft-ai.html): Browser-based AI stem splitter for separating music into stems (AI / ML).
 
 ## Categories
-- [AI / ML](https://launchfree.io/categories/ai-ml.html): 798 free AI / ML launches.
-- [Productivity](https://launchfree.io/categories/productivity.html): 711 free Productivity launches.
-- [SaaS](https://launchfree.io/categories/saas.html): 427 free SaaS launches.
-- [Creator Tools](https://launchfree.io/categories/creator-tools.html): 387 free Creator Tools launches.
-- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 375 free Developer Tools launches.
+- [AI / ML](https://launchfree.io/categories/ai-ml.html): 799 free AI / ML launches.
+- [Productivity](https://launchfree.io/categories/productivity.html): 715 free Productivity launches.
+- [SaaS](https://launchfree.io/categories/saas.html): 429 free SaaS launches.
+- [Creator Tools](https://launchfree.io/categories/creator-tools.html): 388 free Creator Tools launches.
+- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 377 free Developer Tools launches.
 - [Marketing](https://launchfree.io/categories/marketing.html): 274 free Marketing launches.
-- [Entertainment](https://launchfree.io/categories/entertainment.html): 259 free Entertainment launches.
-- [Education](https://launchfree.io/categories/education.html): 255 free Education launches.
-- [Fintech](https://launchfree.io/categories/fintech.html): 218 free Fintech launches.
+- [Entertainment](https://launchfree.io/categories/entertainment.html): 260 free Entertainment launches.
+- [Education](https://launchfree.io/categories/education.html): 257 free Education launches.
+- [Fintech](https://launchfree.io/categories/fintech.html): 221 free Fintech launches.
 - [Lifestyle](https://launchfree.io/categories/lifestyle.html): 172 free Lifestyle launches.
-- [E-commerce](https://launchfree.io/categories/e-commerce.html): 169 free E-commerce launches.
+- [E-commerce](https://launchfree.io/categories/e-commerce.html): 170 free E-commerce launches.
 - [Service](https://launchfree.io/categories/service.html): 154 free Service launches.
 - [Other](https://launchfree.io/categories/other.html): 143 free Other launches.
-- [Health](https://launchfree.io/categories/health.html): 125 free Health launches.
-- [Travel](https://launchfree.io/categories/travel.html): 74 free Travel launches.
+- [Health](https://launchfree.io/categories/health.html): 126 free Health launches.
+- [Travel](https://launchfree.io/categories/travel.html): 75 free Travel launches.
 - [Community](https://launchfree.io/categories/community.html): 37 free Community launches.
 - [Affiliate](https://launchfree.io/categories/affiliate.html): 9 free Affiliate launches.
 
