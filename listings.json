@@ -77118,5 +77118,21 @@
   "slug": "karmaspace",
   "date": "2026-11-07",
   "mrr": ""
+ },
+ {
+  "id": "url-to-markdown-llm-ready-and-url-metadata-apis",
+  "name": "URL to Markdown (LLM-ready) + URL Metadata APIs",
+  "tagline": "Two small APIs for agents: URL to Markdown and Open Graph metadata",
+  "desc": "Two small APIs on RapidAPI for agents and RAG pipelines. URL to Markdown (LLM-ready) turns a public web page into clean Markdown, and URL Metadata…",
+  "emoji": "U",
+  "logo": "",
+  "cat": "Developer Tools",
+  "url": "https://rapidapi.com/evan-DewNPsuYp/api/url-to-markdown-llm-ready",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "url-to-markdown-llm-ready-and-url-metadata-apis",
+  "date": "2026-11-08",
+  "mrr": ""
  }
 ]
