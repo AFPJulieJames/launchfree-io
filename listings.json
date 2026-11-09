@@ -72256,22 +72256,6 @@
   "mrr": ""
  },
  {
-  "id": "karmaspace",
-  "name": "KarmaSpace",
-  "tagline": "Explore feng shui, BaZi, tarot and compatibility on iPhone, Android and web",
-  "desc": "KarmaSpace is a consumer app for exploring feng shui, BaZi, tarot and compatibility. The download page links to the iPhone app, the Android app and a…",
-  "emoji": "K",
-  "logo": "https://ar.karmaspace.ai/download/assets/app-icon.png",
-  "cat": "Lifestyle",
-  "url": "https://ar.karmaspace.ai/download/en",
-  "stage": "Live",
-  "votes": 0,
-  "featured": false,
-  "slug": "karmaspace",
-  "date": "2026-11-07",
-  "mrr": ""
- },
- {
   "id": "worksheet-generator",
   "name": "Worksheet Generator",
   "tagline": "AI worksheet generator for teachers, with a free tier of 5 worksheets a month",
@@ -77117,6 +77101,22 @@
   "featured": false,
   "slug": "aicomics",
   "date": "2026-11-08",
+  "mrr": ""
+ },
+ {
+  "id": "karmaspace",
+  "name": "KarmaSpace",
+  "tagline": "3D home feng shui with room scans and Flying Stars",
+  "desc": "KarmaSpace is a home feng shui tool built around Chinese metaphysics. On a supported LiDAR iPhone you can scan a room into a 3D model and floor plan…",
+  "emoji": "K",
+  "logo": "https://ar.karmaspace.ai/download/assets/app-icon.png",
+  "cat": "Lifestyle",
+  "url": "https://ar.karmaspace.ai/download/en",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "karmaspace",
+  "date": "2026-11-07",
   "mrr": ""
  }
 ]
