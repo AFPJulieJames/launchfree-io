@@ -77150,5 +77150,21 @@
   "slug": "the-grant-index",
   "date": "2026-11-08",
   "mrr": ""
+ },
+ {
+  "id": "comparor",
+  "name": "Comparor",
+  "tagline": "Compare prices from multiple retailers in one place",
+  "desc": "Comparor is a free price comparison site that helps shoppers find offers in one place instead of visiting each shop separately. It brings together…",
+  "emoji": "C",
+  "logo": "",
+  "cat": "E-commerce",
+  "url": "https://www.comparor.com/uk/",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "comparor",
+  "date": "2026-11-08",
+  "mrr": ""
  }
 ]
