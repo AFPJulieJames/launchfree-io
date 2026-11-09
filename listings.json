@@ -77134,5 +77134,21 @@
   "slug": "url-to-markdown-llm-ready-and-url-metadata-apis",
   "date": "2026-11-08",
   "mrr": ""
+ },
+ {
+  "id": "the-grant-index",
+  "name": "The Grant Index",
+  "tagline": "Free directory of startup grants, credits and perks",
+  "desc": "The Grant Index is a free directory of startup credits, cash grants and perks from AI, cloud, GPU and SaaS companies, plus government programs…",
+  "emoji": "T",
+  "logo": "https://thegrantindex.com/img/og.png",
+  "cat": "Other",
+  "url": "https://thegrantindex.com",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "the-grant-index",
+  "date": "2026-11-08",
+  "mrr": ""
  }
 ]

@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 4821 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 4822 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -56,6 +56,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [TinyPDF JPG to PDF](https://launchfree.io/listings/tinypdf-jpg-to-pdf.html): Free JPG to PDF converter with page size and margin options (Productivity).
 - [TikFilmer](https://launchfree.io/listings/tikfilmer.html): AI film maker that turns a story into short movies (AI / ML).
 - [Tiersova](https://launchfree.io/listings/tiersova.html): Free calculators for the real cost and payback of switching B2B software (Productivity).
+- [The Grant Index](https://launchfree.io/listings/the-grant-index.html): Free directory of startup grants, credits and perks (Other).
 - [The First Ninety Kit](https://launchfree.io/listings/the-first-ninety-kit.html): Scripts, 1:1 agendas and a 90-day plan for new managers leading former peers (Education).
 - [TestLessons](https://launchfree.io/listings/testlessons.html): Free study help for SAT, ACT, GRE, GMAT, LSAT, MCAT (Education).
 - [TeslaWrap3D](https://launchfree.io/listings/teslawrap3d.html): Design Tesla wraps in a live 3D studio (AI / ML).
@@ -119,7 +120,6 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Pagewren](https://launchfree.io/listings/pagewren.html): A simple baby memory book for iPhone, one photo or sentence at a time (Lifestyle).
 - [PageVeil](https://launchfree.io/listings/pageveil.html): Browser extension for Chrome, Edge and Firefox with a free tier (Productivity).
 - [OptiLens](https://launchfree.io/listings/optilens.html): Conversion audit for online stores, free scan or inside Shopify admin (E-commerce).
-- [OpenStays](https://launchfree.io/listings/openstays.html): Direct booking engine and WhatsApp AI replies for hotels, homestays and resorts (SaaS).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 837 free AI / ML launches.
@@ -134,7 +134,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Lifestyle](https://launchfree.io/categories/lifestyle.html): 180 free Lifestyle launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 177 free E-commerce launches.
 - [Service](https://launchfree.io/categories/service.html): 154 free Service launches.
-- [Other](https://launchfree.io/categories/other.html): 148 free Other launches.
+- [Other](https://launchfree.io/categories/other.html): 149 free Other launches.
 - [Health](https://launchfree.io/categories/health.html): 130 free Health launches.
 - [Travel](https://launchfree.io/categories/travel.html): 78 free Travel launches.
 - [Community](https://launchfree.io/categories/community.html): 42 free Community launches.
