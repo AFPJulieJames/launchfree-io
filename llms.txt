@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 4823 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 4824 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -20,6 +20,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Disclaimer](https://launchfree.io/disclaimer.html): Site disclaimer for LaunchFree.io.
 
 ## Recent launches
+- [Budget Spreadsheet 2027 by Millon Studio](https://launchfree.io/listings/budget-spreadsheet-2027-by-millon-studio.html): A 2027 budget spreadsheet for paychecks, bills, and debt, with no subscription (Productivity).
 - [Zupitly](https://launchfree.io/listings/zupitly.html): Free online tools: 991 calculators plus image, PDF and QR tools, no sign-up (Productivity).
 - [Zerg Client](https://launchfree.io/listings/zerg-client.html): A coding agent for your terminal that plans, edits code and runs tests (Developer Tools).
 - [YTVT (Your Voice Translated)](https://launchfree.io/listings/ytvt-your-voice-translated.html): AI voice-over and subtitles for online video, in real time (AI / ML).
@@ -119,11 +120,10 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [PaperBox](https://launchfree.io/listings/paperbox.html): Merge, split and compress PDFs in your browser (Productivity).
 - [Pagewren](https://launchfree.io/listings/pagewren.html): A simple baby memory book for iPhone, one photo or sentence at a time (Lifestyle).
 - [PageVeil](https://launchfree.io/listings/pageveil.html): Browser extension for Chrome, Edge and Firefox with a free tier (Productivity).
-- [OptiLens](https://launchfree.io/listings/optilens.html): Conversion audit for online stores, free scan or inside Shopify admin (E-commerce).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 837 free AI / ML launches.
-- [Productivity](https://launchfree.io/categories/productivity.html): 755 free Productivity launches.
+- [Productivity](https://launchfree.io/categories/productivity.html): 756 free Productivity launches.
 - [SaaS](https://launchfree.io/categories/saas.html): 448 free SaaS launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 411 free Creator Tools launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 388 free Developer Tools launches.

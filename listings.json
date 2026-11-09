@@ -77166,5 +77166,21 @@
   "slug": "comparor",
   "date": "2026-11-08",
   "mrr": ""
+ },
+ {
+  "id": "budget-spreadsheet-2027-by-millon-studio",
+  "name": "Budget Spreadsheet 2027 by Millon Studio",
+  "tagline": "A 2027 budget spreadsheet for paychecks, bills, and debt, with no subscription",
+  "desc": "This is a 2027 budget spreadsheet that does the math for you. You log your paychecks and expenses, and the dashboard updates itself. It is sold as a…",
+  "emoji": "B",
+  "logo": "",
+  "cat": "Productivity",
+  "url": "https://keelgrow.gumroad.com/l/fbnna",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "budget-spreadsheet-2027-by-millon-studio",
+  "date": "2026-11-09",
+  "mrr": ""
  }
 ]
