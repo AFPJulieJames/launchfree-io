@@ -77182,5 +77182,21 @@
   "slug": "budget-spreadsheet-2027-by-millon-studio",
   "date": "2026-11-09",
   "mrr": ""
+ },
+ {
+  "id": "vormly-ai",
+  "name": "Vormly AI",
+  "tagline": "One studio for AI image, video, music and 3D, with daily free credits",
+  "desc": "Vormly AI is a creative studio that brings AI image, video, music and 3D generation into one library with one credit balance, using models from 11 AI…",
+  "emoji": "V",
+  "logo": "",
+  "cat": "AI / ML",
+  "url": "https://vormly.ai",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "vormly-ai",
+  "date": "2026-11-09",
+  "mrr": ""
  }
 ]
