@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 5109 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 5110 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -86,6 +86,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [StatementXL](https://launchfree.io/listings/statementxl.html): Turn a bank statement PDF into a spreadsheet you can check (Fintech).
 - [stabilize.video](https://launchfree.io/listings/stabilize-video.html): Steady shaky footage in your browser, free and private (Creator Tools).
 - [Square Face Generator](https://launchfree.io/listings/square-face-generator.html): Nine free avatar makers, one site (Entertainment).
+- [SpeakEng Academy](https://launchfree.io/listings/speakeng-academy.html): AI English speaking coach for non-native speakers (Education).
 - [SoundsChecker](https://launchfree.io/listings/soundschecker.html): Free browser sound tests for speakers, mic and stereo (Other).
 - [Snap Screenshot API](https://launchfree.io/listings/snap-screenshot-api.html): Screenshot API: turn any URL into PNG, JPEG, WebP or PDF (Developer Tools).
 - [SKU Generator](https://launchfree.io/listings/sku-generator.html): Free SKU generator for ecommerce: create product SKUs in bulk (E-commerce).
@@ -119,7 +120,6 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [RapVera](https://launchfree.io/listings/rapvera.html): AI rap video generator from lyrics and a photo (AI / ML).
 - [Random Pokemon Generator](https://launchfree.io/listings/random-pokemon-generator.html): Free fan-made Pokemon randomizer, team picker and smash-or-pass game (Entertainment).
 - [Quick Viral Notes](https://launchfree.io/listings/quick-viral-notes.html): Turn your long-form articles into Notes and social posts (Creator Tools).
-- [Pumli](https://launchfree.io/listings/pumli.html): Local AI on iPhone, with optional connected tools (Productivity).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 892 free AI / ML launches.
@@ -129,7 +129,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 411 free Developer Tools launches.
 - [Marketing](https://launchfree.io/categories/marketing.html): 298 free Marketing launches.
 - [Entertainment](https://launchfree.io/categories/entertainment.html): 293 free Entertainment launches.
-- [Education](https://launchfree.io/categories/education.html): 288 free Education launches.
+- [Education](https://launchfree.io/categories/education.html): 289 free Education launches.
 - [Fintech](https://launchfree.io/categories/fintech.html): 248 free Fintech launches.
 - [Lifestyle](https://launchfree.io/categories/lifestyle.html): 195 free Lifestyle launches.
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 182 free E-commerce launches.

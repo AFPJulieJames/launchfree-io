@@ -81742,5 +81742,21 @@
   "slug": "tryonanytime",
   "date": "2026-11-11",
   "mrr": ""
+ },
+ {
+  "id": "speakeng-academy",
+  "name": "SpeakEng Academy",
+  "tagline": "AI English speaking coach for non-native speakers",
+  "desc": "SpeakEng Academy is an AI-assisted English speaking coach for non-native speakers. Learners practise spoken English in realistic scenarios and get…",
+  "emoji": "S",
+  "logo": "",
+  "cat": "Education",
+  "url": "https://www.speakengacademy.com",
+  "stage": "Live",
+  "votes": 0,
+  "featured": false,
+  "slug": "speakeng-academy",
+  "date": "2026-11-11",
+  "mrr": ""
  }
 ]
