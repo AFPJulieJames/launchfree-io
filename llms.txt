@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 5106 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 5109 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -51,6 +51,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Unmix Studio](https://launchfree.io/listings/unmix-studio.html): Online AI stem splitter: vocals, drums, bass and more (Creator Tools).
 - [TuneImage](https://launchfree.io/listings/tuneimage.html): Restyle outfits, recolor photos, or turn couples into anime (AI / ML).
 - [TryTrendAI](https://launchfree.io/listings/trytrendai.html): A template-based viral AI video generator that turns photos into short-form videos (AI / ML).
+- [TryOnAnytime](https://launchfree.io/listings/tryonanytime.html): AI virtual try-on Chrome extension for online shopping (AI / ML).
 - [TrustMyIP](https://launchfree.io/listings/trustmyip.html): Free tools to verify bots, check IPs, and validate email and DNS (Developer Tools).
 - [truediscount](https://launchfree.io/listings/truediscount.html): Free Firefox add-on that checks EU discounts against the 30-day low (E-commerce).
 - [TruckQuote](https://launchfree.io/listings/truckquote.html): Build a plumbing or contractor estimate on your phone and text it to the customer (Productivity).
@@ -99,6 +100,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [SelfieHue](https://launchfree.io/listings/selfiehue.html): Color analysis and face shape detector from one selfie (Lifestyle).
 - [Seedance Ai Dev](https://launchfree.io/listings/seedance-ai-dev.html): Independent AI video workspace for Seedance and other models (AI / ML).
 - [SecurityPro](https://launchfree.io/listings/securitypro.html): Fichajes GPS, rondas QR y control operativo para empresas de seguridad (SaaS).
+- [Scrutator](https://launchfree.io/listings/scrutator.html): Independent reviews and comparisons of AI clip and video editors (Creator Tools).
 - [Scientific Figure AI](https://launchfree.io/listings/scientific-figure-ai.html): Turn research ideas into editable scientific figures (AI / ML).
 - [Sansa Temple](https://launchfree.io/listings/sansa-temple.html): Free browser temple game: explore, wish, meditate and turn prayer beads (Entertainment).
 - [Sajupul](https://launchfree.io/listings/sajupul.html): Free Korean Saju (사주) chart with a short AI-generated reading (Lifestyle).
@@ -118,16 +120,14 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Random Pokemon Generator](https://launchfree.io/listings/random-pokemon-generator.html): Free fan-made Pokemon randomizer, team picker and smash-or-pass game (Entertainment).
 - [Quick Viral Notes](https://launchfree.io/listings/quick-viral-notes.html): Turn your long-form articles into Notes and social posts (Creator Tools).
 - [Pumli](https://launchfree.io/listings/pumli.html): Local AI on iPhone, with optional connected tools (Productivity).
-- [Publicert](https://launchfree.io/listings/publicert.html): Free online workplace training courses. Pay only for the certificate (Education).
-- [Prospy](https://launchfree.io/listings/prospy.html): Find the conversations worth joining (Marketing).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 892 free AI / ML launches.
-- [Productivity](https://launchfree.io/categories/productivity.html): 802 free Productivity launches.
+- [Productivity](https://launchfree.io/categories/productivity.html): 803 free Productivity launches.
 - [SaaS](https://launchfree.io/categories/saas.html): 464 free SaaS launches.
-- [Creator Tools](https://launchfree.io/categories/creator-tools.html): 451 free Creator Tools launches.
+- [Creator Tools](https://launchfree.io/categories/creator-tools.html): 452 free Creator Tools launches.
 - [Developer Tools](https://launchfree.io/categories/developer-tools.html): 411 free Developer Tools launches.
-- [Marketing](https://launchfree.io/categories/marketing.html): 297 free Marketing launches.
+- [Marketing](https://launchfree.io/categories/marketing.html): 298 free Marketing launches.
 - [Entertainment](https://launchfree.io/categories/entertainment.html): 293 free Entertainment launches.
 - [Education](https://launchfree.io/categories/education.html): 288 free Education launches.
 - [Fintech](https://launchfree.io/categories/fintech.html): 248 free Fintech launches.
