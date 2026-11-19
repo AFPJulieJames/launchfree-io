@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 5545 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 5546 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -20,6 +20,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Disclaimer](https://launchfree.io/disclaimer.html): Site disclaimer for LaunchFree.io.
 
 ## Recent launches
+- [Regimen](https://launchfree.io/listings/regimen.html): EMR for independent oncology and infusion centres (Health).
 - [Chargerless Ray](https://launchfree.io/listings/chargerless-ray.html): Solar-powered wellness tracker with no subscription (Health).
 - [Xeramail Temp Mail](https://launchfree.io/listings/xeramail-temp-mail.html): Free, fast temp mail. No sign-up needed (SaaS).
 - [Which Park Pass](https://launchfree.io/listings/which-park-pass.html): Compare national park passes for your trip from dated NPS fee sources (Travel).
@@ -119,7 +120,6 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [tapntool Pay Stub Generator](https://launchfree.io/listings/tapntool-pay-stub-generator.html): Free pay stub PDF for real payroll, no signup (Productivity).
 - [tapntool Mileage Log Generator](https://launchfree.io/listings/tapntool-mileage-log-generator.html): Free IRS-ready mileage log PDF, no signup (Productivity).
 - [tapntool Delivery Note Generator](https://launchfree.io/listings/tapntool-delivery-note-generator.html): Free delivery note PDF with received-by box, no signup (Productivity).
-- [SymbolMint](https://launchfree.io/listings/symbolmint.html): Copy and paste symbols, emoji and fancy text (Creator Tools).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 977 free AI / ML launches.
@@ -135,7 +135,7 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [E-commerce](https://launchfree.io/categories/e-commerce.html): 191 free E-commerce launches.
 - [Other](https://launchfree.io/categories/other.html): 170 free Other launches.
 - [Service](https://launchfree.io/categories/service.html): 156 free Service launches.
-- [Health](https://launchfree.io/categories/health.html): 148 free Health launches.
+- [Health](https://launchfree.io/categories/health.html): 149 free Health launches.
 - [Travel](https://launchfree.io/categories/travel.html): 94 free Travel launches.
 - [Community](https://launchfree.io/categories/community.html): 45 free Community launches.
 - [Affiliate](https://launchfree.io/categories/affiliate.html): 10 free Affiliate launches.
