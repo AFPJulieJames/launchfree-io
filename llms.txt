@@ -2,7 +2,7 @@
 
 > LaunchFree.io (brand name: The Runway) is a free, human-reviewed launch directory for founders, indie makers, and side hustlers. Anyone can submit a product, service, business, or idea and receive a permanent listing page with a free dofollow backlink, a "Listed on The Runway" badge, and a feature in the weekly "Runway Radar" newsletter. Listing is free forever. No fees, no approval fee, no paywall. Every submission is reviewed by a real person within about 24 hours.
 
-Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 6176 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
+Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@launchfree.io. There are currently 6183 live launches spanning categories including AI / ML, Developer Tools, SaaS, Creator Tools, Productivity, Fintech, Education, Other, Health, Service, Marketing, Travel, Community, E-commerce, Affiliate, Entertainment, Lifestyle.
 
 ## Key pages
 - [Home](https://launchfree.io/): What The Runway is and why it exists: a free, human-reviewed launch directory. Every launch needs a runway; yours is free.
@@ -20,6 +20,12 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [Disclaimer](https://launchfree.io/disclaimer.html): Site disclaimer for LaunchFree.io.
 
 ## Recent launches
+- [VoiceToText Ai Bot](https://launchfree.io/listings/voicetotext-ai-bot.html): Telegram bot that turns voice, audio, video and links into text (Productivity).
+- [Sandscale](https://launchfree.io/listings/sandscale.html): A private Firecracker microVM for every AI agent run (Developer Tools).
+- [Hand Off](https://launchfree.io/listings/hand-off.html): Create a ready-to-use project handoff so the next person can take over (Productivity).
+- [FoxyLab](https://launchfree.io/listings/foxylab.html): AI video and banner editor in a chat (Marketing).
+- [Caldrin Search](https://launchfree.io/listings/caldrin-search.html): SEO and AI search intelligence in one workspace (Marketing).
+- [A1 Lane](https://launchfree.io/listings/a1-lane.html): Schedule social posts and get a delivery receipt for each one (Marketing).
 - [YBee](https://launchfree.io/listings/ybee.html): A no-code mobile app that builds apps and games from a plain-language description (AI / ML).
 - [Yaplet](https://launchfree.io/listings/yaplet.html): The AI agent for your marketing and customers (Marketing).
 - [XGigabrain](https://launchfree.io/listings/xgigabrain.html): Grow on X without sounding like a bot (Marketing).
@@ -114,21 +120,15 @@ Operated by Automated Income Tools LLC. Founder: Julie James. Contact: hello@lau
 - [LyricBars Diss Track Generator](https://launchfree.io/listings/lyricbars-diss-track-generator.html): Name the target and what they did. Get roast lyrics, then a full diss song (Creator Tools).
 - [Love You Forever](https://launchfree.io/listings/love-you-forever.html): Little videos. Lasting love (Lifestyle).
 - [Local AI Music](https://launchfree.io/listings/local-ai-music.html): AI songs, written and sung on your computer (SaaS).
-- [Local AI Audio](https://launchfree.io/listings/local-ai-audio.html): Voices and transcripts, made on your own computer (SaaS).
-- [Live Attention](https://launchfree.io/listings/live-attention.html): Public ad wall for indie makers with open view and click counts (Marketing).
-- [LittlePaper: Drawing for Kids](https://launchfree.io/listings/littlepaper-drawing-for-kids.html): Step-by-step drawing, coloring, and picture books for kids on iPhone and iPad (Education).
-- [Lithophanes](https://launchfree.io/listings/lithophanes.html): Photo to lithophane STL with backlit preview (Creator Tools).
-- [Listvane](https://launchfree.io/listings/listvane.html): Find what Merchant Center will flag on your store, first (E-commerce).
-- [LGTM](https://launchfree.io/listings/lgtm.html): A free daily curation board of posts worth reading (Community).
 
 ## Categories
 - [AI / ML](https://launchfree.io/categories/ai-ml.html): 1096 free AI / ML launches.
-- [Productivity](https://launchfree.io/categories/productivity.html): 967 free Productivity launches.
+- [Productivity](https://launchfree.io/categories/productivity.html): 969 free Productivity launches.
 - [Creator Tools](https://launchfree.io/categories/creator-tools.html): 567 free Creator Tools launches.
 - [SaaS](https://launchfree.io/categories/saas.html): 533 free SaaS launches.
-- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 472 free Developer Tools launches.
+- [Developer Tools](https://launchfree.io/categories/developer-tools.html): 473 free Developer Tools launches.
 - [Entertainment](https://launchfree.io/categories/entertainment.html): 403 free Entertainment launches.
-- [Marketing](https://launchfree.io/categories/marketing.html): 355 free Marketing launches.
+- [Marketing](https://launchfree.io/categories/marketing.html): 359 free Marketing launches.
 - [Education](https://launchfree.io/categories/education.html): 353 free Education launches.
 - [Fintech](https://launchfree.io/categories/fintech.html): 289 free Fintech launches.
 - [Lifestyle](https://launchfree.io/categories/lifestyle.html): 264 free Lifestyle launches.
